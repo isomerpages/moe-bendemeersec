@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Infolinks.md
       - DSA Registration.md
       - 2022 Sec 1 Registration/.keep
       - 2022 Sec 1 Registration/Sale of Uniform and Books.md
