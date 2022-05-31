@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click here for announcements!
-          url: ""
+          url: /announcements/congratulatory-message-from-dr-wan-rizal-adviser-to-jalan-besar-grc-gros
         - title: Useful Links
           description: Click here for useful links!
           url: ""
