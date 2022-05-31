@@ -31,7 +31,7 @@ In the selection of students, we are looking for students with one or more of th
 
 *APPLIED LEARNING PROGRAMME (ALP): HEALTH SCIENCES* 
 
-1. Our ALP Programme For Successful DSA Students
+**1. Our ALP Programme For Successful DSA Students**
 
 
 Our Applied Learning Programme (ALP) in Bendemeer Secondary School seeks to deepen students’ knowledge in STEM education where students solve authentic problems in health sciences and healthcare using technology.
@@ -43,17 +43,17 @@ Our Tier 1 programme provides the foundation for all our Sec 1 and Sec 2 student
 
 
 
-2. ALP Admission Criteria
+**2. ALP Admission Criteria**
 
 In the selection of students, we are looking for students with one or more of the following attributes and experience:
 
-Students who are passionate about Science, in particular Health Sciences.
-Students who have participated in science competitions and events or have been recognized in other relevant competitions.
-Students who are active in science-related CCAs in their primary schools.
+* Students who are passionate about Science, in particular Health Sciences.
+* Students who have participated in science competitions and events or have been recognized in other relevant competitions.
+* Students who are active in science-related CCAs in their primary schools.
 
-TALENT DEVELOPMENT IN SPORTS AND GAMES: FOOTBALL (BOYS)/ TCHOUKBALL
+*TALENT DEVELOPMENT IN SPORTS AND GAMES: FOOTBALL (BOYS)/ TCHOUKBALL*
 
-1. Our Talent Development Programme For Successful DSA Students
+**1. Our Talent Development Programme For Successful DSA Students**
 
 Bendemeer Secondary School has traditionally done well in Football (Boys) and Tchoukball at the annual National School Games and Inter School Championships respectively. Both CCA groups seek to develop young athletes holistically through structured training programs.
 
@@ -62,19 +62,19 @@ Students who are admitted to our school via the DSA-Sec scheme can look forward 
 Students from the Football (Boys) and Tchoukball CCA groups are also exposed to many competitions throughout the calendar year so that they can put into practice what they have learnt during the training sessions. They will learn to exhibit positive character traits through sporting excellence in a competitive setting.
 
 
-2. Sports And Games Admission Criteria
+**2. Sports And Games Admission Criteria**
 
 In the selection of students, we are looking for students with one or more of the following attributes and experience:
 
-Students who are passionate about Football (Boys) or Tchoukball.
-Students who have represented their schools, clubs or academies in Football (Boys) or Tchoukball competitions.
-Students who are active in sports related CCAs in their primary schools.
+* Students who are passionate about Football (Boys) or Tchoukball.
+* Students who have represented their schools, clubs or academies in Football (Boys) or Tchoukball competitions.
+* Students who are active in sports related CCAs in their primary schools.
 
-APPLICATION PROCEDURE
+*APPLICATION PROCEDURE*
 
 
 
-For students from mainstream primary schools, application for DSA-Sec can be submitted through the online DSA-Sec Portal at https://go.gov.sg/apply-dsa-sec. The application is free-of-charge and will be open from 5 May 2022, 11am till 1 June 2022, 3pm.
+For students from mainstream primary schools, application for DSA-Sec can be submitted through the online DSA-Sec Portal at [https://go.gov.sg/apply-dsa-sec](https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant). The application is free-of-charge and will be open from **5 May 2022, 11am till 1 June 2022, 3pm.**
 
 Applicants studying in MOE mainstream primary schools will require the SingPass of one parent to log in to the DSA-Sec Portal. If parent/ guardian is unable to apply online, they can approach the child’s primary school for assistance. Applicants NOT studying in MOE mainstream primary schools need to obtain a Registration Number online via te MOE DSA website (online form) before they can apply through the DSA-Sec Portal.
 
@@ -86,12 +86,12 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
-Short-listed applicants will be required to attend an in-person interview and/or trial between  27 June 2022 and 31 August 2022.
+Short-listed applicants will be required to attend an **in-person interview and/or trial** between  **27 June 2022** and **31 August 2022**.
 
-All applicants will be informed of their application outcome by 12 September 2022.
+All applicants will be informed of their application outcome by **12 September 2022**.
 
 Meeting all the criteria does not guarantee the student will be shortlisted/given an offer. The decision of the Interview Panel on the DSA-Sec application is final.  The school reserves the right not to release the reasons for non-selection of applicants and/or the results of the interview.
 
-CONTACT DETAILS
+*CONTACT DETAILS*
 
-For further enquiries, please contact Mr Lee Chen Siang at 6292 7616. Alternatively, you can email your enquiries to bendemeer_ss@moe.edu.sg.
+For further enquiries, please contact **Mr Lee Chen Siang** at **6292 7616**. Alternatively, you can email your enquiries to bendemeer_ss@moe.edu.sg.
