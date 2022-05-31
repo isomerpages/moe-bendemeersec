@@ -5,6 +5,7 @@ description: ""
 third_nav_title: 2022 Sec 1 Registration
 ---
 # Application for Other Programmes
+
 Students who are eligible may apply for other Programmes shown below –
 
 Higher Mother Tongue,
@@ -30,4 +31,3 @@ For more information, please refer to the following [slides](/files/3iv_AEPMEP-S
 Art  - https://www.moe.gov.sg/programmes/aep-sec
 
 Music - https://www.moe.gov.sg/programmes/mep-sec
-
