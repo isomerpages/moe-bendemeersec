@@ -2,12 +2,12 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/Drama Tamil.md
-      - Performing Arts/Drama English.md
-      - Performing Arts/Choir.md
-      - Performing Arts/Modern Dance.md
-      - Performing Arts/Concert Band.md
       - Performing Arts/.keep
+      - Performing Arts/Concert Band.md
+      - Performing Arts/Modern Dance.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Drama English.md
+      - Performing Arts/Drama Tamil.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Red Cross Youth.md
       - Uniformed Groups/National Cadet Corps (NCC).md
