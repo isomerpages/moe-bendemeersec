@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - S T E M/.keep
       - Language and Humanities/.keep
