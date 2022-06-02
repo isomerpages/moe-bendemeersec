@@ -74,3 +74,21 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 ![Miss Siti Aishah Mohd Selamat](/images/Alumni06-300x249.png)
 **Miss Siti Aishah Mohd Selamat**
 
+![Mr Tan Wei Qiang Jovin](/images/Alumni07-300x249.png)
+**Mr Tan Wei Qiang Jovin**
+
+![Mr Teo Kin Hui Joseph](/images/Alumni08-300x249.png)
+**Mr Teo Kin Hui Joseph**
+
+![Miss Hany Soh Hui Bin](/images/Alumni09-300x249.png)
+**Miss Hany Soh Hui Bin**
+
+![Mr Mohamed Shameer](/images/Alumni10-300x249.png)
+**Mr Mohamed Shameer**
+
+![Miss Yip Pin Xiu](/images/Alumni11-300x249.png)
+**Miss Yip Pin Xiu**
+
+![Mr Ian Fang Wei Jie](/images/Alumni12-300x249.png)
+**Mr Ian Fang Wei Jie**
+
