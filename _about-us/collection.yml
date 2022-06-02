@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Partners/Illustrious Alumni.md
-      - Partners/Triple P Positive Parenting Programme.md
-      - Partners/Parent Support Group.md
       - Partners/.keep
+      - Partners/Parent Support Group.md
+      - Partners/Triple P Positive Parenting Programme.md
+      - Partners/Illustrious Alumni.md
       - School Advisory Committee.md
       - School Management Committee.md
       - Bendemeer School Tour.md
