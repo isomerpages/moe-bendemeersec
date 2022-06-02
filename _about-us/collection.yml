@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Advisory Committee.md
       - School Management Committee.md
       - Bendemeer School Tour.md
       - School Song and Bendemeerian Code.md
