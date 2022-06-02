@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Our History/40th Anniversary Celebrations and Speech Day.md
-      - Our History/Our History.md
       - Our History/.keep
+      - Our History/Our History.md
+      - Our History/40th Anniversary Celebrations and Speech Day.md
       - School Staff Developer's Message.md
       - Vice Principal Mr Azman's Message.md
       - Vice Principal Mr Ho's Message.md
