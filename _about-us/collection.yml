@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Vice Principal Mr Ho's Message.md
       - Principal's Message.md
       - Our Mission, Vision and Values.md
