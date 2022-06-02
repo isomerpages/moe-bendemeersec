@@ -251,3 +251,6 @@ third_nav_title: National Digital Literacy
   </tr>
 </tbody>
 </table>
+
+Should you have any queries, please click [here](https://form.gov.sg/#!/6003ab0667a3e600110513fe) or scan the QR Code below to submit your queries.
+
