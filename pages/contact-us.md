@@ -12,9 +12,6 @@ locations:
       - days: Mon - Fri
         time: 7.00am - 6.30pm
         description: Closed on Saturdays
-      - days: ""
-        time: "Boon Keng "
-        description: ""
     maps_link: ""
     title: Bendemeer Secondary School
 contacts:
