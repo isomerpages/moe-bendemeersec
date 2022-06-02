@@ -2,10 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Online School Magazines.md
-      - Class Timetable.md
-      - Infolinks.md
-      - DSA Registration.md
       - 2022 Sec 1 Registration/.keep
       - 2022 Sec 1 Registration/Sale of Uniform and Books.md
       - 2022 Sec 1 Registration/MOE Financial Assistance Scheme.md
@@ -15,3 +11,7 @@ collections:
       - 2022 Sec 1 Registration/Parents Gateway Mobile Application.md
       - 2022 Sec 1 Registration/First Day of School.md
       - 2022 Sec 1 Registration/Sec 1 Meet The Parents.md
+      - DSA Registration.md
+      - Infolinks.md
+      - Class Timetable.md
+      - Online School Magazines.md
