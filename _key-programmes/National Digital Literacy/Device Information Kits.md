@@ -10,7 +10,7 @@ In Bendemeer Secondary School, we have two brands of PLDs for students.
 
 Please select the relevant device information kits below:
 
-Lenovo 500e Gen 2  (Sec 2, 3, and 4 students)
+[Lenovo 500e Gen 2  (Sec 2, 3, and 4 students) ](/key-programmes/national-digital-literacy-programme/device-information-kits/pld-for-sec-2-3-and-4)
 
 Acer Chromebook R752TN (Sec 1 students)
 
