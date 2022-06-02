@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Partners/Triple P Positive Parenting Programme.md
       - Partners/Parent Support Group.md
       - Partners/.keep
       - School Advisory Committee.md
