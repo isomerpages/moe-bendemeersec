@@ -48,3 +48,5 @@ The Covid-19 pandemic and constant disruptions have both immensely impacted our 
 **-Gerald Soh, Bendemeer Tchoukball Alumni.**
 
 ![What a save](/images/What-a-Save-768x509.jpg)
+
+![Tchoukball Team with their supporters in 2018](/images/2018-Tchoukball-Team-with-their-supporters-768x509.jpg)
