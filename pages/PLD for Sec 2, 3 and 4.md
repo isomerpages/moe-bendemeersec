@@ -60,12 +60,11 @@ Should there be a need to send the device for immediate repairs, or queries abou
 
 **3.3.  Replacement/Change of Device**
 
-* Students are to inform their school-based service desk whenever there is a replacement/change of device. 
-<br>
-Replacement/change of devices can be under any of the circumstances listed below:
-Replacement of device covered under insurance by contractor
-Replacement of device by parents for device not covered under insurance or insurance period has ended
-Students who are using their own devices which were not procured from PDLP Device Bulk Tender changing to another device.
+* Students are to inform their school-based service desk whenever there is a replacement/change of device.
+<br>Replacement/change of devices can be under any of the circumstances listed below:
+	* Replacement of device covered under insurance by contractor
+	* Replacement of device by parents for device not covered under insurance or insurance period has ended
+	* Students who are using their own devices which were not procured from PDLP Device Bulk Tender changing to another device.
 
 *  This is to facilitate the installation of the DMA into the new device.
 
