@@ -68,4 +68,9 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 ![Mr Chia Yew Choon Chris](/images/Alumni04-300x249.png)
 **Mr Chia Yew Choon Chris**
 
+![Captain (CPT) Neo Wei Keong](/images/Alumni05-300x249.png)
+**Captain (CPT) Neo Wei Keong**
+
+![Miss Siti Aishah Mohd Selamat](/images/Alumni06-300x249.png)
+**Miss Siti Aishah Mohd Selamat**
 
