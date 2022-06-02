@@ -92,3 +92,11 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 ![Mr Ian Fang Wei Jie](/images/Alumni12-300x249.png)
 **Mr Ian Fang Wei Jie**
 
+## Events by Alumni 
+#### Join us as Bendemeer Alumni!
+
+Every year, the school organises activities to bring alumni, parents and other stakeholders together. We welcome alumni to join us for various school events such as the Sports Day & fund raising activities.
+
+We encourage our alumni to be involved in the school community as this would contribute in enhancing the quality of education. We also welcome those who wish to form groups according to their year of graduation or receive updates on the school’s progress.
+
+Click [here](https://docs.google.com/forms/d/e/1FAIpQLSfgFZUAnofBSmtxl9iIe1JgJJusDVYTFLECjXc3uoiZAH8IbA/viewform) to apply.
