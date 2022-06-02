@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our History/.keep
       - School Staff Developer's Message.md
       - Vice Principal Mr Azman's Message.md
       - Vice Principal Mr Ho's Message.md
