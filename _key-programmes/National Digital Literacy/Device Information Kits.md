@@ -12,6 +12,6 @@ Please select the relevant device information kits below:
 
 [Lenovo 500e Gen 2  (Sec 2, 3, and 4 students) ](/key-programmes/national-digital-literacy-programme/device-information-kits/pld-for-sec-2-3-and-4)
 
-Acer Chromebook R752TN (Sec 1 students)
+[Acer Chromebook R752TN (Sec 1 students) ](/key-programmes/national-digital-literacy-programme/device-information-kits/pld-for-sec-1-2022)
 
 More information will be made available for Sec 1 students enrolled in 2022.
