@@ -2,12 +2,12 @@ collections:
   cca:
     output: true
     order:
-      - Sports/Cross Country.md
-      - Sports/Taekwondo.md
-      - Sports/Sepak Takraw.md
-      - Sports/Football.md
-      - Sports/Badminton.md
-      - Sports/Tchoukball.md
       - Sports/.keep
+      - Sports/Tchoukball.md
+      - Sports/Badminton.md
+      - Sports/Football.md
+      - Sports/Sepak Takraw.md
+      - Sports/Taekwondo.md
+      - Sports/Cross Country.md
       - Student Council.md
       - Co Curricular Activities Our Philosophy.md
