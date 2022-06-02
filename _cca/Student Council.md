@@ -40,15 +40,15 @@ We look forward to another year of leading and being role models to all Bendemee
 
 ![Student Council](/images/bss%20sc5.jpg)
 
-“My time in the Student Council has taught me many skills. From drafting emails to organisations to planning school events, it’s been a wonderful experience. I will always be grateful for what the Student Council has taught me.”
+*“My time in the Student Council has taught me many skills. From drafting emails to organisations to planning school events, it’s been a wonderful experience. I will always be grateful for what the Student Council has taught me.”*
 
--Neha Raja Raman (President)
+**-Neha Raja Raman (President)**
 
-“I’m grateful for the exciting experiences and memories from my time as a student councillor. I am especially proud that we managed to conduct the Secondary 1 Orientation despite the Covid measures.”
+*“I’m grateful for the exciting experiences and memories from my time as a student councillor. I am especially proud that we managed to conduct the Secondary 1 Orientation despite the Covid measures.”*
 
--Priyanka Balasubramani (Vice-president)
+**-Priyanka Balasubramani (Vice-president)**
 
-“Being in the Student Council has shown me that I’m much more capable than I thought I was. It has helped me embrace my leadership potential and it has made me a more confident person.”
+*“Being in the Student Council has shown me that I’m much more capable than I thought I was. It has helped me embrace my leadership potential and it has made me a more confident person.”*
 
--Samsul Sasmeen (Vice-president)
 
+**-Samsul Sasmeen (Vice-president)**
