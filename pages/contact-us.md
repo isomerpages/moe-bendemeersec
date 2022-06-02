@@ -16,13 +16,8 @@ locations:
     title: Bendemeer Secondary School
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6292 7616
+      - email: bendemeer_ss@moe.edu.sg
+      - other: + 65 6293 2594 (Fax)
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 ---
