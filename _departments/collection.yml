@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Co Curriculum/.keep
       - S T E M/.keep
       - Language and Humanities/.keep
