@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Performing Arts/Drama Tamil.md
       - Performing Arts/Drama English.md
       - Performing Arts/Choir.md
       - Performing Arts/Modern Dance.md
