@@ -56,3 +56,23 @@ The elaboration phase of the 5E Inquiry Model focuses on giving students the spa
 -  Secondary 1 students code and design reaction games to stimulate the mind.
 
 ![Secondary 1 students code and design reaction games to stimulate the mind](/images/ALP7.jpg)
+
+![Secondary 1 students code and design reaction games to stimulate the mind](/images/ALP8.jpg)
+
+- Secondary 2 students code and design a physical game that encourages the elderly to be more active.
+
+![Secondary 2 students code and design a physical game that encourages the elderly to be more active](/images/ALP9.png)
+
+![Secondary 2 students code and design a physical game that encourages the elderly to be more active](/images/ALP10.png)
+
+![Secondary 2 students code and design a physical game that encourages the elderly to be more active](/images/ALP11.png)
+
+The ALP programme ultimately cultivates a spirit of enterprise in students through innovative solutions and prototypes to address healthcare issues in current landscapes using technology.
+
+**Tier 2 Programme**
+
+The Tier 2 programme focuses on a selected group of Sec 3 students with interest and aptitude in STEM, so as to enrich and deepen their knowledge in STEM learning through leveraging on external partners.
+
+Sec 3 Students who express greater interest or aptitude in coding are invited to join competitions or interact with professionals from the STEM industry. These students get to work on projects at a higher level and represent the school to compete at national level competitions. 
+
+For example, Sec 3 students who expressed an interest in STEM, attended a webinar titled “Pathways to the Jobs of the Future” where industry experts talked about the trends in digital technologies in March 2021. Selected students also attended a Space Coding Boot Camp organised by Singapore Space and Technology Ltd in June 2021.
