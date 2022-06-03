@@ -54,3 +54,5 @@ During the exploration phase, students actively explore the new concept through 
 The elaboration phase of the 5E Inquiry Model focuses on giving students the space to apply what they’ve learned. This helps them to develop a deeper understanding. Students apply knowledge and skills acquired from the learning experiences in the engage and explain phases to develop viable solutions through a prototype. 
 
 -  Secondary 1 students code and design reaction games to stimulate the mind.
+
+![Secondary 1 students code and design reaction games to stimulate the mind](/images/ALP7.jpg)
