@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - Applied Learning Programme.md
       - National Digital Literacy/.keep
       - National Digital Literacy/NDLP.md
       - National Digital Literacy/Purchase of PLD for Sec 1 (Y2022).md
