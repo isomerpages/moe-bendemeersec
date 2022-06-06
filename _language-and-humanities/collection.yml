@@ -2,19 +2,19 @@ collections:
   language-and-humanities:
     output: true
     order:
-      - Mother Tongue/.keep
-      - Mother Tongue/Mother Tongue.md
-      - Mother Tongue/Mother Tongue Dept Overview.md
-      - Mother Tongue/Chinese Language.md
-      - Mother Tongue/Malay Language.md
-      - Mother Tongue/Tamil Language.md
+      - English Language & Literature/.keep
+      - English Language & Literature/English Language and Literature.md
+      - English Language & Literature/English Language Department Overview.md
+      - English Language & Literature/English Literature.md
       - Humanities/.keep
       - Humanities/Humanities.md
       - Humanities/Humanities Department Overview.md
       - Humanities/Social Studies.md
       - Humanities/Geography.md
       - Humanities/History.md
-      - English Language & Literature/.keep
-      - English Language & Literature/English Language and Literature.md
-      - English Language & Literature/English Language Department Overview.md
-      - English Language & Literature/English Literature.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Mother Tongue.md
+      - Mother Tongue/Mother Tongue Dept Overview.md
+      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Malay Language.md
+      - Mother Tongue/Tamil Language.md
