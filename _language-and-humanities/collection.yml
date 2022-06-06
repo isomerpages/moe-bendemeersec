@@ -2,6 +2,7 @@ collections:
   language-and-humanities:
     output: true
     order:
+      - Mother Tongue/.keep
       - Humanities/.keep
       - Humanities/Humanities.md
       - Humanities/Humanities Department Overview.md
