@@ -83,14 +83,70 @@ The focus for Secondary 2 students was the Malay performing arts scene in Singap
 
 ![Secondary 2 – Arts Exposure Programme](/images/ML6.png)
 
-Secondary 3 – Jejak Warisan at Kampong Glam
+**Secondary 3 – Jejak Warisan at Kampong Glam**
 
 In the final installment of the learning journey for students offering the Malay Language, Secondary 3 students were treated to a gastronomical adventure whilst delving in the age-old Malay culture of communal eating. We were fortunate to be able to hold a session of Jejak Warisan at the Mamanda Restaurant, the exact premise of Gedung Kuning, a former palace in Singapore and a prominent feature of Kampung Glam. Students shared a platter of Nasi Ambeng and were enlightened on the importance of the practice, the traditions that precede and follow as well as the significance of the individual dishes served on the platter. 
 
-Students’ Reflections
+**Students’ Reflections**
 
-“Semasa lawatan ke Restoran Mamanda, saya telah mempelajari bahawa Nasi Ambeng turut dikenali sebagai Sego Ambeng. Hidangan ini dipercayai berasal dari Jawa Tengah. Jumlah lauk yang boleh dihidangkan terdiri daripada gandaan angka 7, misalnya 7, 14 dan 21. Menarik bukan? Selain itu, saya juga mempelajari tentang pelbagai ulam serta khasiatnya. Ulam ialah sayur-sayuran yang dimakan mentah. Sebagai contoh, jering boleh dimakan untuk mencegah penyakit seperti kencing manis, membersihkan buah pinggang serta melancarkan pembuangan air kecil. Maklumat yang saya pelajari dapat dikongsikan dengan keluarga saya.” - Muhammad Israfil B Rosley
+*“Semasa lawatan ke Restoran Mamanda, saya telah mempelajari bahawa Nasi Ambeng turut dikenali sebagai Sego Ambeng. Hidangan ini dipercayai berasal dari Jawa Tengah. Jumlah lauk yang boleh dihidangkan terdiri daripada gandaan angka 7, misalnya 7, 14 dan 21. Menarik bukan? Selain itu, saya juga mempelajari tentang pelbagai ulam serta khasiatnya. Ulam ialah sayur-sayuran yang dimakan mentah. Sebagai contoh, jering boleh dimakan untuk mencegah penyakit seperti kencing manis, membersihkan buah pinggang serta melancarkan pembuangan air kecil. Maklumat yang saya pelajari dapat dikongsikan dengan keluarga saya.”* - **Muhammad Israfil B Rosley**
 
- “Saya amat beruntung kerana diberikan kesempatan mengunjungi sebuah museum di Taman Warisan mengenai masyarakat Melayu kerana ini lawatan saya yang pertama ke muzium sedemikian. Saya pelajari tentang kebudayaan masyarakat Melayu secara mendalam; , baju dan alat-alat muzik tradisional, sejarah lama mengenai mengapa dan bagaimana orang-orang Melayu mula berhijrah ke pulau Singapura yang dahulu dikenali dengan nama Temasek. Saya berasa lawatan ini amat bermanfaat dan harus diteruskan untuk para pelajar di masa hadapan.” - Merisa Indajang
+ *“Saya amat beruntung kerana diberikan kesempatan mengunjungi sebuah museum di Taman Warisan mengenai masyarakat Melayu kerana ini lawatan saya yang pertama ke muzium sedemikian. Saya pelajari tentang kebudayaan masyarakat Melayu secara mendalam; , baju dan alat-alat muzik tradisional, sejarah lama mengenai mengapa dan bagaimana orang-orang Melayu mula berhijrah ke pulau Singapura yang dahulu dikenali dengan nama Temasek. Saya berasa lawatan ini amat bermanfaat dan harus diteruskan untuk para pelajar di masa hadapan.”* - **Merisa Indajang**
  
  ![Secondary 3 – Jejak Warisan at Kampong Glam](/images/ML7.png)
+ 
+ **Festive Celebrations – Hari Raya Foyer Display**
+
+In Bendemeer, Festive Celebrations are amongst the highlights of the MT Department programme. The three units have always strived to create awareness and understanding of our respective festive celebrations through the annual foyer display, covering different aspects of the celebrations each year. 
+
+This year’s Hari Raya Foyer display was based on the themes Cov-eid Raya and Retro Raya. Students reflected on how they celebrated their Hari Raya during the lockdown period also known as ‘Circuit Breaker‘ last year. At the same time, students from secondary 3 Normal (Academic) researched on how Hari Raya was celebrated during the 1960s and found many nostalgic pictures on the Internet that depict the joyous occasion. 
+
+Students from the secondary 3 Express and Normal (Academic) cohort then worked together to put up the beautiful display to usher in Hari Raya Aidilfitri. The display, intended to educate students from other races and religions, received positive responses from the school community for the visual appeal of the mannequins dressed to reflect the era they represent as well as the pictorial exhibits that brought many staff on a trail down memory lane. 
+
+![Festive Celebrations – Hari Raya Foyer Display](/images/ML8.jpg)
+
+![Festive Celebrations – Hari Raya Foyer Display](/images/ML9.jpg)
+
+**External Competitions**
+
+Our students are encouraged to participate in competitions not only to further develop their mastery in the language but also for exposure to the nature of competitions and allow friendships to foster beyond the school. The ML unit constantly seeks to enrol students with interest and potential in competitions organised by esteemed learning institutions and organisations.
+
+**Friendly Inter-school Scrabble Competition at Yuying Secondary School**
+
+Yuying Secondary School organised the Pertandingan Persahabatan Sahibba 2019 (Friendly Malay Scrabble Competition) on Friday, 8th February 2019.
+
+The objectives of the competition are as follows:
+
+i.   To provide a platform for secondary students to think creatively and critically using the Malay language;
+
+ii.   To provide an activity that encourages the use of the Malay language while enriching the participants with a wider scope of the Malay vocabulary;
+
+iii.   To cultivate the use of the Malay language by providing the participants with a competition of such nature; and
+
+iv.   To inculcate a sense of camaraderie in a healthy competitive environment.
+
+Outcome:
+
+Our school was represented by 2 students, **Nur Madiha Binte Abdul Hameed (3R4) and Nur Eisya Izzatie Binte Muhd Iskandar (3R4)** and managed to attain fourth position in the competition.
+
+![Friendly Inter-school Scrabble Competition at Yuying Secondary School](/images/ML10.png)
+
+**Translation Competition: 3T (TERJEMAH, TUTUR, TEPAT) at National Junior College**
+
+National Junior College’s Malay Literary Dramatic & Debating Society (MLDDS) organized the Translation Competition: 3T (Terjemah. Tutur. Tepat.) on Friday, 12 April 2019.
+
+The objectives of the competition are as follows:
+
+i.   To hone students’ proficiency mainly in translating English Language to Malay Language (and vice-versa) both spontaneously and creatively, based on the context provided.
+
+ii.   To expose students to various situations where bilingualism is used in our daily lives.
+
+iii.   To develop their proficiency in using the Malay Language with their peers.
+
+iv.   To gain skills not just academically, but socially too, as they work together with their peers.
+
+Outcome:
+
+Our school was represented by 2 students, **Merisa Indajang (3R2) and Parvena Kaur Daljit Singh (3R3).** They gained valuable knowledge from their participation in the competition.
+
+![Translation Competition: 3T (TERJEMAH, TUTUR, TEPAT) at National Junior College](/images/ML17.jpg)
