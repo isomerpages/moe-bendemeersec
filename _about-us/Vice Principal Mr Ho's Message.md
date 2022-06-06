@@ -19,7 +19,7 @@ More importantly, beyond individual achievements, we will help our students deve
 
 
 
-We are confident in our endeavours as we have a team of passionate teachers who shares the same philosophy as the school. They seek to build positive relationships with our students and create a caring environment that promotes positive student well-being. I encourage you to take some time to visit the department pages and you will have a deeper appreciation of our commitment through the respective Head of Department’s messages.
+We are confident in our endeavours as we have a team of passionate teachers who shares the same philosophy as the school. They seek to build positive relationships with our students and create a caring environment that promotes positive student well-being. I encourage you to take some time to visit the [department pages](/departments/language-and-humanities/english-language-and-literature) and you will have a deeper appreciation of our commitment through the respective Head of Department’s messages.
 
 
 
