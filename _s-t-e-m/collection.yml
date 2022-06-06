@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Science/.keep
-      - Mathematics/Science.md
       - Mathematics/Mathematics Department Overview.md
       - Mathematics/Mathematics.md
       - Mathematics/.keep
