@@ -2,5 +2,6 @@ collections:
   language-and-humanities:
     output: true
     order:
+      - English Language & Literature/English Language Department Overview.md
       - English Language & Literature/English Language and Literature.md
       - English Language & Literature/.keep
