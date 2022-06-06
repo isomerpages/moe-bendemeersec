@@ -2,6 +2,7 @@ collections:
   s-t-e-m:
     output: true
     order:
+      - ICT/Information, Communication & Technology.md
       - ICT/.keep
       - Science/.keep
       - Science/Science.md
