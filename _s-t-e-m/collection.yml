@@ -1,4 +1,5 @@
 collections:
   s-t-e-m:
     output: true
-    order: []
+    order:
+      - Craft & Technology/.keep
