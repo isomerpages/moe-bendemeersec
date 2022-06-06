@@ -2,6 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - CCA Excellence.md
-      - Holistic Excellence.md
       - Academic Excellence.md
+      - Holistic Excellence.md
+      - CCA Excellence.md
