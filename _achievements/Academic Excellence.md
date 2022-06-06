@@ -367,7 +367,7 @@ Polytechnic – 76.1%
 
 ITE – 23.9%
 
--
+–
 
 ### GCE ‘N’ LEVEL RESULT 2014
 
@@ -411,5 +411,3 @@ Khoo Wei Ming: 3 Distinctions
 Sng Hong Wen Richie: 3 Distinctions
 
 Then Wai Kin: 3 Distinctions
-
-
