@@ -2,9 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Announcements/Congratulatory Message from Dr Wan Rizal, Adviser to Jalan
-        Besar GRC GROs.md
-      - Announcements/.keep
       - 2022 Sec 1 Registration/.keep
       - 2022 Sec 1 Registration/Sale of Uniform and Books.md
       - 2022 Sec 1 Registration/MOE Financial Assistance Scheme.md
@@ -18,3 +15,6 @@ collections:
       - Infolinks.md
       - Class Timetable.md
       - Online School Magazines.md
+      - Announcements/.keep
+      - Announcements/Congratulatory Message from Dr Wan Rizal, Adviser to Jalan
+        Besar GRC GROs.md
