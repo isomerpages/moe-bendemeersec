@@ -2,6 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     collection: about-us
+  - title: Departments
+    collection: departments
   - title: CCA
     collection: cca
   - title: Key Programmes
