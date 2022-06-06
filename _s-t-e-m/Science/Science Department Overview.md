@@ -99,3 +99,27 @@ The Science department learning roadmap depicts the spiral progression of the kn
   </tr>
 </tbody>
 </table>
+
+**Applied Learning Programme (ALP)**
+
+One of our key programmes is the Applied Learning Programme in health science and healthcare technology, using the Engage. Explore. Elaborate approach. From learning to understanding the problem through data analysis and hands-on activity, to exploring technology (Microbits) and applying what they have learnt in an authentic problem, students see how science can be integrated to solve problems in this programme. 
+
+![Applied Learning Programme using the Engage. Explore. Elaborate approach](/images/our%20ALp.png)
+Our ALP programme in STEM education is featured in the MOE Facebook page. Check out the link [here](https://www.facebook.com/story.php?story_fbid=262959549200538&id=100064594847808). 
+
+**Science Week**
+
+Science Week provides a platform for authenticity and relevance of science learning for our students beyond the classroom learning. Exciting activities related to the theme of the Science Week are conducted to engage and excite the students. This includes showcasing of students’ work, everyday science activities, demonstration and quizzes. 
+
+![Science week](/images/Science%20WEek.jpg)
+
+**Stretch Programme**
+
+As every student learns at a different pace from his peers, to better cater to our students’ needs, the department sees to stretch them through three key areas: teaching and learning approach (within and beyond department, inter-department collaboration), external competitions such as Science Olympiads, GMAC challenge, International Biomedical Quiz, enrichment activity such as debates (within and outside school) and exposure to the science development around them through sharing/ workshop conducted by experts and scientific research work to widen their perspectives and experience. 
+
+![GMAC](/images/GMAC.png)
+GMAC Challenge Students conducted a research on GMO and syntehsiszed their learning using a poster representation.
+
+![Valerie Nadya (4R1) received the silver award in the International Biomedical Quiz. ](/images/students%20participated.jpg)
+Students participated in the International Biomedical Quiz. Valerie Nadya (4R1) received the silver award.
+
