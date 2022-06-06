@@ -2,10 +2,10 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Normal Course/NTcipate Life.md
-      - Normal Course/Elective Modules.md
-      - Normal Course/Normal Course.md
       - Normal Course/.keep
+      - Normal Course/Normal Course.md
+      - Normal Course/Elective Modules.md
+      - Normal Course/NTcipate Life.md
       - Discipline/.keep
       - Discipline/Discipline.md
       - Discipline/The SOAR Programme.md
