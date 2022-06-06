@@ -2,13 +2,13 @@ collections:
   co-curriculum:
     output: true
     order:
-      - CCE/Character Awards.md
-      - CCE/Sexuality Education.md
-      - CCE/Cyber Wellness.md
-      - CCE/Career Guidance.md
-      - CCE/Character and Citizenship Education Overview.md
-      - CCE/Character & Citizenship Education.md
       - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/Character and Citizenship Education Overview.md
+      - CCE/Career Guidance.md
+      - CCE/Cyber Wellness.md
+      - CCE/Sexuality Education.md
+      - CCE/Character Awards.md
       - Physical Education/.keep
       - Physical Education/Physical Education.md
       - Physical Education/Physical Education Department Overview.md
