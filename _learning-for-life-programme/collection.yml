@@ -2,10 +2,10 @@ collections:
   learning-for-life-programme:
     output: true
     order:
+      - (LLP).md
+      - LLP  Secondary 1.md
+      - LLP  Secondary 2.md
+      - LLP Secondary 3.md
+      - LLP   Student Council/.keep
       - LLP   Student Council/Student Council LLP Overview.md
       - LLP   Student Council/LLP Student Council.md
-      - LLP   Student Council/.keep
-      - LLP Secondary 3.md
-      - LLP  Secondary 2.md
-      - LLP  Secondary 1.md
-      - (LLP).md
