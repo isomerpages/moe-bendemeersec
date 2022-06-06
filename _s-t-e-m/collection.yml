@@ -2,9 +2,9 @@ collections:
   s-t-e-m:
     output: true
     order:
-      - ICT/Information Communication & Technology Department Overview.md
-      - ICT/Information, Communication & Technology.md
       - ICT/.keep
+      - ICT/Information, Communication & Technology.md
+      - ICT/Information Communication & Technology Department Overview.md
       - Science/.keep
       - Science/Science.md
       - Science/Science Department Overview.md
