@@ -2,13 +2,9 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Normal Course/.keep
-      - Normal Course/Normal Course.md
-      - Normal Course/Elective Modules.md
-      - Normal Course/NTcipate Life.md
-      - Discipline/.keep
-      - Discipline/Discipline.md
-      - Discipline/The SOAR Programme.md
+      - Physical Education/.keep
+      - Physical Education/Physical Education.md
+      - Physical Education/Physical Education Department Overview.md
       - CCE/.keep
       - CCE/Character & Citizenship Education.md
       - CCE/Character and Citizenship Education Overview.md
@@ -16,6 +12,10 @@ collections:
       - CCE/Cyber Wellness.md
       - CCE/Sexuality Education.md
       - CCE/Character Awards.md
-      - Physical Education/.keep
-      - Physical Education/Physical Education.md
-      - Physical Education/Physical Education Department Overview.md
+      - Discipline/.keep
+      - Discipline/Discipline.md
+      - Discipline/The SOAR Programme.md
+      - Normal Course/.keep
+      - Normal Course/Normal Course.md
+      - Normal Course/Elective Modules.md
+      - Normal Course/NTcipate Life.md
