@@ -14,11 +14,11 @@ Our Malay Language unit was invited to participate in a joint collaboration with
 
 **Students’ Reflections**
 
-“Saya berasa menggunakan Ruang Belajar Pelajar Singapura (SLS) di dalam kelas lebih seronok daripada kelas yang tidak menggunakannya. Saya dapat mempelajari lebih banyak perkara lagi kerana ia menarik perhatian saya sebagai seorang remaja yang sering menggunakan alat-alat elektronik.” - Raisyad Danish <br>
+“Saya berasa menggunakan Ruang Belajar Pelajar Singapura (SLS) di dalam kelas lebih seronok daripada kelas yang tidak menggunakannya. Saya dapat mempelajari lebih banyak perkara lagi kerana ia menarik perhatian saya sebagai seorang remaja yang sering menggunakan alat-alat elektronik.” - **Raisyad Danish** <br>
 
-“Apabila kami menggunakan Ruang Belajar Pelajar Singapura (SLS), kami dapat mengurangkan jumlah kertas yang digunakan. SLS juga membuat aktiviti di dalam kelas lebih menarik dan seronok. Apabila menggunakan SLS, kami boleh mendapat semua informasi dari situ. Sebagai seorang remaja, kami lebih sula menggunakan alat elektronik di zaman ini.” - Muhammad Seifullah Giri <br>
+“Apabila kami menggunakan Ruang Belajar Pelajar Singapura (SLS), kami dapat mengurangkan jumlah kertas yang digunakan. SLS juga membuat aktiviti di dalam kelas lebih menarik dan seronok. Apabila menggunakan SLS, kami boleh mendapat semua informasi dari situ. Sebagai seorang remaja, kami lebih sula menggunakan alat elektronik di zaman ini.” - **Muhammad Seifullah Giri** <br>
 
-“Penggunaan Ruang Belajar Pelajar Singapura (SLS) di dalam kelas ialah suatu inisiatif yang baik kerana ia membuat waktu di dalam kelas lebih menarik. Kami dapat mempelajari lebih banyak perkara dengan lebih mendalam kerana kami dibenarkan melungsuri lelaman internet untuk mendapatkan informasi ketika melakukan kajian.” - Sifie Lizdiyanie
+“Penggunaan Ruang Belajar Pelajar Singapura (SLS) di dalam kelas ialah suatu inisiatif yang baik kerana ia membuat waktu di dalam kelas lebih menarik. Kami dapat mempelajari lebih banyak perkara dengan lebih mendalam kerana kami dibenarkan melungsuri lelaman internet untuk mendapatkan informasi ketika melakukan kajian.” - **Sifie Lizdiyanie**
 
 ![Students’ Learning Space](/images/ML1.jpg)
 
@@ -30,7 +30,7 @@ In an effort to ensure the readiness of our students for the national examinatio
 
 **Students’ Reflections**
 
- “Perkongsian oleh para guru yang berbeza telah membuka minda saya kepada teknik-teknik pembelajaran yang berbeza. Bukan sahaja saya dapat menambah ilmu, tetapi saya juga dapat bertemu para pelajar dari sekolah lain. Sekarang saya berasa lebih yakin untuk menghadapi peperiksaan nasional yang mendatang. Kepada pelajar-pelajar menengah tiga, kamu patut menghadiri bengkel ini pada tahun hadapan!” Siti Kholifatima Durrotun Nasuha Bte Suhaini
+ “Perkongsian oleh para guru yang berbeza telah membuka minda saya kepada teknik-teknik pembelajaran yang berbeza. Bukan sahaja saya dapat menambah ilmu, tetapi saya juga dapat bertemu para pelajar dari sekolah lain. Sekarang saya berasa lebih yakin untuk menghadapi peperiksaan nasional yang mendatang. Kepada pelajar-pelajar menengah tiga, kamu patut menghadiri bengkel ini pada tahun hadapan!” **Siti Kholifatima Durrotun Nasuha Bte Suhaini**
 
 **Action Research**
 
@@ -45,7 +45,7 @@ This ongoing project will enter its third year in 2021, with refinements made as
 
 **Students’ Reflections**
 
-“Setelah melihat markah keseluruhan yang saya perolehi, saya boleh mengatakan bahawa saya telah melihat peningkatan setelah sesi latihan yang kedua apabila saya mendapat markah penuh 20/20.”- **Muhamed Ibrohim Hanafi Bin Abdullah**
+*“Setelah melihat markah keseluruhan yang saya perolehi, saya boleh mengatakan bahawa saya telah melihat peningkatan setelah sesi latihan yang kedua apabila saya mendapat markah penuh 20/20.”*- **Muhamed Ibrohim Hanafi Bin Abdullah**
 
 ![GCE O Exam Preparation Workshop](/images/ML3.png)
 
@@ -61,24 +61,36 @@ Secondary 1 students were brought to the Malay Language Centre of Singapore (MLC
 
 **Students’ Reflections**
 
-“Semasa satu lawatan ke Pusat Bahasa Melayu Singapura, saya telah belajar mengenai beberapa permainan tradisional masyarakat Melayu. Kami belajar mengenai permainan Chapteh, Lambung Kain dan Gasing. Kami belajar mengenai asal-usul dan bagaimana masyarakat lama menggunakan bahan daripada hutan dan alam sekitar untuk membuat permainan tradisional mereka. Saya juga berasa gembira mendapat peluang untuk berjumpa Pak Sarkasi Said dan belajar daripada beliau tentang bagaimana membuat batik yang unik dan bermutu tinggi.” -**Nurul Syuhada Nurul’ain**
+*“Semasa satu lawatan ke Pusat Bahasa Melayu Singapura, saya telah belajar mengenai beberapa permainan tradisional masyarakat Melayu. Kami belajar mengenai permainan Chapteh, Lambung Kain dan Gasing. Kami belajar mengenai asal-usul dan bagaimana masyarakat lama menggunakan bahan daripada hutan dan alam sekitar untuk membuat permainan tradisional mereka. Saya juga berasa gembira mendapat peluang untuk berjumpa Pak Sarkasi Said dan belajar daripada beliau tentang bagaimana membuat batik yang unik dan bermutu tinggi.”* -**Nurul Syuhada Nurul’ain**
 
-“Sekolah saya telah menganjurkan satu lawatan ke Pusat Bahasa Melayu Singapura. Saya berasa amat gembira berada di sana. Saya belajar cara membatik, penggunaan canting dan lilin dan sejarah batik daripada Pak Sarkasi Said. Para penganjur amat baik hati dan menyiapkan makanan yang enak untuk kami. Saya juga belajar bermain Chapteh dan Lambung Kain. Permainannya sangat seronok. Saya juga belajar cara bermain Gasing yang kini kurang diminati masyarakat Melayu. Saya amat gembira dapat pergi ke sana.” - **Evelyn Angelina The**
+*“Sekolah saya telah menganjurkan satu lawatan ke Pusat Bahasa Melayu Singapura. Saya berasa amat gembira berada di sana. Saya belajar cara membatik, penggunaan canting dan lilin dan sejarah batik daripada Pak Sarkasi Said. Para penganjur amat baik hati dan menyiapkan makanan yang enak untuk kami. Saya juga belajar bermain Chapteh dan Lambung Kain. Permainannya sangat seronok. Saya juga belajar cara bermain Gasing yang kini kurang diminati masyarakat Melayu. Saya amat gembira dapat pergi ke sana.”* - **Evelyn Angelina The**
 
 ![Secondary 1 – Jejak Budaya to the Malay Language Centre of Singapore](/images/ML5.png)
 
-Secondary 2 – Arts Exposure Programme
+**Secondary 2 – Arts Exposure Programme**
 
 The focus for Secondary 2 students was the Malay performing arts scene in Singapore. Some of the theatre performances that our students have attended are ‘Lanang’ by Hatch Theatrics, ‘Anak Melayu’ by Teater Kami and ‘Gentarasa’ which means ‘Chimes of Expression’, a showcase of the many performing talents from the Malay community. These theatre performances helps the student to appreciate the Malay Culture and also to raise awareness of social issues in Singapore.
 
-Students’ Reflection
+**Students’ Reflection**
 
-“Saya amat suka menonton pementasan ‘Lanang’ kerana ia menunjukkan masalah yang sering berlaku dalam sebuah keluarga. Sebagai contoh, ibu Lanang yang sedih kerana harus berpisah dengan suaminya dan terpaksa berdepan dengan ahli keluarga lain yang suka mengumpat dan mengata. Drama ‘Lanang’ menyentuh perasaan saya kerana ia mengingatkan saya tentang ibu saya sendiri. Saya sedar bahawa saya harus lebih menghargai Ibu dan membalas jasanya suatu hari nanti.” - Ilyas Bin Isa
+*“Saya amat suka menonton pementasan ‘Lanang’ kerana ia menunjukkan masalah yang sering berlaku dalam sebuah keluarga. Sebagai contoh, ibu Lanang yang sedih kerana harus berpisah dengan suaminya dan terpaksa berdepan dengan ahli keluarga lain yang suka mengumpat dan mengata. Drama ‘Lanang’ menyentuh perasaan saya kerana ia mengingatkan saya tentang ibu saya sendiri. Saya sedar bahawa saya harus lebih menghargai Ibu dan membalas jasanya suatu hari nanti.”* - **Ilyas Bin Isa**
 
-“Saya seronok diberi peluang menonton teater ‘Anak Melayu’. Teater ini memaparkan realiti anak-anak Melayu zaman sekarang kerana pada kenyataannya anak-anak Melayu zaman sekarang banyak yang terjerumus pada pergaulan bebas. Saya mempelajari banyak pengajaran daripada pementasan ini. Antaranya ialah anak-anak remaja yang kurang baik perlu dibina dan dinasihati dengan penuh kasih sayang dan bukan dimaki hamun. Tambahan lagi, sebagai seorang remaja, kita juga harus berhati-hati dalam bergaul dan harus sentiasa berpegang teguh pada nilai-nilai agama.” - Audrey Goh Jia Jia
+*“Saya seronok diberi peluang menonton teater ‘Anak Melayu’. Teater ini memaparkan realiti anak-anak Melayu zaman sekarang kerana pada kenyataannya anak-anak Melayu zaman sekarang banyak yang terjerumus pada pergaulan bebas. Saya mempelajari banyak pengajaran daripada pementasan ini. Antaranya ialah anak-anak remaja yang kurang baik perlu dibina dan dinasihati dengan penuh kasih sayang dan bukan dimaki hamun. Tambahan lagi, sebagai seorang remaja, kita juga harus berhati-hati dalam bergaul dan harus sentiasa berpegang teguh pada nilai-nilai agama.”* - **Audrey Goh Jia Jia**
 
-“Saya gembira diberi peluang untuk menonton pementasan ‘Anak Melayu’ bersama rakan-rakan. Teater ini memaparkan realiti anak-anak Melayu zaman sekarang. Mereka suka masuk campur hal-hala yang tidak baik untuk diri mereka. Contohnya merokok, meminum minuman keras dan sebagainya. Watak yang paling saya gemari ialah Yati kerana dia adalah satu representasi diri saya sebagai seorang remaja. Saya mempelajari bahawa anak-anak Melayu zaman dahulu dan sekarang tidak berubah. Ini menunjukkan yang kami tidak melakukan apa-apa untuk meningkatkan nama ‘Melayu’. Tambahan lagi, saya mempelajari bahawa banyak perkara yang boleh mempengaruhi kami dengan senang.” - Dania Haziqah
+*“Saya gembira diberi peluang untuk menonton pementasan ‘Anak Melayu’ bersama rakan-rakan. Teater ini memaparkan realiti anak-anak Melayu zaman sekarang. Mereka suka masuk campur hal-hala yang tidak baik untuk diri mereka. Contohnya merokok, meminum minuman keras dan sebagainya. Watak yang paling saya gemari ialah Yati kerana dia adalah satu representasi diri saya sebagai seorang remaja. Saya mempelajari bahawa anak-anak Melayu zaman dahulu dan sekarang tidak berubah. Ini menunjukkan yang kami tidak melakukan apa-apa untuk meningkatkan nama ‘Melayu’. Tambahan lagi, saya mempelajari bahawa banyak perkara yang boleh mempengaruhi kami dengan senang.”* - **Dania Haziqah**
 
-“Gentarasa kali ini memaparkan budaya Melayu lama di mana teknologi moden belum berkembang maju. Contohnya, untuk hiburan, mereka menggunakan wayang kulit untuk menghiburkan orang-orang kampung. Saya rasa persembahan para peserta amat menarik. Saya juga telah mempelajari beberapa perkataan bahasa Melayu.” - Siti Nadhirah Syadiyah Bte J
+*“Gentarasa kali ini memaparkan budaya Melayu lama di mana teknologi moden belum berkembang maju. Contohnya, untuk hiburan, mereka menggunakan wayang kulit untuk menghiburkan orang-orang kampung. Saya rasa persembahan para peserta amat menarik. Saya juga telah mempelajari beberapa perkataan bahasa Melayu.”* - **Siti Nadhirah Syadiyah Bte J**
 
+![Secondary 2 – Arts Exposure Programme](/images/ML6.png)
 
+Secondary 3 – Jejak Warisan at Kampong Glam
+
+In the final installment of the learning journey for students offering the Malay Language, Secondary 3 students were treated to a gastronomical adventure whilst delving in the age-old Malay culture of communal eating. We were fortunate to be able to hold a session of Jejak Warisan at the Mamanda Restaurant, the exact premise of Gedung Kuning, a former palace in Singapore and a prominent feature of Kampung Glam. Students shared a platter of Nasi Ambeng and were enlightened on the importance of the practice, the traditions that precede and follow as well as the significance of the individual dishes served on the platter. 
+
+Students’ Reflections
+
+“Semasa lawatan ke Restoran Mamanda, saya telah mempelajari bahawa Nasi Ambeng turut dikenali sebagai Sego Ambeng. Hidangan ini dipercayai berasal dari Jawa Tengah. Jumlah lauk yang boleh dihidangkan terdiri daripada gandaan angka 7, misalnya 7, 14 dan 21. Menarik bukan? Selain itu, saya juga mempelajari tentang pelbagai ulam serta khasiatnya. Ulam ialah sayur-sayuran yang dimakan mentah. Sebagai contoh, jering boleh dimakan untuk mencegah penyakit seperti kencing manis, membersihkan buah pinggang serta melancarkan pembuangan air kecil. Maklumat yang saya pelajari dapat dikongsikan dengan keluarga saya.” - Muhammad Israfil B Rosley
+
+ “Saya amat beruntung kerana diberikan kesempatan mengunjungi sebuah museum di Taman Warisan mengenai masyarakat Melayu kerana ini lawatan saya yang pertama ke muzium sedemikian. Saya pelajari tentang kebudayaan masyarakat Melayu secara mendalam; , baju dan alat-alat muzik tradisional, sejarah lama mengenai mengapa dan bagaimana orang-orang Melayu mula berhijrah ke pulau Singapura yang dahulu dikenali dengan nama Temasek. Saya berasa lawatan ini amat bermanfaat dan harus diteruskan untuk para pelajar di masa hadapan.” - Merisa Indajang
+ 
+ ![Secondary 3 – Jejak Warisan at Kampong Glam](/images/ML7.png)
