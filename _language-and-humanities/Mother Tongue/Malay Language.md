@@ -4,3 +4,81 @@ permalink: /departments/language-and-humanities/mother-tongue/malay-language
 description: ""
 third_nav_title: Mother Tongue
 ---
+# Malay Language
+
+**Teaching and Learning of Malay Language**
+
+**Students’ Learning Space**
+
+Our Malay Language unit was invited to participate in a joint collaboration with the Malay Language Centre of Singapore (MLCS) in the implementation of the Students’ Learning Space in the teaching and learning of the language. Lessons from the Jauhari textbook were digitised and transformed into classroom activities, facilitated by our very own Senior Teacher, Cikgu Zulkifli Khamis and Master Teacher, Cikgu Rahmat Subadah. Students were given the opportunity to explore the online learning portal and apply specific thinking routines to aid and demonstrate their understanding of the topic based on prominent national figures, Lieutenant Adnan and Zubir Said. 
+
+**Students’ Reflections**
+
+“Saya berasa menggunakan Ruang Belajar Pelajar Singapura (SLS) di dalam kelas lebih seronok daripada kelas yang tidak menggunakannya. Saya dapat mempelajari lebih banyak perkara lagi kerana ia menarik perhatian saya sebagai seorang remaja yang sering menggunakan alat-alat elektronik.” - Raisyad Danish <br>
+
+“Apabila kami menggunakan Ruang Belajar Pelajar Singapura (SLS), kami dapat mengurangkan jumlah kertas yang digunakan. SLS juga membuat aktiviti di dalam kelas lebih menarik dan seronok. Apabila menggunakan SLS, kami boleh mendapat semua informasi dari situ. Sebagai seorang remaja, kami lebih sula menggunakan alat elektronik di zaman ini.” - Muhammad Seifullah Giri <br>
+
+“Penggunaan Ruang Belajar Pelajar Singapura (SLS) di dalam kelas ialah suatu inisiatif yang baik kerana ia membuat waktu di dalam kelas lebih menarik. Kami dapat mempelajari lebih banyak perkara dengan lebih mendalam kerana kami dibenarkan melungsuri lelaman internet untuk mendapatkan informasi ketika melakukan kajian.” - Sifie Lizdiyanie
+
+![Students’ Learning Space](/images/ML1.jpg)
+
+![Students’ Learning Space](/images/ML2.jpg)
+
+**GCE O Exam Preparation Workshop** 
+
+In an effort to ensure the readiness of our students for the national examination in June, a joint exam preparation workshop was organised and hosted by our ML unit, with four other schools onboard. This is in congruence with the aim to equip students with techniques in answering components in Papers 1 and 2 through sharing by teachers from different schools. Through interaction with students and teachers from cluster schools Holy Innocent High School, Saint Andrews’ Secondary School and Holy Innocents High School as well as guest school Madrasah Al-Arabiah Al-Islamiah, our students gained valuable knowledge and friendship.  
+
+**Students’ Reflections**
+
+ “Perkongsian oleh para guru yang berbeza telah membuka minda saya kepada teknik-teknik pembelajaran yang berbeza. Bukan sahaja saya dapat menambah ilmu, tetapi saya juga dapat bertemu para pelajar dari sekolah lain. Sekarang saya berasa lebih yakin untuk menghadapi peperiksaan nasional yang mendatang. Kepada pelajar-pelajar menengah tiga, kamu patut menghadiri bengkel ini pada tahun hadapan!” Siti Kholifatima Durrotun Nasuha Bte Suhaini
+
+**Action Research**
+
+In 2019 and 2020, the Malay Language department conducted an Action Research with our Secondary 3 Express and Normal (Academic) students. The Action Research was based on Listening Comprehension.
+
+The objectives of the Action Research are to investigate if students:
+
+●	show improvement in their results after four sessions of interventions. <br>
+●	are able to complete their Listening Comprehension practices independently using Google Form.
+
+This ongoing project will enter its third year in 2021, with refinements made as we advance. A comparative study will also be conducted to further evaluate the outcomes of the research on different cohorts of students. 
+
+**Students’ Reflections**
+
+“Setelah melihat markah keseluruhan yang saya perolehi, saya boleh mengatakan bahawa saya telah melihat peningkatan setelah sesi latihan yang kedua apabila saya mendapat markah penuh 20/20.”- **Muhamed Ibrohim Hanafi Bin Abdullah**
+
+![GCE O Exam Preparation Workshop](/images/ML3.png)
+
+![GCE O Exam Preparation Workshop](/images/ML4.jpg)
+
+**Learning Journey**
+
+In order to provide students with a more holistic experience, the unit planned various learning journeys for students of different levels, namely from Secondary 1 to Secondary 3. At the end of their 4 or 5 year course in secondary school, students would have gained rich experiences from these visits.
+
+**Secondary 1 – Jejak Budaya to the Malay Language Centre of Singapore**
+
+Secondary 1 students were brought to the Malay Language Centre of Singapore (MLCS) to participate in station-based activities revolving around different aspects of the Malay culture. These included learning the names of herbs commonly used in Malay cooking, playing traditional Malay games and understanding the significance of specific traditional wear such as the headgear known as ‘tanjak’. In the recent visit, students were given the opportunity to try batik painting under the instruction and guidance of the renowned Batik artist, Mr Sarkasi Said. It was truly a rare, once in a lifetime experience for our students.
+
+**Students’ Reflections**
+
+“Semasa satu lawatan ke Pusat Bahasa Melayu Singapura, saya telah belajar mengenai beberapa permainan tradisional masyarakat Melayu. Kami belajar mengenai permainan Chapteh, Lambung Kain dan Gasing. Kami belajar mengenai asal-usul dan bagaimana masyarakat lama menggunakan bahan daripada hutan dan alam sekitar untuk membuat permainan tradisional mereka. Saya juga berasa gembira mendapat peluang untuk berjumpa Pak Sarkasi Said dan belajar daripada beliau tentang bagaimana membuat batik yang unik dan bermutu tinggi.” -**Nurul Syuhada Nurul’ain**
+
+“Sekolah saya telah menganjurkan satu lawatan ke Pusat Bahasa Melayu Singapura. Saya berasa amat gembira berada di sana. Saya belajar cara membatik, penggunaan canting dan lilin dan sejarah batik daripada Pak Sarkasi Said. Para penganjur amat baik hati dan menyiapkan makanan yang enak untuk kami. Saya juga belajar bermain Chapteh dan Lambung Kain. Permainannya sangat seronok. Saya juga belajar cara bermain Gasing yang kini kurang diminati masyarakat Melayu. Saya amat gembira dapat pergi ke sana.” - **Evelyn Angelina The**
+
+![Secondary 1 – Jejak Budaya to the Malay Language Centre of Singapore](/images/ML5.png)
+
+Secondary 2 – Arts Exposure Programme
+
+The focus for Secondary 2 students was the Malay performing arts scene in Singapore. Some of the theatre performances that our students have attended are ‘Lanang’ by Hatch Theatrics, ‘Anak Melayu’ by Teater Kami and ‘Gentarasa’ which means ‘Chimes of Expression’, a showcase of the many performing talents from the Malay community. These theatre performances helps the student to appreciate the Malay Culture and also to raise awareness of social issues in Singapore.
+
+Students’ Reflection
+
+“Saya amat suka menonton pementasan ‘Lanang’ kerana ia menunjukkan masalah yang sering berlaku dalam sebuah keluarga. Sebagai contoh, ibu Lanang yang sedih kerana harus berpisah dengan suaminya dan terpaksa berdepan dengan ahli keluarga lain yang suka mengumpat dan mengata. Drama ‘Lanang’ menyentuh perasaan saya kerana ia mengingatkan saya tentang ibu saya sendiri. Saya sedar bahawa saya harus lebih menghargai Ibu dan membalas jasanya suatu hari nanti.” - Ilyas Bin Isa
+
+“Saya seronok diberi peluang menonton teater ‘Anak Melayu’. Teater ini memaparkan realiti anak-anak Melayu zaman sekarang kerana pada kenyataannya anak-anak Melayu zaman sekarang banyak yang terjerumus pada pergaulan bebas. Saya mempelajari banyak pengajaran daripada pementasan ini. Antaranya ialah anak-anak remaja yang kurang baik perlu dibina dan dinasihati dengan penuh kasih sayang dan bukan dimaki hamun. Tambahan lagi, sebagai seorang remaja, kita juga harus berhati-hati dalam bergaul dan harus sentiasa berpegang teguh pada nilai-nilai agama.” - Audrey Goh Jia Jia
+
+“Saya gembira diberi peluang untuk menonton pementasan ‘Anak Melayu’ bersama rakan-rakan. Teater ini memaparkan realiti anak-anak Melayu zaman sekarang. Mereka suka masuk campur hal-hala yang tidak baik untuk diri mereka. Contohnya merokok, meminum minuman keras dan sebagainya. Watak yang paling saya gemari ialah Yati kerana dia adalah satu representasi diri saya sebagai seorang remaja. Saya mempelajari bahawa anak-anak Melayu zaman dahulu dan sekarang tidak berubah. Ini menunjukkan yang kami tidak melakukan apa-apa untuk meningkatkan nama ‘Melayu’. Tambahan lagi, saya mempelajari bahawa banyak perkara yang boleh mempengaruhi kami dengan senang.” - Dania Haziqah
+
+“Gentarasa kali ini memaparkan budaya Melayu lama di mana teknologi moden belum berkembang maju. Contohnya, untuk hiburan, mereka menggunakan wayang kulit untuk menghiburkan orang-orang kampung. Saya rasa persembahan para peserta amat menarik. Saya juga telah mempelajari beberapa perkataan bahasa Melayu.” - Siti Nadhirah Syadiyah Bte J
+
+
