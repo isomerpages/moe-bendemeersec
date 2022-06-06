@@ -2,9 +2,9 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Discipline/The SOAR Programme.md
-      - Discipline/Discipline.md
       - Discipline/.keep
+      - Discipline/Discipline.md
+      - Discipline/The SOAR Programme.md
       - CCE/.keep
       - CCE/Character & Citizenship Education.md
       - CCE/Character and Citizenship Education Overview.md
