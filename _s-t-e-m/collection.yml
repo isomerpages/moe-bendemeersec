@@ -2,4 +2,5 @@ collections:
   s-t-e-m:
     output: true
     order:
+      - Craft & Technology/Craft & Technology.md
       - Craft & Technology/.keep
