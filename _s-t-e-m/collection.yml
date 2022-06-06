@@ -2,15 +2,6 @@ collections:
   s-t-e-m:
     output: true
     order:
-      - ICT/.keep
-      - ICT/Information, Communication & Technology.md
-      - ICT/Information Communication & Technology Department Overview.md
-      - Science/.keep
-      - Science/Science.md
-      - Science/Science Department Overview.md
-      - Mathematics/.keep
-      - Mathematics/Mathematics.md
-      - Mathematics/Mathematics Department Overview.md
       - Craft & Technology/.keep
       - Craft & Technology/Craft & Technology.md
       - Craft & Technology/Craft and Technology Department Overview.md
@@ -19,3 +10,12 @@ collections:
       - Craft & Technology/Design and Technology.md
       - Craft & Technology/Nutrition and Food Science.md
       - Craft & Technology/Arts.md
+      - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mathematics/Mathematics Department Overview.md
+      - Science/.keep
+      - Science/Science.md
+      - Science/Science Department Overview.md
+      - ICT/.keep
+      - ICT/Information, Communication & Technology.md
+      - ICT/Information Communication & Technology Department Overview.md
