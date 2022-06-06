@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - After School Engagement Programme.md
       - Bi Cultural Overseas Exchange Programme.md
       - Learning for Life Programme/.keep
       - Applied Learning Programme.md
