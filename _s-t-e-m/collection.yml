@@ -2,5 +2,6 @@ collections:
   s-t-e-m:
     output: true
     order:
+      - Craft & Technology/Craft and Technology Department Overview.md
       - Craft & Technology/Craft & Technology.md
       - Craft & Technology/.keep
