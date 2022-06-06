@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Normal Course/Elective Modules.md
       - Normal Course/Normal Course.md
       - Normal Course/.keep
       - Discipline/.keep
