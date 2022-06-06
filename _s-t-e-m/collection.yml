@@ -2,9 +2,9 @@ collections:
   s-t-e-m:
     output: true
     order:
-      - Science/Science Department Overview.md
-      - Science/Science.md
       - Science/.keep
+      - Science/Science.md
+      - Science/Science Department Overview.md
       - Mathematics/.keep
       - Mathematics/Mathematics.md
       - Mathematics/Mathematics Department Overview.md
