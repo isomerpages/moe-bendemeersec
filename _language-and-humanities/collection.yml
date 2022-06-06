@@ -2,12 +2,12 @@ collections:
   language-and-humanities:
     output: true
     order:
-      - Humanities/History.md
-      - Humanities/Geography.md
-      - Humanities/Social Studies.md
-      - Humanities/Humanities Department Overview.md
-      - Humanities/Humanities.md
       - Humanities/.keep
+      - Humanities/Humanities.md
+      - Humanities/Humanities Department Overview.md
+      - Humanities/Social Studies.md
+      - Humanities/Geography.md
+      - Humanities/History.md
       - English Language & Literature/.keep
       - English Language & Literature/English Language and Literature.md
       - English Language & Literature/English Language Department Overview.md
