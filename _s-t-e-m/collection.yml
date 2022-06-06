@@ -2,6 +2,7 @@ collections:
   s-t-e-m:
     output: true
     order:
+      - Mathematics/Mathematics.md
       - Mathematics/.keep
       - Craft & Technology/.keep
       - Craft & Technology/Craft & Technology.md
