@@ -2,4 +2,5 @@ collections:
   learning-for-life-programme:
     output: true
     order:
+      - LLP  Secondary 1.md
       - (LLP).md
