@@ -4,3 +4,6 @@ permalink: /key-programmes/learning-for-life-programme-llp/llp-secondary-1
 description: ""
 third_nav_title: Learning for Life Programme
 ---
+![Secondary One Learning for Life Programme](/images/2019yb_Page_062.jpg)
+
+![Secondary One Learning for Life Programme](/images/2019yb_Page_063.jpg)
