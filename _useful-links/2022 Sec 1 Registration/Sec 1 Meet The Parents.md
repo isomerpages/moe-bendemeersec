@@ -15,5 +15,4 @@ Time:  8 am to 12.30 pm
 Thank you for attending the Sec 1 Meet The Parents session. 
 
 Please click **here** to view the slides presented that day. <br>
-Please click **here** to view the parenting talk by Mr Edwin Choy on Transition to Sec 1.
-
+Please click [here](https://drive.google.com/file/d/1C0jvkwEuzVKNZwOxz5AXRPRoebJUPieK/view) to view the parenting talk by Mr Edwin Choy on Transition to Sec 1.
