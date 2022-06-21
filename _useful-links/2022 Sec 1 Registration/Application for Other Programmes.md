@@ -28,6 +28,6 @@ Successful applicants will attend weekly lessons in the afternoon at the AEP/MEP
 
 For more information, please refer to the following [slides](/files/3iv_AEPMEP-Sec_Briefing-Slides2022.pdf) and web links provided below:
 
-Art  - https://www.moe.gov.sg/programmes/aep-sec
+Art  - **link broken**
 
-Music - https://www.moe.gov.sg/programmes/mep-sec
+Music - **link broken**
