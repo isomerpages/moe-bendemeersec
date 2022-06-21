@@ -15,3 +15,5 @@ You may view the latest School Magazine by clicking on the external URL below.
 ### Online School Magazine 2020
 
 Please click on the images below to view the school magazine (88Mb).
+
+**Files too big**
