@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/hero-banner01.jpg
       key_highlights:
         - title: Announcements
           description: Click here for announcements!
@@ -16,4 +16,3 @@ sections:
           description: Click here for useful links!
           url: /useful-links/2022-sec-1-registration/sale-of-uniform-and-books
 ---
-
