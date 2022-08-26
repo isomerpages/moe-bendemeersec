@@ -26,7 +26,7 @@ By clicking on the following URL, you will be brought to the zoom.us (https://zo
 
 Click on this URL [here](https://moe-singapore.zoom.us/webinar/register/WN_4k3jdrhUSoi_by8ZQJx5AA) or scan the QR Code below to register for the online seminar: 
 
-![QR Code](/images/bdmsndlpweb-276x300.jpeg)
+![QR Code](/images//Keyprogrammes/Ndlp/bdmsndlpweb-276x300.jpeg)
 
 ### Timeframe
 
@@ -79,7 +79,7 @@ The PLD will be used in tandem with the national e-learning platform – the Sin
 
 The school has made arrangements for parents/guardians to purchase the PLD from Acer Limited Pte Ltd for your child/ward’s use in school. The vendor has been identified based on the choice of device determined by the school from a panel of awarded suppliers established by MOE. The PLD bundle which includes warranty and insurance for purchase by your child/ward will be:
 
-![Personal Learning Device](/images/21-acerpld.png)
+![Personal Learning Device](/images//Keyprogrammes/Ndlp/21-acerpld.png)
 
 ### Use of Edusave
 
