@@ -4,11 +4,9 @@ permalink: /key-programmes/national-digital-literacy-programme/device-informatio
 description: ""
 third_nav_title: National Digital Literacy
 ---
+## Device Information Kit  for Lenovo 500e Chromebook
 
-
-# PLD for Sec 2, 3 and 4
-
-## School-Based Help Desk
+### School-Based Help Desk
 The ICT Department will provide technical support to students.    This is part of our efforts to ensure that there is minimum disruption to students’ learning.  
 
 There will be a fortnightly collection of faulty devices that will be sent via courier to the authorised service centre for repairs. The devices sent through the school may take between 3-4 weeks for repairs, depending on the extent of the damage.
