@@ -4,10 +4,9 @@ permalink: /key-programmes/national-digital-literacy-programme/device-informatio
 description: ""
 third_nav_title: National Digital Literacy
 ---
+## Device Information Kit for Acer R752TN Chromebook
 
-# PLD for Sec 1 (2022)
-
-## School-based Helpdesk
+### School-based Helpdesk
 
 The ICT Department will provide technical support to students.    This is part of our efforts to ensure that there is minimum disruption to students’ learning.  
 
