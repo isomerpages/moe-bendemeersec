@@ -11,7 +11,7 @@ The ICT Department will provide technical support to students.    This is part o
 
 There will be a fortnightly collection of faulty devices that will be sent via courier to the authorised service centre for repairs. The devices sent through the school may take between 3-4 weeks for repairs, depending on the extent of the damage.
 
-![School-Based Help Desk](/images/31-device-support-01.jpeg)
+![School-Based Help Desk](/images/Keyprogrammes/Ndlp/31-device-support-01.jpeg)
 
 Students can also reach us by filling up a form at [go.gov.sg/bdms-icthelp](https://form.gov.sg/#!/6003ab0667a3e600110513fe)
 
@@ -19,13 +19,13 @@ Students can also reach us by filling up a form at [go.gov.sg/bdms-icthelp](http
 
 Should there be a need to send the device for immediate repairs, or queries about the device, insurance and warranty, you may contact the device contractor directly.
 
-![Device Contractor Information](/images/32-device-support-02.jpeg)
+![Device Contractor Information](/images/Keyprogrammes/Ndlp/32-device-support-02.jpeg)
 
-![Service Centre](/images/33-device-support-03.jpeg)
+![Service Centre](/images/Keyprogrammes/Ndlp/33-device-support-03.jpeg)
 
 ## Insurance and Warranty
 
-![Insurance and Warranty](/images/34-device-support-04.jpg)
+![Insurance and Warranty](/images/Keyprogrammes/Ndlp/34-device-support-04.jpg)
 
 ## Standard Operating Procedure
 
