@@ -10,7 +10,7 @@ At MOE’s Committee of Supply Debate in March 2020, MOE launched the National D
 
 ### Intended Outcomes of the PLD Initiative
 
-![PLD Initiative](/images/11-aim-pdlp.png)
+![PLD Initiative](/images//Keyprogrammes/Ndlp/11-aim-pdlp.png)
 
 ### Bendemeer’s Vision for the PLD Initiative
 
