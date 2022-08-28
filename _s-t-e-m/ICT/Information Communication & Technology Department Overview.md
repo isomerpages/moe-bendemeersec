@@ -30,3 +30,12 @@ The programme is carried out progressively over 2 years; Secondary 1 students wi
 
 As part of the school’s continuing efforts in Education and Career Guidance (ECG), the ICT department started exposing Secondary 3 students to various ICT-related competitions and workshops in 2018.
 These include the National Software Competition and the Youth Cyber Exploration Programme, which also provide an edge for participants in the Early Admission Exercise (EAE) should they fulfil certain criteria from the competition/workshop.
+
+
+> The overriding design goal for Markdown's
+> formatting syntax is to make it as readable
+> as possible. The idea is that a
+> Markdown-formatted document should be
+> publishable as-is, as plain text, without
+> looking like it's been marked up with tags
+> or formatting instructions.
