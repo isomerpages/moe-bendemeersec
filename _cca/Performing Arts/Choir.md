@@ -27,13 +27,13 @@ Performances this year had been very different from the past years.  The School 
 
 For the SYF, the School Choir also had to record their singing in small groups before all the individual audio clips were fused together into a single audio file for the SYF central judging. It was an enriching experience and we look forward to presenting an interesting repertoire in the upcoming performances!
 
-![Training for Singapore Youth Festival](/images/cca-choir-i-SYF-Recording-practice-768x346.jpg)
+![Training for Singapore Youth Festival](/images/Cca/cca-choir-i-SYF-Recording-practice-768x346.jpg)
 Training for Singapore Youth Festival
 
-![Practice for Chinese New Year celebrations](/images/cca-choir-i-chinese-new-year-practice-768x346.jpg)
+![Practice for Chinese New Year celebrations](/images/Cca/cca-choir-i-chinese-new-year-practice-768x346.jpg)
 Practice for Chinese New Year celebrations
 
-![Choir practice](/images/cca-choir-i-choir-practice-768x341.jpg)
+![Choir practice](/images/Cca/cca-choir-i-choir-practice-768x341.jpg)
 Choir practice
 
 *I have always loved to sing but I did not have the confidence to do so in front of others. The choir had helped me to hone not only my singing ability but also my confidence and leadership abilities. At first, the training was tiring and difficult, however I always looked forward to attending CCA as I get to do what I love to do and train together with my friends. In choir, I made numerous unforgettable memories and experiences that I would always be grateful for. I am truly glad that I decided to join the choir.*
