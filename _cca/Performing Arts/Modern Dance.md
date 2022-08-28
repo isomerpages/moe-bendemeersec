@@ -31,16 +31,16 @@ After SYF was over, we welcomed in the Secondary One students where Mr Khye taug
 
 These past few months have really been challenging however we are looking forward to burn up the dance floor once the situation improves.
 
-![Teachers’ Day performance](/images/cca-dance-i-Teacher_s-Day-Performance-768x513.jpg)
+![Teachers’ Day performance](/images/Cca/cca-dance-i-Teacher_s-Day-Performance-768x513.jpg)
 Teachers’ Day performance
 
-![Singapore Youth Festival presentation](/images/cca-dance-i-SYF-Presentation-768x512.jpg)
+![Singapore Youth Festival presentation](/images/Cca/cca-dance-i-SYF-Presentation-768x512.jpg)
 Singapore Youth Festival presentation
 
-![Return from Singapore Youth Festival competition](/images/cca-dance-i-SYF-Competition-768x337.jpg)
+![Return from Singapore Youth Festival competition](/images/Cca/cca-dance-i-SYF-Competition-768x337.jpg)
 Return from Singapore Youth Festival competition
 
-![Singapore Youth Festival street dance team](/images/cca-dance-i-The-Street_s-Addiction-768x576.jpg)
+![Singapore Youth Festival street dance team](/images/Cca/cca-dance-i-The-Street_s-Addiction-768x576.jpg)
 Singapore Youth Festival street dance team
 
 *These four years have been like a roller coaster to me. During this time, I have learnt to become a much stronger and a more confident person. I will never forget this amazing journey with such fabulous people. These past few years have been tough due to the ongoing pandemic, coping with both CCA and schoolwork. However, I am proud that as a team we have managed to pull through and emerged stronger dancers. I am proud of being a part of TSA and I want to thank everyone who has given me a helping hand along the way.*
