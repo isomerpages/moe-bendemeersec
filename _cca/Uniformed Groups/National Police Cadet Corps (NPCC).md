@@ -26,7 +26,7 @@ The National Police Cadet Corps (NPCC) was formed in 1959 and has become one of 
 
 The mission of the National Police Cadet Corps is to develop our members to be active citizens and community leaders, by working in partnership with Singapore Police Force to fight crime and keep Singapore safe.
 
-![Passing out parade](/images/cca-npcc-i-Passing-out-parade-768x512.jpg)
+![Passing out parade](/images/Cca/cca-npcc-i-Passing-out-parade-768x512.jpg)
 Passing out parade
 
 NPCC cadets undergo various training in their 4-year stint, which include physical fitness training, foot-drills, camp-craft skills, camps, police knowledge courses and visits. Through challenging situations, our cadets hone their leadership qualities and are groomed to become leaders with strong character and positive social, moral and civic values.
@@ -35,7 +35,7 @@ Cadets’ achievements are recognised through attaining skill proficiency badges
 
 The National Police Cadet Corps is a fulfilling and enriching co-curricular activity, one in which cadets learn and grow significantly in personal competencies and leadership.
 
-![High rope courses on Pulau Ubin](/images/cca-npcc-i-IMG-20190805-WA0004-768x1024.jpg)
+![High rope courses on Pulau Ubin](/images/Cca/cca-npcc-i-IMG-20190805-WA0004-768x1024.jpg)
 High rope courses on Pulau Ubin
 
 #### 4 year Programme Highlights
@@ -61,12 +61,12 @@ Inter-Unit Competitions:
 * Campcraft competition
 * .22 revolver shooting competition
 
-![Pinning on badges for juniors](/images/cca-npcc-i-pinning-on-badges-for-juniors-768x1024.jpg)
+![Pinning on badges for juniors](/images/Cca/cca-npcc-i-pinning-on-badges-for-juniors-768x1024.jpg)
 
 For more information, visit [https://www.npcc.org.sg/index.html](https://www.npcc.org.sg/index.html)
 
 
-![Combined uniformed group hike](/images/cca-npcc-i-combined-UG-hike-768x373.jpg)
+![Combined uniformed group hike](/images/Cca/cca-npcc-i-combined-UG-hike-768x373.jpg)
 Combined uniformed group hike
 
 *Being in NPCC for three years has taught me a lot of values and has nurtured me into a better person and a better leader. It has shown me the importance of leadership, teamwork, communication and responsibility. The most memorable experience has to be being in charge of the Secondary Two cadets. It was challenging to come up with lessons that the cadets would understand. It was a rocky road but I had my squadmates who were very helpful and it was an overall happy experience. Through tough times I have bonded with my squadmates, I had to step out of my comfort zone and this made me into a stronger person.*
