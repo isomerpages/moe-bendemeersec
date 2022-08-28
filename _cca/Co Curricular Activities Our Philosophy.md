@@ -5,13 +5,13 @@ description: ""
 ---
 # Co-Curricular Activities - Our Philosophy
 
-![NPCC Passing Out Parade](/images/cca-npcc-i-Passing-out-parade-300x200%201.jpg)
+![NPCC Passing Out Parade](/images/cca/cca-npcc-i-Passing-out-parade-300x200%201.jpg)
 
-![Girl Guides](/images/CCA-girl_guides01-300x171%201.jpg)
+![Girl Guides](/images/cca/cca-girl-guides01-300x171%201.jpg)
 
-![NCC Orientation Day](/images/cca-ncc-i-NCC-Orientation-Day-300x200%201.jpg)
+![NCC Orientation Day](/images/cca/cca-ncc-i-NCC-Orientation-Day-300x200%201.jpg)
 
-![Red Cross volunteer and demonstrator practicing CPR](/images/cca-redx-i-Volunteer-instructor-demonstrating-CPR-300x200%201%201.jpg)
+![Red Cross volunteer and demonstrator practicing CPR](/images/cca/cca-redx-i-Volunteer-instructor-demonstrating-CPR-300x200%201%201.jpg)
 
 CCAs are an integral part of our students’ holistic education. Our philosophy of CCA is for our students to discover their interests and talents while developing values and competencies that will prepare them for the rapidly changing world.
 
@@ -24,4 +24,3 @@ Provision is also made for all students to be exposed to the basics of the CCA, 
 Each CCA also incorporates CCA-based Values in Action (VIA) activities or projects which are teacher-led or student-initiated to provide service learning opportunities and student leadership development.
 
 The school also recognises that participation through CCA fosters social integration as students build friendships that are not bound by their diverse backgrounds while they learn, play and grow together. It also deepens the students’ sense of belonging, commitment and responsibility to school, community and nation.
-
