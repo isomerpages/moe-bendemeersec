@@ -8,7 +8,7 @@ third_nav_title: CCE
 
 Our Cyber Wellness programme is guided by MOE’s Cyber Wellness Framework which focuses on the Sense-Think-Act Process.
 
-![MOE’s Cyber Wellness Framework](/images/MOE’s%20Cyber%20Wellness%20Framework.png)
+![MOE’s Cyber Wellness Framework](/images/Departments/35-cyberwellframe.jpeg)
 **MOE’s Cyber Wellness Framework**
 
 The aim of our Cyber Wellness programme is to develop responsible digital learners who demonstrate respect for themselves and others through the positive use of technology.
