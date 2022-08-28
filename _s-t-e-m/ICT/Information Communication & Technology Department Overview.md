@@ -39,3 +39,50 @@ These include the National Software Competition and the Youth Cyber Exploration 
 > publishable as-is, as plain text, without
 > looking like it's been marked up with tags
 > or formatting instructions.
+
+This is a test.<br>with two spaces
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:0px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:0px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0kus{background-color:#ebf5ff;border-color:inherit;color:#444444;text-align:right;vertical-align:top}
+.tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
+.tg .tg-wy6l{background-color:#ebf5ff;border-color:inherit;color:#444444;text-align:center;vertical-align:top}
+.tg .tg-fdx2{background-color:#ebf5ff;border-color:inherit;color:#444444;font-size:22px;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow"></th>
+    <th class="tg-c3ow">s</th>
+    <th class="tg-dvpl">kjkjhjkhjk</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-wy6l"></td>
+    <td class="tg-wy6l">ss</td>
+    <td class="tg-0kus">rsss</td>
+  </tr>
+  <tr>
+    <td class="tg-wy6l">nbbf</td>
+    <td class="tg-fdx2">ss</td>
+    <td class="tg-0kus">hszd<br>z<br><br>z<br>z<br>z<br>z</td>
+  </tr>
+  <tr>
+    <td class="tg-wy6l"></td>
+    <td class="tg-wy6l"></td>
+    <td class="tg-0kus">ghgjhjh</td>
+  </tr>
+  <tr>
+    <td class="tg-wy6l"></td>
+    <td class="tg-wy6l">hjjhhjg</td>
+    <td class="tg-0kus">nbnb</td>
+  </tr>
+</tbody>
+</table>
+
