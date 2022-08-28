@@ -10,15 +10,15 @@ third_nav_title: Physical Education
 ### VISION, MISSION AND DEPARTMENT’S GOALS
 
 **Vision**
-
+<br>
 Every Bendemeerian is able to understand, appreciate and take initiative to lead an active and healthy lifestyle while exhibiting positive character traits.
 
 **Mission**
-
+<br>
 Inspiring active learners to be healthy through physical activity.
 
 **Department’s Goals**
-
+<br>
 • Every physically educated Bendemeerian understands how to lead an active and healthy lifestyle through regular participation in physical activities.
 
 • Every physically educated Bendemeerian is able to display positive character traits like responsibility and respect through different experiences.
@@ -27,20 +27,11 @@ Inspiring active learners to be healthy through physical activity.
 
 **Programmes**
 
-●	Sec 1 Swimming Program
-
-●	Games and Sports <br>
-* Currently Bendemeer offers Tchoukball, Badminton, Basketball, Netball, Softball, Football, Volleyball and Floorball.
-
-●	Outdoor Education <br>
-*  Orienteering, Outdoor Cooking, Sec 2 Adventure Camp
-
-●	Physical Health and Fitness
-
-●	PE Assessment
-
-●	Annual Sports Carnival
-
-●	Annual Cross Country Championships
-
-●	Inter Class Games
+●	Sec 1 Swimming Program<br>
+●	Games and Sports <br>** Currently Bendemeer offers Tchoukball, Badminton, Basketball, Netball, Softball, Football, Volleyball and Floorball.<br>
+●	Outdoor Education <br>* Orienteering, Outdoor Cooking, Sec 2 Adventure Camp<br>
+●	Physical Health and Fitness<br>
+●	PE Assessment<br>
+●	Annual Sports Carnival<br>
+●	Annual Cross Country Championships<br>
+●	Inter Class Games<br>
