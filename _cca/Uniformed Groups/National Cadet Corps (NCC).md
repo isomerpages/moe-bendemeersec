@@ -28,10 +28,10 @@ Bendemeer Secondary School’s NCC unit was awarded Gold in the Best Unit Compet
 
 All in all, it has been an eventful year for Bendemeer NCC (Land) unit. We will continue to challenge and develop our cadets as we build a NCC that is Nurturing, Committed and Cool.
 
-![Going on a hike](/images/cca-ncc-i-ncc-hike-768x512.jpg)
+![Going on a hike](/images/Cca/cca-ncc-i-ncc-hike-768x512.jpg)
 Going on a hike
 
-![NCC orientation day](/images/cca-ncc-i-NCC-Orientation-Day-768x512.jpg)
+![NCC orientation day](/images/Cca/cca-ncc-i-NCC-Orientation-Day-768x512.jpg)
 NCC orientation day
 
 *This year has been quite eventful as I was nominated to be the USM. As I had never gotten any leadership roles in my previous CCAs, I was at first quite petrified of leading the CCA to failure. Through the help of supportive Cadets, Master Sergeants and Instructors, I was able to gain confidence in being able to lead the CCA. Though I held a leadership role, it is not always smooth sailing. Cadets might be reluctant to follow orders or may need help. I always try to help whenever it is needed and try to resolve conflict. Even though being a USM may be tiring, I still enjoy being a leader.*
