@@ -63,7 +63,7 @@ To uphold the five school values when participating in CCA activities.
 
 The Bendemeer Secondary Sepak Takraw is a CCA that provides our students with a keen interest in the sport a platform to not only enhance their playing skills but to have a CCA that is both interesting and challenging. Over the years, camaraderie, team work and sportsmanship is instilled, especially when representing the school at competitive levels. As they experience sports at a competitive level, the school hopes to prepare them psychologically for future sporting endeavours as they move on to higher educational institutions.
 
-![Ready to strike!](/images/cca-takraw-i-ready-to-strike-768x512.jpg)
+![Ready to strike!](/images/Cca/cca-takraw-i-ready-to-strike-768x512.jpg)
 Ready to strike!
 
 
@@ -71,15 +71,15 @@ Our players are enthusiastic and motivated to learn the skills of the sport. The
 
 The Bendemeer Sepak Takraw team kicked start the year by recruiting new members from Secondary One through skill testing trials during the Orientation week. After several sessions of intensive trainings, we had our friendly matches between the ‘B’ and ‘C’ division boys to assess our players’ readiness and competiveness.  These matches and trainings provide us with a great opportunity to build good and strong friendship with others. It also gives the new members a good platform for team bonding.
 
-![Players standing, ready to defend](/images/cca-takraw-i-standing-ready-to-defend-768x576.jpg)
+![Players standing, ready to defend](/images/Cca/cca-takraw-i-standing-ready-to-defend-768x576.jpg)
 
 During training, the team not only focuses on the athletic aspects critical to the sport but also on character building and leadership. School values such as resilience, respect and integrity are instilled in every player throughout the training sessions. Our athletes looked forward to these trainings and often turn up even before training starts. Trainings may be exhausting and gruelling but the boys always enjoy themselves and persevere throughout the training sessions.
 
-![Players warming up](/images/cca-takraw-i-warm-ups-768x512%20(1).jpg)
+![Players warming up](/images/Cca/cca-takraw-i-warm-ups-768x512%20(1).jpg)
 
 The teachers and coach have built a very strong rapport with these boys and often motivate and encourage them not only in terms of having good sportsmanship but also on character-building and studies.
 
-![Sepak Takraw B Division Players](/images/cca-takraw-i-Sepak-Takraw-B-Div-768x512.jpg)
+![Sepak Takraw B Division Players](/images/Cca/cca-takraw-i-Sepak-Takraw-B-Div-768x512.jpg)
 
 *I am happy that despite the pandemic, I managed to play Sepak takraw to represent the school as this will be my last year with the school. We were not able to train much due to the occasional school closure, however we gave our best during each training session and during the competition. As the team captain, I can say that we  have forged stronger ties and hope our friendships will last beyond our secondary school years.*
 
@@ -94,5 +94,5 @@ The teachers and coach have built a very strong rapport with these boys and ofte
 
 **- Muhammad Rahul bin Mohamed Raffi (4R8)**
 
-![Warm ups](/images/cca-takraw-i-warm-ups-768x512.jpg)
+![Warm ups](/images/Cca/cca-takraw-i-warm-ups-768x512.jpg)
 Warm ups
