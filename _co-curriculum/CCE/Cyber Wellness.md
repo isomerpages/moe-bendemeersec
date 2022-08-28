@@ -17,10 +17,10 @@ Aligned to our school’s Vision, Mission and Values and Character and Citizensh
 
 Our Cyber Wellness Education comprises of lessons in the formal curriculum (CCE CW Guidance Module), school-wide programmes (Assembly talks and customised workshops) and the introduction of Cyber Wellness issues to parents through talks and foyer displays during Meet-the-Parent sessions, to reinforce the importance of Cyber Wellness and its messages. Our Cyber Wellness Student Ambassador (CWSA) Programme also provides platforms for our CWSAs to share Cyber Wellness messages with their peers.
 
-![Cyber wellness lessons](/images/cyber.png)
+![Cyber wellness lessons](/images/Departments/cce-cyber.png)
 
 The following links from ICT Connection include a useful list of guides, tips and resources to reinforce our Cyber Wellness Education:
 
-1. [Cyber Wellness (For Parents)](/files/Cyber-Wellness-Slides-Parents.pdf)
-2. [Semester 1 Cyber Wellness (For Students)](/files/Sem-1-Cyber-Wellness-Slides-Students.pdf)
-3. [Semester 2 Cyber Wellness (For Students)](/files/Sem-2-Cyber-Wellness-Slides-Students.pdf)
+1. [Cyber Wellness (For Parents)](/files/Department/cce-Cyber-Wellness-Slides-Parents.pdf)
+2. [Semester 1 Cyber Wellness (For Students)](/files/Department/cce-Sem-1-Cyber-Wellness-Slides-Students.pdf)
+3. [Semester 2 Cyber Wellness (For Students)](/files/Department/cce-Sem-2-Cyber-Wellness-Slides-Students.pdf)
