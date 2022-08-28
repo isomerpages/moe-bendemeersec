@@ -11,9 +11,9 @@ The Model Bendemeerian Award is awarded to 1 student from every level (Secondary
 
 This award signifies the importance that our school places on character and values, on par with achievements in the academic domain. The award is carried out annually based on a whole school approach to nominate and award deserving students. Should your child be a Singaporean and nominated for this award, he or she will also be considered for the Edusave Character Awards at the end of the year.
 
-![Model Bendemeerian Award](/images/character%20awards%20first%202.png)
+![Model Bendemeerian Award](/images/Departments/cce-character%20awards%20first%202.png)
 
-![Model Bendemeerian Award](/images/next%202.png)
+![Model Bendemeerian Award](/images/Departments/cce-character-next%202.png)
 
 ## Edusave Character Awards (ECHA)
 
