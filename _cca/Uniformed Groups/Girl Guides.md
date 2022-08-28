@@ -22,7 +22,7 @@ Nur Azyza Binte Mohamad Azman (3R6)
 
 Emerging from the pandemic of 2020, Bendemeer Guides were eager and hopeful that 2021 would be a year back to normalcy. Making the most of Safety Management Measures (SMM), our guides sought to conduct activities in person to gel the new Secondary One guides who joined us at the beginning of the year. Besides our usual programme of roll call, drills, physical training, and familiarising ourselves with the history of guiding, we tried to fun team-bonding incorporate games. Our Company hosted the Baden Powell (BPA) written test for the South Division schools.  Two of our guides, Areefa and Shannon attended the first virtual WAGGGS Leadership Mindset Course in April.
 
-![Passing out parade](/images/i-passing-out-parade.jpg)
+![gg-group photo](/images/Cca/cca-girlguide-i-passing-out-parade.jpg)
 Passing out parade
 
 In April, Secondary One and Two Bendemeer guides participated in an origami session using ‘ang pow’ packets to make fish and lanterns to decorate the Guides room and notice board. To make it more interesting, the guides had to vote which end products were deserving to be displayed. The girls found the session enjoyable and engaging. In order to further inject more fun activities into our programme, the girls cooked instant noodles in mess tins using solid fuel in an outdoor cooking activity which was well received. Getting the fire going required much patience and girls learnt to share and care for one another. Our Secondary One guides were led through a session of learning the Guide Law as part of their enrolment requirements. Guides worked on the Dental badge by researching on dental hygiene and well-being. Three of our guides enrolled in the Mental Health Advocacy Course – an important component for our current landscape.
@@ -31,7 +31,7 @@ The highlight of the year was the South Division Day as our school hosted the vi
 
 My first girl guide camp was very memorable. That was my first camp ever. I was so scared to go to the camp because I had never been in a uniformed group before. The camp was not only fun, it was life-changing. The camp was the first time I got to learn so many life skills like how to cook simple dishes with what we have, and build a shoe rack with just sticks and ropes.
 
-![Girl Guides orientation day](/images/i-GG-Orientation-Day-768x512.jpg)
+![Girl Guides orientation day](/images/Cca/cca-girlguide-i-GG-Orientation-Day-768x512.jpg)
 Girl Guides orientation day
 
 *The most important thing about the camp was that it motivated me to be a Girl Guide. During the camp, our seniors had to teach us about the Girl Guides history and the day and night taps. The way some of my seniors taught us inspired me to be a Guide. When our seniors explained to us about the guides uniform, it inspired me to be a guide even more. In the afternoons all of us would play and sing songs. During those times I really felt like a sense of belonging to the unit.*
