@@ -6,7 +6,7 @@ third_nav_title: CCE
 ---
 # Character and Citizenship Education Overview
 
-![Character and Citizenship Education Overview](/images/cce1.png)
+![Character and Citizenship Education Overview](/images/Departments/cce1.png)
 
 Our school builds our students’ character and nurtures learners who serve the community. Our programmes develop our students as active learners and responsible citizens based on the school values of Integrity, Care, Respect, Responsibility, Resilience and Harmony, with reference to the CCE 2021 Curriculum Frame.
 
@@ -22,4 +22,4 @@ c) **Future readiness**: Have a sense of purpose in life, develop the dispositio
 
 d) **Active citizenship**: Develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore’s vulnerabilities and constraints, and the will to act on improving the lives of others, and building a future for our nation.
 
-![Character and Citizenship Education Overview](/images/cce2.png)
+![Character and Citizenship Education Overview](/images/Departments/cce2.png)
