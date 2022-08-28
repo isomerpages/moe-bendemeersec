@@ -21,6 +21,6 @@ Our Cyber Wellness Education comprises of lessons in the formal curriculum (CCE 
 
 The following links from ICT Connection include a useful list of guides, tips and resources to reinforce our Cyber Wellness Education:
 
-1. [Cyber Wellness (For Parents)](/files/Department/cce-Cyber-Wellness-Slides-Parents.pdf)
-2. [Semester 1 Cyber Wellness (For Students)](/files/Department/cce-Sem-1-Cyber-Wellness-Slides-Students.pdf)
-3. [Semester 2 Cyber Wellness (For Students)](/files/Department/cce-Sem-2-Cyber-Wellness-Slides-Students.pdf)
+1. [Cyber Wellness (For Parents)](/files/Departments/cce-Cyber-Wellness-Slides-Parents.pdf)
+2. [Semester 1 Cyber Wellness (For Students)](/files/Departments/cce-Sem-1-Cyber-Wellness-Slides-Students.pdf)
+3. [Semester 2 Cyber Wellness (For Students)](/files/Departments/cce-Sem-2-Cyber-Wellness-Slides-Students.pdf)
