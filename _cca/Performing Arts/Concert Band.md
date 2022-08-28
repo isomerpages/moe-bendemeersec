@@ -23,18 +23,18 @@ Lim En Jie Janavia (4R2)
 **Drum Major:** <br>
 Kirthik Vnesh Naidu S/O Alwar Naidu (4R1)
 
-![Playing solo](/images/cca-band-i-Playing-solo-683x1024.jpg)
+![Playing solo](/images/Cca/cca-band-i-Playing-solo-683x1024.jpg)
 
 2021 has indeed been a unique year for the Concert Band, amidst the global pandemic. We started the year with the Secondary One orientation, through a class-by-class presentation rather than the typical trying out of instruments. We were pleasantly surprised by the number of enthusiastic Secondary Ones joining Band this year.
 
-![Concert Band at the Singapore Youth Festival 2021](/images/cca-band-i-SYF-Competition-Day-768x387.jpg)
+![Concert Band at the Singapore Youth Festival 2021](/images/Cca/cca-band-i-SYF-Competition-Day-768x387.jpg)
 Concert Band at the Singapore Youth Festival 2021
 
 However, our usual Band practices were disrupted by the Covid-19 restrictions and hence the focus in the first half of the year laid heavily on our senior Band members, who were focused on the biennial 2021 Singapore Youth Festival Presentation. Training intensified as the competition drew nearer in April. Despite the uncertainties of the new measures and restrictions in place for the performance, our students pulled through with their heartfelt rendition of Acclamations by Ed Huckeby, eventually clinching an Accomplishment award. The school is very proud of their efforts and achievements.
 
 After the SYF season, we sincerely bade farewell to our graduating Band members who have to focus on their national examinations. Following the loosening of restrictions for CCA to resume, our lower secondary students started band practice again in the middle of Term 2. The Secondary Ones, in particular, were ecstatic to finally learn to play their allocated instruments. Under the guidance of our instructors and more experienced players, we are positive that Concert Band can flourish through the adversities and continue to excel in the coming years.
 
-![Singapore Youth Festival competition day](/images/cca-band-i-Concert-Band-SYF20212-768x515.jpg)
+![Singapore Youth Festival competition day](/images/Cca/cca-band-i-Concert-Band-SYF20212-768x515.jpg)
 
 *The most memorable event that I have participated in is the Singapore Youth Festival in 2021. Even though we did not achieve the Certificate of Distinction, we really tried our best and for this year’s SYF, we did not really get any help from our seniors due to the pandemic and strict rules about intermingling But we were lucky enough to have our tutors, instructor and teachers supporting us. I would like to say to the current and future Band members that they should always support one another, always work together as one and have respect for each other.*
 
@@ -54,4 +54,3 @@ After the SYF season, we sincerely bade farewell to our graduating Band members 
 *My most memorable experience in band is when I attended the 2021 Singapore Youth Festival. I got to experience it with my seniors and friends. It was my first SYF in Secondary School and with the help from my bandmates and teachers, I was able to catch up and do my best. I learnt new skills and new things about music. I would like to thank my seniors for guiding me and helping me to improve. I would also like to thank my teachers and instructors for their support.*
 
 **- Nur Natasha Binte Abdul Latif (2R6)**
-
