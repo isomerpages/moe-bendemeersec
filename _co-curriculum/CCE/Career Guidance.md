@@ -9,7 +9,7 @@ third_nav_title: CCE
 Education and Career Guidance (ECG) is about equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work, and hence to manage their career pathways and lifelong learning throughout their lives. Through ECG, social emotional competencies and qualities of proactivity, adaptability and resilience are developed to prepare students for the 21st Century.
 For students who wish to consult with the school’s ECG counsellor Ms Sharon Tay, you may book a session with her via email (tay_liu_kian_sharon@schools.gov.sg):
 
-![Education and Career Guidance Poster](/images/ecg2022.png)
+![Education and Career Guidance Poster](/images/Departments/cce-ecg2022.png)
 
 In order for our students to be future ready in the 21st century, it is important that we provide knowledge that will enable students to better understand themselves and explore viable education and career options. With the use of e-careers portal, career forum and visits to tertiary education institutions, we guide our students to make informed decisions and develop plans to achieve their career aspirations.
 
@@ -20,9 +20,8 @@ In order for our students to be future ready in the 21st century, it is importan
 
 **Secondary 2 ECG Programme:**
 
-![Secondary 2 ECG Programme](/images/sec%202%20ecg.png)
+![Secondary 2 ECG Programme](/images/Departments/sec%202%20ecg.png)
 
 **Secondary 3 ECG Programme:**
 
-![Secondary 3 ECG Programme](/images/sec%203%20ecg.png)
-
+![Secondary 3 ECG Programme](/images/Departments/sec%203%20ecg.png)
