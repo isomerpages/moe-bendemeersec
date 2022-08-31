@@ -30,3 +30,10 @@ links:
     collection: achievements
   - title: Contact Us
     url: /contact-us/
+  - title: weqwe
+    url: https://youtube.com/
+  - title: Menu Title
+    url: /permalink
+    sublinks:
+      - title: Submenu Title2
+        url: /permalink
