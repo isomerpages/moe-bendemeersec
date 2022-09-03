@@ -4,7 +4,6 @@ permalink: /key-programmes/learning-for-life-programme-llp/llp-student-council/s
 description: ""
 third_nav_title: Learning for Life Programme
 ---
-
 # Student Council LLP Overview
 
 **Student Council LLP**
@@ -44,3 +43,7 @@ A group of SCs decided to raise awareness of food wastage in school. This came a
 ![Food Wastage Awareness In Bendemeer Secondary School](/images/Food%20Wastage%20Awareness%20In%20Bendemeer%20Secondary%20School.jpg)
 
 ![Food Wastage Awareness In Bendemeer Secondary School](/images/Food%20Wastage%20Awareness%20In%20Bendemeer%20Secondary%20School%202.jpg)
+
+![Student Council Learning for Life Programme](/images/Student%20Council%20Learning%20for%20Life%20Programme.jpg)
+
+![Student Council Learning for Life Programme](/images/Student%20Council%20Learning%20for%20Life%20Programme%202.jpg)
