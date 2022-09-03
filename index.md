@@ -14,5 +14,5 @@ sections:
           url: /announcements/announcements
         - title: Useful Links
           description: Click here for useful links!
-          url: /useful-links/2022-sec-1-registration/sale-of-uniform-and-books
+          url: /useful-links/infolinks
 ---
