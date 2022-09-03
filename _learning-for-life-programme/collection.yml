@@ -2,7 +2,7 @@ collections:
   learning-for-life-programme:
     output: true
     order:
-      - (LLP).md
+      - LLP Overview.md
       - LLP  Secondary 1.md
       - LLP  Secondary 2.md
       - LLP Secondary 3.md
