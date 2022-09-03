@@ -7,5 +7,4 @@ description: ""
 ---
 Click on the following URL to view the timetable
 
-https://bendemeersec.edupage.org/timetable/
-
+[https://bendemeersec.edupage.org/timetable/](https://bendemeersec.edupage.org/timetable/)
