@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 2022 Sec 1 Registration/.keep
-      - 2022 Sec 1 Registration/First Day of School.md
       - 2022 Sec 1 Registration/Sec 1 Meet The Parents.md
       - DSA Registration.md
       - Infolinks.md
