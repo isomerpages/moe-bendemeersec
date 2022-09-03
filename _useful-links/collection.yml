@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - 2022 Sec 1 Registration/.keep
       - DSA Registration.md
       - Infolinks.md
       - Class Timetable.md
