@@ -28,9 +28,9 @@ links:
         url: /key-programmes/after-school-engagement-programme
   - title: Achievements
     collection: achievements
+  - title: Useful LInks
+    collection: useful-links
   - title: Contact Us
     url: /contact-us/
   - title: ReourceRoom
     resource_room: true
-  - title: Useful LInks
-    collection: useful-links
