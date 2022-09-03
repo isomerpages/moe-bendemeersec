@@ -1,7 +1,0 @@
-collections:
-  departments:
-    output: true
-    order:
-      - Language and Humanities/.keep
-      - S T E M/.keep
-      - Co Curriculum/.keep
