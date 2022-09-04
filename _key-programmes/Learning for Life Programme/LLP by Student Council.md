@@ -6,7 +6,7 @@ third_nav_title: Learning for Life Programme
 ---
 ## **Student Council LLP Overview**
 
-**Student Council LLP**
+##### **Student Council LLP**
 
 Heart in service and communication skills are paramount for a Bendemeerian leader to identify problems and successfully convey ideas or motivate their peers. The 2018 Student Council’s LLP initiative saw four different projects carried out over the course of the year.
 
