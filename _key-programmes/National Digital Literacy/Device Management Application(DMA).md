@@ -66,3 +66,10 @@ A Device Management Application (“DMA”) will come pre-installed on all PLDs 
   </tr>
 </tbody>
 </table>
+
+<br>
+
+### DMA Settings After School Hours
+
+1.     During school hours, the Default Setting will apply. Parents/Guardians are given a choice to opt for an Alternative Setting, which will apply only to after school hours. The following table outlines the different levels of restrictions, controls and monitoring for the different DMA options after school hours.
+2.     
