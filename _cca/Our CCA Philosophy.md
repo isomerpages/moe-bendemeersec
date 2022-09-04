@@ -6,15 +6,6 @@ description: ""
 ## **Co-Curricular Activities - Our Philosophy**
 
 
-
-| ![](/images/Cca/cca-girlguides01-300x171%201.jpg) | ![](/images/Cca/cca-ncc-i-NCC-Orientation-Day-300x200%201.jpg) |  |
-| -------- | -------- |-|
-| ![](/images/Cca/cca-npcc-i-Passing-out-parade-300x200%201.jpg)     | ![](/images/Cca/cca-redx-i-Volunteer-instructor-demonstrating-CPR-300x200%201%201.jpg)     | 
-
-
-![](/images/Cca/cca-philosophy.jpg)
-
-
 ![](/images/Cca/cca-philosophy845.jpg)
 
 CCAs are an integral part of our students’ holistic education. Our philosophy of CCA is for our students to discover their interests and talents while developing values and competencies that will prepare them for the rapidly changing world.
