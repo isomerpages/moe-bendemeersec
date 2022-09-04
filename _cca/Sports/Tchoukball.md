@@ -1,10 +1,10 @@
 ---
 title: Tchoukball
-permalink: /cca/sports/tchoukball
+permalink: /cca/sports/tchoukball/
 description: ""
 third_nav_title: Sports
 ---
-# Tchoukball
+## **Tchoukball**
 
 **Teachers-in-Charge:** <br>
 Mr Seah Seng Chye (I/C) <br>
