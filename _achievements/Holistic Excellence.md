@@ -1,13 +1,13 @@
 ---
 title: Holistic Excellence
-permalink: /achievements/holistic-excellence
+permalink: /achievements/holistic-excellence/
 description: ""
 ---
 # Holistic Excellence
 
 **Organisational Excellence**
 
-![Holistic Excellence](/images/Accolades-1024x356.jpg)
+![Holistic Excellence](/images/Achievements/Accolades-1024x356.jpg)
 
 **Academic Excellence**
 
@@ -41,4 +41,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
