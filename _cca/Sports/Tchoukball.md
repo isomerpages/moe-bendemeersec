@@ -6,33 +6,61 @@ third_nav_title: Sports
 ---
 ## **Tchoukball**
 
-**Teachers-in-Charge:** <br>
-Mr Seah Seng Chye (I/C) <br>
-Mrs Sharon Chin (2I/C) <br>
-Mr Theodore Tan <br>
-Mr Mark Sanjay
 
-**Coach:** <br>
-Mr Jeff Ang
 
-**Boys Captain:** <br>
-Chong Wen Cong Brion (4R3)
+| |  | 
+| -------- | -------- |
+|**Teachers-in-Charge:**<br>Mr Seah Seng Chye (I/C)<br>Mrs Sharon Chin (2I/C) <br>Mr Mark Sanjay<br><br>**Coach:** <br>Mr Jeff Ang<br><br>**Boys Captain:** <br>Haomin (4R2)<br><br>**Boys Vice-Captain:** <br>Rayius (4R6)<br><br>**Girls Captain:** <br>Claudia (4R2)<br><br>**Girls Vice-Captain:** <br>Eunice (4R2)<br>Xinyi (4R3)     | ![Strike](/images/Cca/tchoukball-Strike-683x1024.jpg)     | 
 
-**Boys Vice-Captain:** <br>
-Saravanan S/O Elammaran (4R8)
 
-**Girls Captain:** <br>
-Claudia Tan (4R2)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3jrd{border-color:inherit;font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;font-size:medium;
+  text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-3jrd">Recent Achievements<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3jrd">Tchoukball Inter Schools Tournament 2022 B Division  (Girls)<br>3rd in Cup Category</td>
+  </tr>
+</tbody>
+</table>
 
-**Girls Vice-Captain:** <br>
-Liu Xin Yi (4R3)
-
-![Strike](/images/Cca/tchoukball-Strike-683x1024.jpg)
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3jrd{border-color:inherit;font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;font-size:medium;
+  text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-3jrd">Recent Achievements<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3jrd">Tchoukball Inter Schools Tournament 2022 B Division  (Boys)<br>3rd in Cup Category<br>4th in Plate Category<br>
+1st in Bowl Category</td>
+  </tr>
+</tbody>
+</table>
 
 The Covid-19 pandemic and constant disruptions have both immensely impacted our training since mid-2020. However, the Tchoukball team has adapted and continually found ways to ensure that all our players grow in technical skill, physical ability, and mental strength. Through taking a “Back to Basics” approach, we have taken this time of disruption as a good chance to train up our fundamentals and fitness. When the time to resume full training and competitions comes back around, we will be ready to go out there and fight for the school!
 
-![Cheer Hard](/images/Cheer-Hard-768x509.jpg)
+![](/images/Cca/tchoukball-Cheer-Hard-768x509.jpg)
 
 "*I learnt from the competitions and training that no matter how tough the competition or training is, you have to put in effort and try your very best and not give up. I also learnt that winning is not everything to aim for in a match – doing our best and being proud of ourselves after the game is what we should aim for.*"
 
