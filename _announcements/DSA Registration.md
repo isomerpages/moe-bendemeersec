@@ -3,11 +3,9 @@ title: DSA Registration
 permalink: /announcements/dsa-registration/
 description: ""
 ---
+## DSA Registration
 
-
-# DSA Registration
-
-## Direct School Admission (DSA-Sec) – For 2023 Secondary One Admission
+#### Direct School Admission (DSA-Sec) – For 2023 Secondary One Admission
 
 Bendemeer Secondary School is able to offer admission to students under the DSA-Secondary programme. We are now inviting current Primary Six students who have a keen interest in the following areas to join the school through the Direct School Admission (DSA-Sec) Exercise.
 
@@ -18,7 +16,7 @@ Bendemeer Secondary School is able to offer admission to students under the DSA-
 
 *LEARNING FOR LIFE PROGRAMME (LLP): DEVELOPING STUDENT LEADERSHIP THROUGH SERVICE LEARNING*
 
-**1. Our LLP Programme For Successful DSA Students**
+ **1. Our LLP Programme For Successful DSA Students**
 
 Bendemeer Secondary School is focused on developing student leadership through service learning. While still encapsulating the core objectives of National Education, such as nurturing students into active citizens with a sense of rootedness and responsibility to their community and fellow Singaporeans, the LLP will also provide students with real-life experiential learning to develop their character and values, cultivate positive attitudes, self-expression and strengthen their people skills.
 
