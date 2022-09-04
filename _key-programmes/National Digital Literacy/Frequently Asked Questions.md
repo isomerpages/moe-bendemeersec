@@ -252,4 +252,12 @@ third_nav_title: National Digital Literacy
 </tbody>
 </table>
 
-Should you have any queries, please click [here](https://form.gov.sg/#!/6003ab0667a3e600110513fe) or scan the QR Code below to submit your queries.
+
+
+| |  | 
+| -------- | -------- | 
+| <br><br>Should you have any queries, please click [here](https://form.gov.sg/#!/6003ab0667a3e600110513fe) or scan the QR Code on the right to submit your queries.     | ![](/images/Keyprogrammes/Ndlp/ndlp-bdms-icthelp-qrcode.png)     | 
+
+
+
+
