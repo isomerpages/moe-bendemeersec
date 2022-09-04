@@ -4,7 +4,7 @@ permalink: /cca/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# National Police Cadet Corps (NPCC)
+## **National Police Cadet Corps (NPCC)**
 
 **Teachers-in-Charge:** <br>
 A/ASP (NPCC) Ms Sabrina Wee (OC) <br>
