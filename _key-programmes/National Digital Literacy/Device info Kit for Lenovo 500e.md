@@ -1,10 +1,10 @@
 ---
 title: Device info Kit for Lenovo 500e
-permalink: /key-programmes/national-digital-literacy-programme/device-information-kits/pld-for-sec-2-3-and-4
+permalink: /key-programmes/national-digital-literacy-programme/device-information-kits/pld-for-sec-2-3-and-4/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-## Device Information Kit  for Lenovo 500e Chromebook
+## **Device Information Kit for Lenovo 500e Chromebook**
 
 ### School-Based Help Desk
 The ICT Department will provide technical support to students.    This is part of our efforts to ensure that there is minimum disruption to students’ learning.  
