@@ -4,11 +4,6 @@ permalink: /key-programmes/llp/llp-overview/
 description: ""
 third_nav_title: Learning for Life Programme
 ---
-
-
-
-
-
 # Learning for Life Programme (LLP)
 
 **Introduction**
@@ -21,7 +16,8 @@ The second tier involves our student leaders carrying out a student-initiated an
 
 Bendemeer adopts a whole school, thematic approach to VIA. The themes for the different levels are as follows:
 
-![Themes for the different levels](/images/LLP1.png)
+
+![](/images/Keyprogrammes/LLP1.png)
 
 Students are provided opportunities to choose and plan activities for their beneficiaries. This provides them with greater ownership for their projects since they are able to see that their opinions are powerful while they shape outcomes and make a difference to their surroundings.
 
@@ -38,10 +34,4 @@ While Tier 1 is a broad-based community service programme involving the whole st
 
 Some examples of projects undertaken so far include Rainbow Centre, Tsao Foundation, Salvation Army and Club Rainbow.
 
-![Student helping an elderly woman](/images/LLP2.png)
-
-![Students helping out at the garden](/images/LLP3.png)
-
-![Students distributing food](/images/LLP4.png)
-
-![A group of elderly men having a meal together](/images/LLP5.png)
+![](/images/Keyprogrammes/llp-overview.jpg)
