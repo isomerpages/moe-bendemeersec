@@ -15,7 +15,7 @@ There will be a fortnightly collection of faulty devices that will be sent via c
 
 Students can also reach us by filling up a form at [go.gov.sg/bdms-icthelp](https://form.gov.sg/#!/6003ab0667a3e600110513fe)
 
-## Device Contractor Information
+### Device Contractor Information
 
 Should there be a need to send the device for immediate repairs, or queries about the device, insurance and warranty, you may contact the device contractor directly.
 
@@ -23,11 +23,11 @@ Should there be a need to send the device for immediate repairs, or queries abou
 
 ![Service Centre](/images/Keyprogrammes/Ndlp/33-device-support-03.jpeg)
 
-## Insurance and Warranty
+### Insurance and Warranty
 
 ![Insurance and Warranty](/images/Keyprogrammes/Ndlp/34-device-support-04.jpg)
 
-## Standard Operating Procedure
+### Standard Operating Procedure
 
 **3.1.  Reporting of Device Issues (hardware issues and damages)**
 
