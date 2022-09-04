@@ -8,7 +8,7 @@ description: ""
 |  |  |   | 
 | -------- | -------- | ------- |
 | ![MOE](/images/moe.png)    | <br>[MOE website](https://www.moe.gov.sg/)   |  |
-| ![SLS](/images/Usefullinks/SLS.png)| <br>[Student Learning Space](https://vle.learning.moe.edu.sg/login) |  |
+| ![SLS](/images/Usefullinks/sls-logo.png)| <br>[Student Learning Space](https://vle.learning.moe.edu.sg/login) |  |
 |![PG](/images/Usefullinks/usefullink-parentgateway.png) | [Parents Gateway](https://pg.moe.edu.sg/) |   |
 |  |  |
 
