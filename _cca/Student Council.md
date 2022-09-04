@@ -5,22 +5,14 @@ description: ""
 ---
 ## **Student Council**
 
-**Teachers-in-Charge:** <br>
-Mr Glenn Yeong Zhen Pang (I/C) <br>
-Miss Denise Fung Xin Hui (2I/C)
 
-**President:** <br>
-Neha Raja Raman (4R1)
 
-**Vice-Presidents:** <br>
-Samsul Sasmeen (3R1) <br>
-Priyankar Balasubramani (3R1)
 
-**Executive Committee** <br>
-Breia Lim Yu Jia (3R4) <br>
-Junette Ong (3R2) <br>
-Liz-Alva Ong (3R1) <br>
-So Wai Tat (3R3)
+|  |  | 
+| -------- | -------- | 
+| **Teachers-in-Charge**<br>Mr Glenn Yeong Zhen Pang (I/C)<br>Miss Denise Fung Xin Hui (2I/C)<br><br>**President:** <br> Neha Raja Raman (4R1)<br><br>**Vice-Presidents:** <br> Samsul Sasmeen (3R1) <br> Priyankar Balasubramani (3R1)  <br><br>**Executive Committee** <br> Breia Lim Yu Jia (3R4) <br> Junette Ong (3R2) <br> Liz-Alva Ong (3R1) <br> So Wai Tat (3R3)     | ![](/images/Cca/sc-i-teaching-juniors_-768x512.jpg)     | 
+
+
 
 2021 has indeed been a challenging year for the Student Councillors but they still managed to carry out self-directed activities amid these challenging times. As we bid farewell to our graduating students, we would like to acknowledge their contributions as well as the contributions of our juniors.
 
