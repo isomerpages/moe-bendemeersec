@@ -16,7 +16,7 @@ There will be a fortnightly collection of faulty devices that will be sent via c
 
 
 
-## Device Contractor Information
+### Device Contractor Information
 
 Sec 1 students (2022) owns the Acer R752TN PLD.  Should there be a need to send the device for immediate repairs, or queries about the device, insurance and warranty, you may contact the device contractor from Acer Singapore Pte Ltd directly.
 
@@ -24,11 +24,11 @@ Sec 1 students (2022) owns the Acer R752TN PLD.  Should there be a need to send 
 
 ![Service Centre](/images/Keyprogrammes/Ndlp/41-acer-device-support-03.png)
 
-## Insurance and Warranty
+### Insurance and Warranty
 
 ![Insurance and Warranty](/images/Keyprogrammes/Ndlp/41-acer-device-support-04.png)
 
-## Standard Operating Procedure
+### Standard Operating Procedure
 
 **3.1.  Reporting of Device Issues (hardware issues and damages)**
 
