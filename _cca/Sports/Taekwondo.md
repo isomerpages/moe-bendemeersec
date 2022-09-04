@@ -6,21 +6,14 @@ third_nav_title: Sports
 ---
 # Taekwondo
 
-**Teachers-in-Charge:** <br>
-Mrs Chin Chen Han (I/C) <br>
-Mdm Shen May Ling (2I/C)
 
-**Coach:** <br>
-Mrs Rosalind Chow
 
-**Captain:** <br>
-Lim Keyi (4R6)
 
-**Vice-Captains:** <br>
-Leong Wei Ming <br>
-Chermaine Pang (4R6)
+|  |  | 
+| -------- | -------- | 
+| **Teachers-in-Charge:** <br>Mrs Chin Chen Han (I/C) <br>Mdm Shen May Ling (2I/C)<br><br>**Coach:** <br>Mrs Rosalind Chow<br><br>**Captain:** <br>Lim Keyi (4R6)<br><br>**Vice-Captains:** <br>Leong Wei Ming <br>Chermaine Pang (4R6)     | ![Overhead Kick](/images/Cca/cca-tkd-i-Overhead-kick-720x1024.jpg)     | 
 
-![Overhead Kick](/images/Cca/cca-tkd-i-Overhead-kick-720x1024.jpg)
+
 
 Due to the COVID-19 situation, the recruitment for secondary one students was done online. We had to produce a video to promote the CCA.  Members and the coach came up with a few performances that were being video-recorded. It honed the skills of the tech-savvy students who contributed to the whole process of video-recording, the editing and the inclusion of text and music. It was indeed a well-produced video, showcasing the skills that the members have acquired. We managed to recruit 14 secondary one students to join the CCA.
 
