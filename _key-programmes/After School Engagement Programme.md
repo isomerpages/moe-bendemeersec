@@ -1,9 +1,9 @@
 ---
 title: After School Engagement Programme
-permalink: /key-programmes/after-school-engagement-programme
+permalink: /key-programmes/after-school-engagement-programme/
 description: ""
 ---
-# After School Engagement Programme
+## After School Engagement Programme
 
 The After School Engagement (ASE) Programme aims to:
 
@@ -33,14 +33,14 @@ Some of the activities that have been conducted are:
 * Presentation skills
 * Photo booth for Friendship Day
 
-![ASE rafting](/images/ASE%20rafting.jpg)
+![ASE rafting](/images/Keyprogrammes/ase-rafting.jpg)
 
-![Birthday Celebration](/images/Birthday%20Celebration.jpeg)
+![Birthday Celebration](/images/Keyprogrammes/ase-Birthday%20Celebration.jpeg)
 
-![Guitar Workshop](/images/Guitar%20Workshop.jpg)
+![Guitar Workshop](/images/Keyprogrammes/ase-Guitar%20Workshop.jpg)
 
-![Raft Making Activity.](/images/Raft%20Making%20Activity.jpg)
+![Raft Making Activity.](/images/Keyprogrammes/ase-Raft%20Making%20Activity.jpg)
 
-![Rafting](/images/rafting.jpg)
+![Rafting](/images/Keyprogrammes/ase-rafting.jpg)
 
-![Team Bonding Activity.](/images/Team%20Bonding%20Acitivity.jpg)
+![Team Bonding Activity.](/images/Keyprogrammes/ase-Team%20Bonding%20Acitivity.jpg)
