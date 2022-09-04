@@ -54,15 +54,15 @@ A Device Management Application (“DMA”) will come pre-installed on all PLDs 
 <tbody>
   <tr>
     <td class="tg-cey4"><span style="font-weight:bold">1. Mobile Device Management Service</span><br><br>This facilitates the <span style="font-weight:bold">updating and management of the PLDs, protects PLDs from malicious software, </span>and<span style="font-weight:bold"> protects your child/ward from objectionable internet content, or content that may not be conducive to teaching and learning during school hours.</span></td>
-    <td class="tg-cey4"><br>Facilitates automatic installation of apps required for teaching and learning<br>Filters objectionable content or content that may not be conducive to teaching and learning (e.g. social media, pornography, gambling, or websites containing extremist content)<br>Protects your child’s/ward’s PLD from security vulnerabilities through the automatic updating and patching of apps and device Operating System (OS)</td>
+    <td class="tg-cey4"><br>~ Facilitates automatic installation of apps required for teaching and learning<br>~ Filters objectionable content or content that may not be conducive to teaching and learning (e.g. social media, pornography, gambling, or websites containing extremist content)<br>~ Protects your child’s/ward’s PLD from security vulnerabilities through the automatic updating and patching of apps and device Operating System (OS)</td>
   </tr>
   <tr>
     <td class="tg-cey4"><span style="font-weight:bold">2. Classroom Management Service</span><br><br>Enables teachers to <span style="font-weight:bold">manage the student’s use of the PLD </span>during lesson time to improve classroom management and support effective teaching and learning.<br><br>Teachers will only monitor students’ activities during lessons.</td>
-    <td class="tg-cey4">During lessons, teachers will be able to:<br><br>Manage and control devices (e.g. using the “Eyes Up” function)<br>Launch specific applications and/or websites for teaching and learning on your child’s/ward’s device<br>Facilitate the sharing of content<br>Monitor your child’s/ward’s usage and activities during lessons (e.g. screen sharing, monitoring your child’s/ward’s browsing history)</td>
+    <td class="tg-cey4">During lessons, teachers will be able to:<br><br>~ Manage and control devices (e.g. using the “Eyes Up” function)<br>~ Launch specific applications and/or websites for teaching and learning on your child’s/ward’s device<br>~ Facilitate the sharing of content<br>~ Monitor your child’s/ward’s usage and activities during lessons (e.g. screen sharing, monitoring your child’s/ward’s browsing history)</td>
   </tr>
   <tr>
     <td class="tg-cey4"><span style="font-weight:bold">3. Usage Management Service</span><br><br>Enables the school and/or parents/guardians to <span style="font-weight:bold">better supervise and set helpful limits for your child’s/ward’s use of PLD after school.</span></td>
-    <td class="tg-cey4">Screen time control ensures that your child/ward does not use the PLD excessively<br>School and/or parents/guardians can control installation of applications to ensure that the device is used optimally for teaching and learning<br>Safe search and web content filtering protect your child/ward from harmful content<br>Parents/Guardians can monitor usage and activities by child/ward</td>
+    <td class="tg-cey4">~ Screen time control ensures that your child/ward does not use the PLD excessively<br>~ School and/or parents/guardians can control installation of applications to ensure that the device is used optimally for teaching and learning<br>~ Safe search and web content filtering protect your child/ward from harmful content<br>~ Parents/Guardians can monitor usage and activities by child/ward</td>
   </tr>
 </tbody>
 </table>
@@ -92,9 +92,9 @@ A Device Management Application (“DMA”) will come pre-installed on all PLDs 
 <thead>
   <tr>
     <th class="tg-186s"></th>
-    <th class="tg-186s">Default Setting<br>(This will apply if no Alternative Setting is chosen)<br></th>
-    <th class="tg-186s">Alternative Setting:<br>Option A<br>(Modify DMA settings)</th>
-    <th class="tg-186s">Alternative Setting:<br>Option B<br>(Disable DMA)</th>
+		<th class="tg-186s"><b>Default Setting</b><br>(This will apply if no Alternative Setting is chosen)<br></th>
+		<th class="tg-186s">Alternative Setting:<br><b>Option A</b><br>(Modify DMA settings)</th>
+		<th class="tg-186s">Alternative Setting:<br><b>Option B</b><br>(Disable DMA)</th>
   </tr>
 </thead>
 <tbody>
@@ -106,14 +106,14 @@ A Device Management Application (“DMA”) will come pre-installed on all PLDs 
   </tr>
   <tr>
     <td class="tg-186s">Protects students from objectionable content</td>
-    <td class="tg-186s">Web content filtering:<br><br>Violent/extremist content<br>Sexual/pornographic content<br>Gambling-related content<br>Social media sites</td>
+    <td class="tg-186s">Web content filtering:<br><br>~ Violent/extremist content<br>~ Sexual/pornographic content<br>~ Gambling-related content<br>~ Social media sites</td>
     <td class="tg-186s">Parents/Guardians can apply additional content filtering.</td>
     <td class="tg-186s">No content filtering at all.</td>
   </tr>
   <tr>
     <td class="tg-186s">Reduce distractions from learning through control of applications</td>
-    <td class="tg-186s">Parents/Guardians and students will be unable to install additional applications.</td>
-    <td class="tg-186s" colspan="2">Parents/Guardians and/or students will be able to install additional applications after school hours.<br><span style="font-weight:400;font-style:normal">Applications installed by parents/guardians and/or students after school hours will be disabled during school hours.</span><br></td>
+    <td class="tg-186s">Parents/Guardians and students will be <b><u>unable</u></b> to install additional applications.</td>
+    <td class="tg-186s" colspan="2">~ Parents/Guardians and/or students will be able to install additional applications after school hours.<br><span style="font-weight:400;font-style:normal">~ Applications installed by parents/guardians and/or students after school hours will be disabled during school hours.</span><br></td>
   </tr>
   <tr>
     <td class="tg-186s">Limit screen time</td>
@@ -123,8 +123,8 @@ A Device Management Application (“DMA”) will come pre-installed on all PLDs 
   </tr>
   <tr>
     <td class="tg-186s">Monitor students’ cyber activities</td>
-    <td class="tg-186s" colspan="2">A parent/guardian account will be provided to allow parents/guardians to monitor their child’s/ward’s PLD activities after school hours.<br>Parents/Guardians will only be able to track their child’s/ward’s browser history after school hours.<br>School DMA Admin will have access to the child’s/ward’s browser history logs.<br>Teachers will only have access to the child’s/ward’s browser history logs for the class that they teach. Teachers will not have access to the child’s/ward’s browser history logs outside of that specific class.</td>
-    <td class="tg-186s">Parents/Guardians will not be provided a parent/guardian account.<br>Parents/Guardians will not be able to monitor or control their child’s/ward’s use of the device through the DMA. No data will be collected during the use of the PLD after school hours.</td>
+    <td class="tg-186s" colspan="2">~ A parent/guardian account will be provided to allow parents/guardians to monitor their child’s/ward’s PLD activities after school hours.<br>~ Parents/Guardians will only be able to track their child’s/ward’s browser history after school hours.<br>~ School DMA Admin will have access to the child’s/ward’s browser history logs.<br>~ Teachers will only have access to the child’s/ward’s browser history logs for the class that they teach. Teachers will not have access to the child’s/ward’s browser history logs outside of that specific class.</td>
+    <td class="tg-186s">~ Parents/Guardians will not be provided a parent/guardian account.<br>~ Parents/Guardians will <b><u>not</u></b> be able to monitor or control their child’s/ward’s use of the device through the DMA. No data will be collected during the use of the PLD after school hours.</td>
   </tr>
 </tbody>
 </table>
