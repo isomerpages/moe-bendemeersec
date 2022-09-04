@@ -82,12 +82,12 @@ A Device Management Application (“DMA”) will come pre-installed on all PLDs 
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 855px">
+<table class="tg" style="undefined;table-layout: fixed; width: 834px">
 <colgroup>
-<col style="width: 98px">
-<col style="width: 257px">
-<col style="width: 246px">
-<col style="width: 254px">
+<col style="width: 141px">
+<col style="width: 231px">
+<col style="width: 231px">
+<col style="width: 231px">
 </colgroup>
 <thead>
   <tr>
