@@ -80,7 +80,7 @@ A Device Management Application (“DMA”) will come pre-installed on all PLDs 
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-186s{border-color:inherit;font-size:medium;text-align:left;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 834px">
 <colgroup>
@@ -91,40 +91,40 @@ A Device Management Application (“DMA”) will come pre-installed on all PLDs 
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky">Default Setting<br>(This will apply if no Alternative Setting is chosen)<br></th>
-    <th class="tg-0pky">Alternative Setting:<br>Option A<br>(Modify DMA settings)</th>
-    <th class="tg-0pky">Alternative Setting:<br>Option B<br>(Disable DMA)</th>
+    <th class="tg-186s"></th>
+    <th class="tg-186s">Default Setting<br>(This will apply if no Alternative Setting is chosen)<br></th>
+    <th class="tg-186s">Alternative Setting:<br>Option A<br>(Modify DMA settings)</th>
+    <th class="tg-186s">Alternative Setting:<br>Option B<br>(Disable DMA)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">For parents/guardians who want their child’s/ward’s use of the device to be restricted only to teaching and learning, and who prefer to follow the Default Setting as set by the school during school hours.</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">For parents/guardians who want their child’s/ward’s use of the device to be restricted only to teaching and learning, and who prefer to follow the Default Setting as set by the school during school hours.</span></td>
-    <td class="tg-0pky">For parents/guardians who do not want their child’s/ward’s use of the device after school hours to be regulated by the DMA at all.</td>
+    <td class="tg-186s"></td>
+    <td class="tg-186s">For parents/guardians who want their child’s/ward’s use of the device to be restricted only to teaching and learning, and who prefer to follow the Default Setting as set by the school during school hours.</td>
+    <td class="tg-186s"><span style="font-weight:400;font-style:normal">For parents/guardians who want their child’s/ward’s use of the device to be restricted only to teaching and learning, and who prefer to follow the Default Setting as set by the school during school hours.</span></td>
+    <td class="tg-186s">For parents/guardians who do not want their child’s/ward’s use of the device after school hours to be regulated by the DMA at all.</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Protects students from objectionable content</td>
-    <td class="tg-0pky">Web content filtering:<br><br>Violent/extremist content<br>Sexual/pornographic content<br>Gambling-related content<br>Social media sites</td>
-    <td class="tg-0pky">Parents/Guardians can apply additional content filtering.</td>
-    <td class="tg-0pky">No content filtering at all.</td>
+    <td class="tg-186s">Protects students from objectionable content</td>
+    <td class="tg-186s">Web content filtering:<br><br>Violent/extremist content<br>Sexual/pornographic content<br>Gambling-related content<br>Social media sites</td>
+    <td class="tg-186s">Parents/Guardians can apply additional content filtering.</td>
+    <td class="tg-186s">No content filtering at all.</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Reduce distractions from learning through control of applications</td>
-    <td class="tg-0pky">Parents/Guardians and students will be unable to install additional applications.</td>
-    <td class="tg-0pky" colspan="2">Parents/Guardians and/or students will be able to install additional applications after school hours.<br><span style="font-weight:400;font-style:normal">Applications installed by parents/guardians and/or students after school hours will be disabled during school hours.</span><br></td>
+    <td class="tg-186s">Reduce distractions from learning through control of applications</td>
+    <td class="tg-186s">Parents/Guardians and students will be unable to install additional applications.</td>
+    <td class="tg-186s" colspan="2">Parents/Guardians and/or students will be able to install additional applications after school hours.<br><span style="font-weight:400;font-style:normal">Applications installed by parents/guardians and/or students after school hours will be disabled during school hours.</span><br></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Limit screen time</td>
-    <td class="tg-0pky">The school will set the hours during which the child/ward will be able to use the device online in a day.</td>
-    <td class="tg-0pky">Parents/Guardians can modify the amount of screen time for their child/ward.</td>
-    <td class="tg-0pky">No control over screen time.</td>
+    <td class="tg-186s">Limit screen time</td>
+    <td class="tg-186s">The school will set the hours during which the child/ward will be able to use the device online in a day.</td>
+    <td class="tg-186s">Parents/Guardians can modify the amount of screen time for their child/ward.</td>
+    <td class="tg-186s">No control over screen time.</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Monitor students’ cyber activities</td>
-    <td class="tg-0pky" colspan="2">A parent/guardian account will be provided to allow parents/guardians to monitor their child’s/ward’s PLD activities after school hours.<br>Parents/Guardians will only be able to track their child’s/ward’s browser history after school hours.<br>School DMA Admin will have access to the child’s/ward’s browser history logs.<br>Teachers will only have access to the child’s/ward’s browser history logs for the class that they teach. Teachers will not have access to the child’s/ward’s browser history logs outside of that specific class.</td>
-    <td class="tg-0pky">Parents/Guardians will not be provided a parent/guardian account.<br>Parents/Guardians will not be able to monitor or control their child’s/ward’s use of the device through the DMA. No data will be collected during the use of the PLD after school hours.</td>
+    <td class="tg-186s">Monitor students’ cyber activities</td>
+    <td class="tg-186s" colspan="2">A parent/guardian account will be provided to allow parents/guardians to monitor their child’s/ward’s PLD activities after school hours.<br>Parents/Guardians will only be able to track their child’s/ward’s browser history after school hours.<br>School DMA Admin will have access to the child’s/ward’s browser history logs.<br>Teachers will only have access to the child’s/ward’s browser history logs for the class that they teach. Teachers will not have access to the child’s/ward’s browser history logs outside of that specific class.</td>
+    <td class="tg-186s">Parents/Guardians will not be provided a parent/guardian account.<br>Parents/Guardians will not be able to monitor or control their child’s/ward’s use of the device through the DMA. No data will be collected during the use of the PLD after school hours.</td>
   </tr>
 </tbody>
 </table>
