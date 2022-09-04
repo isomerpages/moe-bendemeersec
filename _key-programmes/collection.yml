@@ -2,7 +2,6 @@ collections:
   key-programmes:
     output: true
     order:
-      - National Digital Literacy/School based Help Desk.md
       - National Digital Literacy/.keep
       - National Digital Literacy/NDLP Overview.md
       - National Digital Literacy/Purchase of PLD for Sec 1 (Y2022).md
@@ -13,6 +12,7 @@ collections:
       - National Digital Literacy/Resources for Parents.md
       - National Digital Literacy/Use of PLD in school.md
       - National Digital Literacy/Acceptable Use Policy.md
+      - National Digital Literacy/School based Help Desk.md
       - National Digital Literacy/Frequently Asked Questions.md
       - Applied Learning Programme.md
       - Learning for Life Programme/.keep
