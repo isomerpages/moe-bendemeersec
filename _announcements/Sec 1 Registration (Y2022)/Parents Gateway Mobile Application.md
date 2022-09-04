@@ -4,7 +4,7 @@ permalink: /announcements/sec1-registration/pg-mobileapp/
 description: ""
 third_nav_title: Sec 1 Registration (Y2022)
 ---
-## Parents Gateway Mobile Application
+## **Parents Gateway Mobile Application**
 Parents Gateway is a mobile application that connects parents and schools on key administrative matters, providing schools with the platform to send updates on programmes and activities to parents. At the same time, Parents Gateway allows parents to perform administrative functions such as providing consent for their children to participate in school activities and declaring travel plans.
 
 Access to Parents Gateway is granted to parents, legal guardians and authorised caregivers of students studying in MOE schools in Singapore. Parents will need to use SingPass to access Parents Gateway. For more information on how to use Parents Gateway, please visit the [PG website](https://pg.moe.edu.sg/) or refer to the downloadable slides below.
