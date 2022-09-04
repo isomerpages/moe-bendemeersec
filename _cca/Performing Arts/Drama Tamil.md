@@ -1,10 +1,10 @@
 ---
 title: Drama Tamil
-permalink: /cca/performing-arts/drama-tamil
+permalink: /cca/performing-arts/drama-tamil/
 description: ""
 third_nav_title: Performing Arts
 ---
-# Drama Tamil
+## **Drama Tamil**
 
 
 
@@ -23,6 +23,30 @@ Kugan s/o Kumaresan (4R1) <br>
 Sudharsan Madhumita (4R2)
 
 
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3jrd{border-color:inherit;font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;font-size:medium;
+  text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-3jrd"><b>Recent Achievements</b><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3jrd">SINGAPORE YOUTH FESTIVAL 2021 ARTS PRESENTATION<br>Tamil Drama (Certificate of Distinction)</td>
+  </tr>
+</tbody>
+</table>
+<br>
 
 The goal of the Tamil Drama club is to provide various learning platforms in multiple domains to enable students to interact with others in Tamil. This allows them to inculcate culture, express their creativity and feel joy through the activities.
 
