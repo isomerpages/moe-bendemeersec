@@ -3,8 +3,7 @@ title: Online School Magazines
 permalink: /useful-links/sch-magazines/
 description: ""
 ---
-
-# Online School Magazines
+## Online School Magazines
 The school produces a school magazine at the end of each year to celebrate the achievements of the students.  It is also a record of activities and work done by the stag and students during the year.  It is an invaluable testimony to work done by everyone.
 
 ### Online School Magazine 2021
