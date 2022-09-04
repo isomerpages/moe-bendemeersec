@@ -1,11 +1,11 @@
 ---
 title: CCA Excellence
-permalink: /achievements/cca-excellence
+permalink: /achievements/cca-excellence/
 description: ""
 ---
 # CCA Excellence
 
-![Sustained Achievement Awards](/images/img_substain_achievement_v2.png)
+![Sustained Achievement Awards](/images/Achievements/img_substain_achievement_v2.png)
 
 ### UNIFORMED GROUPS
 
@@ -29,19 +29,19 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-17nh"><span style="font-weight:400;color:#000">National Cadet Corps - Land (NCC)</span></td>
-    <td class="tg-17nh"><span style="font-weight:400;color:#000">2019 Unit Proficiency Award (Gold)</span><br><span style="font-weight:400;color:#000">2018 Unit Proficiency Award (Gold)</span></td>
+    <td class="tg-17nh">2021 Unit Proficiency Award (Gold)<BR><span style="font-weight:400;color:#000">2019 Unit Proficiency Award (Gold)</span><br><span style="font-weight:400;color:#000">2018 Unit Proficiency Award (Gold)</span></td>
   </tr>
   <tr>
     <td class="tg-f45a"><span style="font-weight:400;color:#000">National Police Cadet Corps (NPCC)</span></td>
-    <td class="tg-f45a"><span style="font-weight:400;color:#000">2019 Unit Proficiency Award (Gold)</span><br><span style="font-weight:400;color:#000">2018 Unit Proficiency Award (Silver)</span><br><span style="font-weight:400;color:#000">SPF–NPCC Badge Recipient 2021:</span><br><span style="font-weight:400;color:#000">SSGT (NPCC) Mohamed Yasir</span><br><span style="font-weight:400;color:#000">SI (NPCC) Liu Xiang</span></td>
+    <td class="tg-f45a">2021 Unit Proficiency Award (Gold)<BR><span style="font-weight:400;color:#000">2019 Unit Proficiency Award (Gold)</span><br><span style="font-weight:400;color:#000">2018 Unit Proficiency Award (Silver)</span><br><span style="font-weight:400;color:#000">SPF–NPCC Badge Recipient 2021:</span><br><span style="font-weight:400;color:#000">SSGT (NPCC) Mohamed Yasir</span><br><span style="font-weight:400;color:#000">SI (NPCC) Liu Xiang</span></td>
   </tr>
   <tr>
     <td class="tg-17nh"><span style="font-weight:400;color:#000">Red Cross Youth</span></td>
-    <td class="tg-17nh"><span style="font-weight:400;color:#000">2019 Unit Proficiency Award (Gold)</span><br><span style="font-weight:400;color:#000">2018 Unit Proficiency Award (Gold)</span></td>
+    <td class="tg-17nh">2021 Unit Proficiency Award (Gold)<BR><span style="font-weight:400;color:#000">2019 Unit Proficiency Award (Gold)</span><br><span style="font-weight:400;color:#000">2018 Unit Proficiency Award (Gold)</span></td>
   </tr>
   <tr>
     <td class="tg-f45a"><span style="font-weight:400;color:#000">Girl Guides</span></td>
-    <td class="tg-f45a"><span style="font-weight:400;color:#000">2019 Unit Proficiency Award (Gold)</span><br><span style="font-weight:400;color:#000">Puan Noor Aishah Award 2019 GOLD Award</span><br><span style="font-weight:400;color:#000">2018 Unit Proficiency Award (Gold)</span><br><span style="font-weight:400;color:#000">Puan Noor Aishah Award 2018 GOLD Award</span><br><span style="font-weight:400;color:#000">South Division Day- Mason Terrarium</span><br><span style="font-weight:400;color:#000">South Division Day- World of Colours</span><br><span style="font-weight:400;color:#000">South Division Day - Scarf Design</span><br><span style="font-weight:400;color:#000">South Division Day - Guides Challenge</span></td>
+    <td class="tg-f45a">2021 Unit Proficiency Award (Gold)<BR>Puan Noor Aishah Award 2021 BRONZE Award<BR><span style="font-weight:400;color:#000">2019 Unit Proficiency Award (Gold)</span><br><span style="font-weight:400;color:#000">Puan Noor Aishah Award 2019 GOLD Award</span><br><span style="font-weight:400;color:#000">2018 Unit Proficiency Award (Gold)</span><br><span style="font-weight:400;color:#000">Puan Noor Aishah Award 2018 GOLD Award</span><br><span style="font-weight:400;color:#000">South Division Day- Mason Terrarium</span><br><span style="font-weight:400;color:#000">South Division Day- World of Colours</span><br><span style="font-weight:400;color:#000">South Division Day - Scarf Design</span><br><span style="font-weight:400;color:#000">South Division Day - Guides Challenge</span></td>
   </tr>
 </tbody>
 </table>
