@@ -1,10 +1,10 @@
 ---
 title: Girl Guides
-permalink: /cca/uniformed-groups/girl-guides
+permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# Girl Guides
+## **Girl Guides**
 
 **Teacher-in-Charge:** <br>
 Ms Dawn Lim Sing Liean (I/C) <br>
@@ -18,6 +18,32 @@ Yee Zi Hui (3R3)
 **Assistant Company Leaders:** <br>
 Areefa Begum (3R7) <br>
 Nur Azyza Binte Mohamad Azman (3R6)
+
+<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3jrd{border-color:inherit;font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;font-size:medium;
+  text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+		<th class="tg-3jrd"><b>Recent Achievements</b><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3jrd">Puan Noor Aishah (PNA) Award 2021<br>
+Girl Guides (Bronze)</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
 
 
 Emerging from the pandemic of 2020, Bendemeer Guides were eager and hopeful that 2021 would be a year back to normalcy. Making the most of Safety Management Measures (SMM), our guides sought to conduct activities in person to gel the new Secondary One guides who joined us at the beginning of the year. Besides our usual programme of roll call, drills, physical training, and familiarising ourselves with the history of guiding, we tried to fun team-bonding incorporate games. Our Company hosted the Baden Powell (BPA) written test for the South Division schools.  Two of our guides, Areefa and Shannon attended the first virtual WAGGGS Leadership Mindset Course in April.
