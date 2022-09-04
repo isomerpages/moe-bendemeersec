@@ -91,18 +91,19 @@ A Device Management Application (“DMA”) will come pre-installed on all PLDs 
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-0pky" rowspan="2"></th>
+    <th class="tg-0pky"></th>
     <th class="tg-0pky">Default Setting<br>(This will apply if no Alternative Setting is chosen)<br></th>
     <th class="tg-0pky">Alternative Setting:<br>Option A<br>(Modify DMA settings)</th>
     <th class="tg-0pky">Alternative Setting:<br>Option B<br>(Disable DMA)</th>
   </tr>
-  <tr>
-    <th class="tg-0pky">For parents/guardians who want their child’s/ward’s use of the device to be restricted only to teaching and learning, and who prefer to follow the Default Setting as set by the school during school hours.</th>
-    <th class="tg-0pky"><span style="font-weight:400;font-style:normal">For parents/guardians who want their child’s/ward’s use of the device to be restricted only to teaching and learning, and who prefer to follow the Default Setting as set by the school during school hours.</span></th>
-    <th class="tg-0pky">For parents/guardians who do not want their child’s/ward’s use of the device after school hours to be regulated by the DMA at all.</th>
-  </tr>
 </thead>
 <tbody>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">For parents/guardians who want their child’s/ward’s use of the device to be restricted only to teaching and learning, and who prefer to follow the Default Setting as set by the school during school hours.</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">For parents/guardians who want their child’s/ward’s use of the device to be restricted only to teaching and learning, and who prefer to follow the Default Setting as set by the school during school hours.</span></td>
+    <td class="tg-0pky">For parents/guardians who do not want their child’s/ward’s use of the device after school hours to be regulated by the DMA at all.</td>
+  </tr>
   <tr>
     <td class="tg-0pky">Protects students from objectionable content</td>
     <td class="tg-0pky">Web content filtering:<br><br>Violent/extremist content<br>Sexual/pornographic content<br>Gambling-related content<br>Social media sites</td>
