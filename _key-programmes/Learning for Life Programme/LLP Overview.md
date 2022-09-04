@@ -4,9 +4,9 @@ permalink: /key-programmes/llp/llp-overview/
 description: ""
 third_nav_title: Learning for Life Programme
 ---
-# Learning for Life Programme (LLP)
+## Learning for Life Programme (LLP)
 
-**Introduction**
+### **Introduction**
 
 Bendemeer’s Service Learning for Life Programme (LLP) seeks to provide a variety of rich learning opportunities for students to become co-creators of knowledge. As an education method, service learning provides students with the opportunity to build  character, develop a sense of ethics and modify their value system if need be. Students can also acquire and develop skills that will enable them to becoming an effective leader as well as expand their career awareness. Through civic engagement, community partner collaboration and personal reflection, the LLP will also prepare students for a life of active citizenship.
 
