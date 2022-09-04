@@ -4,7 +4,7 @@ permalink: /announcements/sec1-registration/application-for-other-programmes/
 description: ""
 third_nav_title: Sec 1 Registration (Y2022)
 ---
-## Application for Other Programmes
+## **Application for Other Programmes**
 
 Students who are eligible may apply for other Programmes shown below –
 
