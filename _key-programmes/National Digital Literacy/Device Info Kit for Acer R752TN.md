@@ -1,10 +1,9 @@
 ---
 title: Device Info Kit for Acer R752TN
-permalink: /key-programmes/national-digital-literacy-programme/device-information-kits/pld-for-sec-1-2022
+permalink: /key-programmes/national-digital-literacy-programme/device-information-kits/pld-for-sec-1-2022/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-
 ## Device Information Kit for Acer R752TN Chromebook
 
 ### School-based Helpdesk
@@ -13,19 +12,21 @@ The ICT Department will provide technical support to students.    This is part o
 
 There will be a fortnightly collection of faulty devices that will be sent via courier to the authorised service centre for repairs. The devices sent through the school may take between 3-4 weeks for repairs, depending on the extent of the damage.
 
-![School-based Helpdesk](/images/41-acer-device-support-01.png)
+![School-based Helpdesk](/images/Keyprogrammes/Ndlp/41-acer-device-support-01.png)
+
+
 
 ## Device Contractor Information
 
 Sec 1 students (2022) owns the Acer R752TN PLD.  Should there be a need to send the device for immediate repairs, or queries about the device, insurance and warranty, you may contact the device contractor from Acer Singapore Pte Ltd directly.
 
-![Device Contractor Information](/images/41-acer-device-support-02.png)
+![Device Contractor Information](/images/Keyprogrammes/Ndlp/41-acer-device-support-02.png)
 
-![Service Centre](/images/41-acer-device-support-03.png)
+![Service Centre](/images/Keyprogrammes/Ndlp/41-acer-device-support-03.png)
 
 ## Insurance and Warranty
 
-![Insurance and Warranty](/images/41-acer-device-support-04.png)
+![Insurance and Warranty](/images/Keyprogrammes/Ndlp/41-acer-device-support-04.png)
 
 ## Standard Operating Procedure
 
