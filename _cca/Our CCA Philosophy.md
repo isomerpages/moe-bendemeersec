@@ -12,6 +12,11 @@ description: ""
 | ![](/images/Cca/cca-npcc-i-Passing-out-parade-300x200%201.jpg)     | ![](/images/Cca/cca-redx-i-Volunteer-instructor-demonstrating-CPR-300x200%201%201.jpg)     | 
 
 
+![](/images/Cca/cca-philosophy.jpg)
+
+
+![](/images/Cca/cca-philosophy845.jpg)
+
 CCAs are an integral part of our students’ holistic education. Our philosophy of CCA is for our students to discover their interests and talents while developing values and competencies that will prepare them for the rapidly changing world.
 
 The vision for the CCA department is for every student to develop a sense of accomplishment and enhance his/her self-confidence through active participation in CCA. Guided strongly by the school values of Care, Integrity, Responsibility, Respect and Resilience, the CCA department also places great emphasis in fostering camaraderie, developing individual potential in sports and instilling a life-long passion.
