@@ -16,7 +16,6 @@ description: ""
 
 2021 has indeed been a challenging year for the Student Councillors but they still managed to carry out self-directed activities amid these challenging times. As we bid farewell to our graduating students, we would like to acknowledge their contributions as well as the contributions of our juniors.
 
-![Student Council juniors learning how to tie a tie](/images/Cca/sc-i-teaching-juniors_-768x512.jpg)
 
 ![Student Council](/images/Cca/sc-bss%20sc2.jpg)
 
