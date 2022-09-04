@@ -6,7 +6,7 @@ third_nav_title: National Digital Literacy
 ---
 ## **Frequently Asked Questions**
 
-**Procurement Matters**
+##### **Procurement Matters**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -75,7 +75,7 @@ third_nav_title: National Digital Literacy
 </tbody>
 </table>
 
-**Funding Support**
+##### **Funding Support**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -124,7 +124,7 @@ third_nav_title: National Digital Literacy
 </tbody>
 </table>
 
-**About the Enhanced Device Bundle**
+##### **About the Enhanced Device Bundle**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -191,7 +191,7 @@ third_nav_title: National Digital Literacy
 </tbody>
 </table>
 
-**Other Enquiries**
+##### **Other Enquiries**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
