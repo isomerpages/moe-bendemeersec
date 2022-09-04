@@ -4,11 +4,7 @@ permalink: /announcements/sec1-registration/sale-uniform-and-books/
 description: ""
 third_nav_title: Sec 1 Registration (Y2022)
 ---
-
-
-
-
-# Sale of Uniform and Books
+## Sale of Uniform and Books
 Online purchases of school uniforms and books are highly encouraged.  Home delivery options and self-collection options are available. Please refer to the respective websites for more information on how to make your purchases online.
 
 **Online Purchase of School Uniforms**
