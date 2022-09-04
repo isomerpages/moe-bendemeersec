@@ -1,6 +1,6 @@
 ---
 title: Taekwondo
-permalink: /cca/sports/taekwondo
+permalink: /cca/sports/taekwondo/
 description: ""
 third_nav_title: Sports
 ---
@@ -51,4 +51,4 @@ We are extremely proud of our members as they adapt to the disruptions for the l
 
 *My experience in Taekwondo has been one of the most enjoyable experience of my Secondary School life. I am proud to say that making Taekwondo my first choice was correct. Taekwondo is not merely a form of martial arts, but rather, an opportunity for me to gain leadership skills and to acquire values of discipline and resilience. My skills as a CCA leader would be challenged whenever there was an upcoming competition. Besides overcoming my own difficulties in memorising the Poomsae pattern routine, I have to teach my juniors and motivate them to persevere and be determined to win the competition. All in all, Taekwondo is a CCA that has challenged me, both physically and mentally.*
 
-**- Evelyn Angelina The (Incoming President)**
+**- Evelyn Angelina The (Incoming Captain)**
