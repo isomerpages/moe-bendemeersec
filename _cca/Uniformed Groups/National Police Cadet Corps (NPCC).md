@@ -4,14 +4,13 @@ permalink: /cca/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 # National Police Cadet Corps (NPCC)
 
 **Teachers-in-Charge:** <br>
 A/ASP (NPCC) Ms Sabrina Wee (OC) <br>
 ASP (NPCC) Mr Oh Tze Ming (2I/C) <br>
 ASP (NPCC) Mr Michael Lee <br>
-ASP (NPCC) Ms Jasmine Kaur Dhaliwal
+
 
 
 **SPF-NPCC Award Recipients 2021**
@@ -22,7 +21,32 @@ SI (NPCC) Liu Xiang (4R5)
 SSGT (NPCC) Subbiah S/O Lakshmanan (5R1)<br>
 SSGT (NPCC) M Mohamed Yasir (4R3)
 
+<br>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3jrd{border-color:inherit;font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;font-size:medium;
+  text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+		<th class="tg-3jrd"><b>Recent Achievements</b><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3jrd">UNIT OVERALL PROFICIENCY AWARD 2021
+<br>National Police Cadet Corps (Gold)</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
 The National Police Cadet Corps (NPCC) was formed in 1959 and has become one of the popular youth uniformed organisations in Singapore.
 
 The mission of the National Police Cadet Corps is to develop our members to be active citizens and community leaders, by working in partnership with Singapore Police Force to fight crime and keep Singapore safe.
