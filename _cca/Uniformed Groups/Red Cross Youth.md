@@ -14,9 +14,6 @@ third_nav_title: Uniformed Groups
 
 
 
-
-
-
 <br>
 
 <style type="text/css">
