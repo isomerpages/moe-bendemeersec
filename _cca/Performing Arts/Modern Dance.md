@@ -1,6 +1,6 @@
 ---
 title: Modern Dance
-permalink: /cca/performing-arts/modern-dance
+permalink: /cca/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -20,6 +20,31 @@ Tan Zhi Ning (4R6)
 **Vice-President:** <br>
 Gurpal Singh Saini (4R5)
  
+ <br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3jrd{border-color:inherit;font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;font-size:medium;
+  text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+		<th class="tg-3jrd"><b>Recent Achievements</b><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3jrd">SINGAPORE YOUTH FESTIVAL 2021 ARTS PRESENTATION<br>Modern Dance (Certificate of Accomplishment)</td>
+  </tr>
+</tbody>
+</table>
+<br>
+
 
 We faced 2021 with anticipation and enthusiasm even though we knew that Covid-19 was still prevalent in our society. News that training would resume delighted one and all. The dancer inside of us was itching to break free. No wonder they say that dance is a form of expression.
 
