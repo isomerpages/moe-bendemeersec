@@ -1,6 +1,6 @@
 ---
 title: Football
-permalink: /cca/sports/football
+permalink: /cca/sports/football/
 description: ""
 third_nav_title: Sports
 ---
@@ -24,7 +24,7 @@ Brijesh Rana (3R5)
 
 ![Football Team photo](/images/Cca/football-01-1024x497.png)
 
-#### Fun & Exciting Training Sessions
+#### **Fun & Exciting Training Sessions**
 
 We watched, awed, as the ball sailed across in the air, and hear our passionate young Bendemeerian footballers screech in excitement at the perfect pass, hoping to score a goal. Alas! Our skillful goalkeeper, Braydon, catches the ball by the skin of his teeth, as his teammates heave a sigh of relief!
 
