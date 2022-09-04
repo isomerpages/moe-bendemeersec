@@ -4,9 +4,7 @@ permalink: /announcements/sec1-registration/sec1-mtp/
 description: ""
 third_nav_title: Sec 1 Registration (Y2022)
 ---
-
-
-# Sec 1 Meet-The-Parents
+## **Sec 1 Meet-The-Parents**
 
 The school has organised a Meet-The-Parents Session cum CCA Orientation via video conference. 
 Details are as follows:
