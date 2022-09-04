@@ -4,7 +4,6 @@ permalink: /cca/uniformed-groups/ncc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 # National Cadet Corps (NCC)
 
 **Teachers-in-Charge:** <br>
@@ -17,7 +16,31 @@ LTA Dennis Wong
 
 **Assistant Sergeant Major:** <br>
 3SG Yeo Quan Wei (3R3)
+
+<br>
  
+ <style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3jrd{border-color:inherit;font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;font-size:medium;
+  text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+		<th class="tg-3jrd"><b>Recent Achievements</b><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3jrd">BEST UNIT ASSESSMENT 2021
+<br>National Cadet Corps (Gold)</td>
+  </tr>
+</tbody>
+</table>
 
 The National Cadet Corps is a military cadet corps youth organisation supported by the Singapore Ministry of Defence and the Ministry of Education. Its aim is to mould cadets into one with a resilient mind, fit body and committed heart. Our key programmes include orienteering, urban operations training, live firing using SAR21 rifle and overseas hikes at Mt Ophir.
 
