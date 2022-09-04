@@ -1,29 +1,44 @@
 ---
 title: Concert Band
-permalink: /cca/performing-arts/concert-band
+permalink: /cca/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
 ---
 # Concert Band
 
-**Teachers-in-Charge:** <br>
-Mdm Noorlizah Osman (I/C) <br>
-Mdm Lim Ying Shung (2I/C) <br>
-Ms Ng Qian Hui <br>
-Ms Ivy Lim Gek Hoon
 
-**Instructors:** <br>
-Mr Joseph Teo <br>
-Mr Alvin Quek
 
-**Band Major:** <br>
-Jesse Ng Ren Jie (4R3) <br>
-Lim En Jie Janavia (4R2)
 
-**Drum Major:** <br>
-Kirthik Vnesh Naidu S/O Alwar Naidu (4R1)
+| Column 1 | Column 2 | 
+| -------- | -------- | 
+| **Teachers-in-Charge:** <br>Mdm Noorlizah Osman (I/C) <br>Mdm Lim Ying Shung (2I/C) <br>Ms Ng Qian Hui <br>Ms Ivy Lim Gek Hoon<br><br>**Instructors:** <br>Mr Joseph Teo <br>Mr Alvin Quek<br><br>**Band Major:** <br>Jesse Ng Ren Jie (4R3) <br>Lim En Jie Janavia (4R2)<br><br>**Drum Major:** <br>Kirthik Vnesh Naidu S/O Alwar Naidu (4R1)<br><br>     | ![Playing solo](/images/Cca/cca-band-i-Playing-solo-683x1024.jpg)     | 
 
-![Playing solo](/images/Cca/cca-band-i-Playing-solo-683x1024.jpg)
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3jrd{border-color:inherit;font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;font-size:medium;
+  text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-3jrd">Recent Achievements<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3jrd">SINGAPORE YOUTH FESTIVAL 2021 ARTS PRESENTATION<br>
+Concert Band (Certificate of Accomplishment)</td>
+  </tr>
+</tbody>
+</table>
+<br>
 
 2021 has indeed been a unique year for the Concert Band, amidst the global pandemic. We started the year with the Secondary One orientation, through a class-by-class presentation rather than the typical trying out of instruments. We were pleasantly surprised by the number of enthusiastic Secondary Ones joining Band this year.
 
