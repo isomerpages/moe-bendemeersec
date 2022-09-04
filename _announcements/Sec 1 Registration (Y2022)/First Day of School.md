@@ -4,9 +4,7 @@ permalink: /announcements/sec1-registration/first-day-of-school/
 description: ""
 third_nav_title: Sec 1 Registration (Y2022)
 ---
-
-
-# First Day of School
+## First Day of School
 All students are to report to school on the first day of school which falls on 4th January 2022.
 Details are as follows:
 
