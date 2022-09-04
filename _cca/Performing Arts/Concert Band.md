@@ -9,7 +9,7 @@ third_nav_title: Performing Arts
 
 
 
-| Column 1 | Column 2 | 
+| |  | 
 | -------- | -------- | 
 | **Teachers-in-Charge:** <br>Mdm Noorlizah Osman (I/C) <br>Mdm Lim Ying Shung (2I/C) <br>Ms Ng Qian Hui <br>Ms Ivy Lim Gek Hoon<br><br>**Instructors:** <br>Mr Joseph Teo <br>Mr Alvin Quek<br><br>**Band Major:** <br>Jesse Ng Ren Jie (4R3) <br>Lim En Jie Janavia (4R2)<br><br>**Drum Major:** <br>Kirthik Vnesh Naidu S/O Alwar Naidu (4R1)<br><br>     | ![Playing solo](/images/Cca/cca-band-i-Playing-solo-683x1024.jpg)     | 
 
