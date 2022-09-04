@@ -4,7 +4,7 @@ permalink: /key-programmes/national-digital-literacy-programme/device-informatio
 description: ""
 third_nav_title: National Digital Literacy
 ---
-## Device Information Kit for Acer R752TN Chromebook
+## **Device Information Kit for Acer R752TN Chromebook**
 
 ### School-based Helpdesk
 
