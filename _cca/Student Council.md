@@ -3,7 +3,7 @@ title: Student Council
 permalink: /cca/student-council/
 description: ""
 ---
-# **Student Council**
+## **Student Council**
 
 **Teachers-in-Charge:** <br>
 Mr Glenn Yeong Zhen Pang (I/C) <br>
