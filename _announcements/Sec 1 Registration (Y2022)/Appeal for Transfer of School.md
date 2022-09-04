@@ -4,9 +4,7 @@ permalink: /announcements/sec1-registration/appeal-for-transfer/
 description: ""
 third_nav_title: Sec 1 Registration (Y2022)
 ---
-
-
-# Appeal for Transfer of School
+## Appeal for Transfer of School
 
 #### A. Appeal for Transfer to Other Schools
 
