@@ -4,11 +4,8 @@ permalink: /announcements/sec1-registration/sec1reg-overview/
 description: ""
 third_nav_title: Sec 1 Registration (Y2022)
 ---
+## 2022 Sec 1 Registration
 
-
-
-2022 Sec 1 Registration
-=======================
 
 Bendemeer Secondary School welcomes all Secondary One students and parents!
 
