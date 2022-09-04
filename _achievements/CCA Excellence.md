@@ -71,7 +71,12 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-17nh"><span style="font-weight:400;color:#000">Tchoukball</span></td>
-    <td class="tg-17nh"><span style="font-weight:400;color:#000">2019 B Div National Inter-school Tchoukball Championships</span><br><span style="font-weight:400;color:#000">B Div Boys: National Champions</span><br><span style="font-weight:400;color:#000">B Div Girls: National Champions</span><br><span style="font-weight:400;color:#000">2018 B Div National Inter-school Tchoukball Championships</span><br><span style="font-weight:400;color:#000">B Div Boys: 2nd place</span><br><span style="font-weight:400;color:#000">B Div Girls: 1st place</span><br><span style="font-weight:400;color:#000">C Div Boys: 1st place</span><br><span style="font-weight:400;color:#000">C Div Girls: 3rd place</span></td>
+    <td class="tg-17nh">2022 B Div National Inter-Schools Tchoukbal Tournament (Girls)<BR>
+Cup Category : 3rd<br>
+2022 B Div National Inter-Schools Tchoukbal Tournament (Boys)<br>
+Bowl Category: 1st<br>
+Plate Category: 4th<br>
+Cup Category: 3rd<br><span style="font-weight:400;color:#000">2019 B Div National Inter-school Tchoukball Championships</span><br><span style="font-weight:400;color:#000">B Div Boys: National Champions</span><br><span style="font-weight:400;color:#000">B Div Girls: National Champions</span><br><span style="font-weight:400;color:#000">2018 B Div National Inter-school Tchoukball Championships</span><br><span style="font-weight:400;color:#000">B Div Boys: 2nd place</span><br><span style="font-weight:400;color:#000">B Div Girls: 1st place</span><br><span style="font-weight:400;color:#000">C Div Boys: 1st place</span><br><span style="font-weight:400;color:#000">C Div Girls: 3rd place</span></td>
   </tr>
   <tr>
     <td class="tg-f45a"><span style="font-weight:400;color:#000">Cross Country</span></td>
