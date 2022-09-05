@@ -39,13 +39,13 @@ Various level activities were also planned to cultivate students’ appreciation
 
 The Mid-Autumn Festival celebrations in Bendemeer Secondary School is an annual event that students, staff, parents and alumni members look forward to every year. Activities planned by the Chinese Language teachers of the Mother Tongue Department include lantern painting, calligraphy, Chinese blow painting, tea appreciation and mooncake making. There was also a station set up for star gazing to the delight of the astronomy fans and a photo booth for all to capture these fond memories. It was heartening to see visitors of different races partaking in these cultural activities and learning more about the Chinese culture. As the skies darkened, it was a fascinating sight to see the parade square being illuminated by the lanterns being held up.
 
-![Mid-Autumn Festival](/images/Mid-Autumn%20Festival.jpg)
+![Mid-Autumn Festival](/images/Departments/cl-Mid-Autumn%20Festival.jpg)
 
 Various level activities were also planned to cultivate students’ appreciation of the Chinese culture. The Secondary one students created bookmarks using proverbs about the moon. The Secondary two students designed posters about the Mid-Autumn Festival. The Secondary 3 students researched on topics and designed information sheets to introduce the traditions, customs and food related to the Mid-Autumn festival. These works of art produced by the students were displayed at the school foyer to showcase students’ learning.
 
-![Mid-Autumn Festival](/images/Mid-Autumn%20Festival2.jpg)
+![Mid-Autumn Festival](/images/Departments/cl-Mid-Autumn%20Festival2.jpg)
 
-![Mid-Autumn Festival](/images/Mid-Autumn%20Festival3.png)
+![Mid-Autumn Festival](/images/Departments/cl-Mid-Autumn%20Festival3.png)
 
 **External Competitions**
 
@@ -60,13 +60,13 @@ To cultivate the appreciation of Chinese culture by introducing more Singaporean
 **Outcome:**
 Our school was represented by 2 students, Tan Wan Fei (2R4) and Tan Wan Lin (2R5) who were awarded certificates of participation.
 
-![External Competitions](/images/External%20COmpetitions.png)
+![External Competitions](/images/Departments/cl-External%20COmpetitions.png)
 
 **18th National Secondary School Chinese Creative Writing Competition**
 
 Singapore Hokkien Huay Kuan, Singapore Literary Society, Nan Chiau High School and Zaobao Comma organised the 18th National Secondary School Chinese Creative Writing Competition which was held online from 22nd June to 29th June 2020.
 
-![18th National Secondary School Chinese Creative Writing Competition](/images/18th%20National%20Secondary%20School%20Chinese%20Creative%20Writing%20Competition.jpg)
+![18th National Secondary School Chinese Creative Writing Competition](/images/Departments/cl-18th%20National%20Secondary%20School%20Chinese%20Creative%20Writing%20Competition.jpg)
 
 **Objectives:**
 To promote the use of Chinese Language and enhance the interest in creative writing among Secondary School students;
@@ -75,7 +75,7 @@ To encourage students to be innovative and express their thoughts and feelings i
 **Outcome:**
 Our school was represented by 3 students, Yang Ningting (1C2), Chen Jiale (1C3) and Dai Jiayu (3R1) who were awarded certificates of participation. 
 
-![18th National Secondary School Chinese Creative Writing Competition](/images/18th%20National%20Secondary%20School%20Chinese%20Creative%20Writing%20Competition2.jpg)
+![18th National Secondary School Chinese Creative Writing Competition](/images/Departments/cl-18th%20National%20Secondary%20School%20Chinese%20Creative%20Writing%20Competition2.jpg)
 
 **“2020, Our story about fighting COVID-19” National Secondary School Chinese Creative Writing Competition**
 
