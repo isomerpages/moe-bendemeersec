@@ -4,11 +4,6 @@ permalink: /departments/english/literature/
 description: ""
 third_nav_title: English and Literature
 ---
-
-
-
-
-
 # English Literature
 
 **Sec 1 DramaWorkz module**
@@ -16,15 +11,15 @@ third_nav_title: English and Literature
 Under the Sec 1E customised instructional programme, the students go through a series of lessons that exposes them to basic drama techniques like the use of voice, space awareness and expression. The students make use of their Literature drama texts, and create a short performance task based on these texts and the techniques they have learnt from their DramaWorkz module. The students put their collaborative skills to good use, and the process often sparks their creative juices to flow as they work together to produce an engaging performance.
 
 
-![Students are seen immersed in their skit](/images/EL%20Lit.png)
+![Students are seen immersed in their skit](/images/Departments/EL%20Lit.png)
 
-![Students are seen immersed in their skit 2](/images/EL%20Lit2.png)
+![Students are seen immersed in their skit 2](/images/Departments/EL%20Lit2.png)
 
 **Sec 2 Story-telling module**
 
 The Sec 2E students go through a five-week module that allows them to pick up essential story-telling skills. Now focusing much more on the individual’s use of voice, movement and gestures, this module allows students to bring short texts to life, using their own interpretations and the techniques they have learnt. Students have even brought these performances to the stage during assembly talks, wowing their peers with their display of confidence and creativity.
 
-![It’s all in the hand gestures!](/images/EL%20Lit3.png)
+![It’s all in the hand gestures!](/images/Departments/EL%20Lit3.png)
 
 **National Schools Literature Festival (NSLF)**
 
@@ -41,33 +36,31 @@ Meanwhile, the lower secondary choral reading team delivered the poem “Homewor
 
 It was indeed a meaningful experience for the entire Bendemeer team, and the hard work put in was rewarded with a total of three trophies: Silver Medal for Choral Speaking, Winner for Sec 3 Set Text Debate and Winner for Sec 4 Unseen Poetry.
 
-![Mr Chen with our Bendemeer Team](/images/Eng4a-1024x768.jpg)
+![Mr Chen with our Bendemeer Team](/images/Departments/Eng4a-1024x768.jpg)
 Mr Chen with our Bendemeer Team
 
 <br>
 
-![Our Champions!](/images/Eng1a-768x576.jpg)
+![Our Champions!](/images/Departments/Eng1a-768x576.jpg)
 Our Champions!
 
 <br>
 
-![Our team hard at work!](/images/Eng2a-768x576.jpg)
+![Our team hard at work!](/images/Departments/Eng2a-768x576.jpg)
 Our team hard at work!
 
-![English Literature](/images/EL%20Lit10.png)
+![English Literature](/images/Departments/EL%20Lit10.png)
 
-![English Literature](/images/EL%20Lit11.png)
+![English Literature](/images/Departments/EL%20Lit11.png)
 
-![English Literature](/images/EL%20Lit12.png)
+![English Literature](/images/Departments/EL%20Lit12.png)
 
-![English Literature](/images/EL%20Lit4.png)
+![English Literature](/images/Departments/EL%20Lit4.png)
 
-![English Literature](/images/EL%20Lit5.png)
+![English Literature](/images/Departments/EL%20Lit6.png)
 
-![English Literature](/images/EL%20Lit6.png)
+![English Literature](/images/Departments/EL%20Lit7.png)
 
-![English Literature](/images/EL%20Lit7.png)
+![English Literature](/images/Departments/EL%20Lit8.png)
 
-![English Literature](/images/EL%20Lit8.png)
-
-![English Literature](/images/EL%20Lit9.png)
+![English Literature](/images/Departments/EL%20Lit9.png)
