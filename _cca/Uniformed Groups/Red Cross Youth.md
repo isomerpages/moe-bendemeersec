@@ -38,6 +38,7 @@ Red Cross Youth (Gold)</td>
   </tr>
 </tbody>
 </table>
+<br>
 
 As we bid farewell to our graduating cohort during the World Red Cross Day ceremony, we celebrated the successes and contributions of the seniors who took pains to plan an enriching curriculum  and fun activities for their juniors. It was also especially meaningful to see the graduating seniors welcome the new Sec 1 cadets by pinning enrolment badges on their new uniforms as they start on their Red Cross journey.
 
