@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Humanities/.keep
-      - English Language/.keep
+      - English and Literature/.keep
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tongue.md
       - Mother Tongue/Mother Tongue Dept Overview.md
