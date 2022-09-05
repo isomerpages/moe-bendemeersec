@@ -4,7 +4,7 @@ permalink: /departments/humanities/hum-hod-msg/
 description: ""
 third_nav_title: Humanities
 ---
-## Humanities
+## **Humanities**
 
 
 
