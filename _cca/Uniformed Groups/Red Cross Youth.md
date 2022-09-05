@@ -14,28 +14,7 @@ third_nav_title: Uniformed Groups
 
 <br>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
-.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-3jrd{border-color:inherit;font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;font-size:medium;
-  text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-		<th class="tg-3jrd"><b>Recent Achievements<b><br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-3jrd">BEST UNIT ASSESSMENT 2021<br>
-Red Cross Youth (Gold)</td>
-  </tr>
-</tbody>
-</table>
+
 <br>
 
 As we bid farewell to our graduating cohort during the World Red Cross Day ceremony, we celebrated the successes and contributions of the seniors who took pains to plan an enriching curriculum  and fun activities for their juniors. It was also especially meaningful to see the graduating seniors welcome the new Sec 1 cadets by pinning enrolment badges on their new uniforms as they start on their Red Cross journey.
