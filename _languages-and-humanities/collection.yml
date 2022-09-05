@@ -1,5 +1,5 @@
 collections:
-  language-and-humanities:
+  languages-and-humanities:
     output: true
     order:
       - English and Literature/.keep
