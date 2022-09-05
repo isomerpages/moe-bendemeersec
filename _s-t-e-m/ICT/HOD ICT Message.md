@@ -4,7 +4,7 @@ permalink: /departments/ict/ict-hod-msg/
 description: ""
 third_nav_title: ICT
 ---
-# Information, Communication & Technology
+## **Information, Communication & Technology**
 
 ![Mr. Ng Wee Nghee  Head-of-Department (ICT)](/images/NgWeeNghee-225x300.jpg)
 
