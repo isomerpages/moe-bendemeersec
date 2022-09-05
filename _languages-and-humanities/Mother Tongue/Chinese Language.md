@@ -4,14 +4,13 @@ permalink: /departments/mothertongue/chineselang/
 description: ""
 third_nav_title: Mother Tongue
 ---
+## Chinese Language
 
-# Chinese Language
-
-**Teaching and Learning of Chinese Language**
+##### **Teaching and Learning of Chinese Language**
 
 The Chinese Language unit continued to create opportunities for students to acquire critical thinking skills using the 3C (Context, Content, Connection) 3R (Researching, Reasoning, Reflecting) PBL model which was used to guide teachers in designing effective PBL problems for students. Process writing was implemented in 2019. The incorporation of the process writing approach with self-directed learning and collaborative writing allowed students to familiarise themselves with essay writing structures and make use of descriptive techniques in their writing. With the use of thinking routines in SLS and online mindmapping tools, teachers were able to break down the learning process and provide scaffolding for students of various learning abilities to guide them in the lesson process. In 2021, students received their own personal learning devices, which increased the effectiveness of this ICT-integrated learning process. 
 
-**Higher Chinese Language**
+##### **Higher Chinese Language**
 
 Bendemeer Secondary offers an enriching and holistic learning experience through our Higher Chinese Language (HCL) syllabus. Apart from the teaching of listening, speaking, reading and writing skills, different learning experiences are introduced to students to appreciate the Chinese culture and heritage.
 
@@ -21,19 +20,20 @@ Due to Covid-19, the second and third cycles were held using lesson packages in 
 
 Through these cultural lessons, we hope that students will be able to appreciate the Chinese culture and cultivate their interest in learning the Chinese Language
 
-![Chinese cultural lessons](/images/Screenshot%20(3132).png)
+![Chinese cultural lessons](/images/Departments/cl-Screenshot%20(3132).png)
 
-**Festive Celebrations**
 
-Chinese New Year
+##### **Festive Celebrations**
+
+**Chinese New Year**
 
 Due to the Covid-19 situation, the Chinese New Year celebration in Bendemeer Secondary School is held online via Zoom. The Chinese New Year concert was a platform for students to showcase their talent. Concert performances include dancing, singing and martial arts. Exciting quizzes were also organized for students to learn more about the customs and traditions of the Chinese New Year. It was heartening to see students of Bendemeer Secondary School enjoying the concert and learning more about the Chinese culture. 
 
 Various level activities were also planned to cultivate students’ appreciation of the Chinese culture. The Secondary One students researched on how different countries celebrated New Year. The Secondary Two students designed Spring Festival Couplets to welcome the new year. The Secondary Three students researched on topics and designed information sheets to introduce the traditions, customs and food items related to Chinese New Year. These works of art produced by the students were displayed at the school foyer to showcase their learning. 
 
-![Chinese New Year](/images/Festive%20Celebrations.jpg)
+![Chinese New Year](/images/Departments/cl-Festive%20Celebrations.jpg)
 
-![Chinese New Year](/images/Festive%20Celebrations2.jpg)
+![Chinese New Year](/images/Departments/cl-Festive%20Celebrations2.jpg)
 
 **Mid-Autumn Festival**
 
