@@ -4,7 +4,7 @@ permalink: /departments/english/el-overview/
 description: ""
 third_nav_title: English and Literature
 ---
-## English Language Department Overview
+## **English Language Department Overview**
 
 ![English Language Department Overview](/images/Departments/EL%20D.png)
 
