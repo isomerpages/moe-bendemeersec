@@ -1,4 +1,5 @@
 collections:
   normal-course:
     output: true
-    order: []
+    order:
+      - Normal Course.md
