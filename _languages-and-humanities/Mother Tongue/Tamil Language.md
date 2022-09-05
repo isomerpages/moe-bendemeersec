@@ -4,7 +4,7 @@ permalink: /departments/mothertongue/tamillang/
 description: ""
 third_nav_title: Mother Tongue
 ---
-## Tamil Language
+## **Tamil Language**
 ##### **Teaching and Learning of Tamil Language**
 
 From Sec 1 to Sec 4, all the students were given opportunities to exhibit their interest and talents so as to develop their love for language and enhance academic learning.  Students are given opportunities to develop their language skills such as storytelling, stand up comedy, Drawing and Rangoli, advertisement act, one minute video making, one act play, mono acting, singing song, one minute talk, debate and other talents.  
