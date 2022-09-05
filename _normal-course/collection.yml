@@ -2,4 +2,5 @@ collections:
   normal-course:
     output: true
     order:
+      - Elective Modules.md
       - Normal Course.md
