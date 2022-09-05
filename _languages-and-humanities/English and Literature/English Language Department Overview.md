@@ -22,26 +22,26 @@ in terms of Reading, Speaking, Listening and Writing.
 
 **Department’s Goals**
 
-•     To develop an appreciation for the English Language
-•     To engage students in developing skills that go beyond the classroom environment.
+* To develop an appreciation for the English Language
+* To engage students in developing skills that go beyond the classroom environment.
 
 **English Department Programmes**
 
-●	 English Language customised instructional programme<br>
-●	Literature customised instructional programme<br>
-●	English Language Bridging Programme<br>
-●	English Language Sunshine Remedial Programme<br>
-●	Sec 1 DramaWorkz module – tied in with Literature Curriculum<br>
-●	Sec 1 Poetry Slam module – tied in with Literature Curriculum<br>
-●	Sec 2 Story-Telling module – tied in with the English Language Curriculum<br>
-●	Sec 2 Reader’s Theatre module – tied in with the English Language Curriculum<br>
-●	Sec 3 Radio Ad project – tied in with the English Language Curriculum<br>
-●	Sec 3 Debate Literacy module – tied in with the English Language Curriculum<br>
-●	Sec 3/ 4 Theatre Experience – tied in with the Literature Curriculum<br>
-●	 Reading Programme (all levels and streams) – tied in with the English Curriculum<br>
-●	 Keeping-It-Current Programme (all levels and streams) – tied in with the English Language Curriculum<br>
-●	English and Literature Week<br>
-●	Library Activities
+* English Language customised instructional programme<br>
+* Literature customised instructional programme<br>
+* English Language Bridging Programme<br>
+* English Language Sunshine Remedial Programme<br>
+* Sec 1 DramaWorkz module – tied in with Literature Curriculum<br>
+* Sec 1 Poetry Slam module – tied in with Literature Curriculum<br>
+* Sec 2 Story-Telling module – tied in with the English Language Curriculum<br>
+* Sec 2 Reader’s Theatre module – tied in with the English Language Curriculum<br>
+* Sec 3 Radio Ad project – tied in with the English Language Curriculum<br>
+* Sec 3 Debate Literacy module – tied in with the English Language Curriculum<br>
+* Sec 3/ 4 Theatre Experience – tied in with the Literature Curriculum<br>
+* Reading Programme (all levels and streams) – tied in with the English Curriculum<br>
+* Keeping-It-Current Programme (all levels and streams) – tied in with the English Language Curriculum<br>
+* English and Literature Week<br>
+* Library Activities
  
 
 **Reading Programme**
