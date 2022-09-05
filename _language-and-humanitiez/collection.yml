@@ -2,7 +2,6 @@ collections:
   language-and-humanitiez:
     output: true
     order:
-      - English Language & Literature/.keep
       - Humanities/.keep
       - Humanities/Humanities.md
       - Humanities/Humanities Department Overview.md
