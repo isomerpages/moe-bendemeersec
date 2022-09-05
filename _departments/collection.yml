@@ -1,6 +1,0 @@
-collections:
-  departments:
-    output: true
-    order:
-      - English and Literature/.keep
-      - Humanities/.keep
