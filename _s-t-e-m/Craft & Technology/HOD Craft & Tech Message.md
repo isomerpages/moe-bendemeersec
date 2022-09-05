@@ -6,7 +6,7 @@ third_nav_title: Craft & Technology
 ---
 ## **Craft & Technology**
 
-![Mrs Sharon Wee: HOD Craft and Tech](/images/mrs-sharon-wee-212x300.jpg)
+
 
 Art, Design & Technology (D&T), Food and Consumer Education/Nutrition and Food Science (FCE/NFS), Elements of Business Studies (EBS) and Music are the subjects under the purview of the Craft and Technology Department. We are firm believers that the study of these elective subjects will provide students with a balanced and well-rounded education, develop them to the fullest potential and nurture them into life-long learners and good citizens. To promote civic mindedness of being responsible citizens, the department’s experiential learning programmes provide opportunities for students to work in teams and show empathy to others. Through these learning processes, students learn to be creative and develop an inquiring mind.
 
