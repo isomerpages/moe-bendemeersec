@@ -12,6 +12,7 @@ third_nav_title: Uniformed Groups
 | -------- | -------- |
 | **Youth Officers:** <br>Ms Ramamdevi (Advisor) <br>Ms Ling Kai Xin Shauna (I/C) <br>Mr Ng Jan Ile (2I/C) <br>Ms Toh Yen Nee <br>Ms Vimala Selvarasu<br><br>**Volunteer Instructor:** <br>Ms Wang Yu Qing<br><br>**RCY Chairpersons:** <br>Neo Hui En Rachael (4R3)<br><br>**RCY Vice-Chairpersons:** <br>Ethan Lee Jie (4R1) <br>Hazel Tay Yu Xin (4R2)     | ![First aid bandaging](/images/Cca/cca-redx-i-First-aid-bandaging-683x1024.jpg)     | 
 
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
 .tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
