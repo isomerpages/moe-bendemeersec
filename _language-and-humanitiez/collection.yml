@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Humanities/.keep
-      - Humanities/Humanities.md
       - Humanities/Humanities Department Overview.md
       - Humanities/Social Studies.md
       - Humanities/Geography.md
