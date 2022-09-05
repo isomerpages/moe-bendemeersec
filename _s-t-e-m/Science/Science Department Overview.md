@@ -111,14 +111,14 @@ Our ALP programme in STEM education is featured in the MOE Facebook page. Check 
 
 Science Week provides a platform for authenticity and relevance of science learning for our students beyond the classroom learning. Exciting activities related to the theme of the Science Week are conducted to engage and excite the students. This includes showcasing of students’ work, everyday science activities, demonstration and quizzes. 
 
-![Science week](/images/Science%20WEek.jpg)
+![Science week](/images/Departments/sci-Scienceweek.jpg)
 
 **Stretch Programme**
 
 As every student learns at a different pace from his peers, to better cater to our students’ needs, the department sees to stretch them through three key areas: teaching and learning approach (within and beyond department, inter-department collaboration), external competitions such as Science Olympiads, GMAC challenge, International Biomedical Quiz, enrichment activity such as debates (within and outside school) and exposure to the science development around them through sharing/ workshop conducted by experts and scientific research work to widen their perspectives and experience. 
 
-![GMAC](/images/GMAC.png)
-GMAC Challenge Students conducted a research on GMO and syntehsiszed their learning using a poster representation.
+![GMAC](/images/Departments/sci-GMAC.png)
+GMAC Challenge Students conducted a research on GMO and synthesized their learning using a poster representation.
 
-![Valerie Nadya (4R1) received the silver award in the International Biomedical Quiz. ](/images/students%20participated.jpg)
+![Valerie Nadya (4R1) received the silver award in the International Biomedical Quiz. ](/images/Departments/sci-students%20participated.jpg)
 Students participated in the International Biomedical Quiz. Valerie Nadya (4R1) received the silver award.
