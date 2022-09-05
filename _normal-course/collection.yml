@@ -1,0 +1,4 @@
+collections:
+  normal-course:
+    output: true
+    order: []
