@@ -13,7 +13,28 @@ third_nav_title: Uniformed Groups
 | **Youth Officers:** <br>Ms Ramamdevi (Advisor) <br>Ms Ling Kai Xin Shauna (I/C) <br>Mr Ng Jan Ile (2I/C) <br>Ms Toh Yen Nee <br>Ms Vimala Selvarasu<br><br>**Volunteer Instructor:** <br>Ms Wang Yu Qing<br><br>**RCY Chairpersons:** <br>Neo Hui En Rachael (4R3)<br><br>**RCY Vice-Chairpersons:** <br>Ethan Lee Jie (4R1) <br>Hazel Tay Yu Xin (4R2)     | ![First aid bandaging](/images/Cca/cca-redx-i-First-aid-bandaging-683x1024.jpg)     | 
 
 <br>
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3jrd{border-color:inherit;font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;font-size:medium;
+  text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+		<th class="tg-3jrd"><b>Recent Achievements<b><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3jrd">BEST UNIT ASSESSMENT 2021<br>
+Red Cross Youth (Gold)</td>
+  </tr>
+</tbody>
+</table>
 
 <br>
 
