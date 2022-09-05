@@ -4,7 +4,7 @@ permalink: /departments/mothertongue/chineselang/
 description: ""
 third_nav_title: Mother Tongue
 ---
-## Chinese Language
+## **Chinese Language**
 
 ##### **Teaching and Learning of Chinese Language**
 
