@@ -4,7 +4,7 @@ permalink: /departments/english/el-hod-msg/
 description: ""
 third_nav_title: English and Literature
 ---
-## English Language and Literature
+## **English Language and Literature**
 
 ### HOD's English Message
 
