@@ -4,10 +4,9 @@ permalink: /departments/cnt/cnt-overview/
 description: ""
 third_nav_title: Craft & Technology
 ---
+## **Craft and Technology Department Overview**
 
-# Craft and Technology Department Overview
-
-### VISION, MISSION AND DEPARTMENT’S GOALS
+#### VISION, MISSION AND DEPARTMENT’S GOALS
 
 **Vision**
 
@@ -117,5 +116,3 @@ Subjects
   </tr>
 </tbody>
 </table>
-
-
