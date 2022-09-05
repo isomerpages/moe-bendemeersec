@@ -4,11 +4,9 @@ permalink: /departments/physical-education/hod-pe-msg/
 description: ""
 third_nav_title: Physical Education
 ---
+## **Physical Education**
 
 
-# Physical Education
-
-![Mr Tan Bak Cheng](/images/mr-tan-bak-cheng-212x300%201.jpg)
 
 ### Philosophy of Physical Education
 
@@ -34,6 +32,3 @@ Provision is also made for all students to be exposed to the basics of the CCA, 
 Each CCA also incorporates CCA-based Values in Action (VIA) activities or projects which are teacher-led or student-initiated to provide service learning opportunities and student leadership development.
 
 The school also recognises that participation through CCA fosters social integration as students build friendships that are not bound by their diverse backgrounds while they learn, play and grow together. It also deepens the students’ sense of belonging, commitment and responsibility to school, community and nation.
-
- 
-
