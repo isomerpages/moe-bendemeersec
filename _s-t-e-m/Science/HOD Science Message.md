@@ -4,8 +4,6 @@ permalink: /departments/science/sci-hod-msg/
 description: ""
 third_nav_title: Science
 ---
-
-
 # Science
 
 ![Ms Lee Xuefen, HOD Science at Bendemeer Secondary School](/images/Ms-Lee-Xue-Fen-t-212x300.jpg)
