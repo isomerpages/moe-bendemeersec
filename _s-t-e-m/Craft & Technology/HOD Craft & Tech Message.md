@@ -4,7 +4,7 @@ permalink: /departments/cnt/cnt-hod-msg/
 description: ""
 third_nav_title: Craft & Technology
 ---
-# Craft & Technology
+## **Craft & Technology**
 
 ![Mrs Sharon Wee: HOD Craft and Tech](/images/mrs-sharon-wee-212x300.jpg)
 
