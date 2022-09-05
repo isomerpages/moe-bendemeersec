@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Humanities/.keep
+      - English and Literature/English Literature.md
       - English and Literature/HOD EL Message.md
       - English and Literature/English Language Department Overview.md
       - English and Literature/.keep
