@@ -4,7 +4,6 @@ permalink: /departments/ict/ict-hod-msg/
 description: ""
 third_nav_title: ICT
 ---
-
 # Information, Communication & Technology
 
 ![Mr. Ng Wee Nghee  Head-of-Department (ICT)](/images/NgWeeNghee-225x300.jpg)
@@ -25,6 +24,5 @@ The Bendemeer ICT department has always worked closely with the school’s manag
 
 Given the strong solidarity in the Bendemeer family and ongoing support from various stakeholders, I am confident that our students will benefit from an ICT-supported holistic education and become responsible users of ICT.
 
-**Mr. Ng Wee Nghee**
-
+**Mr. Ng Wee Nghee**<br>
 **Head-of-Department (ICT)**
