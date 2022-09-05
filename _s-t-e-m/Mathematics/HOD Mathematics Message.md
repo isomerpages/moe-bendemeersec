@@ -4,10 +4,9 @@ permalink: /departments/mathematics/maths-overview/
 description: ""
 third_nav_title: Mathematics
 ---
-
 # Mathematics
 
-![Mrs Loh Choy Fong,  HOD Mathematics at Bendemeer Secondary](/images/mrs-loh-choy-fong-212x300.jpg)
+![Mrs Loh Choy Fong,  HOD Mathematics at Bendemeer Secondary](/images/math-hod-212x300.jpg)
 
 I strongly believe that Mathematics education plays an important role in equipping our students with the knowledge and skills to be competent in logical thinking, critical thinking and analytical thinking. Learning of Mathematics is crucial so that our students will achieve a good level of mastery of mathematics that will enable them to function effectively in everyday life. In addition, with a strong foundation in Mathematics, our students will be able to pursue mathematics-related courses in higher institutes of education.
 
@@ -48,7 +47,7 @@ The following is the Mathematics Department 4-Year Learning Roadmap:
 
 Our teachers engage the students through the use of varied pedagogy such as Differentiated Instruction, Thinking Routines, Learning Experiences as well as Polya’s Problem Solving which enable the students to have deeper conceptual understanding and to see the relevance of Mathematics in a real-world context. We also engage our students in solving problems in real-world contexts during curriculum and provide authentic learning experiences (Processes, Metacognition and Attitude) through Math Trail and Math Week. Our activities for Math Week aim to promote and pique our students’ interest in the learning of Mathematics. It is also an opportunity to create environmental awareness amongst all students to encourage them to reduce, reuse and recycle.
 
-![Math](/images/math.png)
+![Math](/images/Departments/math-mathweek.png)
 
 Moving forward with MOE National Digital Literacy Programme, our teachers leverage on technology and use e-pedagogy in their lesson design to create a student-centric learning environment, not only to enhance the learning of Mathematics but also to develop a critical appreciation of the use of information and communication technology in Mathematics. Our teachers integrate Student Learning Space and transform the learning experiences of students with the purposeful use of technology and enables students to engage in different learning modes, including self-directed and collaborative learning.
 
