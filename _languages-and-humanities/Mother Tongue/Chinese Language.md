@@ -96,8 +96,8 @@ During the trip, students were attached to Shuangshi Middle School, where they e
 
 On the whole, the overseas experience has increased students’ knowledge of the world beyond Singapore and enhanced their understanding and appreciation of the rich Chinese culture and heritage. 
 
-![Learning Journey cum School Immersion Programme to Xiamen (China)](/images/Learning%20Journey%20cum%20School%20Immersion%20Programme%20to%20Xiamen%20(China)1.jpg)
+![Learning Journey cum School Immersion Programme to Xiamen (China)](/images/Departments/cl-Learning%20Journey%20cum%20School%20Immersion%20Programme%20to%20Xiamen%20(China)1.jpg)
 
-![Learning Journey cum School Immersion Programme to Xiamen (China)](/images/Learning%20Journey%20cum%20School%20Immersion%20Programme%20to%20Xiamen%20(China)2.png)
+![Learning Journey cum School Immersion Programme to Xiamen (China)](/images/Departments/cl-Learning%20Journey%20cum%20School%20Immersion%20Programme%20to%20Xiamen%20(China)2.png)
 
-![Learning Journey cum School Immersion Programme to Xiamen (China)](/images/Learning%20Journey%20cum%20School%20Immersion%20Programme%20to%20Xiamen%20(China)3.jpg)
+![Learning Journey cum School Immersion Programme to Xiamen (China)](/images/Departments/cl-Learning%20Journey%20cum%20School%20Immersion%20Programme%20to%20Xiamen%20(China)3.jpg)
