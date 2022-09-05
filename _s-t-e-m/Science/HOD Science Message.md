@@ -4,9 +4,9 @@ permalink: /departments/science/sci-hod-msg/
 description: ""
 third_nav_title: Science
 ---
-# Science
+## **Science**
 
-![Ms Lee Xuefen, HOD Science at Bendemeer Secondary School](/images/Ms-Lee-Xue-Fen-t-212x300.jpg)
+
 
 As a parent and an educator, I always believe that every child has different readiness and talent, and when given the opportunity and the right approach, they can learn, grow and succeed in their life.
 
