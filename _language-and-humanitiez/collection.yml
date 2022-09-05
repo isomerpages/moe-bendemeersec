@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - English Language & Literature/.keep
-      - English Language & Literature/English Language Department Overview.md
       - English Language & Literature/English Literature.md
       - Humanities/.keep
       - Humanities/Humanities.md
