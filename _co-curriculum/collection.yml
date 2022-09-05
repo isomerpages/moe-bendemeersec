@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Physical Education/.keep
-      - Physical Education/HOD PE Message.md
       - Physical Education/Physical Education Department Overview.md
+      - Physical Education/HOD PE Message.md
       - CCE/.keep
       - CCE/Character & Citizenship Education.md
       - CCE/Character and Citizenship Education Overview.md
