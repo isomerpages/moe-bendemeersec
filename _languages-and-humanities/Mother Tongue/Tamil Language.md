@@ -4,13 +4,12 @@ permalink: /departments/mothertongue/tamillang/
 description: ""
 third_nav_title: Mother Tongue
 ---
-
 # Tamil Language
 **Teaching and Learning of Tamil Language**
 
 From Sec 1 to Sec 4, all the students were given opportunities to exhibit their interest and talents so as to develop their love for language and enhance academic learning.  Students are given opportunities to develop their language skills such as storytelling, stand up comedy, Drawing and Rangoli, advertisement act, one minute video making, one act play, mono acting, singing song, one minute talk, debate and other talents.  
 
-![Teaching and Learning of Tamil Language](/images/Teaching%20and%20learning%20of%20tamil%20language.png)
+![Teaching and Learning of Tamil Language](/images/Departments/tl-Teaching%20and%20learning%20of%20tamil%20language.png)
 
 **Learning Journey**
 
@@ -33,13 +32,13 @@ Every year, the Tamil Language Unit organizes the Pongal Festival and Deepavali 
 
 Parents also participate in Pongal and Deepavali preparations at school by contributing their service in decorating school and making Pongal delicacies.
 
-![Pongal Festival and Deepavali Celebrations](/images/Festive%20Celebrations.png)
+![Pongal Festival and Deepavali Celebrations](/images/Departments/tl-Festive%20Celebrations.png)
 
 **External Competitions**
 
 Teachers will develop and train the students for inter-school competitions to be held at cluster and national level conducted by community centres and other literary organisations. Our Bendemeer Tamil Language students have been participating in SORKALAM, Naanum Oru Padaipaali (CPDD, MOE), Creative writing competition, language and cultural competitions organised by community centres and achieved many prizes at the national level.  
 
-![External Competitions](/images/External.png)
+![External Competitions](/images/Departments/tl-External.png)
 
 **Partnership with External Organisations**
 
@@ -53,6 +52,6 @@ Every year, a group of Secondary 3 students would travel to Chennai to visit sch
 
 The school also played host to staff and students from Devi Academy Senior Secondary School and Bala Vidya Mandir Senior Secondary School. The Secondary 3 students were selected to be the buddies of the visiting students to give them an insight into the life of a Bendemeerian. It was also a good opportunity for our students to find out about the education system, culture and lifestyle in India. This experience has helped to boost the confidence of our students and has improved their cultural and global awareness.
 
-![Twinning Programme in Chennai (India)](/images/Twinning%20Programme.png)
+![Twinning Programme in Chennai (India)](/images/Departments/tl-Twinning%20Programme.png)
 
-![Twinning Programme in Chennai (India)](/images/tamil10.jpg)
+![Twinning Programme in Chennai (India)](/images/Departments/tl-tamil10.jpg)
