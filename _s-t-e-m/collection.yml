@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Craft & Technology/.keep
-      - Craft & Technology/Craft & Technology.md
       - Craft & Technology/Craft and Technology Department Overview.md
+      - Craft & Technology/Craft & Technology.md
       - Craft & Technology/Music.md
       - Craft & Technology/Elements of Business Skills.md
       - Craft & Technology/Design and Technology.md
