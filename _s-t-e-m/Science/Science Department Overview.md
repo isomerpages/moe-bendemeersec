@@ -4,11 +4,10 @@ permalink: /departments/science/sci-overview/
 description: ""
 third_nav_title: Science
 ---
+## **Science Department Overview**
 
-# Science Department Overview
 
-
-![Science Department Overview](/images/Science%20Department%20Overview.png)
+![Science Department Overview](/images/Departments/sci-Department.png)
 
 ### VISION, MISSION AND DEPARTMENT’S GOALS
 
@@ -45,10 +44,10 @@ Our assessment approach includes Assessment of Learning (AoL), Assessment for Le
 
 Our Performance-based Assessment (PBA) is anchored on 3 principles: clarity, authenticity and accessibility which assess their skills, content, values, ethics and attitudes. The PBA is conducted for all sec 1 to 3 levels and comes in various modes to engage the different learners and also to assess them differently. Other than scientific conceptual understanding, they are also developing and practising other skills and competencies through the PBA tasks such as communication, analytical thinking, perspective taking, teamwork, doing research, decision making and also making connections between learning and application of science, that science is everywhere. These PBA are assessed via rubrics with evaluative criteria to help students develop a vision for success.
 
-![Students (3R8) create games and getting their peers to engage in science learning in a fun way.](/images/Student%203R8.png)
+![Students (3R8) create games and getting their peers to engage in science learning in a fun way.](/images/Departments/sci-Student%203R8.png)
 Students (3R8) using their conceptual understanding in science to create games and explaining the science behind the games to get their peers to engage in science learning in a fun way.
 
-![3R2 students plan, ideate and construct their self-propel vehicle using Newtonian Mechanics](/images/3R2.jpg)
+![3R2 students plan, ideate and construct their self-propel vehicle using Newtonian Mechanics](/images/Departments/sci-selfpropelcar.jpg)
 3R2 students engaging in the planning, ideation and construction of their self-propel vehicle using their understanding in Newtonian Mechanics and documented their learning through a reflection.
 
 **Overview of Science learning roadmap**
@@ -105,7 +104,7 @@ The Science department learning roadmap depicts the spiral progression of the kn
 
 One of our key programmes is the Applied Learning Programme in health science and healthcare technology, using the Engage. Explore. Elaborate approach. From learning to understanding the problem through data analysis and hands-on activity, to exploring technology (Microbits) and applying what they have learnt in an authentic problem, students see how science can be integrated to solve problems in this programme. 
 
-![Applied Learning Programme using the Engage. Explore. Elaborate approach](/images/our%20ALp.png)
+![Applied Learning Programme using the Engage. Explore. Elaborate approach](/images/Departments/sci-ourALP.png)
 Our ALP programme in STEM education is featured in the MOE Facebook page. Check out the link [here](https://www.facebook.com/story.php?story_fbid=262959549200538&id=100064594847808). 
 
 **Science Week**
@@ -123,4 +122,3 @@ GMAC Challenge Students conducted a research on GMO and syntehsiszed their learn
 
 ![Valerie Nadya (4R1) received the silver award in the International Biomedical Quiz. ](/images/students%20participated.jpg)
 Students participated in the International Biomedical Quiz. Valerie Nadya (4R1) received the silver award.
-
