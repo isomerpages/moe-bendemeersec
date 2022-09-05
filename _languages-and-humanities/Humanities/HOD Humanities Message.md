@@ -4,19 +4,11 @@ permalink: /departments/humanities/hum-hod-msg/
 description: ""
 third_nav_title: Humanities
 ---
-# Humanities
+## Humanities
 
 
 
-| Column 1 | Column 2 | 
-| -------- | -------- | 
-| ![Mrs Agnes Tan, HOD Humanities](/images/Departments/hum-hod.jpg)     | I believe that the study of Humanities is a cohesive collection of experiences, each providing its own unique contribution where students learn to make sense of the world around them.   | 
-
-
-
-
-
-This helps to nurture knowledgeable and committed citizens with a global outlook and skills for the future.
+I believe that the study of Humanities is a cohesive collection of experiences, each providing its own unique contribution where students learn to make sense of the world around them. This helps to nurture knowledgeable and committed citizens with a global outlook and skills for the future.
 
 In alignment to the Schools’ Vision, Mission, Values and Motto, the department seeks to influence passionate learners and critical thinkers who will see the relevance of Humanities subjects in their everyday lives.
 
