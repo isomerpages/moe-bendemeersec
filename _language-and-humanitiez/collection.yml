@@ -2,7 +2,6 @@ collections:
   language-and-humanitiez:
     output: true
     order:
-      - Humanities/.keep
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tongue.md
       - Mother Tongue/Mother Tongue Dept Overview.md
