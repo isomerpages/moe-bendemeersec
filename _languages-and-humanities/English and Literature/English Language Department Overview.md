@@ -22,7 +22,7 @@ in terms of Reading, Speaking, Listening and Writing.
 
 **Department’s Goals**
 
-•     To develop an appreciation for the English Language.
+•     To develop an appreciation for the English Language
 •     To engage students in developing skills that go beyond the classroom environment.
 
 **English Department Programmes**
