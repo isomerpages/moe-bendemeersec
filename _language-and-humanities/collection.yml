@@ -1,5 +1,5 @@
 collections:
-  language-and-humanitiez:
+  language-and-humanities:
     output: true
     order:
       - Humanities/Humanities Department Overview.md
