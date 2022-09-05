@@ -4,10 +4,7 @@ permalink: /departments/humanities/socialstudies/
 description: ""
 third_nav_title: Humanities
 ---
-
-
-
-# Social Studies
+## Social Studies
 
 Our Social Studies curriculum consciously aims to go beyond the textbook to develop inquiring minds that will imbue our students with the relevant skills and values to be responsible citizens who actively contribute to the school and community. This is clearly evident in our signature Social Studies programme  - the Secondary 3 LLP, a collaboration between Humanities (Social Studies) and the CCE departments. 
 
