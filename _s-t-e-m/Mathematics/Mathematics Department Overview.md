@@ -4,7 +4,7 @@ permalink: /departments/mathematics/maths-hod-msg/
 description: ""
 third_nav_title: Mathematics
 ---
-# Mathematics Department Overview
+## **Mathematics Department Overview**
 
 ![Mathematics Department Overview](/images/Departments/math-Overview.png)
 
