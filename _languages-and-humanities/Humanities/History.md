@@ -4,11 +4,7 @@ permalink: /departments/humanities/history/
 description: ""
 third_nav_title: Humanities
 ---
-
-
-
-
-# History
+## **History**
 
 The History department aims to instill the thirst for knowledge on past events that have shaped our world. We believe in educating students with historical skills that equip them with critical awareness when making connections between past and present. Historical Investigation (HI) is an integral component of Lower Secondary History education and as such our team has designed both Secondary 1 and 2 HI in line with the MOE syllabus. To allow our students to appreciate Singapore’s rich history we tailored an entire programme that displayed the key components of inquiry learning. 
 
@@ -18,12 +14,13 @@ Our team also hosts the War & Diplomacy Competition annually where schools acros
 
 We also take part during the Humanities Week, where we collaborate with other departments to take on a societal issue such as water conservation in Singapore where students can apply their knowledge and skills across various subjects.
 
-![History](/images/hist%205.jpg)
 
-![History](/images/hist1.jpg)
+![History](/images/Departments/hum-hist5.jpg)
 
-![History](/images/hist2.jpg)
+![History](/images/Departments/hum-hist1.jpg)
 
-![History](/images/hist3.jpg)
+![History](/images/Departments/hum-hist2.jpg)
 
-![History](/images/hist4.jpg)
+![History](/images/Departments/hum-hist3.jpg)
+
+![History](/images/Departments/hum-hist4.jpg)
