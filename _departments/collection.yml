@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - Language and Humanities/English Literature.md
-      - Language and Humanities/English Language Department Overview.md
-      - Language and Humanities/English Language and Literature.md
-      - Language and Humanities/.keep
+      - English/English Literature.md
+      - English/English Language Department Overview.md
+      - English/English Language and Literature.md
+      - English/.keep
