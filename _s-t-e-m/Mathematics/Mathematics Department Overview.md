@@ -4,10 +4,9 @@ permalink: /departments/mathematics/maths-hod-msg/
 description: ""
 third_nav_title: Mathematics
 ---
-
 # Mathematics Department Overview
 
-![Mathematics Department Overview](/images/Mathematics%20Department%20Overview.png)
+![Mathematics Department Overview](/images/Departments/math-Overview.png)
 
 ### VISION, MISSION AND DEPARTMENT’S GOALS
 
@@ -35,16 +34,10 @@ Sec 4/5: To achieve mastery in Mathematics so that they can pursue Mathematics o
 
 **Programmes**
 
-• Math Customised Instructional Programme
-
-• Math Bridging Programme
-
-• Math Remedial and Sunshine Programmes
-
-• Financial Literacy Programme
-
-• Math Olympiad Training Programme
-
-• Math Trails
-
-• Math Week
+* Math Customised Instructional Programme
+* Math Bridging Programme
+* Math Remedial and Sunshine Programmes
+* Financial Literacy Programme
+* Math Olympiad Training Programme
+*  Math Trails
+* Math Week
