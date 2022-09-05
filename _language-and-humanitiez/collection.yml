@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Humanities/.keep
-      - Humanities/Social Studies.md
       - Humanities/Geography.md
       - Humanities/History.md
       - Mother Tongue/.keep
