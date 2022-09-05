@@ -4,14 +4,9 @@ permalink: /departments/english/el-overview/
 description: ""
 third_nav_title: English and Literature
 ---
+## English Language Department Overview
 
-
-
-
-
-# English Language Department Overview
-
-![English Language Department Overview](/images/EL%20D.png)
+![English Language Department Overview](/images/Departments/EL%20D.png)
 
 ### VISION, MISSION AND DEPARTMENT’S GOALS
 
@@ -32,8 +27,7 @@ in terms of Reading, Speaking, Listening and Writing.
 
 **English Department Programmes**
 
-●	 English Language customised instructional programme
-
+●	 English Language customised instructional programme<br>
 ●	Literature customised instructional programme
 
 ●	English Language Bridging Programme
