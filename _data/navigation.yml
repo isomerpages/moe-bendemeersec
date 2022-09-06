@@ -28,13 +28,7 @@ links:
         url: /key-programmes/after-school-engagement-programme
   - title: Achievements
     collection: achievements
-  - title: Useful LInks
-    collection: useful-links
-  - title: Contact Us
-    url: /contact-us/
-  - title: ReourceRoom
-    resource_room: true
-  - title: Uselinkz
+  - title: Useful links(Sub-menu)
     url: /useful-links/sch-magazines
     sublinks:
       - title: Online School Magazine
@@ -45,3 +39,9 @@ links:
         url: /useful-links/infolinks
       - title: Submenu Title
         url: /permalink
+  - title: Useful LInks
+    collection: useful-links
+  - title: Contact Us
+    url: /contact-us/
+  - title: ReourceRoom
+    resource_room: true
