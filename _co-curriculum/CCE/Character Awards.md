@@ -4,9 +4,8 @@ permalink: /departments/cce/character-awards/
 description: ""
 third_nav_title: CCE
 ---
-
-# Character Awards
-## The Model Bendemeerian
+## **Character Awards**
+### The Model Bendemeerian
 
 The Model Bendemeerian Award is awarded to 1 student from every level (Secondary 1 to 5) to recognise our students for demonstrating the school’s values, showing exemplary character and outstanding personal qualities through their behaviour and actions to inspire others.
 
