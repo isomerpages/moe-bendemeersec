@@ -4,10 +4,10 @@ permalink: /departments/cnt/arts/
 description: ""
 third_nav_title: Craft & Technology
 ---
-## Art
+## **Art**
 In Bendemeer Secondary School we believe in developing our students to be active learners and responsible citizens, who are confident visual learners. The Art Unit aims to cultivate in our students the love for the visual arts through the development of artistic skills in observation, creative expression and appreciation of varied art forms in both the lower and upper secondary levels.
 
-**Lower Secondary Art Curriculum**
+#### **Lower Secondary Art Curriculum**
 
 The Art Unit at Bendemeer Secondary School aims to equip students with the knowledge and skills to be discerning visual learners who are not only creative but effective communicators, critical-thinkers and problem-solvers - competencies that are important for the 21st Century. It also aims to develop students’ learning that focuses on context, artistic process, media and visual qualities through making and learning about artworks. 
  
@@ -23,7 +23,7 @@ The art programme focuses on helping students:
 Students are assessed using both formative and summative assessments through task and project-based assignments.
  
 
-**Upper Secondary Art Curriculum**
+#### **Upper Secondary Art Curriculum**
 
 The upper secondary art curriculum, which is offered as an elective subject, emphasizes both skills and thought processes such as research, exploration, development, experimentation and evaluation in the art-making process of artworks. Ample studio time spent enables students to explore and practise using varied media in their art-making. Through these learning experiences, the curriculum aims to develop students to:
 Give form and meaning to their ideas, thoughts and feelings through visual and tactile forms.
