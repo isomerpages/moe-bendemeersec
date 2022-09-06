@@ -4,10 +4,10 @@ permalink: /departments/cce/cce-hod-msg/
 description: ""
 third_nav_title: CCE
 ---
+## **Character & Citizenship Education**
 
-# Character & Citizenship Education
+#### HOD's Message
 
-![Mrs Eileen Ho, HOD CCE Bendemeer at Secondary School](/images/mrs-eileen-ho-geok-lay-212x300.jpg)
 
 The mission of our Ministry of Education (MOE) is to mould the people who will determine our future. The wealth of our nation lies in our people’s commitment to country and community, their willingness to strive and persevere, their ability to think, achieve and excel.
 
