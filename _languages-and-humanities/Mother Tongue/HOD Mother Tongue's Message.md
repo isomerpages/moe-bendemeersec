@@ -4,10 +4,9 @@ permalink: /departments/mothertongue/mt-hod-msg/
 description: ""
 third_nav_title: Mother Tongue
 ---
+## **Mother Tongue Language**
 
-## **Mother Tongue**
-
-#### HOD Mother Tongue Message
+#### HOD Mother Tongue's Message
 
 
 The Mother Department aims to develop a Bendemeerian who possess a commendable level of Mother Tongue Language (MTL) proficiency and competency that will enable him to excel in lifelong learning and to appreciate his cultural heritage while developing a global perspective at the same time. Hence, our sense of mission is to cultivate in our students the love of learning MTLs, and to develop their interest in the understanding and appreciation of our cultural heritage, as well as to promote ethical and civic behaviour.
