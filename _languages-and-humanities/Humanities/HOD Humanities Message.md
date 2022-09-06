@@ -6,7 +6,7 @@ third_nav_title: Humanities
 ---
 ## **Humanities**
 
-
+#### HOD's Message
 
 I believe that the study of Humanities is a cohesive collection of experiences, each providing its own unique contribution where students learn to make sense of the world around them. This helps to nurture knowledgeable and committed citizens with a global outlook and skills for the future.
 
