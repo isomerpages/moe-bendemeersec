@@ -6,7 +6,7 @@ third_nav_title: Mother Tongue
 ---
 ## **Malay Language**
 
-##### **Teaching and Learning of Malay Language**
+#### **Teaching and Learning of Malay Language**
 
 **Students’ Learning Space**
 
