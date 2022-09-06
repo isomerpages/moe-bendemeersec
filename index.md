@@ -31,8 +31,4 @@ sections:
       alt: Image alt text
       image: /images/Announcements/annouce-dsa.jpg
       url: /announcements/dsa-registration
-  - resources:
-      title: MORE
-      subtitle: BENDEMEER in pictures
-      button: Click here to view more
 ---
