@@ -9,12 +9,9 @@ sections:
   - hero:
       background: /images/hero-banner01s.jpg
       key_highlights:
-        - title: Announcements
-          description: Click here for announcements!
-          url: /announcements/announcements
-        - title: Useful Links
-          description: Click here for useful links!
-          url: /useful-links/infolinks
+        - title: Check the links below for new announcements
+          description: ""
+          url: ""
   - infobar:
       title: Direct School Admission (DSA-Sec)
       subtitle: New
