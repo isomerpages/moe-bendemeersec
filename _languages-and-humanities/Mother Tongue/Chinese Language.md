@@ -6,11 +6,11 @@ third_nav_title: Mother Tongue
 ---
 ## **Chinese Language**
 
-##### **Teaching and Learning of Chinese Language**
+#### **Teaching and Learning of Chinese Language**
 
 The Chinese Language unit continued to create opportunities for students to acquire critical thinking skills using the 3C (Context, Content, Connection) 3R (Researching, Reasoning, Reflecting) PBL model which was used to guide teachers in designing effective PBL problems for students. Process writing was implemented in 2019. The incorporation of the process writing approach with self-directed learning and collaborative writing allowed students to familiarise themselves with essay writing structures and make use of descriptive techniques in their writing. With the use of thinking routines in SLS and online mindmapping tools, teachers were able to break down the learning process and provide scaffolding for students of various learning abilities to guide them in the lesson process. In 2021, students received their own personal learning devices, which increased the effectiveness of this ICT-integrated learning process. 
 
-##### **Higher Chinese Language**
+#### **Higher Chinese Language**
 
 Bendemeer Secondary offers an enriching and holistic learning experience through our Higher Chinese Language (HCL) syllabus. Apart from the teaching of listening, speaking, reading and writing skills, different learning experiences are introduced to students to appreciate the Chinese culture and heritage.
 
@@ -23,7 +23,7 @@ Through these cultural lessons, we hope that students will be able to appreciate
 ![Chinese cultural lessons](/images/Departments/cl-Screenshot%20(3132).png)
 
 
-##### **Festive Celebrations**
+#### **Festive Celebrations**
 
 **Chinese New Year**
 
