@@ -36,4 +36,8 @@ links:
     resource_room: true
   - title: Uselinkz
     url: /useful-links/sch-magazines
-    sublinks: []
+    sublinks:
+      - title: Online School Magazine
+        url: /useful-links/sch-magazines
+      - title: Class Timetable
+        url: /useful-links/class-timetable
