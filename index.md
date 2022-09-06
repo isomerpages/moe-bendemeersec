@@ -26,6 +26,7 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/Announcements/annouce-dsa.jpg
   - resources:
       title: MORE
       subtitle: BENDEMEER in pictures
