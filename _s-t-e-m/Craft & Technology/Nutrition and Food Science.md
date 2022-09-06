@@ -4,7 +4,7 @@ permalink: /departments/cnt/nutrition-foodscience/
 description: ""
 third_nav_title: Craft & Technology
 ---
-## Nutrition and Food Science
+## **Nutrition and Food Science**
 ##### **Lower Secondary: Food and Consumer Education** 
  
 The study of Food and Consumer Education (FCE) at Bendemeer Secondary School aims to equip students with the knowledge to be health-conscious and discerning consumers; enabling them to better manage their lives for the present and the future. The curriculum centres on two core areas of study, namely Food Studies and Consumer Studies where students learn to: 
