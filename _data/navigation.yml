@@ -37,8 +37,8 @@ links:
         url: /useful-links/class-timetable
       - title: Infolinks
         url: /useful-links/infolinks
-      - title: Submenu Title
-        url: /permalink
+      - title: Announcements
+        url: /announcements/dsa-registration
   - title: Useful LInks
     collection: useful-links
   - title: ReourceRoom
