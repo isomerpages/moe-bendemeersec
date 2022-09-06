@@ -4,8 +4,7 @@ permalink: /departments/cce/cce-overview/
 description: ""
 third_nav_title: CCE
 ---
-
-# Character and Citizenship Education Overview
+## **Character and Citizenship Education Overview**
 
 ![Character and Citizenship Education Overview](/images/Departments/cce1.png)
 
