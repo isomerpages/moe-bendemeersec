@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Mathematics
 ---
 ## **Mathematics**
-
 #### HOD's Message
 
 I strongly believe that Mathematics education plays an important role in equipping our students with the knowledge and skills to be competent in logical thinking, critical thinking and analytical thinking. Learning of Mathematics is crucial so that our students will achieve a good level of mastery of mathematics that will enable them to function effectively in everyday life. In addition, with a strong foundation in Mathematics, our students will be able to pursue mathematics-related courses in higher institutes of education.
