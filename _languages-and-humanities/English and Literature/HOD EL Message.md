@@ -6,7 +6,7 @@ third_nav_title: English and Literature
 ---
 ## **English Language and Literature**
 
-### HOD's English Message
+#### HOD's  Message
 
 Language touches the heart. And in Bendemeer Secondary, there is a lot of ‘heart’ work!
 
