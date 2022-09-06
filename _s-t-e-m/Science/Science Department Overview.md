@@ -9,7 +9,7 @@ third_nav_title: Science
 
 ![Science Department Overview](/images/Departments/sci-Department.png)
 
-### VISION, MISSION AND DEPARTMENT’S GOALS
+#### VISION, MISSION AND DEPARTMENT’S GOALS
 
 **Vision & Mission**
 
