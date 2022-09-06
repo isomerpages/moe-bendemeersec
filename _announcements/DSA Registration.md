@@ -3,7 +3,7 @@ title: DSA Registration
 permalink: /announcements/dsa-registration/
 description: ""
 ---
-## DSA Registration
+## **DSA Registration**
 
 #### Direct School Admission (DSA-Sec) – For 2023 Secondary One Admission
 
