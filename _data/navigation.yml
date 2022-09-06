@@ -41,7 +41,5 @@ links:
         url: /permalink
   - title: Useful LInks
     collection: useful-links
-  - title: Contact Us
-    url: /contact-us/
   - title: ReourceRoom
     resource_room: true
