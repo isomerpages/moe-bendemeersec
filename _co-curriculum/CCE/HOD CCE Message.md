@@ -27,12 +27,12 @@ Globally, we face more anxiety and stress, more uncertainty about what lies ahea
 The goals of CCE 2021 are Good Character, Resilience and Well-Being, Active Citizenship, and Future-Readiness, which are in line with our aforementioned mission and vision. We would also see the following key changes introduced by CCE 2021 to attain its goals:
 
 
-### Making CCE more relevant and applicable
+#### Making CCE more relevant and applicable
 
 CCE will be further integrated into lessons and activities, such as Co-Curricular Activities (CCAs), camps and outdoor activities. Students will go through key student development experiences beyond the classroom from primary to pre-university, including new cohort Learning Journeys. In line with ongoing efforts to redefine CCA experiences, we will be exploring opportunities to work with other schools on CCAs with small enrolment, and schools that are looking to provide students with more opportunities for social mixing.
  
 
-### Strengthening Mental Health and Cyber Wellness Education 
+#### Strengthening Mental Health and Cyber Wellness Education 
 
 Students will be better equipped to ensure their well-being, understand mental health problems and know when to seek support. This aims to nurture in them empathy and care towards people with mental illness.
 
