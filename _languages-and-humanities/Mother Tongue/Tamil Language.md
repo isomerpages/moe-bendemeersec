@@ -5,13 +5,13 @@ description: ""
 third_nav_title: Mother Tongue
 ---
 ## **Tamil Language**
-##### **Teaching and Learning of Tamil Language**
+#### **Teaching and Learning of Tamil Language**
 
 From Sec 1 to Sec 4, all the students were given opportunities to exhibit their interest and talents so as to develop their love for language and enhance academic learning.  Students are given opportunities to develop their language skills such as storytelling, stand up comedy, Drawing and Rangoli, advertisement act, one minute video making, one act play, mono acting, singing song, one minute talk, debate and other talents.  
 
 ![Teaching and Learning of Tamil Language](/images/Departments/tl-Teaching%20and%20learning%20of%20tamil%20language.png)
 
-##### **Learning Journey**
+#### **Learning Journey**
 
 A borderless learning (learning journey) is a designed learning experience that occurs over a period of time and involves a whole series of different learning elements and learning experiences involving different methods and channels. 
 
@@ -20,7 +20,7 @@ A borderless learning (learning journey) is a designed learning experience that 
 * Sec 3 students have been visiting Bala Vidya Mandir School at Chennai India under Twinning Programme since 2006. 
 
 
-##### **Festive Celebrations**
+#### **Festive Celebrations**
 
 **Pongal Festival and Deepavali Celebrations**
 
