@@ -8,7 +8,7 @@ third_nav_title: Mathematics
 
 ![Mathematics Department Overview](/images/Departments/math-Overview.png)
 
-### VISION, MISSION AND DEPARTMENT’S GOALS
+#### VISION, MISSION AND DEPARTMENT’S GOALS
 
 **Vision**
 
