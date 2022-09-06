@@ -6,7 +6,7 @@ third_nav_title: ICT
 ---
 ## **Information, Communication & Technology**
 
-
+#### HOD's Message
 The evolution of Information Communication and Technology (ICT) has transformed the way teaching and learning takes place in the classrooms. From the days of chalk and talk to the use of smart devices for learning trails, ICT has played an important role in shaping our education landscape.
 
 As a pilot school for 1-to-1 Personal Learning Device Project (PLD) in 2019, Bendemeer’s teachers are the forerunners in designing and using e-pedagogy. We have had a long runway to fine tune our strategy, including the unprecedented Home-Based-Learning during Circuit Breaker, to meaningfully use these PLDs to elevate learning. In Bendemeer, we use technology to support traditional methods, equipping our students with 21st Century skills while ensuring learning is never compromised. Minister Ong Ye Kung, our previous Minister of Education, has supported and validated this strategy:
