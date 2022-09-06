@@ -36,17 +36,17 @@ Meanwhile, the lower secondary choral reading team delivered the poem “Homewor
 
 It was indeed a meaningful experience for the entire Bendemeer team, and the hard work put in was rewarded with a total of three trophies: Silver Medal for Choral Speaking, Winner for Sec 3 Set Text Debate and Winner for Sec 4 Unseen Poetry.
 
-![Mr Chen with our Bendemeer Team](/images/Departments/Eng4a-1024x768.jpg)
+![Mr Chen with our Bendemeer Team](/images/Departments/EL-Eng4a-1024x768.jpg)
 Mr Chen with our Bendemeer Team
 
 <br>
 
-![Our Champions!](/images/Departments/Eng1a-768x576.jpg)
+![Our Champions!](/images/Departments/EL-Eng1a-768x576.jpg)
 Our Champions!
 
 <br>
 
-![Our team hard at work!](/images/Departments/Eng2a-768x576.jpg)
+![Our team hard at work!](/images/Departments/EL-Eng2a-768x576.jpg)
 Our team hard at work!
 
 ![English Literature](/images/Departments/EL%20Lit10.png)
