@@ -12,12 +12,4 @@ Learning journeys pertaining to their topics also provide students with valuable
 
 We also take part during the Humanities Week, where we collaborate with other departments to take on a societal issue such as water conservation in Singapore where students can apply their knowledge and skills across various subjects. 
 
-![Geography](/images/Departments/hum-geo1.jpg)
-
-![Geography](/images/Departments/hum-geo2.jpg)
-
-![Geography](/images/Departments/hum-geo3.jpg)
-
-![Geography](/images/Departments/hum-geo4.jpg)
-
-![Geography](/images/Departments/hum-geo5.jpg)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXJ8OAJKZFNcy_WjKcGsmpUWSaiffFwnnx4_0qUwVioWWnrZq9CgsBYnSxJ_36oSCN4cmYjUhKQwe7/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
