@@ -2,7 +2,7 @@
 layout: homepage
 title: Bendemeer Secondary School
 description: Bendemeer Secondary School
-image: /images/isomer-logo.svg
+image: /images/logo.png
 permalink: /
 notification: ""
 sections:
@@ -29,3 +29,4 @@ sections:
       image: /images/Announcements/annouce-dsa.jpg
       url: /announcements/dsa-registration
 ---
+
