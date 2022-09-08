@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-bendemeersec-staging.netlify.app
 prod: https://moe-bendemeersec-prod.netlify.app
-shareicon: /images/isomer-logo.svg
+shareicon: /images/logo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
