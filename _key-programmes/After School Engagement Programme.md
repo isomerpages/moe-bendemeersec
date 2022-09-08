@@ -3,7 +3,6 @@ title: After School Engagement Programme
 permalink: /key-programmes/uplift-ase/
 description: ""
 ---
-
 ## After School Engagement Programme
 
 The After School Engagement (ASE) Programme aims to:
@@ -16,7 +15,7 @@ The school has adopted a proactive approach to engage a target group of students
 
 It operates from **Monday to Thursday from 2.30 p.m. to 5.30 p.m.**
 
-The activities for the ASE programme can be categorised into 4 broad areas- 1) Appreciation for others, 2) Sports & Games, 3) Visual Arts and 4) Self-exploration.
+The activities for the ASE programme can be categorised into 4 broad areas- 1) Appreciation for others, 2) Sports &amp; Games, 3) Visual Arts and 4) Self-exploration.
 
 Some of the activities that have been conducted are:
 
@@ -34,14 +33,4 @@ Some of the activities that have been conducted are:
 * Presentation skills
 * Photo booth for Friendship Day
 
-![ASE rafting](/images/Keyprogrammes/ase-rafting.jpg)
-
-![Birthday Celebration](/images/Keyprogrammes/ase-Birthday%20Celebration.jpeg)
-
-![Guitar Workshop](/images/Keyprogrammes/ase-Guitar%20Workshop.jpg)
-
-![Raft Making Activity.](/images/Keyprogrammes/ase-Raft%20Making%20Activity.jpg)
-
-![Rafting](/images/Keyprogrammes/ase-rafting.jpg)
-
-![Team Bonding Activity.](/images/Keyprogrammes/ase-Team%20Bonding%20Acitivity.jpg)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAt9wr0e0qi3DyJLjq0ARULTnPrIpfuA2dGfEDZD96Grouyy7LJn_CV-pC8Skc7lffBQ3jueA-6ZbN/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
