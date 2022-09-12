@@ -5,8 +5,7 @@ description: ""
 ---
 ## Principal's Message
 
-![Principal's face](/images/principal-speech.jpg)
-
+![](/images/Aboutus/principal-speech.jpg)
 In Bendemeer Secondary, we believe that every student can shine and achieve his or her potential, anchored on our strong mission to build character, nurture learners and serve the community. The collective efforts of our teachers and students have borne fruits of labour which have made us distinctive and sustained the Bendemeer Heartbeat.
 
 We have continued to achieve success in many domains and we have given students countless opportunities to grow in their respective areas of strength. This is firmly rooted in our belief that our students’ interests would ultimately drive their passion in their chosen field later in life. Our school’s two distinctive programmes, the Applied Learning Programme (ALP) and Learning for Life Programme (LLP), strive to develop 21st century competencies, skills and mindsets in our students, broadening their learning and allowing them to pursue their interests and passion. This belief has also provided broad guidance to our school’s Education and Career Guidance (ECG) programme, which has prepared our graduating students well in their Early Admission Exercise (EAE) application. The fact that a significant proportion of our graduating students have been successful in securing a place in Polytechnic or ITE even before sitting for their national examination bears testament to our students capitalising on their interests and passion to pursue their post-secondary education.
