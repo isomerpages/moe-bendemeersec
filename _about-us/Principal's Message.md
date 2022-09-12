@@ -1,9 +1,9 @@
 ---
 title: Principal's Message
-permalink: /about-us/principals-message
+permalink: /about-us/principals-message/
 description: ""
 ---
-# Principal's Message
+## Principal's Message
 
 ![Principal's face](/images/principal-speech.jpg)
 
@@ -19,7 +19,7 @@ The greatest strength of the school is our team of caring, committed and dedicat
 
 We aspire to continue to work hand-in-hand with our community partners to provide additional learning platforms and opportunities to develop our students’ 21st century competencies. Through the invaluable partnerships cultivated over the years with the School Advisory Committee, Parent Support Group, institutes of higher learning, People’s Association grassroots organisations, Kolam Ayer Community Club, Central Singapore CDC, SINDA and the industry partners, we are well-placed to meet the challenges ahead of us. Together with our community partners, Bendemeer Secondary School will continue to work towards nurturing students who are future-ready and rooted in values – Bendemeerians who will be Active Learners, Responsible Citizens.
 
-**Mr Chen Fook Pang** <br>
-*Principal*
+**Mr Chen Fook Pang** 
+<br>*Principal*
 
 ![Principal's Group](/images/Principals-Group-Pic_CAN-RESIZE-IF-NO-SPACE-1024x683.jpg)
