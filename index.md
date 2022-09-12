@@ -28,5 +28,8 @@ sections:
       alt: Image alt text
       image: /images/Announcements/annouce-dsa.jpg
       url: /announcements/dsa-registration
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
-
