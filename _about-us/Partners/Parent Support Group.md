@@ -1,12 +1,12 @@
 ---
 title: Parent Support Group
-permalink: /about-us/partners/parent-support-group
+permalink: /about-us/partners/parent-support-group/
 description: ""
 third_nav_title: Partners
 ---
 # Parent Support Group
 
-![Parent Support Group 1](/images/PSG1.png)
+![Parent Support Group 1](/images/Aboutus/PSG1.png)
 
 **Chairman**:		M S. Pannirselvam
 
@@ -14,7 +14,7 @@ third_nav_title: Partners
 
 **Vice-Chairman**:	Ms Wong Wai Mei
 
-![Parent Support Group photo](/images/PSG2.jpg)
+![Parent Support Group photo](/images/Aboutus/PSG2.jpg)
 
 Parents lay the foundation of moral values for students and the development of character and citizenship in our students is greatly influenced by what happens in school and at home.
 
@@ -29,11 +29,11 @@ Some of our key activities are:
 * Coffee Talks with parents
 * Bonding activities
 
-![Parent Support Group photo](/images/PSG3.jpg)
+![Parent Support Group photo](/images/Aboutus/PSG3.jpg)
 
-![Parent Support Group photo](/images/PSG4.jpg)
+![Parent Support Group photo](/images/Aboutus/PSG4.jpg)
 
 Please consider joining us in the following activities and embark on a journey with your child you will not regret.
 Scan here or use [this link](https://chat.whatsapp.com/GNULdwRsYmI2e22T9XhIeo) to join our WhatsApp chat!
 
-![Parent Support Group sign up QR Code](/images/PSG5.png)
+![Parent Support Group sign up QR Code](/images/Aboutus/PSG5.png)
