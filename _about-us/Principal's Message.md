@@ -21,4 +21,4 @@ We aspire to continue to work hand-in-hand with our community partners to provid
 **Mr Chen Fook Pang** 
 <br>*Principal*
 
-![Principal's Group](/images/Principals-Group-Pic_CAN-RESIZE-IF-NO-SPACE-1024x683.jpg)
+![Principal's Group](/images/Aboutus/principal-Group-1024x683.jpg)
