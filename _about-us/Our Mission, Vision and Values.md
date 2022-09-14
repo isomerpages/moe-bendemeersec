@@ -6,13 +6,13 @@ description: ""
 # Our Mission, Vision and Values
 
 ![Vision](/images/Aboutus/VMV1.jpg)
-**Active Learners, Responsible Citizens**
+<p style="text-align:center">**Active Learners, Responsible Citizens**</p>
 
 ![ Mission](/images/Aboutus/VMV2.jpg)
-**A school that builds character, nurtures learners and serves the community**
+<p style="text-align:center">**A school that builds character, nurtures learners and serves the community**</p>
 
 ![Values](/images/Aboutus/VMV3.jpg)
-**Integrity, Care, Respect, Responsibility, Resilience, Harmony**
+<p style="text-align:center">**Integrity, Care, Respect, Responsibility, Resilience, Harmony**</p>
 
 ![Passion for learning](/images/Aboutus/VMV4.jpg)
 **We are a school that ignites a passion for learning.** The staff and students are encouraged to be creative and actively engaged in seeking solutions for the improvement of the community and country. We envision our graduates as confident youths who are equipped with skills and perspectives that make them relevant for their generation
