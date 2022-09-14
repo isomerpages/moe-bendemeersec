@@ -1,12 +1,12 @@
 ---
 title: Illustrious Alumni
-permalink: /about-us/partners/illustrious-alumni
+permalink: /about-us/partners/illustrious-alumni/
 description: ""
 third_nav_title: Partners
 ---
 # Illustrious Alumni
 
-![BDMS Alumni](/images/BDMSAlumni-768x261.jpg)
+![BDMS Alumni](/images/Aboutus/BDMSAlumni-768x261.jpg)
 
 #### The Executive Committee
 <br>
@@ -56,40 +56,40 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 #### Our Illustrious Alumni
 
-![Mr Jonathan Phoon Siew Boon](/images/Alumni01-300x249.png)
+![Mr Jonathan Phoon Siew Boon](/images/Aboutus/Alumni01-300x249.png)
 **Mr Jonathan Phoon Siew Boon**
 
-![Lieutenant Colonel (LTC) Chew Chun-Chau / Colonel (COL) Chew Chun-Liang](/images/Alumni02-300x249.png)
+![Lieutenant Colonel (LTC) Chew Chun-Chau / Colonel (COL) Chew Chun-Liang](/images/Aboutus/Alumni02-300x249.png)
 **Lieutenant Colonel (LTC) Chew Chun-Chau / Colonel (COL) Chew Chun-Liang**
 
-![Mr Delane Lim Zi Xuan](/images/Alumni03-300x249.png)
+![Mr Delane Lim Zi Xuan](/images/Aboutus/Alumni03-300x249.png)
 **Mr Delane Lim Zi Xuan**
 
-![Mr Chia Yew Choon Chris](/images/Alumni04-300x249.png)
+![Mr Chia Yew Choon Chris](/images/Aboutus/Alumni04-300x249.png)
 **Mr Chia Yew Choon Chris**
 
-![Captain (CPT) Neo Wei Keong](/images/Alumni05-300x249.png)
+![Captain (CPT) Neo Wei Keong](/images/Aboutus/Alumni05-300x249.png)
 **Captain (CPT) Neo Wei Keong**
 
-![Miss Siti Aishah Mohd Selamat](/images/Alumni06-300x249.png)
+![Miss Siti Aishah Mohd Selamat](/images/Aboutus/Alumni06-300x249.png)
 **Miss Siti Aishah Mohd Selamat**
 
-![Mr Tan Wei Qiang Jovin](/images/Alumni07-300x249.png)
+![Mr Tan Wei Qiang Jovin](/images/Aboutus/Alumni07-300x249.png)
 **Mr Tan Wei Qiang Jovin**
 
-![Mr Teo Kin Hui Joseph](/images/Alumni08-300x249.png)
+![Mr Teo Kin Hui Joseph](/images/Aboutus/Alumni08-300x249.png)
 **Mr Teo Kin Hui Joseph**
 
-![Miss Hany Soh Hui Bin](/images/Alumni09-300x249.png)
+![Miss Hany Soh Hui Bin](/images/Aboutus/Alumni09-300x249.png)
 **Miss Hany Soh Hui Bin**
 
-![Mr Mohamed Shameer](/images/Alumni10-300x249.png)
+![Mr Mohamed Shameer](/images/Aboutus/Alumni10-300x249.png)
 **Mr Mohamed Shameer**
 
-![Miss Yip Pin Xiu](/images/Alumni11-300x249.png)
+![Miss Yip Pin Xiu](/images/Aboutus/Alumni11-300x249.png)
 **Miss Yip Pin Xiu**
 
-![Mr Ian Fang Wei Jie](/images/Alumni12-300x249.png)
+![Mr Ian Fang Wei Jie](/images/Aboutus/Alumni12-300x249.png)
 **Mr Ian Fang Wei Jie**
 
 ## Events by Alumni 
