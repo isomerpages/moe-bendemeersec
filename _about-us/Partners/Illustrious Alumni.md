@@ -6,7 +6,7 @@ third_nav_title: Partners
 ---
 # Illustrious Alumni
 
-![BDMS Alumni](/images/Aboutus/BDMSAlumni-768x261.jpg)
+![BDMS Alumni](/images/Aboutus/Alumni-logo-768x261.jpg)
 
 #### The Executive Committee
 <br>
