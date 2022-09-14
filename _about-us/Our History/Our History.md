@@ -1,6 +1,6 @@
 ---
 title: Our History
-permalink: /about-us/our-history
+permalink: /about-us/our-history/
 description: ""
 third_nav_title: Our History
 ---
@@ -17,9 +17,9 @@ The school population was only 500 in 1977, but averaged 1800 by 1980, making it
 Prior to 1998, the school merged with Whampoa Secondary. The Whampoa school building was demolished and Bendemeer Secondary was built on the former site of Whampoa Secondary School at Saint Wilfred Road. 
 The new premises were officially handed over on 23rd May 1998. In 1998, during the June holidays, the entire school, carrying plaques of our School Vision, School Mission, Our Shared Values and The Bendemeerian Code, walked from the old school site to the new site, marking a new chapter in Bendemeer’s history. The School was officially opened at its site on 9th Sept 1999 by Minister for Manpower, Dr Lee Boon Yang.
 
-![Official opening ceremony of bendemeer secondary school](/images/history1.jpg)
+![Official opening ceremony of bendemeer secondary school](/images/Aboutus/history1.jpg)
 
-![Opening ceremony of bendemeer secondary school](/images/history2.jpg)
+![Opening ceremony of bendemeer secondary school](/images/Aboutus/history2.jpg)
 
 In 2010, work was underway in the construction of an indoor Sports Hall. The ISH was completed in 2011 and officially opened on 8th Sept 2011. In July 2011, the grass in the school field was replaced with synthetic turf. It helped to provide a better playing surface during sports activities.
 
@@ -27,23 +27,23 @@ Every year, each new batch of students are taken on a tour around the newly-mint
 
 ## Our School Leaders
 
-![Mr Oei Kim Pheow](/images/history3.jpg)
+![Mr Oei Kim Pheow](/images/Aboutus/history3.jpg)
 **Mr Oei Kim Pheow**
 
-![Mr Lim Lak Ching](/images/history4.jpg)
+![Mr Lim Lak Ching](/images/Aboutus/history4.jpg)
 **Mr Lim Lak Ching**
 
-![Mdm Rebecca Lee](/images/history5.jpg)
+![Mdm Rebecca Lee](/images/Aboutus/history5.jpg)
 **Mdm Rebecca Lee**
 
-![Mrs Karen Oei](/images/history6.jpg)
+![Mrs Karen Oei](/images/Aboutus/history6.jpg)
 **Mrs Karen Oei**
 
-![Mrs Rathi Parimalan](/images/history7.jpg)
+![Mrs Rathi Parimalan](/images/Aboutus/history7.jpg)
 **Mrs Rathi Parimalan**
 
-![Mrs Wong Mee Mee](/images/history8.jpg)
+![Mrs Wong Mee Mee](/images/Aboutus/history8.jpg)
 **Mrs Wong Mee Mee**
 
-![Mr Ling Khoon Chow](/images/history9.jpg)
+![Mr Ling Khoon Chow](/images/Aboutus/history9.jpg)
 **Mr Ling Khoon Chow**
