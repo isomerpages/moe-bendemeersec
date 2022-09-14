@@ -1,11 +1,11 @@
 ---
 title: School Song and Bendemeerian Code
-permalink: /about-us/school-song-and-bendemeerian-code
+permalink: /about-us/school-song-and-bendemeerian-code/
 description: ""
 ---
 # School Song and Bendemeerian Code
 
-![Bendemeerian Code](/images/BSS%20Code.jpg)
+![Bendemeerian Code](/images/Aboutus/BSS%20Code.jpg)
 
 **The Bendemeerian Code**
 
