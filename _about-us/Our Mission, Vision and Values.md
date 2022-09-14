@@ -15,7 +15,7 @@ description: ""
 <p style="text-align:center">**Integrity, Care, Respect, Responsibility, Resilience, Harmony**</p>
 
 ![Passion for learning](/images/Aboutus/VMV4.jpg)
-<p><img src="/images/Aboutus/VMV4.jpg" width="5" height="5"></p>
+<p><img src="/images/Aboutus/VMV4.jpg" width="1" height="1" style="float:left"></p>
 **We are a school that ignites a passion for learning.** The staff and students are encouraged to be creative and actively engaged in seeking solutions for the improvement of the community and country. We envision our graduates as confident youths who are equipped with skills and perspectives that make them relevant for their generation
 
 ![Every student can shine](/images/Aboutus/VMV5.jpg)
