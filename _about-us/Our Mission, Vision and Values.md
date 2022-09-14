@@ -5,8 +5,7 @@ description: ""
 ---
 # Our Mission, Vision and Values
 
-![Vision](/images/Aboutus/VMV1.jpg)
-<p><img></p>
+<p><img src="/images/Aboutus/VMV1.jpg" width="50" height="60"></p>
 <p style="text-align:center">**Active Learners, Responsible Citizens**</p>
 
 ![ Mission](/images/Aboutus/VMV2.jpg)
