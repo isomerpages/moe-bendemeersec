@@ -1,11 +1,11 @@
 ---
 title: Vice Principal Mr Ho's Message
-permalink: /about-us/vice-principal-mr-hos-message
+permalink: /about-us/vice-principal-mr-hos-message/
 description: ""
 ---
 # Vice Principal Mr Ho's Message
 
-![Vice Principal](/images/VP1.jpg)
+![Vice Principal](/images/Aboutus/VP1.jpg)
 
 A warm welcome to Bendemeer Secondary School.
 
