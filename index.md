@@ -19,7 +19,7 @@ sections:
       button: Click to find out more!
       alt: Image alt text
       image: /images/Announcements/annouce-dsa.jpg
-      url: /announcements/dsa-registration
+      url: /announcements/e-openhouse/
   - infobar:
       title: Direct School Admission (DSA-Sec)
       subtitle: New
