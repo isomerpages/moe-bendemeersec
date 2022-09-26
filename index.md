@@ -12,21 +12,20 @@ sections:
         - title: Bendemeer e-open house is here!
           description: Click for more information!
           url: https://www.youtube.com/
+  - infopic:
+      title: Bendemeer e-Open House
+      subtitle: New!
+      description: Looking for your future secondary school?  Join the Bendemeer Family now!
+      button: Click to find out more!
+      alt: Image alt text
+      image: /images/Announcements/annouce-dsa.jpg
+      url: /announcements/dsa-registration
   - infobar:
       title: Direct School Admission (DSA-Sec)
       subtitle: New
       description: Bendemeer Secondary School is able to offer admission to students
         under the DSA-Secondary programme
       button: read more
-      url: /announcements/dsa-registration
-  - infopic:
-      title: Direct School Admission (DSA-Sec)
-      subtitle: New
-      description: Bendemeer Secondary School is able to offer admission to students
-        under the DSA-Secondary programme
-      button: read more
-      alt: Image alt text
-      image: /images/Announcements/annouce-dsa.jpg
       url: /announcements/dsa-registration
   - resources:
       title: Resources Section Title
