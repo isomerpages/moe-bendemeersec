@@ -28,7 +28,7 @@ links:
         url: /key-programmes/uplift-ase
   - title: Achievements
     collection: achievements
-  - title: Useful links(Sub-menu)
+  - title: School Linkz
     url: /useful-links/sch-magazines
     sublinks:
       - title: Online School Magazine
@@ -39,7 +39,3 @@ links:
         url: /useful-links/infolinks
       - title: Announcements
         url: /announcements/dsa-registration
-  - title: Useful LInks
-    collection: useful-links
-  - title: ReourceRoom
-    resource_room: true
