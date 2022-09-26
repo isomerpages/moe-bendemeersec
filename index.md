@@ -9,8 +9,8 @@ sections:
   - hero:
       background: /images/hero-banner01s.jpg
       key_highlights:
-        - title: E-OpenHouse
-          description: Click for more!
+        - title: Bendemeer e-open house is here!
+          description: Click for more information!
           url: https://www.youtube.com/
   - infobar:
       title: Direct School Admission (DSA-Sec)
