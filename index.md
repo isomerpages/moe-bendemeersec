@@ -12,9 +12,6 @@ sections:
         - title: E-OpenHouse
           description: Click for more!
           url: https://www.youtube.com/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
   - infobar:
       title: Direct School Admission (DSA-Sec)
       subtitle: New
