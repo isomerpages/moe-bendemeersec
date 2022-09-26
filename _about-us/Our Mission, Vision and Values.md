@@ -7,7 +7,7 @@ description: ""
 
 
 <img src="/images/Aboutus/VMV1.jpg" alt="" style="width:400px"/>
-<center>**Active Learners, Responsible Citizens**
+<center><b>Active Learners, Responsible Citizens</b></center>
 
 <br>
 <br>
