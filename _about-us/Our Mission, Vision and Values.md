@@ -3,12 +3,21 @@ title: Our Mission, Vision and Values
 permalink: /about-us/our-mission-vision-values/
 description: ""
 ---
-
 ## Our Mission, Vision and Values
 
-<p><img src="/images/Aboutus/VMV1.jpg" width="50" height="10"></p>
+```
+
+```
+<img src="/images/Aboutus/VMV1.jpg" width="50" height="100">
 <p style="text-align:center">**Active Learners, Responsible Citizens**</p>
 
+<figure>
+        <img src="/images/Aboutus/VMV1.jpg"
+             alt="Vision">
+        <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+    </figure>
+		
+		
 ![Mission](/images/Aboutus/VMV2.jpg)
 <p style="text-align:center">**A school that builds character, nurtures learners and serves the community**</p>
 
