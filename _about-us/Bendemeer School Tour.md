@@ -1,9 +1,9 @@
 ---
 title: Bendemeer School Tour
-permalink: /about-us/bendemeer-school-tour
+permalink: /about-us/bendemeer-school-tour/
 description: ""
 ---
-# Bendemeer School Tour
+## Bendemeer School Tour
 
 <div class="bp-youtube">
 
