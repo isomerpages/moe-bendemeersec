@@ -3,7 +3,7 @@ title: Vice Principal Mr Ho's Message
 permalink: /about-us/vice-principal-mr-hos-message/
 description: ""
 ---
-# Vice Principal Mr Ho's Message
+## Vice Principal Mr Ho's Message
 
 ![Vice Principal](/images/Aboutus/VP1.jpg)
 
