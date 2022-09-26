@@ -12,7 +12,7 @@ description: ""
 <br>
 <br>
 
-<img src="/images/Aboutus/VMV1.jpg" width="50" height="100">
+[<img src="/images/Aboutus/VMV1.jpg" width="100" />](/images/Aboutus/VMV1.jpg)
 <p style="text-align:center">**Active Learners, Responsible Citizens**</p>
 
 		
