@@ -4,7 +4,7 @@ permalink: /about-us/our-history/40th-anniversary-celebrations-and-speech-day/
 description: ""
 third_nav_title: Our History
 ---
-# 40th Anniversary Celebrations and Speech Day
+## 40th Anniversary Celebrations and Speech Day
 
 2017 marked our school’s 40th anniversary. As part of our 40th Anniversary Celebrations, the School Heritage Gallery was officially declared open by Mr Chiang Heng Liang, our School Advisory Committee chairman. In collaboration with our community partners, the school staff and students engaged in our ‘40 Acts of Kindness’ programme. We also had a Homecoming Dinner in conjunction with our 40th Speech Day.
 
