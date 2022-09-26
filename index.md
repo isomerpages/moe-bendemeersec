@@ -9,8 +9,11 @@ sections:
   - hero:
       background: /images/hero-banner01s.jpg
       key_highlights:
-        - title: Check the links below for new announcements
-          description: ""
+        - title: E-OpenHouse
+          description: Click for more!
+          url: https://www.youtube.com/
+        - title: Key Highlight Title
+          description: Key Highlight description
           url: ""
   - infobar:
       title: Direct School Admission (DSA-Sec)
