@@ -27,23 +27,7 @@ Every year, each new batch of students are taken on a tour around the newly-mint
 
 ## Our School Leaders
 
-![Mr Oei Kim Pheow](/images/Aboutus/history3.jpg)
-**Mr Oei Kim Pheow**
+![Past School Leaders](/images/Aboutus/history-pastschleaders.png)
+<br>
 
-![Mr Lim Lak Ching](/images/Aboutus/history4.jpg)
-**Mr Lim Lak Ching**
-
-![Mdm Rebecca Lee](/images/Aboutus/history5.jpg)
-**Mdm Rebecca Lee**
-
-![Mrs Karen Oei](/images/Aboutus/history6.jpg)
-**Mrs Karen Oei**
-
-![Mrs Rathi Parimalan](/images/Aboutus/history7.jpg)
-**Mrs Rathi Parimalan**
-
-![Mrs Wong Mee Mee](/images/Aboutus/history8.jpg)
-**Mrs Wong Mee Mee**
-
-![Mr Ling Khoon Chow](/images/Aboutus/history9.jpg)
-**Mr Ling Khoon Chow**
+![](/images/Aboutus/history-pastschleaderstable.png)
