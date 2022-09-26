@@ -27,8 +27,4 @@ sections:
         under the DSA-Secondary programme
       button: read more
       url: /announcements/dsa-registration
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
