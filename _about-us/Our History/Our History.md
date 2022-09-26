@@ -4,7 +4,7 @@ permalink: /about-us/our-history/
 description: ""
 third_nav_title: Our History
 ---
-# Our History
+## Our History
 
 Bendemeer Secondary School was first located along the busy Serangoon Road for over 20 years before it moved to its current location at 1 St Wilfred Road.
 
