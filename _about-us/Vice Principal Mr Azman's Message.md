@@ -3,7 +3,7 @@ title: Vice Principal Mr Azman's Message
 permalink: /about-us/vice-principal-mr-azmans-message/
 description: ""
 ---
-# Vice Principal Mr Azman's Message
+## Vice Principal Mr Azman's Message
 
 ![Vice Principal 2](/images/Aboutus/VP2.jpg)
 
