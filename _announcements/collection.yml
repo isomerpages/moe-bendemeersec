@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - e Open House.md
       - DSA Registration.md
       - Congratulatory Message from Dr Wan Rizal, Adviser to Jalan Besar GRC
         GROs.md
