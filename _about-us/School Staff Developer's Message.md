@@ -3,7 +3,7 @@ title: School Staff Developer's Message
 permalink: /about-us/school-staff-developers-message/
 description: ""
 ---
-# School Staff Developer's Message
+## School Staff Developer's Message
 
 ![Miss Kam, School Staff Developer](/images/Aboutus/SSDM.png)
 
