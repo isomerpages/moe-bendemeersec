@@ -6,7 +6,7 @@ description: ""
 ## Our Mission, Vision and Values
 
 
-<img src="/images/Aboutus/VMV1.jpg" alt="" style="width:250px"/>
+<img src="/images/Aboutus/VMV1.jpg" alt="" style="width:400px"/>
 <center>**Active Learners, Responsible Citizens**
 
 <br>
