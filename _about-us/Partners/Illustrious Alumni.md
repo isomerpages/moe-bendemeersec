@@ -4,7 +4,7 @@ permalink: /about-us/partners/illustrious-alumni/
 description: ""
 third_nav_title: Partners
 ---
-# Illustrious Alumni
+## Illustrious Alumni
 
 ![BDMS Alumni](/images/Aboutus/Alumni-logo-768x261.jpg)
 
