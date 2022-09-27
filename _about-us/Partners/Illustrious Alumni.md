@@ -4,7 +4,6 @@ permalink: /about-us/partners/alumni/
 description: ""
 third_nav_title: Partners
 ---
-
 ## Illustrious Alumni
 
 ![BDMS Alumni](/images/Aboutus/Alumni-logo-768x261.jpg)
@@ -56,6 +55,12 @@ We encourage our alumni to come back to their Bendemeer and strengthen bonds dev
 Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricular Activities, Work Experience Programme as well as National Education. Our students are provided with opportunities for work attachment at firms in various fields of interest. Our students also attend career talks and dialogue sessions with members of alumni who are professionals in their respective fields of work. The alumni also organise events to raise funds for the School.
 
 #### Our Illustrious Alumni
+
+<img src="/images/Aboutus/Alumni01-300x249.png" alt="Mr Jonathan Phoon siew Boon" style="width:300px"/>
+**Mr Jonathan Phoon Siew Boon**
+
+<img src="/images/Aboutus/Alumni01-300x249.png" alt="Mr Jonathan Phoon siew Boon" style="width:300px"/>
+**Lieutenant Colonel (LTC) Chew Chun-Chau / Colonel (COL) Chew Chun-Liang**
 
 ![Mr Jonathan Phoon Siew Boon](/images/Aboutus/Alumni01-300x249.png)
 **Mr Jonathan Phoon Siew Boon**
