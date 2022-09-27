@@ -20,6 +20,7 @@ description: ""
 <img src="/images/Aboutus/VMV4.jpg" alt="learning" style="width:200px" /></p>
 
 <p style="text-align:justify">
+
 **We are a school that ignites a passion for learning.** The staff and students are encouraged to be creative and actively engaged in seeking solutions for the improvement of the community and country. We envision our graduates as confident youths who are equipped with skills and perspectives that make them relevant for their generation
 </p>
 
