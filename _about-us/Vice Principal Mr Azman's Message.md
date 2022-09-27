@@ -3,10 +3,11 @@ title: Vice Principal Mr Azman's Message
 permalink: /about-us/vice-principal-ls-msg/
 description: ""
 ---
-
 ## Vice Principal Mr Azman's Message
 
-![Vice Principal 2](/images/Aboutus/VP2.jpg)
+<p style="float:left; margin: 0 10px">
+<img src="/images/Aboutus/VP2.jpg" alt="Vice-Principal Azman" style="width:300px" /></p>
+
 
 In Bendemeer, every student gets a chance to shine through his/her passion over the 4/5 years. Throughout this journey, students hones important life skills that prepare them for the ever-changing challenges that come their way. At the same time, our students school experiences keep them grounded on values that enable them to navigate through life, and especially the evolving digital social world.
 
