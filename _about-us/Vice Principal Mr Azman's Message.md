@@ -5,7 +5,7 @@ description: ""
 ---
 ## Vice Principal Mr Azman's Message
 
-<p style="float:left; margin: 0 10px">
+<p style="float:left; margin: 0 10px 0px 0">
 <img src="/images/Aboutus/VP2.jpg" alt="Vice-Principal Azman" style="width:300px" /></p>
 
 
