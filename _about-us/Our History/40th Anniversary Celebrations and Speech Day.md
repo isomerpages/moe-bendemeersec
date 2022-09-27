@@ -39,7 +39,7 @@ In keeping with Bendeemer’s long history of community involvement, we chose to
 We concluded our 40th Anniversary celebrations with a Homecoming Dinner for the Alumni in conjunction with our 40th Speech Day. The Dinner was graced by our Minister, Associate Professor Yaacob Ibrahim and the night was made memorable by performances by students and alumni.
 
 
-<iframe allowfullscreen="true" height="605" width="864" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR-jAC15Fxosyfs9AD49WEYx22u6Eg6m2TvGZaXSJV6AVADoouTPNC_mWGOfkrgynywwS5pldfxgcZD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="629" width="900" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR-jAC15Fxosyfs9AD49WEYx22u6Eg6m2TvGZaXSJV6AVADoouTPNC_mWGOfkrgynywwS5pldfxgcZD/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ![Homecoming dinner and performances by students and alumni.](/images/Aboutus/40homespeech-01.jpg)
 
