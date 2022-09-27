@@ -5,25 +5,17 @@ description: ""
 ---
 ## Our Mission, Vision and Values
 
-
-<img src="/images/Aboutus/VMV1.jpg" alt="" style="width:400px"/>
-<center><b>Active Learners, Responsible Citizens</b></center>
-
-<br>
-<br>
-
-[<img src="/images/Aboutus/VMV1.jpg" width="100" />](/images/Aboutus/VMV1.jpg)
+[<img src="/images/Aboutus/VMV1.jpg" alt="Vision" style="width:400px" />](/images/Aboutus/VMV1.jpg)
 <p style="text-align:center">**Active Learners, Responsible Citizens**</p>
-
 		
-		
-![Mission](/images/Aboutus/VMV2.jpg)
+<img src="/images/Aboutus/VMV2.jpg" alt="Mission" style="width:400px" />
 <p style="text-align:center">**A school that builds character, nurtures learners and serves the community**</p>
 
-![Values](/images/Aboutus/VMV3.jpg)
+<img src="/images/Aboutus/VMV3.jpg" alt="Values" style="width:400px" />
 <p style="text-align:center">**Integrity, Care, Respect, Responsibility, Resilience, Harmony**</p>
 
-![Passion for learning](/images/Aboutus/VMV4.jpg)
+<p style="float:left">
+<img src="/images/Aboutus/VMV4.jpg" alt="learning" style="width:100px" />
 
 **We are a school that ignites a passion for learning.** The staff and students are encouraged to be creative and actively engaged in seeking solutions for the improvement of the community and country. We envision our graduates as confident youths who are equipped with skills and perspectives that make them relevant for their generation
 
