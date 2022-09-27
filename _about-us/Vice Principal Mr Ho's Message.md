@@ -3,16 +3,13 @@ title: Vice Principal Mr Ho's Message
 permalink: /about-us/vice-principal-us-msg/
 description: ""
 ---
-
-
-
 ## Vice Principal Mr Ho's Message
 
-![Vice Principal](/images/Aboutus/VP1.jpg)
+<p style="float:left; margin: 0 10px 10px 0">
+<img src="/images/Aboutus/VP1.jpg" alt="learning" style="width:300px" /></p>
+
 
 A warm welcome to Bendemeer Secondary School.
-
-
 
 The pandemic has completely disrupted and changed the way we live our lives. Its impact on all sectors and industries will be felt for decades to come. We must prepare our children to be ready for this future. Our school’s vision of “Active Learners, Responsible Citizens” is more compelling than ever before - Beyond mastery of knowledge, we will equip our students with skills and competencies that will enable them to navigate their future and thrive.  
 
