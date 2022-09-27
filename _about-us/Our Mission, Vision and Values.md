@@ -28,10 +28,15 @@ description: ""
 <p style="float:left; margin:0 10px 0px 0">
 <img src="/images/Aboutus/VMV5.jpg" alt="talent" style="width:200px" /></p>
 
+<p style="text-align:justify">
 **We believe that every student can shine.** Every child has a talent. The staff focuses on helping students realise their own talents and abilities. By doing so, the students would be empowered to see possibilities in all circumstances. We believe that with empowered minds, our students would be inspired to be positive contributors to society.
+</p>
 
 <br>
 
 <p style="float:left; margin:0 10px 0px 0">
 <img src="/images/Aboutus/VMV6.jpg" alt="character" style="width:200px" /></p>
+
+<p style="text-align:justify">
 **We place a strong emphasis on Character Development and National Education.** Our students are taught to love our people and country. Our core values act as a plumb line which sets a standard for the behaviour of staff and students.
+</p>
