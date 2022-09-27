@@ -3,10 +3,11 @@ title: School Staff Developer's Message
 permalink: /about-us/ssd-msg/
 description: ""
 ---
-
 ## School Staff Developer's Message
 
-![Miss Kam, School Staff Developer](/images/Aboutus/SSDM.png)
+<p style="float:left; margin: 0 10px 0px 0">
+<img src="/images/Aboutus/SSDM.png" alt="School Staff Developer" style="width:300px" /></p>
+
 
 In Bendemeer, we believe that People are Key and that the Desired Outcomes of Education can only be achieved when the school is supported by staff who are anchored on values and equipped with pedagogical and professional competence. Thus a school culture that inspires trust and practices empowerment inspires teachers to be engaged and to strive for excellence which in turn will have a positive impact on student achievement and administrative excellence.
 
