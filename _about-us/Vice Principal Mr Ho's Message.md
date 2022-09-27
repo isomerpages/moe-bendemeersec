@@ -5,7 +5,7 @@ description: ""
 ---
 ## Vice Principal Mr Ho's Message
 
-<p style="float:left; margin: 0 10px">
+<p style="float:left; margin: 0 10px 0px 0">
 <img src="/images/Aboutus/VP1.jpg" alt="Vice-Principal Ho" style="width:300px" /></p>
 
 
