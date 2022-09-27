@@ -7,7 +7,7 @@ description: ""
 
 
 <p style="float:left; margin: 0 10px">
-<img src="/images/Aboutus/principal-speech.jpg" alt="Principal" style="width:300px" /></p>
+<img src="/images/Aboutus/principal-speech.jpg" alt="Principal" style="width:400px" /></p>
 
 In Bendemeer Secondary, we believe that every student can shine and achieve his or her potential, anchored on our strong mission to build character, nurture learners and serve the community. The collective efforts of our teachers and students have borne fruits of labour which have made us distinctive and sustained the Bendemeer Heartbeat.
 
