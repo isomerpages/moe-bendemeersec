@@ -40,23 +40,3 @@ We concluded our 40th Anniversary celebrations with a Homecoming Dinner for the 
 
 
 <iframe allowfullscreen="true" height="592" width="845" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR-jAC15Fxosyfs9AD49WEYx22u6Eg6m2TvGZaXSJV6AVADoouTPNC_mWGOfkrgynywwS5pldfxgcZD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-![Homecoming dinner and performances by students and alumni.](/images/Aboutus/40homespeech-01.jpg)
-
-![Homecoming dinner and performances by students and alumni.](/images/Aboutus/40homespeech-02.jpg)
-
-![Homecoming dinner and performances by students and alumni.](/images/Aboutus/40homespeech-03.jpg)
-
-![Homecoming dinner and performances by students and alumni.](/images/Aboutus/40homespeech-04.jpg)
-
-![Homecoming dinner and performances by students and alumni.](/images/Aboutus/40homespeech-05.jpg)
-
-![Homecoming dinner and performances by students and alumni.](/images/Aboutus/40homespeech-06.jpg)
-
-![Homecoming dinner and performances by students and alumni.](/images/Aboutus/40homespeech-07.jpg)
-
-![Homecoming dinner and performances by students and alumni.](/images/Aboutus/40homespeech-08.jpg)
-
-![Homecoming dinner and performances by students and alumni.](/images/Aboutus/40homespeech-09.jpg)
-
-![Homecoming dinner and performances by students and alumni.](/images/Aboutus/40homespeech-10.jpg)
