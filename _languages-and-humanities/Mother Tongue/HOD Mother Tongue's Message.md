@@ -15,6 +15,7 @@ third_nav_title: Mother Tongue
 The Mother Department aims to develop a Bendemeerian who possess a commendable level of Mother Tongue Language (MTL) proficiency and competency that will enable him to excel in lifelong learning and to appreciate his cultural heritage while developing a global perspective at the same time. Hence, our sense of mission is to cultivate in our students the love of learning MTLs, and to develop their interest in the understanding and appreciation of our cultural heritage, as well as to promote ethical and civic behaviour.
 
 <br>
+<br>
 
 The MTL curriculum focuses on listening, speaking, reading, writing and interaction skills. One of our approaches in ensuring language learning comes to life is to make it relatable to our students. There are many platforms in school to promote the learning of MTLs to encourage students to learn MTLs in an interesting and engaging manner. Under the department’s 4-Year Learning Roadmap, we have mapped out programmes under the different domains, namely cognitive, aesthetics, social and moral to support the progressive development of our students from Secondary 1 to 4/5. 
 
