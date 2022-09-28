@@ -49,18 +49,11 @@ Our Champions!
 ![Our team hard at work!](/images/Departments/EL-Eng2a-768x576.jpg)
 Our team hard at work!
 
-![English Literature](/images/Departments/EL%20Lit10.png)
 
-![English Literature](/images/Departments/EL%20Lit11.png)
+![English Literature](/images/Departments/el-lit02.jpg)
 
-![English Literature](/images/Departments/EL%20Lit12.png)
+![English Literature](/images/Departments/el-lit03.jpg)
 
-![English Literature](/images/Departments/EL%20Lit4.png)
+![English Literature](/images/Departments/el-lit05.jpg)
 
-![English Literature](/images/Departments/EL%20Lit6.png)
-
-![English Literature](/images/Departments/EL%20Lit7.png)
-
-![English Literature](/images/Departments/EL%20Lit8.png)
-
-![English Literature](/images/Departments/EL%20Lit9.png)
+![English Literature](/images/Departments/el-lit04.jpg)
