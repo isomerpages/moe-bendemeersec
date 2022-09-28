@@ -49,13 +49,19 @@ Various level activities were also planned to cultivate students’ appreciation
 
 The Mid-Autumn Festival celebrations in Bendemeer Secondary School is an annual event that students, staff, parents and alumni members look forward to every year. Activities planned by the Chinese Language teachers of the Mother Tongue Department include lantern painting, calligraphy, Chinese blow painting, tea appreciation and mooncake making. There was also a station set up for star gazing to the delight of the astronomy fans and a photo booth for all to capture these fond memories. It was heartening to see visitors of different races partaking in these cultural activities and learning more about the Chinese culture. As the skies darkened, it was a fascinating sight to see the parade square being illuminated by the lanterns being held up.
 
-![Mid-Autumn Festival](/images/Departments/cl-Mid-Autumn%20Festival.jpg)
+![Mid-Autumn Festival](/images/Departments/cl-midautumn-05.jpg)
+
+![Mid-Autumn Festival](/images/Departments/cl-midautumn-06.jpg)
 
 Various level activities were also planned to cultivate students’ appreciation of the Chinese culture. The Secondary one students created bookmarks using proverbs about the moon. The Secondary two students designed posters about the Mid-Autumn Festival. The Secondary 3 students researched on topics and designed information sheets to introduce the traditions, customs and food related to the Mid-Autumn festival. These works of art produced by the students were displayed at the school foyer to showcase students’ learning.
 
-![Mid-Autumn Festival](/images/Departments/cl-Mid-Autumn%20Festival2.jpg)
+![Mid-Autumn Festival](/images/Departments/cl-midautumn-01.jpg)
 
-![Mid-Autumn Festival](/images/Departments/cl-Mid-Autumn%20Festival3.png)
+![Mid-Autumn Festival](/images/Departments/cl-midautumn-02.jpg)
+
+![Mid-Autumn Festival](/images/Departments/cl-midautumn-03.jpg)
+
+![Mid-Autumn Festival](/images/Departments/cl-midautumn-04.jpg)
 
 **External Competitions**
 
