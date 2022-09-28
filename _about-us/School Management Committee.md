@@ -3,6 +3,4 @@ title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
 ---
-
-
-![School Management Committee](/images/Aboutus/smc-fullsmc23may.jpg)
+![School Management Committee](/images/Aboutus/smc-fullsmc28sep.jpg)
