@@ -38,7 +38,7 @@ Concert Band (Certificate of Accomplishment)</td>
   </tr>
 </tbody>
 </table>
-<br>
+
 
 2021 has indeed been a unique year for the Concert Band, amidst the global pandemic. We started the year with the Secondary One orientation, through a class-by-class presentation rather than the typical trying out of instruments. We were pleasantly surprised by the number of enthusiastic Secondary Ones joining Band this year.
 
