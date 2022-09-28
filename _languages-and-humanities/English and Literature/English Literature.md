@@ -11,7 +11,6 @@ third_nav_title: English and Literature
 Under the Sec 1E customised instructional programme, the students go through a series of lessons that exposes them to basic drama techniques like the use of voice, space awareness and expression. The students make use of their Literature drama texts, and create a short performance task based on these texts and the techniques they have learnt from their DramaWorkz module. The students put their collaborative skills to good use, and the process often sparks their creative juices to flow as they work together to produce an engaging performance.
 
 
-![Students are seen immersed in their skit](/images/Departments/EL%20Lit.png)
 
 ![Students are seen immersed in their skit 2](/images/Departments/EL%20Lit2.png)
 
@@ -19,7 +18,6 @@ Under the Sec 1E customised instructional programme, the students go through a s
 
 The Sec 2E students go through a five-week module that allows them to pick up essential story-telling skills. Now focusing much more on the individual’s use of voice, movement and gestures, this module allows students to bring short texts to life, using their own interpretations and the techniques they have learnt. Students have even brought these performances to the stage during assembly talks, wowing their peers with their display of confidence and creativity.
 
-![It’s all in the hand gestures!](/images/Departments/EL%20Lit3.png)
 
 **National Schools Literature Festival (NSLF)**
 
