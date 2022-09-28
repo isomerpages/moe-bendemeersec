@@ -30,12 +30,12 @@ Every year, our members train hard for two Taekwondo competitions, the National 
 It was only for members from Division B and only for the Poomsae events. Our members were video-recorded on assigned time slots and judging was done based on the videos. It was a totally new experience for those who took part. Our hard work paid off as we clinched two Gold, one Silver and 5 Bronze medals.
 
 <br>
+<br>
 	
 We also bid a fond farewell to the graduating members who are preparing for their GCE O and N level examinations. We have appointed the new Captain and Vice-Captains to take over the leadership of the CCA.
 
 We are extremely proud of our members as they adapt to the disruptions for the last two years and their continued enthusiasm in training and the desire to improve their skills in Taekwondo.  </p>
 
-<br>
 
 *Through these four years in Taekwondo CCA, I have seen the club grow stronger in the areas of achievement and see a stronger bond among members. Joining Taekwondo CCA has made me stronger mentally and physically as I train hard for competitions and I learnt not to give up easily when things do not go my way.*
 
