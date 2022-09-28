@@ -76,7 +76,7 @@ To cultivate the appreciation of Chinese culture by introducing more Singaporean
 **Outcome:**
 Our school was represented by 2 students, Tan Wan Fei (2R4) and Tan Wan Lin (2R5) who were awarded certificates of participation.
 
-![External Competitions](/images/Departments/cl-calligraphy-01.jpg)
+
 
 
 **18th National Secondary School Chinese Creative Writing Competition**
