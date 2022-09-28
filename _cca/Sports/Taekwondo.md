@@ -24,7 +24,7 @@ Sparring
 
 Every year, our members train hard for two Taekwondo competitions, the National School Games and the Whampoa Community Club Taekwondo Competition. Through participation in competitions, our students gain valuable lessons of discipline, sportsmanship and teamwork, which develop them holistically. Therefore, we were very glad when it was announced that the National School Games would be carried out this year, albeit with strict Safe Management Measures.
 
-<p style="float:left; margin: 0 10px">
+<p style="float:left; margin: 0 10px 0px 0">
 <img src="/images/Cca/cca-tkd-i-Training-punches-768x1011.jpg" alt="TaeKwondo" style="width:300px" /></p>
 <p style="text-align:justify">
 It was only for members from Division B and only for the Poomsae events. Our members were video-recorded on assigned time slots and judging was done based on the videos. It was a totally new experience for those who took part. Our hard work paid off as we clinched two Gold, one Silver and 5 Bronze medals.
