@@ -7,7 +7,7 @@ third_nav_title: English and Literature
 ## **English Language Department Overview**
 
 
-<img src="/images/Departments/EL-dept.png" alt="English Language Department Overview" style="width:700px" /></p>
+<img src="/images/Departments/EL-dept.png" alt="English Language Department Overview" style="width:700px" />
 
 
 ### VISION, MISSION AND DEPARTMENT’S GOALS
