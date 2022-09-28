@@ -28,11 +28,14 @@ We also bid a fond farewell to the graduating members who are preparing for thei
 
 We are extremely proud of our members as they adapt to the disruptions for the last two years and their continued enthusiasm in training and the desire to improve their skills in Taekwondo.
 
-![Training Punches](/images/Cca/cca-tkd-i-Training-punches-768x1011.jpg)
+<p style="float:left; margin: 0 10px">
+<img src="/images/Cca/cca-tkd-i-Training-punches-768x1011.jpg" alt="TaeKwondo" style="width:400px" /></p>
+<p style="text-align:justify">
+
 
 *Through these four years in Taekwondo CCA, I have seen the club grow stronger in the areas of achievement and see a stronger bond among members. Joining Taekwondo CCA has made me stronger mentally and physically as I train hard for competitions and I learnt not to give up easily when things do not go my way.*
 
-*During our training, we have to practise our kicks and Poomsae pattern routine well so as to synchronize our movement with fellow team mates. Through these training sessions it bonds us together as a club, along with our Coach who is friendly and who helps us whenever we need guidance. Through my participation in Taekwondo CCA, I have learnt many important life values and I have made many good friends.*
+*During our training, we have to practise our kicks and Poomsae pattern routine well so as to synchronize our movement with fellow team mates. Through these training sessions it bonds us together as a club, along with our Coach who is friendly and who helps us whenever we need guidance. Through my participation in Taekwondo CCA, I have learnt many important life values and I have made many good friends.* </p>
 
 **- Lim Keyi (Captain)**
 
