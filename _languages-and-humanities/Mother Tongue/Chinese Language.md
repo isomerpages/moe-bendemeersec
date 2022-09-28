@@ -107,13 +107,16 @@ Our school was represented by 3 students, Qiao Mai (1C3), Dai Jiayu (3R1) and Li
  
 **Learning Journey cum School Immersion Programme to Xiamen (China)**
 
+<p style="float:left; margin: 0 10px 0px 0">  
+<img src="/images/Departments/cl-xiamentrip-01.jpg" alt="Learning Journey cum School Immersion Programme to Xiamen (China)" style="width:400px" /></p>  
+<p style="text-align:justify">
+	
 Every year, a group of Secondary 3 students would embark on a learning journey cum school immersion programme to Xiamen, China. The objectives of the trip are to extend students’ learning experiences beyond Singapore and to expose them to a different cultural environment. The trip also gives students an opportunity to broaden their perspectives and learn social and language skills in a real world context.
 
 During the trip, students were attached to Shuangshi Middle School, where they experienced local school life in China with their buddies. New friendships and fond memories were created as they attended classes with their buddies. Students also visited places of interest such as the Tan Kah Kee Museum, Hulishan Fortress, South Putuo Temple and Nanjing Hakka Earth Building, developing a deeper understanding and appreciation of Chinese culture and historical and geographical features.
 
-On the whole, the overseas experience has increased students’ knowledge of the world beyond Singapore and enhanced their understanding and appreciation of the rich Chinese culture and heritage. 
+On the whole, the overseas experience has increased students’ knowledge of the world beyond Singapore and enhanced their understanding and appreciation of the rich Chinese culture and heritage.  </p>
 
-![Learning Journey cum School Immersion Programme to Xiamen (China)](/images/Departments/cl-xiamentrip-01.jpg)
 
 ![Learning Journey cum School Immersion Programme to Xiamen (China)](/images/Departments/cl-xiamentrip-02.jpg)
 
