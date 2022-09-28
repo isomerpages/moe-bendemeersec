@@ -4,10 +4,13 @@ permalink: /departments/english/el-hod-msg/
 description: ""
 third_nav_title: English and Literature
 ---
-
 ## **English Language and Literature**
 
 #### HOD's  Message
+
+<p style="float:left; margin: 0 10px 0px 0">
+<img src="/images/Departments/el-glenntan.jpg" alt="HOD English" style="width:400px" /></p>
+<p style="text-align:justify">
 
 Language touches the heart. And in Bendemeer Secondary, there is a lot of ‘heart’ work!
 
@@ -39,6 +42,7 @@ With MOE’s National Digital Literacy Programme having recently ignited another
 At the same time we know we have to strike a balance in order to ensure that students do still get sufficient practice to express their ideas and views in a coherent, fluent manner, both verbally as well as in their writing. Thus, the department’s key programmes like the Reading Programme, DramaWorkz and Storytelling remain relevant, and embarking on our Debate Literacy journey has also been an area of focus. The new EL 2020 syllabus and its Voices at Play units have also enthused both teachers and students alike to explore the different nuances of the English Language with fresh perspectives.
 
 Over the four or five years in the English Language and Literature curricula, the teachers often have to take on the mantle of facilitators of learning, in place of the traditional roles of information dispensers and opinion providers. This way, we get students to engage actively with the texts they are presented with, and open pathways for them to be empathetic communicators, discerning readers and creative inquirers.
+</p>
 
 **Mr Glenn Tan <br>
 HOD English Language and Literature <br>
