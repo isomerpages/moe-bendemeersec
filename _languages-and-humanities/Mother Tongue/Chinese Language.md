@@ -108,7 +108,6 @@ Our school was represented by 3 students, Qiao Mai (1C3), Dai Jiayu (3R1) and Li
 **Learning Journey cum School Immersion Programme to Xiamen (China)**
 
 <br>
-<br>
 
 
 <p style="float:left; margin: 0 10px 0px 0">  
