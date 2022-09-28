@@ -12,12 +12,13 @@ Under the Sec 1E customised instructional programme, the students go through a s
 
 
 
-![Students are seen immersed in their skit 2](/images/Departments/EL%20Lit2.png)
+![Students are seen immersed in their skit 2](/images/Departments/el-lit-01.jpg)
 
 **Sec 2 Story-telling module**
 
 The Sec 2E students go through a five-week module that allows them to pick up essential story-telling skills. Now focusing much more on the individual’s use of voice, movement and gestures, this module allows students to bring short texts to life, using their own interpretations and the techniques they have learnt. Students have even brought these performances to the stage during assembly talks, wowing their peers with their display of confidence and creativity.
 
+![Story-Telling](/images/Departments/el-lit-02.jpg)
 
 **National Schools Literature Festival (NSLF)**
 
@@ -34,24 +35,24 @@ Meanwhile, the lower secondary choral reading team delivered the poem “Homewor
 
 It was indeed a meaningful experience for the entire Bendemeer team, and the hard work put in was rewarded with a total of three trophies: Silver Medal for Choral Speaking, Winner for Sec 3 Set Text Debate and Winner for Sec 4 Unseen Poetry.
 
-![Mr Chen with our Bendemeer Team](/images/Departments/EL-Eng4a-1024x768.jpg)
+![Mr Chen with our Bendemeer Team](/images/Departments/el-lit-03.jpg)
 Mr Chen with our Bendemeer Team
 
 <br>
 
-![Our Champions!](/images/Departments/EL-Eng1a-768x576.jpg)
+![Our Champions!](/images/Departments/el-lit-04.jpg)
 Our Champions!
 
 <br>
 
-![Our team hard at work!](/images/Departments/EL-Eng2a-768x576.jpg)
+![Our team hard at work!](/images/Departments/el-lit-05.jpg)
 Our team hard at work!
 
 
-![English Literature](/images/Departments/el-lit02.jpg)
+![English Literature](/images/Departments/el-lit-06.jpg)
 
-![English Literature](/images/Departments/el-lit03.jpg)
+![English Literature](/images/Departments/el-lit-07.jpg)
 
-![English Literature](/images/Departments/el-lit05.jpg)
+![English Literature](/images/Departments/el-lit-08.jpg)
 
-![English Literature](/images/Departments/el-lit04.jpg)
+![English Literature](/images/Departments/el-lit-09.jpg)
