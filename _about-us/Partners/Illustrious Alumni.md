@@ -4,7 +4,7 @@ permalink: /about-us/partners/alumni/
 description: ""
 third_nav_title: Partners
 ---
-## Illustrious Alumni
+
 
 ![BDMS Alumni](/images/Aboutus/Alumni-logo-768x261.jpg)
 
@@ -47,12 +47,12 @@ third_nav_title: Partners
   </tr>
 </tbody>
 </table>
-
-The Alumni is a group of young men and women who have graduated from Bendemeer Secondary School. Together with the school, the Alumni hope to support the school and the community through organising events that promote a positive message, as well as re-connect Bendemeerian with one another.
-
-We encourage our alumni to come back to their Bendemeer and strengthen bonds developed while they were in school We believes in working closely with our alumni through the formation of synergistic partnerships
-
-Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricular Activities, Work Experience Programme as well as National Education. Our students are provided with opportunities for work attachment at firms in various fields of interest. Our students also attend career talks and dialogue sessions with members of alumni who are professionals in their respective fields of work. The alumni also organise events to raise funds for the School.
+<p style="text-align:justify">
+The Alumni is a group of young men and women who have graduated from Bendemeer Secondary School. Together with the school, the Alumni hope to support the school and the community through organising events that promote a positive message, as well as re-connect Bendemeerian with one another.</p>
+<p style="text-align:justify">
+We encourage our alumni to come back to their Bendemeer and strengthen bonds developed while they were in school We believes in working closely with our alumni through the formation of synergistic partnerships.</p>
+<p style="text-align:justify">
+Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricular Activities, Work Experience Programme as well as National Education. Our students are provided with opportunities for work attachment at firms in various fields of interest. Our students also attend career talks and dialogue sessions with members of alumni who are professionals in their respective fields of work. The alumni also organise events to raise funds for the School.</p>
 
 #### Our Illustrious Alumni
 
