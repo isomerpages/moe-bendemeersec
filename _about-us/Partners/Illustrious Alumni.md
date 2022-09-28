@@ -89,7 +89,79 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 <a href="http://commonmark.org" title="Redirect to homepage">
-<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
+<img src="/images/Aboutus/Alumni03-300x249.png" alt="Mr Delane Lim Zi Xuan" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b>Mr Delane Lim Zi Xuan</b>
+</p>
+
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni04-300x249.png" alt="Mr Chia Yew Choon Chris" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b>Mr Chia Yew Choon Chris</b>
+</p>
+
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni05-300x249.png" alt="Captain (CPT) Neo Wei Keong" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b>Captain (CPT) Neo Wei Keong</b>
+</p>
+
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni06-300x249.png" alt="Miss Siti Aishah Mohd Selamat" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b>Miss Siti Aishah Mohd Selamat</b>
+</p>
+
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni07-300x249.png" alt="Mr Tan Wei Qiang Jovin" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b>Mr Tan Wei Qiang Jovin</b>
+</p>
+
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni08-300x249.png" alt="Mr Teo Kin Hui Joseph" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b>Mr Teo Kin Hui Joseph</b>
+</p>
+
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni09-300x249.png" alt="Miss Hany Soh Hui Bin" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b>Miss Hany Soh Hui Bin</b>
+</p>
+
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni10-300x249.png" alt="Mr Mohamed Shameer" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b>Mr Mohamed Shameer</b>
+</p>
+
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni11-300x249.png" alt="" style="width:400px"/>
 </a>
 </p>
 <p style="text-align:center">
@@ -98,79 +170,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 <a href="http://commonmark.org" title="Redirect to homepage">
-<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
-</a>
-</p>
-<p style="text-align:center">
-<b></b>
-</p>
-
-<p>
-<a href="http://commonmark.org" title="Redirect to homepage">
-<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
-</a>
-</p>
-<p style="text-align:center">
-<b></b>
-</p>
-
-<p>
-<a href="http://commonmark.org" title="Redirect to homepage">
-<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
-</a>
-</p>
-<p style="text-align:center">
-<b></b>
-</p>
-
-<p>
-<a href="http://commonmark.org" title="Redirect to homepage">
-<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
-</a>
-</p>
-<p style="text-align:center">
-<b></b>
-</p>
-
-<p>
-<a href="http://commonmark.org" title="Redirect to homepage">
-<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
-</a>
-</p>
-<p style="text-align:center">
-<b></b>
-</p>
-
-<p>
-<a href="http://commonmark.org" title="Redirect to homepage">
-<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
-</a>
-</p>
-<p style="text-align:center">
-<b></b>
-</p>
-
-<p>
-<a href="http://commonmark.org" title="Redirect to homepage">
-<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
-</a>
-</p>
-<p style="text-align:center">
-<b></b>
-</p>
-
-<p>
-<a href="http://commonmark.org" title="Redirect to homepage">
-<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
-</a>
-</p>
-<p style="text-align:center">
-<b></b>
-</p>
-
-<p>
-<a href="http://commonmark.org" title="Redirect to homepage">
-<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
+<img src="/images/Aboutus/Alumni12-300x249.png" alt="" style="width:400px"/>
 </a>
 </p>
 <p style="text-align:center">
