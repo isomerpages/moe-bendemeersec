@@ -6,13 +6,13 @@ description: ""
 ## Our Mission, Vision and Values
 
 [<img src="/images/Aboutus/VMV1.jpg" alt="Vision" style="width:400px" />](/images/Aboutus/VMV1.jpg)
-<p style="text-align:center">**Active Learners, Responsible Citizens**</p>
+<p style="text-align:center"><b>Active Learners, Responsible Citizens</b></p>
 		
 <img src="/images/Aboutus/VMV2.jpg" alt="Mission" style="width:400px" />
-<p style="text-align:center">**A school that builds character, nurtures learners and serves the community**</p>
+<p style="text-align:center"><b>A school that builds character, nurtures learners and serves the community</b></p>
 
 <img src="/images/Aboutus/VMV3.jpg" alt="Values" style="width:400px" />
-<p style="text-align:center">**Integrity, Care, Respect, Responsibility, Resilience, Harmony**</p>
+<p style="text-align:center"><b>Integrity, Care, Respect, Responsibility, Resilience, Harmony</b></p>
 
 <br>
 
