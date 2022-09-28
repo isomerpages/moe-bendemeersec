@@ -35,7 +35,7 @@ third_nav_title: Performing Arts
   </tr>
 </tbody>
 </table>
-<br>
+
 
 We started the year with the usual introductory orientation sessions for the Secondary Ones. A robust number of Secondary Ones signed up for the CCA. The highlight for this year was the Singapore Youth Festival Art Presentation. Due to the ongoing covid-19 pandemic, we kept the number of participants small. Our entry – Vertical Lines – focuses on the dilemma youths face. Can they empower themselves to overcome their own unique situations?
 
