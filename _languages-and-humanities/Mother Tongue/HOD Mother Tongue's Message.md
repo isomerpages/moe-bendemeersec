@@ -8,7 +8,10 @@ third_nav_title: Mother Tongue
 
 #### HOD Mother Tongue's Message
 
-
+<p style="float:left; margin: 0 10px 0px 0">
+<img src="/images/Departments/cl-hodmt.jpg" alt="HOD Mother Tongue" style="width:300px" /></p>
+<p style="text-align:justify">
+	
 The Mother Department aims to develop a Bendemeerian who possess a commendable level of Mother Tongue Language (MTL) proficiency and competency that will enable him to excel in lifelong learning and to appreciate his cultural heritage while developing a global perspective at the same time. Hence, our sense of mission is to cultivate in our students the love of learning MTLs, and to develop their interest in the understanding and appreciation of our cultural heritage, as well as to promote ethical and civic behaviour.
 
 The MTL curriculum focuses on listening, speaking, reading, writing and interaction skills. One of our approaches in ensuring language learning comes to life is to make it relatable to our students. There are many platforms in school to promote the learning of MTLs to encourage students to learn MTLs in an interesting and engaging manner. Under the department’s 4-Year Learning Roadmap, we have mapped out programmes under the different domains, namely cognitive, aesthetics, social and moral to support the progressive development of our students from Secondary 1 to 4/5. 
@@ -28,4 +31,4 @@ Bilingualism is a hallmark of our education system. We should not lose this bili
 
 The other aspect of learning MTLs is for our students to appreciate their cultural heritage. MTLs are tied to culture, and the department makes a concerted effort to plan programmes such as celebrating the different ethnic festival so that students can experience the multi-ethnic culture in Singapore. The department promotes the Mother Tongue culture through festive celebrations such as Pongal, Chinese New Year, Hari Raya Puasa, Mid-Autumn Festival and Deepavali. Level activities are designed meaningfully for students to increase awareness of the different festivals and to better understand their heritage.
  
-To conclude, we will continue to enhance the supportive ecosystem for the learning of MTLs by strengthening the partnership between school and parents, so that our students can continue the daily use of MTLs and keep the language alive at home too.
+To conclude, we will continue to enhance the supportive ecosystem for the learning of MTLs by strengthening the partnership between school and parents, so that our students can continue the daily use of MTLs and keep the language alive at home too.  </p>
