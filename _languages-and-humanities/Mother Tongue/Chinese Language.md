@@ -83,7 +83,7 @@ Our school was represented by 2 students, Tan Wan Fei (2R4) and Tan Wan Lin (2R5
 
 Singapore Hokkien Huay Kuan, Singapore Literary Society, Nan Chiau High School and Zaobao Comma organised the 18th National Secondary School Chinese Creative Writing Competition which was held online from 22nd June to 29th June 2020.
 
-![18th National Secondary School Chinese Creative Writing Competition](/images/Departments/cl-18th%20National%20Secondary%20School%20Chinese%20Creative%20Writing%20Competition.jpg)
+![18th National Secondary School Chinese Creative Writing Competition](/images/Departments/cl-writing-01.jpg)
 
 **Objectives:**
 To promote the use of Chinese Language and enhance the interest in creative writing among Secondary School students;
@@ -92,7 +92,7 @@ To encourage students to be innovative and express their thoughts and feelings i
 **Outcome:**
 Our school was represented by 3 students, Yang Ningting (1C2), Chen Jiale (1C3) and Dai Jiayu (3R1) who were awarded certificates of participation. 
 
-![18th National Secondary School Chinese Creative Writing Competition](/images/Departments/cl-18th%20National%20Secondary%20School%20Chinese%20Creative%20Writing%20Competition2.jpg)
+![18th National Secondary School Chinese Creative Writing Competition](/images/Departments/cl-writing-02.jpg)
 
 **“2020, Our story about fighting COVID-19” National Secondary School Chinese Creative Writing Competition**
 
