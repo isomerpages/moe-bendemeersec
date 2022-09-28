@@ -21,7 +21,9 @@ Full steam ahead
 
 However, in April 2021, the team was given the opportunity to participate in the Virtual Inter-School Challenge 2021.  Despite having a huge disadvantage of running on turf grass which provides little friction, the team put in their best and performed beyond expectations. Many of those who took part managed to attain their personal best timing, Koh Jin En (4R1) came in 14th  place for the B Girls Category while for the B Boys’ Category, both Rizyan Idzhar (3R8) and P Sakteeshwaren (4R3) emerged 69th place with the same exact timing.
 
-![Pushing ahead](/images/Cca/cca-cross-i-Pushing-ahead-768x944.jpg)
+<img src="/images/Cca/cca-cross-i-Pushing-ahead-768x944.jpg" alt="Pushing ahead" style="width:300px" />
+
+
 
 Spurred by the abovementioned performance, the team continues to persevere in training to prepare for competitions in 2022, in pursuit of greater heights of excellence.
 
