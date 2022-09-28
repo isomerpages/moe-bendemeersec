@@ -161,20 +161,20 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 <a href="http://commonmark.org" title="Redirect to homepage">
-<img src="/images/Aboutus/Alumni11-300x249.png" alt="" style="width:400px"/>
+<img src="/images/Aboutus/Alumni11-300x249.png" alt="Miss Yip Pin Xiu" style="width:400px"/>
 </a>
 </p>
 <p style="text-align:center">
-<b></b>
+<b>Miss Yip Pin Xiu</b>
 </p>
 
 <p>
 <a href="http://commonmark.org" title="Redirect to homepage">
-<img src="/images/Aboutus/Alumni12-300x249.png" alt="" style="width:400px"/>
+<img src="/images/Aboutus/Alumni12-300x249.png" alt="Mr Ian Fang Wei Jie" style="width:400px"/>
 </a>
 </p>
 <p style="text-align:center">
-<b></b>
+<b>Mr Ian Fang Wei Jie</b>
 </p>
 
 <!-- will not show on website
