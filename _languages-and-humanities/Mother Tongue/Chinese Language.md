@@ -38,9 +38,12 @@ Due to the Covid-19 situation, the Chinese New Year celebration in Bendemeer Sec
 
 Various level activities were also planned to cultivate students’ appreciation of the Chinese culture. The Secondary One students researched on how different countries celebrated New Year. The Secondary Two students designed Spring Festival Couplets to welcome the new year. The Secondary Three students researched on topics and designed information sheets to introduce the traditions, customs and food items related to Chinese New Year. These works of art produced by the students were displayed at the school foyer to showcase their learning. 
 
-![Chinese New Year](/images/Departments/cl-Festive%20Celebrations.jpg)
+![Chinese New Year](/images/Departments/cl-cny-01.jpg)
 
-![Chinese New Year](/images/Departments/cl-Festive%20Celebrations2.jpg)
+![Chinese New Year](/images/Departments/cl-cny-02.jpg)
+
+![Chinese New Year](/images/Departments/cl-cny-03.jpg)
+
 
 **Mid-Autumn Festival**
 
