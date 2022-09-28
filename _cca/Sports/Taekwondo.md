@@ -29,7 +29,7 @@ We also bid a fond farewell to the graduating members who are preparing for thei
 We are extremely proud of our members as they adapt to the disruptions for the last two years and their continued enthusiasm in training and the desire to improve their skills in Taekwondo.
 
 <p style="float:left; margin: 0 10px">
-<img src="/images/Cca/cca-tkd-i-Training-punches-768x1011.jpg" alt="TaeKwondo" style="width:400px" /></p>
+<img src="/images/Cca/cca-tkd-i-Training-punches-768x1011.jpg" alt="TaeKwondo" style="width:450px" /></p>
 <p style="text-align:justify">
 
 
