@@ -3,11 +3,11 @@ title: School Song and Bendemeerian Code
 permalink: /about-us/sch-song-bdms-code/
 description: ""
 ---
-## School Song and Bendemeerian Code
+
 
 ![Bendemeerian Code](/images/Aboutus/BSS%20Code.jpg)
 <pre>
-<b>The Bendemeerian Code</b>
+<b><u>The Bendemeerian Code</u></b>
 
 As a true Bendemeerian,
 I am proud of my school, my uniform and personal appearance,
