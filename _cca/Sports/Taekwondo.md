@@ -11,7 +11,7 @@ third_nav_title: Sports
 
 |  |  | 
 | -------- | -------- | 
-| **Teachers-in-Charge:** <br>Mrs Chin Chen Han (I/C) <br>Mdm Shen May Ling (2I/C)<br><br>**Coach:** <br>Mrs Rosalind Chow<br><br>**Captain:** <br>Lim Keyi (4R6)<br><br>**Vice-Captains:** <br>Leong Wei Ming <br>Chermaine Pang (4R6)     | ![Overhead Kick](/images/Cca/cca-tkd-i-Overhead-kick-720x1024.jpg)     | 
+| **Teachers-in-Charge:** <br>Mrs Chin Chen Han (I/C) <br>Mdm Shen May Ling (2I/C)<br><br>**Coach:** <br>Mrs Rosalind Chow<br><br>**Captain:** <br>Lim Keyi (4R6)<br><br>**Vice-Captains:** <br>Leong Wei Ming <br>Chermaine Pang (4R6)     | <img src="/images/Cca/cca-tkd-i-Overhead-kick-720x1024.jpg" alt="TaeKwonDo" style="width:400px" /></p>   | 
 
 
 
