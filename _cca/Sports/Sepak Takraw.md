@@ -1,6 +1,6 @@
 ---
 title: Sepak Takraw
-permalink: /cca/sports/sepak-takraw
+permalink: /cca/sports/sepak-takraw/
 description: ""
 third_nav_title: Sports
 ---
@@ -95,4 +95,3 @@ The teachers and coach have built a very strong rapport with these boys and ofte
 **- Muhammad Rahul bin Mohamed Raffi (4R8)**
 
 ![Warm ups](/images/Cca/cca-takraw-i-warm-ups-768x512.jpg)
-Warm ups
