@@ -54,17 +54,130 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 #### Our Illustrious Alumni
 
+<!--Example1 (will not show on website)
+<a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+-->
+
+<!--Example2 (will not show on website)
 <p>
-  <a href="http://commonmark.org" title="Redirect to homepage">
-<img src="/images/Aboutus/Alumni01-300x249.png" alt="Mr Jonathan Phoon siew Boon" style="width:300px"/>
-	</a>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni00-300x249.png" alt="?" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b>?</b>
+</p>
+-->
+
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni01-300x249.png" alt="Mr Jonathan Phoon siew Boon" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b>Mr Jonathan Phoon Siew Boon</b>
 </p>
 
-**Mr Jonathan Phoon Siew Boon**
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni02-300x249.png" alt="Lieutenant Colonel (LTC) Chew Chun-Chau / Colonel (COL) Chew Chun-Liang" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b>Lieutenant Colonel (LTC) Chew Chun-Chau / Colonel (COL) Chew Chun-Liang</b>
+</p>
 
-<img src="/images/Aboutus/Alumni01-300x249.png" alt="Mr Jonathan Phoon siew Boon" style="width:300px"/>
-**Lieutenant Colonel (LTC) Chew Chun-Chau / Colonel (COL) Chew Chun-Liang**
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b></b>
+</p>
 
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b></b>
+</p>
+
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b></b>
+</p>
+
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b></b>
+</p>
+
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b></b>
+</p>
+
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b></b>
+</p>
+
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b></b>
+</p>
+
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b></b>
+</p>
+
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b></b>
+</p>
+
+<p>
+<a href="http://commonmark.org" title="Redirect to homepage">
+<img src="/images/Aboutus/Alumni00-300x249.png" alt="" style="width:400px"/>
+</a>
+</p>
+<p style="text-align:center">
+<b></b>
+</p>
+
+<!-- will not show on website
 ![Mr Jonathan Phoon Siew Boon](/images/Aboutus/Alumni01-300x249.png)
 **Mr Jonathan Phoon Siew Boon**
 
@@ -100,6 +213,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 ![Mr Ian Fang Wei Jie](/images/Aboutus/Alumni12-300x249.png)
 **Mr Ian Fang Wei Jie**
+-->
 
 ## Events by Alumni 
 #### Join us as Bendemeer Alumni!
