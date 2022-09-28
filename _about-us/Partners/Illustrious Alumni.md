@@ -4,8 +4,6 @@ permalink: /about-us/partners/alumni/
 description: ""
 third_nav_title: Partners
 ---
-
-
 ![BDMS Alumni](/images/Aboutus/Alumni-logo-768x261.jpg)
 
 #### The Executive Committee
@@ -105,9 +103,9 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 ## Events by Alumni 
 #### Join us as Bendemeer Alumni!
-
-Every year, the school organises activities to bring alumni, parents and other stakeholders together. We welcome alumni to join us for various school events such as the Sports Day & fund raising activities.
-
-We encourage our alumni to be involved in the school community as this would contribute in enhancing the quality of education. We also welcome those who wish to form groups according to their year of graduation or receive updates on the school’s progress.
+<p style="text-align:justify">
+Every year, the school organises activities to bring alumni, parents and other stakeholders together. We welcome alumni to join us for various school events such as the Sports Day & fund raising activities.</p>
+<p style="text-align:justify">
+We encourage our alumni to be involved in the school community as this would contribute in enhancing the quality of education. We also welcome those who wish to form groups according to their year of graduation or receive updates on the school’s progress.</p>
 
 Click [here](https://docs.google.com/forms/d/e/1FAIpQLSfgFZUAnofBSmtxl9iIe1JgJJusDVYTFLECjXc3uoiZAH8IbA/viewform) to apply.
