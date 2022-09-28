@@ -60,8 +60,15 @@ Cadets’ achievements are recognised through attaining skill proficiency badges
 
 The National Police Cadet Corps is a fulfilling and enriching co-curricular activity, one in which cadets learn and grow significantly in personal competencies and leadership.
 
-![High rope courses on Pulau Ubin](/images/Cca/cca-npcc-i-IMG-20190805-WA0004-768x1024.jpg)
-High rope courses on Pulau Ubin
+
+
+|  |  | 
+| - |-  | 
+| ![High rope courses on Pulau Ubin](/images/Cca/cca-npcc-i-IMG-20190805-WA0004-768x1024.jpg)    | ![Pinning on badges for juniors](/images/Cca/cca-npcc-i-pinning-on-badges-for-juniors-768x1024.jpg)  |
+
+
+
+
 
 #### 4 year Programme Highlights
 Learning about Police work:
@@ -86,7 +93,7 @@ Inter-Unit Competitions:
 * Campcraft competition
 * .22 revolver shooting competition
 
-![Pinning on badges for juniors](/images/Cca/cca-npcc-i-pinning-on-badges-for-juniors-768x1024.jpg)
+
 
 For more information, visit [https://www.npcc.org.sg/index.html](https://www.npcc.org.sg/index.html)
 
