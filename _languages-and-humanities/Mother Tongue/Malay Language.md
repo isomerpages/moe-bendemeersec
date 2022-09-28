@@ -20,9 +20,8 @@ Our Malay Language unit was invited to participate in a joint collaboration with
 
 “Penggunaan Ruang Belajar Pelajar Singapura (SLS) di dalam kelas ialah suatu inisiatif yang baik kerana ia membuat waktu di dalam kelas lebih menarik. Kami dapat mempelajari lebih banyak perkara dengan lebih mendalam kerana kami dibenarkan melungsuri lelaman internet untuk mendapatkan informasi ketika melakukan kajian.” - **Sifie Lizdiyanie**
 
-![Students’ Learning Space](/images/Departments/ML1.jpg)
+![Students’ Learning Space](/images/Departments/ml-sls-01.jpg)
 
-![Students’ Learning Space](/images/Departments/ML2.jpg)
 
 **GCE O Exam Preparation Workshop** 
 
@@ -47,9 +46,8 @@ This ongoing project will enter its third year in 2021, with refinements made as
 
 *“Setelah melihat markah keseluruhan yang saya perolehi, saya boleh mengatakan bahawa saya telah melihat peningkatan setelah sesi latihan yang kedua apabila saya mendapat markah penuh 20/20.”*- **Muhamed Ibrohim Hanafi Bin Abdullah**
 
-![GCE O Exam Preparation Workshop](/images/Departments/ML3.png)
+![GCE O Exam Preparation Workshop](/images/Departments/ml-actionres-01.jpg)
 
-![GCE O Exam Preparation Workshop](/images/Departments/ML4.jpg)
 
 **Learning Journey**
 
@@ -65,7 +63,9 @@ Secondary 1 students were brought to the Malay Language Centre of Singapore (MLC
 
 *“Sekolah saya telah menganjurkan satu lawatan ke Pusat Bahasa Melayu Singapura. Saya berasa amat gembira berada di sana. Saya belajar cara membatik, penggunaan canting dan lilin dan sejarah batik daripada Pak Sarkasi Said. Para penganjur amat baik hati dan menyiapkan makanan yang enak untuk kami. Saya juga belajar bermain Chapteh dan Lambung Kain. Permainannya sangat seronok. Saya juga belajar cara bermain Gasing yang kini kurang diminati masyarakat Melayu. Saya amat gembira dapat pergi ke sana.”* - **Evelyn Angelina The**
 
-![Secondary 1 – Jejak Budaya to the Malay Language Centre of Singapore](/images/Departments/ML5.png)
+![Secondary 1 – Jejak Budaya to the Malay Language Centre of Singapore](/images/Departments/ml-malaylanguage-01.jpg)
+
+![Secondary 1 – Jejak Budaya to the Malay Language Centre of Singapore](/images/Departments/ml-malaylanguage-02.jpg)
 
 **Secondary 2 – Arts Exposure Programme**
 
@@ -81,7 +81,9 @@ The focus for Secondary 2 students was the Malay performing arts scene in Singap
 
 *“Gentarasa kali ini memaparkan budaya Melayu lama di mana teknologi moden belum berkembang maju. Contohnya, untuk hiburan, mereka menggunakan wayang kulit untuk menghiburkan orang-orang kampung. Saya rasa persembahan para peserta amat menarik. Saya juga telah mempelajari beberapa perkataan bahasa Melayu.”* - **Siti Nadhirah Syadiyah Bte J**
 
-![Secondary 2 – Arts Exposure Programme](/images/Departments/ML6.png)
+![Secondary 2 – Arts Exposure Programme](/images/Departments/ml-theatre-01.jpg)
+
+![Secondary 2 – Arts Exposure Programme](/images/Departments/ml-theatre-02.jpg)
 
 **Secondary 3 – Jejak Warisan at Kampong Glam**
 
@@ -93,7 +95,7 @@ In the final installment of the learning journey for students offering the Malay
 
  *“Saya amat beruntung kerana diberikan kesempatan mengunjungi sebuah museum di Taman Warisan mengenai masyarakat Melayu kerana ini lawatan saya yang pertama ke muzium sedemikian. Saya pelajari tentang kebudayaan masyarakat Melayu secara mendalam; , baju dan alat-alat muzik tradisional, sejarah lama mengenai mengapa dan bagaimana orang-orang Melayu mula berhijrah ke pulau Singapura yang dahulu dikenali dengan nama Temasek. Saya berasa lawatan ini amat bermanfaat dan harus diteruskan untuk para pelajar di masa hadapan.”* - **Merisa Indajang**
  
- ![Secondary 3 – Jejak Warisan at Kampong Glam](/images/Departments/ML7.png)
+ ![Secondary 3 – Jejak Warisan at Kampong Glam](/images/Departments/ml-kampongglam.jpg)
  
  **Festive Celebrations – Hari Raya Foyer Display**
 
@@ -103,9 +105,9 @@ This year’s Hari Raya Foyer display was based on the themes Cov-eid Raya and R
 
 Students from the secondary 3 Express and Normal (Academic) cohort then worked together to put up the beautiful display to usher in Hari Raya Aidilfitri. The display, intended to educate students from other races and religions, received positive responses from the school community for the visual appeal of the mannequins dressed to reflect the era they represent as well as the pictorial exhibits that brought many staff on a trail down memory lane. 
 
-![Festive Celebrations – Hari Raya Foyer Display](/images/Departments/ML8.jpg)
+![Festive Celebrations – Hari Raya Foyer Display](/images/Departments/ml-hariraya-01.jpg)
 
-![Festive Celebrations – Hari Raya Foyer Display](/images/Departments/ML9.jpg)
+![Festive Celebrations – Hari Raya Foyer Display](/images/Departments/ml-hariraya-02.jpg)
 
 **External Competitions**
 
@@ -129,7 +131,7 @@ Outcome:
 
 Our school was represented by 2 students, **Nur Madiha Binte Abdul Hameed (3R4) and Nur Eisya Izzatie Binte Muhd Iskandar (3R4)** and managed to attain fourth position in the competition.
 
-![Friendly Inter-school Scrabble Competition at Yuying Secondary School](/images/Departments/ML10.png)
+![Friendly Inter-school Scrabble Competition at Yuying Secondary School](/images/Departments/ml-comp-01.jpg)
 
 **Translation Competition: 3T (TERJEMAH, TUTUR, TEPAT) at National Junior College**
 
@@ -149,4 +151,4 @@ Outcome:
 
 Our school was represented by 2 students, **Merisa Indajang (3R2) and Parvena Kaur Daljit Singh (3R3).** They gained valuable knowledge from their participation in the competition.
 
-![Translation Competition: 3T (TERJEMAH, TUTUR, TEPAT) at National Junior College](/images/Departments/ML17.jpg)
+![Translation Competition: 3T (TERJEMAH, TUTUR, TEPAT) at National Junior College](/images/Departments/ml-comp-03.jpg)
