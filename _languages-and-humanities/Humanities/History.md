@@ -12,7 +12,9 @@ Secondary 1 students were given the opportunity to explore the neighbourhood of 
 
 Our team also hosts the War &amp; Diplomacy Competition annually where schools across Singapore take part from 2012. Many teams have taken part to emerge as winners for the competition. 
 
+
+
 We also take part during the Humanities Week, where we collaborate with other departments to take on a societal issue such as water conservation in Singapore where students can apply their knowledge and skills across various subjects.
 
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpk6gy_jg6q3pbS9fulk8oLKJHbCaMpwnHFZXEr2E2kv1qJZ5fegf5X7bZgU5ifM1TvZlwvh98I3Jb/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<br>
+<iframe allowfullscreen="true" height="592" width="845" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqUszUqfHF9N2mD9PAAqvabmurEWYYRX7hpMAZ0CiLXOCFCRJz6wkQh8lOXY2pSn9WJ37SR-HHHlX0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
