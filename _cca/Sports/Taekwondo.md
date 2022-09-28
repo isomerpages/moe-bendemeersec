@@ -36,7 +36,6 @@ We also bid a fond farewell to the graduating members who are preparing for thei
 We are extremely proud of our members as they adapt to the disruptions for the last two years and their continued enthusiasm in training and the desire to improve their skills in Taekwondo.  </p>
 
 <br>
-<br>
 
 *Through these four years in Taekwondo CCA, I have seen the club grow stronger in the areas of achievement and see a stronger bond among members. Joining Taekwondo CCA has made me stronger mentally and physically as I train hard for competitions and I learnt not to give up easily when things do not go my way.*
 
