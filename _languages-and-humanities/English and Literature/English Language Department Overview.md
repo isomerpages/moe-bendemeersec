@@ -6,7 +6,9 @@ third_nav_title: English and Literature
 ---
 ## **English Language Department Overview**
 
-![English Language Department Overview](/images/Departments/EL-dept.png)
+
+<img src="/images/Departments/EL-dept.png" alt="English Language Department Overview" style="width:600px" /></p>
+
 
 ### VISION, MISSION AND DEPARTMENT’S GOALS
 
@@ -49,4 +51,3 @@ in terms of Reading, Speaking, Listening and Writing.
 In Bendemeer, there is a conscious effort to promote the reading of articles and books. Apart from the texts they encounter during lessons, the English Language department attempts to supplement the students’ reading materials by subscribing to relevant resources. The newspaper reading programme encourages students to learn more about current affairs, with the IN supplement catering to the diverse needs and interests of our youth. Similarly, the different magazines we subscribe to are aligned to the students’ abilities and the syllabi they are offering, broadening their reading experiences and supplementing such experiences with varied activities. Our teachers tap on these resources for vocabulary building, supplementary activities and holiday assignments. All in all, the Reading Programme aims to promote an appreciation for the written word, and exposes our students to information, knowledge and crucial skills they would need to manage their assessment tasks.
 
 ![English Language Department Overview](/images/Departments/EL-d2.png)
-
