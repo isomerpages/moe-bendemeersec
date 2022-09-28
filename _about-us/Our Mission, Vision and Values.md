@@ -30,7 +30,7 @@ description: ""
 <img src="/images/Aboutus/VMV5.jpg" alt="talent" style="width:200px" /></p>
 
 <p style="text-align:justify">
-	
+
 <b>We believe that every student can shine.</b> Every child has a talent. The staff focuses on helping students realise their own talents and abilities. By doing so, the students would be empowered to see possibilities in all circumstances. We believe that with empowered minds, our students would be inspired to be positive contributors to society.
 </p>
 
