@@ -4,18 +4,18 @@ permalink: /about-us/partners/parent-support-group/
 description: ""
 third_nav_title: Partners
 ---
-## Parent Support Group
+
 
 
 <p style="float:Center" >
 <img src="/images/Aboutus/PSG1.png" alt="learning" style="width:300px" /></p>
 ![Parent Support Group 1](/images/Aboutus/PSG1.png)
 
-**Chairman**:		M S. Pannirselvam
+<b>Chairman</b>:		M S. Pannirselvam
 <br>
-**Vice-Chairman**:	Ms Kavitha d/o Kajehpathy
+<b>Vice-Chairman</b>:	Ms Kavitha d/o Kajehpathy
 <br>
-**Vice-Chairman**:	Ms Wong Wai Mei
+<b>Vice-Chairman</b>:	Ms Wong Wai Mei
 
 ![Parent Support Group photo](/images/Aboutus/PSG2.jpg)
 
