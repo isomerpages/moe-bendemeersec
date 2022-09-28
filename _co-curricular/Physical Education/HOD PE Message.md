@@ -8,6 +8,9 @@ third_nav_title: Physical Education
 
 #### HOD's Message
 
+
+
+
 #### Philosophy of Physical Education
 
 In Bendemeer, the PE department believes that physical and health education is key to providing a holistic development for our students. We, as PE teachers, believe that the most important thing that we can teach our students is to be physically active as it will eventually affect every aspect of their lives. These include mental health, academic achievement, self-esteem, social competencies and the ability to function well in any environment.
