@@ -6,7 +6,11 @@ third_nav_title: Craft & Technology
 ---
 ## **Craft & Technology**
 
- #### HOD's Message
+#### HOD's Message
+
+<p style="float:left; margin: 0 10px 0px 0">  
+<img src="/images/Departments/ct-hod-212x300.jpg" alt="Principal" style="width:300px" /></p>  
+<p style="text-align:justify">
 
 Art, Design & Technology (D&T), Food and Consumer Education/Nutrition and Food Science (FCE/NFS), Elements of Business Studies (EBS) and Music are the subjects under the purview of the Craft and Technology Department. We are firm believers that the study of these elective subjects will provide students with a balanced and well-rounded education, develop them to the fullest potential and nurture them into life-long learners and good citizens. To promote civic mindedness of being responsible citizens, the department’s experiential learning programmes provide opportunities for students to work in teams and show empathy to others. Through these learning processes, students learn to be creative and develop an inquiring mind.
 
@@ -19,7 +23,7 @@ The study of Design & Technology is built on experiential learning, with emphasi
 The study of Music provides students with opportunities to develop a connection to music which contributes to the development and preservation of Singapore’s cultural heritage. The study of EBS provides an introduction to business through an understanding of business activities, focusing on basic marketing and customer relations, in the context of Singapore.
 
 In the process of learning elective subjects, students will become Active learners through authentic learning experiences and constructing knowledge themselves. In becoming confident learners, students will appreciate diverse views, adapt to changes and communicate effectively with peers and teachers.  We believe that through the rich learning experiences of elective subjects, students will be able to become Active Learners and Responsible Citizens.
-
+</p>
 
 **Mrs Sharon Wee <br>
 HOD Craft and Tech <br>
