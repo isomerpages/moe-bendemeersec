@@ -20,8 +20,15 @@ Due to Covid-19, the second and third cycles were held using lesson packages in 
 
 Through these cultural lessons, we hope that students will be able to appreciate the Chinese culture and cultivate their interest in learning the Chinese Language
 
-![Chinese cultural lessons](/images/Departments/cl-Screenshot%20(3132).png)
+![Chinese cultural lessons](/images/Departments/cl-hcl-calli-01.jpg)
 
+![Chinese cultural lessons](/images/Departments/cl-hcl-calli-02.jpg)
+
+![Chinese cultural lessons](/images/Departments/cl-hcl-calli-03.jpg)
+
+![Chinese cultural lessons](/images/Departments/cl-hcl-calli-04.jpg)
+
+![Chinese cultural lessons](/images/Departments/cl-hcl-calli-05.jpg)
 
 #### **Festive Celebrations**
 
