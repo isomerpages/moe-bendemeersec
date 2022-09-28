@@ -3,8 +3,6 @@ title: School Advisory Committee
 permalink: /about-us/school-advisory-committee/
 description: ""
 ---
-
-
 <b>Chairperson</b> <br>
 Mr Chiang Heng Liang
 
@@ -20,14 +18,11 @@ Mr Vincent Ling
 <b>Mr Chen Fook Pang</b> <br>
 Principal
 
-<b>Mr Lawrence Poon</b> <br>
+<b>Mr Azman</b> <br>
 Vice-Principal
 
 <b>Mr Chrys Ho</b> <br>
 Vice-Principal
-
-<b>Mr Tan Bak Cheng</b> <br>
-Member
 
 <b>Ms Della Goh</b>  <br>
 Member
