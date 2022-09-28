@@ -40,7 +40,9 @@ Character building is emphasised in every aspect of our Football CCA where our t
 
 #### One Bendemeer Family
 
-![One Bendemeer Family](/images/Cca/football-03-e1627316094881-704x1024.png)
+<p style="float:left; margin: 0 10px">
+<img src="/images/Cca/football-03-e1627316094881-704x1024.png" alt="Football" style="width:400px" /></p>
+<p style="text-align:justify">
 
 *“Our teachers are very caring towards the players and will always seek to help them develop holistically as a footballer. Our coaches are very passionate about the game and are very motivated to help the footballers improve. It helps that they are also well qualified not just in terms of their qualifications but in coaching experience as well. Our teachers and coaches have helped to create a family culture in the team where everyone does their part to help the team move forward as One Bendemeer.”* 
 **-Mr. Lee Chen Siang, Teacher-in-charge of Bendemeer Football.**
