@@ -3,8 +3,6 @@ title: Our Mission, Vision and Values
 permalink: /about-us/our-mission-vision-values/
 description: ""
 ---
-## Our Mission, Vision and Values
-
 [<img src="/images/Aboutus/VMV1.jpg" alt="Vision" style="width:400px" />](/images/Aboutus/VMV1.jpg)
 <p style="text-align:center"><b>Active Learners, Responsible Citizens</b></p>
 		
