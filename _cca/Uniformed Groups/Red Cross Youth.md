@@ -37,11 +37,11 @@ third_nav_title: Uniformed Groups
 </table>
 
 
-As we bid farewell to our graduating cohort during the World Red Cross Day ceremony, we celebrated the successes and contributions of the seniors who took pains to plan an enriching curriculum  and fun activities for their juniors. It was also especially meaningful to see the graduating seniors welcome the new Sec 1 cadets by pinning enrolment badges on their new uniforms as they start on their Red Cross journey.
+<p style="text-align:justify">As we bid farewell to our graduating cohort during the World Red Cross Day ceremony, we celebrated the successes and contributions of the seniors who took pains to plan an enriching curriculum  and fun activities for their juniors. It was also especially meaningful to see the graduating seniors welcome the new Sec 1 cadets by pinning enrolment badges on their new uniforms as they start on their Red Cross journey.</p>
 
 ![Reacting to an emergency](/images/Cca/cca-redx-i-Reacting-in-an-emergency-768x513.jpg)
 
-Despite the pandemic, our cadets looked forward to participate in meaningful projects and masterclasses. This year our lower secondary cadets participated in a VIA project called Project #AOK Campaign which is a social media campaign aimed at encouraging our cadets to display acts of kindness to others in trying times, such as COVID-19. They completed the acts of kindness through an activity game similar to Bingo.
+<p style="text-align:justify">Despite the pandemic, our cadets looked forward to participate in meaningful projects and masterclasses. This year our lower secondary cadets participated in a VIA project called Project #AOK Campaign which is a social media campaign aimed at encouraging our cadets to display acts of kindness to others in trying times, such as COVID-19. They completed the acts of kindness through an activity game similar to Bingo.</p>
 
 ![Warming up](/images/Cca/cca-redx-i-Volunteer-instructor-demonstrating-CPR-768x513.jpg)
 Warming up
@@ -49,11 +49,11 @@ Warming up
 ![CCA Orientation](/images/Cca/cca-redx-i-Orientation-day-recruiting-new-cadets-768x513.jpg)
 CCA Orientation
 
-Our Upper Secondary cadets also participated in a Dengue Awareness campaign which is a Digital Awareness Campaign aimed to spread dengue awareness and also allow cadets to understand the importance of dengue prevention in our community. The students had plenty of fun designing board games.
+<p style="text-align:justify">Our Upper Secondary cadets also participated in a Dengue Awareness campaign which is a Digital Awareness Campaign aimed to spread dengue awareness and also allow cadets to understand the importance of dengue prevention in our community. The students had plenty of fun designing board games.</p>
 
-Even though the pandemic disrupted the physical masterclasses, our cadets still learnt a lot through the masterclasses conducted online. Through the Youth Ambassador Blood Programme, cadets learnt how to dispel the myths of blood donation and made a pitch to encourage their friends and family to donate blood to save lives as Singapore is currently facing a severe shortage of blood donors. Through the First Aid masterclasses, our cadets brushed up on their theoretical knowledge on how to provide basic first aid in times of an emergency.
+<p style="text-align:justify">Even though the pandemic disrupted the physical masterclasses, our cadets still learnt a lot through the masterclasses conducted online. Through the Youth Ambassador Blood Programme, cadets learnt how to dispel the myths of blood donation and made a pitch to encourage their friends and family to donate blood to save lives as Singapore is currently facing a severe shortage of blood donors. Through the First Aid masterclasses, our cadets brushed up on their theoretical knowledge on how to provide basic first aid in times of an emergency.</p>
 
-We continue to look forward to another year of exciting activities where cadets pick up useful knowledge of first aid, blood donation advocacy, community service and disaster risk management. We hope our cadets live up to the Red Cross motto of serving humanity and saving lives as they grow to become humanitarian leaders of tomorrow.
+<p style="text-align:justify">We continue to look forward to another year of exciting activities where cadets pick up useful knowledge of first aid, blood donation advocacy, community service and disaster risk management. We hope our cadets live up to the Red Cross motto of serving humanity and saving lives as they grow to become humanitarian leaders of tomorrow.</p>
 
 ![Blood donation drive](/images/Cca/cca-redx-i-Blood-donation-drive-768x512.jpg)
 Blood donation drive
