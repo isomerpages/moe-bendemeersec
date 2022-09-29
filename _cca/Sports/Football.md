@@ -59,13 +59,13 @@ Brijesh Rana (3R5)
 
 #### Striving for Excellence
 
-*“Football season in 2019 was one filled with ups and downs as well as learning opportunities. Despite not winning the championships and having only a handful of players, we still managed to prove that we were definitely a force to be reckoned with. I feel that it was a great experience for everyone and we bonded very well as a team. Most importantly, we had fun. At the same time, I would like to thank our coach and teachers for motivating and guiding us along the way.”* **-Chong Shing, Alumni of Bendemeer Football Team.**
+<p style="text-align:justify; font-style:italic">“Football season in 2019 was one filled with ups and downs as well as learning opportunities. Despite not winning the championships and having only a handful of players, we still managed to prove that we were definitely a force to be reckoned with. I feel that it was a great experience for everyone and we bonded very well as a team. Most importantly, we had fun. At the same time, I would like to thank our coach and teachers for motivating and guiding us along the way.” <b>-Chong Shing, Alumni of Bendemeer Football Team.</b></p>
 
 ![Goalkeeper training](/images/Cca/football-05-e1627316395517.png)
 
-As the whistle blew, Hafiz, with sweat dripping down his face, pumped his fist in the air and said, “Yay! We scored 2 goals!” The excitement was contagious as the winners basked in their victory. Every soccer match brings an adrenaline rush to these passionate young footballers and that’s what they love about Bendemeer Football.
+<p style="text-align:justify">As the whistle blew, Hafiz, with sweat dripping down his face, pumped his fist in the air and said, “Yay! We scored 2 goals!” The excitement was contagious as the winners basked in their victory. Every soccer match brings an adrenaline rush to these passionate young footballers and that’s what they love about Bendemeer Football.</p>
 
-Training under the hot sun is hard work but our passionate players persevere through the challenges.
+<p style="text-align:justify">Training under the hot sun is hard work but our passionate players persevere through the challenges.</p>
 
 #### Players in Motion
 
