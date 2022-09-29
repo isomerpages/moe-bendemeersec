@@ -74,9 +74,8 @@ Our teachers engage the students through the use of varied pedagogy such as Diff
 Moving forward with MOE National Digital Literacy Programme, our teachers leverage on technology and use e-pedagogy in their lesson design to create a student-centric learning environment, not only to enhance the learning of Mathematics but also to develop a critical appreciation of the use of information and communication technology in Mathematics. Our teachers integrate Student Learning Space and transform the learning experiences of students with the purposeful use of technology and enables students to engage in different learning modes, including self-directed and collaborative learning.
 
 ![Learning outside Classroom](/images/Departments/math-04.jpg)
-<br>
-<br>
 
+<br>
 
 Through the well-integrated school strategies and programmes in promoting and supporting a comprehensive and innovative learning environment, I strongly believe our students will be nurtured to become independent learners who are ready for the future economy and society.
 
