@@ -22,6 +22,7 @@ The art programme focuses on helping students:
  
 Students are assessed using both formative and summative assessments through task and project-based assignments.
  
+![Learning journey](/images/Departments/ct-art-01.jpg)
 
 #### **Upper Secondary Art Curriculum**
 
@@ -39,8 +40,8 @@ The upper secondary art curriculum also enables students to have more exposure t
 
 The students also get to experience various learning journeys to art supply stores, art exhibitions and museums as well as art tertiary institutions such as NAFA & LaSalle College of the Arts.  With such opportunities, upper secondary art students are able to gain exposure, and increase their appreciation and understanding of the art scene in Singapore.
 
-![Learning journey](/images/Departments/ct-art1.jpg)
 
-![Learning journey](/images/Departments/ct-art2.jpg)
+
+![Learning journey](/images/Departments/ct-art-02.jpg)
 
 ![Art lesson](/images/Departments/ct-art3.jpg)
