@@ -44,4 +44,6 @@ The students also get to experience various learning journeys to art supply stor
 
 ![Learning journey](/images/Departments/ct-art-02.jpg)
 
-![Art lesson](/images/Departments/ct-art3.jpg)
+![Art lesson](/images/Departments/ct-art-03.jpg)
+
+![Art lesson](/images/Departments/ct-art-04.jpg)
