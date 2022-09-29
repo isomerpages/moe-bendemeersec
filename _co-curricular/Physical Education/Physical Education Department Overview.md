@@ -33,3 +33,5 @@ Inspiring active learners to be healthy through physical activity.
 * Annual Sports Carnival<br>
 * Annual Cross Country Championships<br>
 * Inter Class Games<br>
+
+![Sports Carnival](/images/Departments/pe-01.jpg)
