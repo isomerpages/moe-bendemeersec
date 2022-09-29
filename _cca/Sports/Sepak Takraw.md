@@ -81,16 +81,16 @@ Ready to strike!
 
 ![Sepak Takraw B Division Players](/images/Cca/cca-takraw-i-Sepak-Takraw-B-Div-768x512.jpg)
 
-*I am happy that despite the pandemic, I managed to play Sepak takraw to represent the school as this will be my last year with the school. We were not able to train much due to the occasional school closure, however we gave our best during each training session and during the competition. As the team captain, I can say that we  have forged stronger ties and hope our friendships will last beyond our secondary school years.*
+<p style="text-align:justify; font-style:italic">I am happy that despite the pandemic, I managed to play Sepak takraw to represent the school as this will be my last year with the school. We were not able to train much due to the occasional school closure, however we gave our best during each training session and during the competition. As the team captain, I can say that we  have forged stronger ties and hope our friendships will last beyond our secondary school years.</p>
 
 **- Ayob Bin Mohd Jaaffar , Team Captain – B Division (Captain)**
 
-*I love playing Sepak takraw. It teaches me skills and the importance of teamwork. It also teaches me to be more self-disciplined and be a motivator to my teammates especially during a game. Communication is an important aspect as we need to work together to win. Since playing Sepak takraw, I have become a better player and a more important, a better student.*
+<p style="text-align:justify; font-style:italic">I love playing Sepak takraw. It teaches me skills and the importance of teamwork. It also teaches me to be more self-disciplined and be a motivator to my teammates especially during a game. Communication is an important aspect as we need to work together to win. Since playing Sepak takraw, I have become a better player and a more important, a better student.</p>
 
 **- Mohamed Zu’eirmanshah Bin Mohamed Nesani (4R5)**
 
 
-*I like Sepak takraw because there are many ‘cool’ tricks that you can learn to be a better player. The teachers and coach are friendly. If you need help to improve your skills, the coach will be there to advise and provide guidance for you. I can say that my skills have improved over the years with his guidance and constant practice.*
+<p style="text-align:justify; font-style:italic">I like Sepak takraw because there are many ‘cool’ tricks that you can learn to be a better player. The teachers and coach are friendly. If you need help to improve your skills, the coach will be there to advise and provide guidance for you. I can say that my skills have improved over the years with his guidance and constant practice.</p>
 
 **- Muhammad Rahul bin Mohamed Raffi (4R8)**
 
