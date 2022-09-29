@@ -7,6 +7,9 @@ third_nav_title: CCE
 ## **Character & Citizenship Education**
 
 #### HOD's Message
+<p style="float:left; margin: 0 10px 0px 0">  
+<img src="/images/Departments/cce-hod.jpg" alt="HOD CCE" style="width:300px" /></p>  
+<p style="text-align:justify"></p>
 
 
 The mission of our Ministry of Education (MOE) is to mould the people who will determine our future. The wealth of our nation lies in our people’s commitment to country and community, their willingness to strive and persevere, their ability to think, achieve and excel.
