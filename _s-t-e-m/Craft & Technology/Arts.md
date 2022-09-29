@@ -22,7 +22,7 @@ The art programme focuses on helping students:
  
 Students are assessed using both formative and summative assessments through task and project-based assignments.
  
-![Learning journey](/images/Departments/ct-art-01.jpg)
+![Learning journey](/images/Departments/ct-art-01n.jpg)
 
 #### **Upper Secondary Art Curriculum**
 
