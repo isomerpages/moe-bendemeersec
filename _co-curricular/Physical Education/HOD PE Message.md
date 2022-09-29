@@ -8,8 +8,9 @@ third_nav_title: Physical Education
 
 #### HOD's Message
 
-
-
+<p style="float:left; margin: 0 10px 0px 0">  
+<img src="/images/Departments/pe-hod.jpg" alt="HOD Physical Education" style="width:400px" /></p>  
+<p style="text-align:justify">
 
 #### Philosophy of Physical Education
 
