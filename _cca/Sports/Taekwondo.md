@@ -15,26 +15,23 @@ third_nav_title: Sports
 
 
 
-Due to the COVID-19 situation, the recruitment for secondary one students was done online. We had to produce a video to promote the CCA.  Members and the coach came up with a few performances that were being video-recorded. It honed the skills of the tech-savvy students who contributed to the whole process of video-recording, the editing and the inclusion of text and music. It was indeed a well-produced video, showcasing the skills that the members have acquired. We managed to recruit 14 secondary one students to join the CCA.
+<p style="text-align:justify">Due to the COVID-19 situation, the recruitment for secondary one students was done online. We had to produce a video to promote the CCA.  Members and the coach came up with a few performances that were being video-recorded. It honed the skills of the tech-savvy students who contributed to the whole process of video-recording, the editing and the inclusion of text and music. It was indeed a well-produced video, showcasing the skills that the members have acquired. We managed to recruit 14 secondary one students to join the CCA.</p>
 
-Training continued through semester one but due to a restriction on the number of students who can attend training, members had to be rostered and thus members had a reduced number of training hours.
+<p style="text-align:justify">Training continued through semester one but due to a restriction on the number of students who can attend training, members had to be rostered and thus members had a reduced number of training hours.</p>
 
 ![Sparring](/images/Cca/cca-tkd-i-Sparring-768x512.jpg)
 Sparring
 
-Every year, our members train hard for two Taekwondo competitions, the National School Games and the Whampoa Community Club Taekwondo Competition. Through participation in competitions, our students gain valuable lessons of discipline, sportsmanship and teamwork, which develop them holistically. Therefore, we were very glad when it was announced that the National School Games would be carried out this year, albeit with strict Safe Management Measures.
+<p style="text-align:justify">Every year, our members train hard for two Taekwondo competitions, the National School Games and the Whampoa Community Club Taekwondo Competition. Through participation in competitions, our students gain valuable lessons of discipline, sportsmanship and teamwork, which develop them holistically. Therefore, we were very glad when it was announced that the National School Games would be carried out this year, albeit with strict Safe Management Measures.</p>
 
 <p style="float:left; margin: 0 10px 0px 0">
 <img src="/images/Cca/cca-tkd-i-Training-punches-768x1011.jpg" alt="TaeKwondo" style="width:300px" /></p>
 <p style="text-align:justify">
-It was only for members from Division B and only for the Poomsae events. Our members were video-recorded on assigned time slots and judging was done based on the videos. It was a totally new experience for those who took part. Our hard work paid off as we clinched two Gold, one Silver and 5 Bronze medals.
-
-<br>
-<br>
+It was only for members from Division B and only for the Poomsae events. Our members were video-recorded on assigned time slots and judging was done based on the videos. It was a totally new experience for those who took part. Our hard work paid off as we clinched two Gold, one Silver and 5 Bronze medals.</p>
 	
-We also bid a fond farewell to the graduating members who are preparing for their GCE O and N level examinations. We have appointed the new Captain and Vice-Captains to take over the leadership of the CCA.
+<p style="text-align:justify">We also bid a fond farewell to the graduating members who are preparing for their GCE O and N level examinations. We have appointed the new Captain and Vice-Captains to take over the leadership of the CCA.</p>
 
-We are extremely proud of our members as they adapt to the disruptions for the last two years and their continued enthusiasm in training and the desire to improve their skills in Taekwondo.  </p>
+<p style="text-align:justify">We are extremely proud of our members as they adapt to the disruptions for the last two years and their continued enthusiasm in training and the desire to improve their skills in Taekwondo.  </p>
 
 
 *Through these four years in Taekwondo CCA, I have seen the club grow stronger in the areas of achievement and see a stronger bond among members. Joining Taekwondo CCA has made me stronger mentally and physically as I train hard for competitions and I learnt not to give up easily when things do not go my way.*
