@@ -8,10 +8,15 @@ third_nav_title: Science
 
 #### HOD's Message
 
+<p style="float:left; margin: 0 10px 0px 0">  
+<img src="/images/Departments/hod-science.jpg" alt="HOD Science" style="width:300px" /></p>  
+<p style="text-align:justify">
+
+
 As a parent and an educator, I always believe that every child has different readiness and talent, and when given the opportunity and the right approach, they can learn, grow and succeed in their life.
 
 Given the diverse changing global landscape, students with diverse learning needs and aptitudes for Science, and in alignment with the school’s vision “Active learners, Responsible Citizens” the department hopes to:
-
+</p>
 * encourage Bendemeerians to apply the knowledge, skill sets and competencies gained in Science to make responsible and well-informed decision in their daily lives to solve problems, and contribute to the society, to improve self and others
 * provide all Bendemeerians with a good foundations in Science learning and excite them in the pursue of STEM related work
 * inculcate desire Values and attitudes of life such as Resilience, Integrity, Curiosity and responsibility through role-modelling and the key attributes of Scientists
