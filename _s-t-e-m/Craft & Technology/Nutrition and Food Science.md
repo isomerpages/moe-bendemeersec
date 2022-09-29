@@ -26,9 +26,9 @@ In addition, the Nutrition and Food Science (NFS) unit extends students’ learn
 * Collaboration with CCE department for the school’s Sec 1 LLP towards Appreciation Day
 * Bendemeer MasterChef competition 
 
-![Lower Secondary: Food and Consumer Education](/images/Departments/ct-nfs-food1.jpg)
+![Lower Secondary: Food and Consumer Education](/images/Departments/ct-nfs-01.jpg)
 
-![Lower Secondary: Food and Consumer Education](/images/Departments/ct-nfs-food2.jpg)
+![Lower Secondary: Food and Consumer Education](/images/Departments/ct-nfs-02.jpg)
 
 #### **Upper Secondary: Nutrition and Food Science**
  
@@ -46,8 +46,6 @@ In the assessment of the NFS curriculum, both formative and summative assessment
  
 The department seeks to expose students to various post-secondary options and deepen their learning. An example would be the recent Nutrition Health – “Healthy Cooking and Label Reading” talk conducted by Republic Polytechnic where students learnt about aspects of healthy cooking, label reading and a virtual demonstration of healthy cooking. 
 
-![Upper Secondary: Nutrition and Food Science](/images/Departments/ct-nfs-food3.jpg)
+![Upper Secondary: Nutrition and Food Science](/images/Departments/ct-nfs-03.jpg)
 
-![Upper Secondary: Nutrition and Food Science](/images/Departments/ct-nfs-food4.jpg)
-
-![Upper Secondary: Nutrition and Food Science](/images/Departments/ct-nfs-food5.jpg)
+![Upper Secondary: Nutrition and Food Science](/images/Departments/ct-nfs-05.jpg)
