@@ -58,12 +58,12 @@ CCA Orientation
 ![Blood donation drive](/images/Cca/cca-redx-i-Blood-donation-drive-768x512.jpg)
 Blood donation drive
 
-*“I have learnt a lot over the years in Red CrossYouth, from life-saving skills to soft skills such as problem-solving, communication and leadership skills. These skills have aided me in being a more caring and confident leader. Having the role as Chairperson entrusted to me has pushed me out of my comfort zone to lead the unit. I am pleased that I chose Red Cross Youth CCA because it has helped me grow into the person I am today.”*
+<p style="text-align:justify; font-style:italic">“I have learnt a lot over the years in Red CrossYouth, from life-saving skills to soft skills such as problem-solving, communication and leadership skills. These skills have aided me in being a more caring and confident leader. Having the role as Chairperson entrusted to me has pushed me out of my comfort zone to lead the unit. I am pleased that I chose Red Cross Youth CCA because it has helped me grow into the person I am today.”</p>
 
 **- Neo Hui En Rachael (Chairperson)**
 
  
 
-*“Red Cross Youth CCA has given me new experiences and opportunities that are unforgettable which has allowed me to grow and moulded me to become a better person. Throughout my leadership journey, I have faced many challenges and I am thankful for my batchmates who have supported me with their encouraging words and helped me overcome these difficulties.”*
+<p style="text-align:justify; font-style:italic">“Red Cross Youth CCA has given me new experiences and opportunities that are unforgettable which has allowed me to grow and moulded me to become a better person. Throughout my leadership journey, I have faced many challenges and I am thankful for my batchmates who have supported me with their encouraging words and helped me overcome these difficulties.”</p>
 
 **- Hazel Tay Yu Xin (Vice-Chairperson)**
