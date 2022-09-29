@@ -20,9 +20,6 @@ I strongly believe that Mathematics education plays an important role in equippi
 In alignment with the School’s Vision, Mission, Values and Motto, the Mathematics department aims to develop a positive learning culture among students and shape the students’ character and moral development through student-centered strategies such as collaborative learning and reflective pedagogy.  We inspire our students to be effective problem-solvers and inculcate in them the value of resilience and never give up spirit. As such, our department programmes are carefully designed to enable students to develop the critical mathematical processes such as reasoning, communicating and modelling as well as to develop students’ metacognition by promoting self-directed learning and reflection. In addition, our programmes are skillfully crafted to cater to the different needs, abilities and interests of students who can thrive and do their very best to reach their fullest potential.
 </p>
 
-<br>
-<br>
-
 
 The following is the Mathematics Department 4-Year Learning Roadmap:
 
