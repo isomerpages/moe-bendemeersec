@@ -22,4 +22,4 @@ c) **Future readiness**: Have a sense of purpose in life, develop the dispositio
 
 d) **Active citizenship**: Develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore’s vulnerabilities and constraints, and the will to act on improving the lives of others, and building a future for our nation.
 
-<img src="/images/Departments/cce2.png" alt="CCE Overview" style="width:600px" alt="Character and Citizenship Education Overview"/>
+<img src="/images/Departments/cce2.png" alt="CCE Overview" style="width:700px" alt="Character and Citizenship Education Overview"/>
