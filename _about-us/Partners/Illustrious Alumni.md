@@ -60,7 +60,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <!--Example2 (will not show on website)
 <p>
-<a href="http://commonmark.org" title="Redirect to homepage">
+<a href="/images/Aboutus/Alumni-phoonsb" title="Click to view details">
 <img src="/images/Aboutus/Alumni00-300x249.png" alt="?" style="width:400px"/>
 </a>
 </p>
