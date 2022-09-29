@@ -82,7 +82,7 @@ Bendemeer adopts a whole-school thematic approach to VIA, where different subjec
 Students are involved in showing their appreciation to the school community through a series of tasks which integrate subjects such as Biology, Mother Tongue (MT), Geography,
 
 Information and Communications Technology (ICT) and Craft and Technology. Some of these tasks include writing appreciation cards to the school staff, planting and harvesting the plants to be used in culinary dishes prepared by these students for the school staff on Appreciation Day.
-
+![](/images/Departments/cce-msg-02.jpg)
 
 #### Sec 2 – Love Our Community
 
@@ -99,6 +99,7 @@ The classes which did Healthy Living found out more about how to encourage healt
 
 Our students engaged the children at Big Heart Student Care and elderly at St. Luke’s Eldercare for half a day and after which they  came back to do a reflection and share among the various classes.
 
+![](/images/Departments/cce-msg-01.jpg)
 
 #### Sec 4/5 – Love Our Environment
 
