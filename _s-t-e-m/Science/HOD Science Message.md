@@ -9,7 +9,7 @@ third_nav_title: Science
 #### HOD's Message
 
 <p style="float:left; margin: 0 10px 0px 0">  
-<img src="/images/Departments/hod-science.jpg" alt="HOD Science" style="width:300px" /></p>  
+<img src="/images/Departments/sci-hod.jpg" alt="HOD Science" style="width:300px" /></p>  
 <p style="text-align:justify">
 
 
