@@ -22,6 +22,9 @@ The introduction of banded classes and PE assessment in recent years also allows
 
 Together with other school programmes, physical and health education contributes to holistic education and the development of 21st Century Competencies. These prepare our students to thrive in a fast-changing and highly-connected world
 
+![](/images/Departments/pe-overview-01.jpg)
+
+![](/images/Departments/pe-overview-02.jpg)
  
 ### Philosophy of Co-Curricular Activities (CCAs)
 
