@@ -10,7 +10,7 @@ third_nav_title: Physical Education
 
 <p style="float:left; margin: 0 10px 0px 0">  
 <img src="/images/Departments/pe-hod.jpg" alt="HOD Physical Education" style="width:400px" /></p>  
-<p style="text-align:justify">
+<p style="text-align:justify"></p>
 
 #### Philosophy of Physical Education
 
