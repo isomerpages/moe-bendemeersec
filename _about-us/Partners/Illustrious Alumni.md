@@ -70,7 +70,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 -->
 
 <p>
-<a href="http://commonmark.org" title="Redirect to homepage">
+<a href="/images/Aboutus/Alumni-phoonsb.jpg" title="Click to view details">
 <img src="/images/Aboutus/Alumni01-300x249.png" alt="Mr Jonathan Phoon siew Boon" style="width:400px"/>
 </a>
 </p>
