@@ -5,9 +5,9 @@ description: ""
 ---
 #### **Useful links for Parents**
 
-|  |  |  
-| -------- | -------- | 
-| <img src="/images/Usefullinks/moe.png" alt="MOE website" style="width:200px" /> |<br>
+|  |  
+| -------- | 
+| <img src="/images/Usefullinks/moe.png" alt="MOE website" style="width:200px" />
 <a href="https://www.moe.gov.sg" target="_blank" >MOE website</a> |  
 |  <img src="/images/Usefullinks/sls-logo.png" alt="SLS website" style="width:200px" />|<br>[Student Learning Space](https://vle.learning.moe.edu.sg/login) |  
 |<img src="/images/Usefullinks/parentsgateway.png" alt="SLS website" style="width:200px" />| <br>[Parents Gateway](https://pg.moe.edu.sg/) |   
