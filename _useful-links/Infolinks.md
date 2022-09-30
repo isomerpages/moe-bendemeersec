@@ -12,4 +12,13 @@ description: ""
 |<img src="/images/Usefullinks/parentsgateway.png" alt="SLS website" style="width:200px" />| [Parents Gateway](https://pg.moe.edu.sg/) |   
 |  | [Application Form for Leave of Absence](https://go.gov.sg/bdms-loa) |
 
+| |
+|-|
+|**Useful links for School Staff**| 
+[ICONnect](https://workspace.google.com/dashboard)
+[MOE Intranet](https://intranet.moe.gov.sg)
+[OPAL 2.0](https://opal2.moe.edu.sg)
+[School Cockpit](https://schoolcockpit.moe.gov.sg)
+[SCMobile](https://scmobile.moe.edu.sg/login)
+[HRP Portal](https://www.hrp.gov.sg)
 
