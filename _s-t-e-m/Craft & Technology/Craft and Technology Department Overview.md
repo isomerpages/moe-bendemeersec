@@ -10,7 +10,7 @@ third_nav_title: Craft & Technology
 
 **Vision**
 
-A Bendemeerian will be a self-directed learner, who is a confident person and an active contributor to the society.
+<p style="text-align:justify">A Bendemeerian will be a self-directed learner, who is a confident person and an active contributor to the society.</p>
 
 **Mission**
 
@@ -18,7 +18,7 @@ A department that nurtures future ready citizens.
 
 **Department’s Goals**
 
-In alignment with the School’s vision, mission and values, the department strategically designed the key learning outcomes of the different subjects to empower students. Through engaging pedagogy and authentic tasks, students can develop personal qualities that stand them in good stead in the community. The table below shows the learning goals for the Craft and Technology Department.
+<p style="text-align:justify">In alignment with the School’s vision, mission and values, the department strategically designed the key learning outcomes of the different subjects to empower students. Through engaging pedagogy and authentic tasks, students can develop personal qualities that stand them in good stead in the community. The table below shows the learning goals for the Craft and Technology Department.</p>
 
 Subjects
 * Art
