@@ -17,5 +17,5 @@ You may view the latest School Magazine by clicking on the external URL below.
 
 Please click on each link to view the the school magazine .
 
-1.  <a href="https://https://bendemeersec.moe.edu.sg/files/Bendemeer-Tchoukball-Experience.pdf" target="_blank">Ms Jeya's Farewell</a>
+1.  <a href="https://bendemeersec.moe.edu.sg/files/Bendemeer-Tchoukball-Experience.pdf" target="_blank" rel="noopener">Ms Jeya's Farewell</a>
 2.  [Part 1](/files/Bendemeer-Tchoukball-Experience.pdf)
