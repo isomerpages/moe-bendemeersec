@@ -5,11 +5,10 @@ description: ""
 ---
 ## **Bi-Cultural Overseas Exchange Programme**
 
-![Bi-Cultural Overseas Exchange Programme](/images/Keyprogrammes/Bi-Cultural%20Overseas%20Exchange%20Programme.jpg)
+![Bi-Cultural Overseas Exchange Programme](/images/Keyprogrammes/bicultural-exchange-01.jpeg)
 
-![Bi-Cultural Overseas Exchange Programme](/images/Keyprogrammes/Bi-Cultural%20Overseas%20Exchange%20Programme2.jpg)
+![Bi-Cultural Overseas Exchange Programme](/images/Keyprogrammes/bicultural-exchange-02.jpeg)
 
-![Bi-Cultural Overseas Exchange Programme](/images/Keyprogrammes/Bi-Cultural%20Overseas%20Exchange%20Programme3.jpg)
+![Bi-Cultural Overseas Exchange Programme](/images/Keyprogrammes/bicultural-exchange-03.jpeg)
 
-![Bi-Cultural Overseas Exchange Programme](/images/Keyprogrammes/Bi-Cultural%20Overseas%20Exchange%20Programme4.jpg)
-
+![Bi-Cultural Overseas Exchange Programme](/images/Keyprogrammes/bicultural-exchange-04.jpeg)
