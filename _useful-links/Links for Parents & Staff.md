@@ -3,7 +3,7 @@ title: Links for Parents & Staff
 permalink: /useful-links/infolinks/
 description: ""
 ---
-#### Useful links for Parents
+#### **Useful links for Parents**
 
 |  |  |  
 | -------- | -------- | 
@@ -16,9 +16,12 @@ description: ""
 <br>
 
 #### **Useful links for School Staff**
-[ICONnect](https://workspace.google.com/dashboard)<br>
+
+|||
+|-|-|
+|[ICONnect](https://workspace.google.com/dashboard)<br>
 [MOE Intranet](https://intranet.moe.gov.sg)<br>
 [OPAL 2.0](https://opal2.moe.edu.sg)<br>
 [School Cockpit](https://schoolcockpit.moe.gov.sg)<br>
 [SCMobile](https://scmobile.moe.edu.sg/login)<br>
-[HRP Portal](https://www.hrp.gov.sg)<br>
+[HRP Portal](https://www.hrp.gov.sg)<br>|
