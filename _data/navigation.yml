@@ -31,13 +31,13 @@ links:
   - title: Useful Links
     url: /useful-links/sch-magazines
     sublinks:
-      - title: e-Open House
-        url: /announcements/e-openhouse
       - title: Online School Magazine
         url: /useful-links/sch-magazines
       - title: Class Timetable
         url: /useful-links/class-timetable
       - title: Infolinks
         url: /useful-links/infolinks
-      - title: Announcements
-        url: /announcements/dsa-registration
+      - title: e-Open House
+        url: /announcements/e-openhouse
+      - title: DSA Registration
+        url: /permalink
