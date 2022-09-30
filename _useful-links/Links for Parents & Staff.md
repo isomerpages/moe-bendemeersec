@@ -24,4 +24,4 @@ description: ""
 [OPAL 2.0](https://opal2.moe.edu.sg)<br>
 [School Cockpit](https://schoolcockpit.moe.gov.sg)<br>
 [SCMobile](https://scmobile.moe.edu.sg/login)<br>
-[HRP Portal](https://www.hrp.gov.sg)<br>|
+[HRP Portal](https://www.hrp.gov.sg)<br>| |
