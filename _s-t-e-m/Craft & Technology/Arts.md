@@ -13,10 +13,10 @@ third_nav_title: Craft & Technology
  
 The art programme focuses on helping students:
  
-* Understand and apply effectively the elements of art and principles of design in their art-making
+* <p style="text-align:justify">Understand and apply effectively the elements of art and principles of design in their art-making</p>
 * Appreciate and develop an understanding of various art forms.
-* Inquire about their learning via exploration of meaning-making, materials, processes and techniques.
-* Develop positive attitudes and values on how they can relate their artworks to real-life contexts
+* <p style="text-align:justify">Inquire about their learning via exploration of meaning-making, materials, processes and techniques.</p>
+* <p style="text-align:justify">Develop positive attitudes and values on how they can relate their artworks to real-life contexts</p>
 * Express themselves freely and creatively.
 * Sharpen their senses through keen observation of the environment.
  
@@ -31,8 +31,8 @@ Give form and meaning to their ideas, thoughts and feelings through visual and t
 
 * Use a variety of media and technologies in their art-making processes.
 * Maintain the development of critical and creative thinking.
-* Further enhance and develop visual literacy skills such as perceiving and responding to visual images and analysis of visual information of varied forms.
-* Further inquire about their learning via their exploration of meaning-making, materials, processes and techniques.
+* <p style="text-align:justify">Further enhance and develop visual literacy skills such as perceiving and responding to visual images and analysis of visual information of varied forms.</p>
+* <p style="text-align:justify">Further inquire about their learning via their exploration of meaning-making, materials, processes and techniques.</p>
 
 <p style="text-align:justify">The students are assessed using both formative and summative assessments through task assignments and mini-coursework.</p>
  
