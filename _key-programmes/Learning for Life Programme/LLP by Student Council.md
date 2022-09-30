@@ -20,7 +20,11 @@ The finalised project consisted of 6 large frames that displayed the stories and
 
 From 24th April to 11th May 2018, this project travelled from Bendemeer Secondary School, to Whampoa CC, to Kallang CC. With both students and elders living in these neighbourhoods the project captured the magic of these communities and appealed to visitors that arrived from near and far.
 
+![Rumah Whampoa EATs](/images/Keyprogrammes/llp-whampoaeats-01.jpg)
 
+![Rumah Whampoa EATs](/images/Keyprogrammes/llp-whampoaeats-02.jpg)
+
+![Rumah Whampoa EATs](/images/Keyprogrammes/llp-whampoaeats-03.jpg)
 
 **Donation Drive for St John’s Elderly**
 
@@ -30,7 +34,9 @@ A group of SCs decided to hold a donation drive for St John’s Elderly in Bende
 
 A group of SCs have planned an activity session with SGH to be held in the wards. Wanting to help the patients express themselves through art or to create a gift to express gratitude to their caregivers, the students set up an Arts and Craft booth for a week for patients to participate in and have fun! These activities catered to both the elderly and the young.
 
+![Art Activity with SGH](/images/Keyprogrammes/llp-sgh-01.jpg)
 
+![Art Activity with SGH](/images/Keyprogrammes/llp-sgh-02.jpg)
 
 **Food Wastage Awareness In Bendemeer Secondary School**
 
