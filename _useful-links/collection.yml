@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - e Open House.md
       - Online School Magazines.md
       - Class Timetable.md
       - Infolinks.md
