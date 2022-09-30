@@ -1,4 +1,6 @@
 collections:
   webpage-archive:
     output: true
-    order: []
+    order:
+      - Congratulatory Message from Dr Wan Rizal, Adviser to Jalan Besar GRC
+        GROs.md
