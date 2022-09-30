@@ -4,7 +4,6 @@ permalink: /key-programmes/ndlp/faqs/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-
 ## **Frequently Asked Questions**
 
 ##### **Procurement Matters**
@@ -257,8 +256,7 @@ third_nav_title: National Digital Literacy
 
 | |  | 
 | -------- | -------- | 
-| <br><br>Should you have any queries, please click [here](https://form.gov.sg/#!/6003ab0667a3e600110513fe) or scan the QR Code on the right to submit your queries.     | ![](/images/Keyprogrammes/Ndlp/ndlp-bdms-icthelp-qrcode.png)     | 
+| <br><br>Should you have any queries, please click [here](https://form.gov.sg/#!/6003ab0667a3e600110513fe) or scan the QR Code on the right to submit your queries.     | <img src="/images/Keyprogrammes/Ndlp/ndlp-bdms-icthelp-qrcode.png" alt="ICT Support" style="width:200px" />  |
 
-
-
-
+<p style="float:left; margin: 0 10px 0px 0">  
+</p>
