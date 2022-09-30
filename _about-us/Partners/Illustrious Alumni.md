@@ -70,7 +70,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 -->
 
 <p>
-<a href="/images/Aboutus/Alumni-phoonsb.jpg" title="Click to view details">
+<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni01-big.jpg" title="Mr Jonathan Phoon Siew Boon" target="_blank">
 <img src="/images/Aboutus/Alumni01-300x249.png" alt="Mr Jonathan Phoon siew Boon" style="width:400px"/>
 </a>
 </p>
@@ -79,7 +79,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 </p>
 
 <p>
-<a href="http://commonmark.org" title="Redirect to homepage">
+<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni/" title="Redirect to homepage">
 <img src="/images/Aboutus/Alumni02-300x249.png" alt="Lieutenant Colonel (LTC) Chew Chun-Chau / Colonel (COL) Chew Chun-Liang" style="width:400px"/>
 </a>
 </p>
