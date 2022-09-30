@@ -79,7 +79,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 </p>
 
 <p>
-<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni/" title="Redirect to homepage">
+<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni02-big.jpg" title="Lieutenant Colonel (LTC) Chew Chun-Chau / Colonel (COL) Chew Chun-Liang" target="_blank">
 <img src="/images/Aboutus/Alumni02-300x249.png" alt="Lieutenant Colonel (LTC) Chew Chun-Chau / Colonel (COL) Chew Chun-Liang" style="width:400px"/>
 </a>
 </p>
@@ -88,7 +88,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 </p>
 
 <p>
-<a href="http://commonmark.org" title="Redirect to homepage">
+<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni03-big.jpg" title="Mr Delane Lim Zi Xuan" target="_blank">
 <img src="/images/Aboutus/Alumni03-300x249.png" alt="Mr Delane Lim Zi Xuan" style="width:400px"/>
 </a>
 </p>
@@ -97,7 +97,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 </p>
 
 <p>
-<a href="http://commonmark.org" title="Redirect to homepage">
+<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni04-big.jpg" title="Mr Chia Yew Choon Chris" target="_blank">
 <img src="/images/Aboutus/Alumni04-300x249.png" alt="Mr Chia Yew Choon Chris" style="width:400px"/>
 </a>
 </p>
@@ -106,7 +106,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 </p>
 
 <p>
-<a href="http://commonmark.org" title="Redirect to homepage">
+<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni05-big.jpg" title="Captain Neo Wei Keong" target="_blank">
 <img src="/images/Aboutus/Alumni05-300x249.png" alt="Captain (CPT) Neo Wei Keong" style="width:400px"/>
 </a>
 </p>
@@ -115,7 +115,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 </p>
 
 <p>
-<a href="http://commonmark.org" title="Redirect to homepage">
+<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni06-big.jpg" title="Miss Siti Aishah Mohd Selamat" target="_blank">
 <img src="/images/Aboutus/Alumni06-300x249.png" alt="Miss Siti Aishah Mohd Selamat" style="width:400px"/>
 </a>
 </p>
@@ -124,7 +124,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 </p>
 
 <p>
-<a href="http://commonmark.org" title="Redirect to homepage">
+<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni07-big.jpg" title="Mr Tan Wei Qiang Jovin" target="_blank">
 <img src="/images/Aboutus/Alumni07-300x249.png" alt="Mr Tan Wei Qiang Jovin" style="width:400px"/>
 </a>
 </p>
@@ -133,7 +133,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 </p>
 
 <p>
-<a href="http://commonmark.org" title="Redirect to homepage">
+<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni08-big.jpg" title="Mr Teo Kin Hui Joseph" target="_blank">
 <img src="/images/Aboutus/Alumni08-300x249.png" alt="Mr Teo Kin Hui Joseph" style="width:400px"/>
 </a>
 </p>
@@ -142,7 +142,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 </p>
 
 <p>
-<a href="http://commonmark.org" title="Redirect to homepage">
+<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni09-big.jpg" title="Miss Hany Soh Hui Bin" target="_blank">
 <img src="/images/Aboutus/Alumni09-300x249.png" alt="Miss Hany Soh Hui Bin" style="width:400px"/>
 </a>
 </p>
@@ -151,7 +151,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 </p>
 
 <p>
-<a href="http://commonmark.org" title="Redirect to homepage">
+<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni10-big.jpg" title="Mr Mohamed Shameer" target="_blank">
 <img src="/images/Aboutus/Alumni10-300x249.png" alt="Mr Mohamed Shameer" style="width:400px"/>
 </a>
 </p>
@@ -160,7 +160,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 </p>
 
 <p>
-<a href="http://commonmark.org" title="Redirect to homepage">
+<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni11-big.jpg" title="Miss Yip Pin Xiu" target="_blank">
 <img src="/images/Aboutus/Alumni11-300x249.png" alt="Miss Yip Pin Xiu" style="width:400px"/>
 </a>
 </p>
@@ -169,7 +169,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 </p>
 
 <p>
-<a href="http://commonmark.org" title="Redirect to homepage">
+<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni12-big.jpg" title="Mr Ian Fang Wei Jie" target="_blank">
 <img src="/images/Aboutus/Alumni12-300x249.png" alt="Mr Ian Fang Wei Jie" style="width:400px"/>
 </a>
 </p>
