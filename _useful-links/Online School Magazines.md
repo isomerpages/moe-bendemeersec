@@ -12,8 +12,9 @@ You may view the latest School Magazine by clicking on the external URL below.
 
 [Bendemeer Secondary School e-Magazine 2021](https://issuu.com/touche-design/docs/bendemeer_sec_e-magazine_2021?fr=sNWE3NzI3NTIwODU)
 
+
 ### Online School Magazine 2020
 
 Please click on the images below to view the school magazine (88Mb).
 
-**Files too big**
+1.  <a href="https://hrms.moe.gov.sg/" target="_blank">HRMS</a>
