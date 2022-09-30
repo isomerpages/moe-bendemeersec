@@ -43,7 +43,9 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 
 **At BENDEMEER Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2022:**
 
-[Secondary 1](/files/lesson-sec1.pdf) – [Secondary 2](/files/lesson-sec2.pdf) – [Secondary 3](/files/lesson-sec3.pdf) – [Secondary 4](/files/lesson-sec4.pdf) – [Secondary 5](/files/lesson-sec5.pdf) 
+[Secondary 1](/files/Departments/cce-sep-lesson-sec1.pdf) – [Secondary 2](/files/Departments/cce-sep-lesson-sec2.pdf) – [Secondary 3](/files/Departments/cce-sep-lesson-sec3.pdf) – [Secondary 4](/files/Departments/cce-sep-lesson-sec4.pdf) – [Secondary 5](/files/Departments/cce-sep-lesson-sec5.pdf) 
+
+
 
 #### eTeens Programme:
 
