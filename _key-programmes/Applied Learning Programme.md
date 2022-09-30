@@ -13,7 +13,7 @@ Our Tier 1 programme provides the foundation for all our Sec 1 and Sec 2 student
 
 Students will go through a series of lessons which uses the Inquiry approach, leveraging on the 3Es (Engage, Explore and Elaborate). The diagram below shows the timeline of lessons for our Sec 1 and Sec 2 students respectively.
 
-![Applied Learning Programme Timeline](/images/Keyprogrammes/Alp/ALP1.png)
+![Applied Learning Programme Timeline](/images/Keyprogrammes/Alp/alp-key-01.jpg)
 
 #### Engage <br>
 
@@ -22,10 +22,10 @@ In the first phase of the 5E inquiry model, students are engaged through fosteri
 *Sec 1- Mental Health of the Elderly <br>
 Sec 2- Physical Health of the Elderly*
 
-![Secondary 1: Presentation on Dementia](/images/Keyprogrammes/Alp/ALP2.jpg)
+![Secondary 1: Presentation on Dementia](/images/Keyprogrammes/Alp/alp-key-02.jpg)
 **Secondary 1: Presentation on Dementia**
 
-![Secondary 2: Presentation on health issues with a sedentary lifestyle](/images/Keyprogrammes/Alp/ALP3.jpg)
+![Secondary 2: Presentation on health issues with a sedentary lifestyle](/images/Keyprogrammes/Alp/alp-key-03.jpg)
 **Secondary 2: Presentation on health issues with a sedentary lifestyle**
 
 Through hands-on Science practicals, students analyse the data collected to further understand the issues at hand. The joy of learning is promoted via experiential learning with Science Practical activities.
@@ -38,10 +38,10 @@ During the exploration phase, students actively explore the new concept through 
 
 -  Secondary 2 students **apply basic principles** of coding to code and create 3 mini projects with advanced components.
 
-![Exploring Micro:bits Through Mini-Projects](/images/Keyprogrammes/Alp/ALP4.png)
+![Exploring Micro:bits Through Mini-Projects](/images/Keyprogrammes/Alp/alp-key-04.jpg)
 **Exploring Micro:bits Through Mini-Projects**
 
-![Electrifying Basketball](/images/Keyprogrammes/Alp/ALP5.png)
+![Electrifying Basketball](/images/Keyprogrammes/Alp/alp-key-05.jpg)
 **Electrifying Basketball**
 
 ![Shake it to Light it](/images/Keyprogrammes/Alp/ALP6.jpg)
