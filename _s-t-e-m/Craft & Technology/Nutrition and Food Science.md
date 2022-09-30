@@ -7,21 +7,21 @@ third_nav_title: Craft & Technology
 ## **Nutrition and Food Science**
 ##### **Lower Secondary: Food and Consumer Education** 
  
-The study of Food and Consumer Education (FCE) at Bendemeer Secondary School aims to equip students with the knowledge to be health-conscious and discerning consumers; enabling them to better manage their lives for the present and the future. The curriculum centres on two core areas of study, namely Food Studies and Consumer Studies where students learn to: 
+<p style="text-align:justify">The study of Food and Consumer Education (FCE) at Bendemeer Secondary School aims to equip students with the knowledge to be health-conscious and discerning consumers; enabling them to better manage their lives for the present and the future. The curriculum centres on two core areas of study, namely Food Studies and Consumer Studies where students learn to: </p>
  
 * Understand the importance of nutrition for long-term health 
 * Apply basic principles of consumer education 
 * Apply basic financial principles for everyday decision making and planning 
-* Appreciate and develop an understanding of food, nutrition and trans-cultural awareness in the global context 
-* Nurture and develop critical thinking, problem-solving and creativity, a spirit of enterprise, innovation, and aesthetic awareness; to make informed and discerning food and consumer-related decisions 
-* Develop positive attitudes and values for the well-being of the community (families and society) 
-* Demonstrate effective and responsible use of resources for the individuals and the community
+* <p style="text-align:justify">Appreciate and develop an understanding of food, nutrition and trans-cultural awareness in the global context </p>
+* <p style="text-align:justify">Nurture and develop critical thinking, problem-solving and creativity, a spirit of enterprise, innovation, and aesthetic awareness; to make informed and discerning food and consumer-related decisions </p>
+* <p style="text-align:justify">Develop positive attitudes and values for the well-being of the community (families and society) </p>
+* <p style="text-align:justify">Demonstrate effective and responsible use of resources for the individuals and the community</p>
  
-Due to the experiential nature of FCE, inquiry-based learning to teach FCE is used. Through the cyclical process of Engage, Explore, Explain and Apply, students are provided with an authentic learning context to relate and apply their knowledge.
+<p style="text-align:justify">Due to the experiential nature of FCE, inquiry-based learning to teach FCE is used. Through the cyclical process of Engage, Explore, Explain and Apply, students are provided with an authentic learning context to relate and apply their knowledge.</p>
  
-A combination of formative and summative assessments are meted out to assess students’ application of knowledge and skills and test them on their concepts learnt in FCE. These include a written paper, practical lessons and coursework. 
+<p style="text-align:justify">A combination of formative and summative assessments are meted out to assess students’ application of knowledge and skills and test them on their concepts learnt in FCE. These include a written paper, practical lessons and coursework. </p>
  
-In addition, the Nutrition and Food Science (NFS) unit extends students’ learning through programmes such as: 
+<p style="text-align:justify">In addition, the Nutrition and Food Science (NFS) unit extends students’ learning through programmes such as: </p>
 
 * Collaboration with CCE department for the school’s Sec 1 LLP towards Appreciation Day
 * Bendemeer MasterChef competition 
