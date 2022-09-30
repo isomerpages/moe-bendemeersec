@@ -42,9 +42,9 @@ A group of SCs have planned an activity session with SGH to be held in the wards
 
 A group of SCs decided to raise awareness of food wastage in school. This came after noticing that some Bendemeerians were wasting food that they did not or could not finish during recesses and lunch, and realising that this is a national an even global issue. They visited and volunteered at Food Bank SG to witness the extent of food wastage in Singapore, while sorting through donated food. This allowed them to gather information on food wastage in Singapore. After which, they conducted surveys to assess the extent of food wastage in Bendemeer before raising awareness of this problem to their fellow schoolmates.
 
+![Food Wastage Awareness](/images/Keyprogrammes/llp-foodbank-01.jpg)
 
-
-![Food Wastage Awareness In Bendemeer Secondary School](/images/Keyprogrammes/llp-sc-Food%20Wastage%20Awareness%20In%20Bendemeer%20Secondary%20School%202.jpg)
+![Food Wastage Awareness](/images/Keyprogrammes/llp-foodbank-02.jpg)
 
 |||
 |-|-|
