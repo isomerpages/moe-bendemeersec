@@ -15,6 +15,7 @@ You may view the latest School Magazine by clicking on the external URL below.
 
 ### Online School Magazine 2020
 
-Please click on the images below to view the school magazine (88Mb).
+Please click on each link to view the the school magazine .
 
-1.  <a href="https://hrms.moe.gov.sg/" target="_blank">HRMS</a>
+1.  <a href="https://https://bendemeersec.moe.edu.sg/files/Bendemeer-Tchoukball-Experience.pdf" target="_blank">Ms Jeya's Farewell</a>
+2.  [Part 1](/files/Bendemeer-Tchoukball-Experience.pdf)
