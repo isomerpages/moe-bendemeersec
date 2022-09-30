@@ -1,0 +1,4 @@
+collections:
+  webpage-archive:
+    output: true
+    order: []
