@@ -4,7 +4,6 @@ permalink: /key-programmes/ndlp/cyberwellness/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-
 ## **Cyber-Security and Cyber wellness**
 
 ### Cyber Security
@@ -20,6 +19,6 @@ The DMA has 3 main components which will support the use of the PLD in the class
 
 As Bendemeerians develop digital skills that support their learning, it is also imperative that they are empowered to take responsibility for their personal well-being when using technology.
 
-![Cyber Wellness Principles](/images/Keyprogrammes/Ndlp/35-cyberwellframe.jpeg)
+![Cyber Wellness Principles](/images/Keyprogrammes/Ndlp/ndlp-cyberwellframe.jpeg)
 
 The school adopts MOE’s Cyber Wellness Framework to develop students into responsible digital citizens. Bendemeerian’s attitudes and behaviour on the use of technology are guided by the three Cyber Wellness Principles. These principles are constantly reinforced when students engage in the “Sense-Think-Act” process, which serves as a structure for them to use technology safely and meaningfully for their learning and interactions.
