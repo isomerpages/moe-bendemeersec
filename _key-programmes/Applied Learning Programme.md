@@ -51,9 +51,9 @@ The elaboration phase of the 5E Inquiry Model focuses on giving students the spa
 
 -  Secondary 1 students code and design reaction games to stimulate the mind.
 
-![Secondary 1 students code and design reaction games to stimulate the mind](/images/Keyprogrammes/alp-key-07.jpg)
+![Secondary 1 students code and design reaction games](/images/Keyprogrammes/Alp/alp-key-07.jpg)
 
-![Secondary 1 students code and design reaction games to stimulate the mind](/images/Keyprogrammes/Alp/alp-key-08.jpg)
+![Secondary 1 students code and design reaction games](/images/Keyprogrammes/Alp/alp-key-08.jpg)
 
 - Secondary 2 students code and design a physical game that encourages the elderly to be more active.
 
