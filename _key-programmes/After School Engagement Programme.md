@@ -33,4 +33,4 @@ Some of the activities that have been conducted are:
 * Presentation skills
 * Photo booth for Friendship Day
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAt9wr0e0qi3DyJLjq0ARULTnPrIpfuA2dGfEDZD96Grouyy7LJn_CV-pC8Skc7lffBQ3jueA-6ZbN/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe allowfullscreen="true" height="569" width="845" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAt9wr0e0qi3DyJLjq0ARULTnPrIpfuA2dGfEDZD96Grouyy7LJn_CV-pC8Skc7lffBQ3jueA-6ZbN/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
