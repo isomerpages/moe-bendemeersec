@@ -42,7 +42,7 @@ During the exploration phase, students actively explore the new concept through 
 **Exploring Micro:bits Through Mini-Projects**
 
 
-![Shake it to Light it](/images/Keyprogrammes/Alp/alp-key-05.jpg)
+![Shake it to Light it](/images/Keyprogrammes/Alp/alp-key-05n.jpg)
 **Shake it to Light it**
 
 #### Elaborate
