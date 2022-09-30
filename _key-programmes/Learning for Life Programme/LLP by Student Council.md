@@ -8,7 +8,7 @@ third_nav_title: Learning for Life Programme
 
 ##### **Student Council LLP**
 
-Heart in service and communication skills are paramount for a Bendemeerian leader to identify problems and successfully convey ideas or motivate their peers. The 2018 Student Council’s LLP initiative saw four different projects carried out over the course of the year.
+Heart in service and communication skills are paramount for a Bendemeerian leader to identify problems and successfully convey ideas or motivate their peers. The Student Council’s LLP initiative saw different projects carried out over the years.
 
 **Rumah Whampoa East (Elders and Teens Sharing)**
 
@@ -20,9 +20,7 @@ The finalised project consisted of 6 large frames that displayed the stories and
 
 From 24th April to 11th May 2018, this project travelled from Bendemeer Secondary School, to Whampoa CC, to Kallang CC. With both students and elders living in these neighbourhoods the project captured the magic of these communities and appealed to visitors that arrived from near and far.
 
-![Elders and Teens Sharing](/images/Keyprogrammes/llp-sc-Elders%20and%20Teens%20Sharing.jpg)
 
-![Elders and Teens Sharing](/images/Keyprogrammes/llp-sc-Elders%20and%20Teens%20Sharing%202.jpg)
 
 **Donation Drive for St John’s Elderly**
 
@@ -32,17 +30,18 @@ A group of SCs decided to hold a donation drive for St John’s Elderly in Bende
 
 A group of SCs have planned an activity session with SGH to be held in the wards. Wanting to help the patients express themselves through art or to create a gift to express gratitude to their caregivers, the students set up an Arts and Craft booth for a week for patients to participate in and have fun! These activities catered to both the elderly and the young.
 
-![Art Activity Session With SGH](/images/Keyprogrammes/llp-sc-Art%20Activity%20Session%20With%20SGH.jpg)
 
-![Art Activity Session With SGH](/images/Keyprogrammes/llp-sc-Art%20Activity%20Session%20With%20SGH%202.jpg)
 
 **Food Wastage Awareness In Bendemeer Secondary School**
 
 A group of SCs decided to raise awareness of food wastage in school. This came after noticing that some Bendemeerians were wasting food that they did not or could not finish during recesses and lunch, and realising that this is a national an even global issue. They visited and volunteered at Food Bank SG to witness the extent of food wastage in Singapore, while sorting through donated food. This allowed them to gather information on food wastage in Singapore. After which, they conducted surveys to assess the extent of food wastage in Bendemeer before raising awareness of this problem to their fellow schoolmates.
 
-![Food Wastage Awareness In Bendemeer Secondary School](/images/Keyprogrammes/llp-sc-Food%20Wastage%20Awareness%20In%20Bendemeer%20Secondary%20School.jpg)
+
 
 ![Food Wastage Awareness In Bendemeer Secondary School](/images/Keyprogrammes/llp-sc-Food%20Wastage%20Awareness%20In%20Bendemeer%20Secondary%20School%202.jpg)
+
+|||
+|-|-|
 
 ![Student Council Learning for Life Programme](/images/Keyprogrammes/llpsc-01.jpeg)
 
