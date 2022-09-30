@@ -11,7 +11,7 @@ third_nav_title: Physical Education
 
 **Vision**
 <br>
-Every Bendemeerian is able to understand, appreciate and take initiative to lead an active and healthy lifestyle while exhibiting positive character traits.
+<p style="text-align:justify">Every Bendemeerian is able to understand, appreciate and take initiative to lead an active and healthy lifestyle while exhibiting positive character traits.</p>
 
 **Mission**
 <br>
@@ -19,9 +19,9 @@ Inspiring active learners to be healthy through physical activity.
 
 **Department’s Goals**
 <br>
-* Every physically educated Bendemeerian understands how to lead an active and healthy lifestyle through regular participation in physical activities.
-* Every physically educated Bendemeerian is able to display positive character traits like responsibility and respect through different experiences.
-* Every PE teacher works professionally and role models by leading an active and healthy lifestyle.
+* <p style="text-align:justify">Every physically educated Bendemeerian understands how to lead an active and healthy lifestyle through regular participation in physical activities.</p>
+* <p style="text-align:justify">Every physically educated Bendemeerian is able to display positive character traits like responsibility and respect through different experiences.</p>
+* <p style="text-align:justify">Every PE teacher works professionally and role models by leading an active and healthy lifestyle.</p>
 
 **Programmes**
 
