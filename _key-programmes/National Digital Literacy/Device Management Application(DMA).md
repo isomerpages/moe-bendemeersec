@@ -4,7 +4,6 @@ permalink: /key-programmes/ndlp/dma/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-
 ## Device Management Application (DMA)
 
 #### Selecting After-School DMA Options for PLDs
@@ -14,8 +13,10 @@ For parents/guardians who prefer alternative DMA settings after school hours, th
 * Option A: Parents can modify DMA settings after school hours
 * Option B: Parents can disable the DMA after school hours.
 
-Please submit your options using the online DMA option form below - 
-[https://go.gov.sg/bdms-dmaoptions](https://go.gov.sg/bdms-dmaoptions)  
+Please submit your options using the online DMA option form below - <br>
+ 
+ <p style="text-align:center"><a href="https://go.gov.sg/bdms-dmaoptions">https://go.gov.sg/bdms-dmaoptions</a></p>
+
   
 Please note that the system will be updated on every 15th of the following month.   <br>
 More details of the Functions and DMA settings can be found below.  
