@@ -4,7 +4,6 @@ permalink: /key-programmes/ndlp/parents-resource/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-
 ## **Resources for Parents**
 
 Resources for parents and students are available in the table below.
@@ -21,3 +20,4 @@ Resources for parents and students are available in the table below.
 | TOUCH Community Services     | Click on this [link](https://www.help123.sg/)     |
 |DMA Parent Guide - Option A|Click on this [link](/files/DMA%20Parent%20Guide%20v2%20Option%20A%20Chrome%20OS.pdf)|
 |DMA Parent Guide - Option B|Click on this [link](/files/DMA%20Parent%20Guide%20v2%20Option%20B%20Chrome%20OS.pdf)|
+
