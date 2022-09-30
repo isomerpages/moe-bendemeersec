@@ -4,7 +4,6 @@ permalink: /key-programmes/ndlp/purchase1pld/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-
 ## **Purchase of PLD for Sec 1 (Y2022)**
 
 ### Sec 1 Parent’s Engagement Session
@@ -27,7 +26,7 @@ By clicking on the following URL, you will be brought to the zoom.us (https://zo
 
 Click on this URL [here](https://moe-singapore.zoom.us/webinar/register/WN_4k3jdrhUSoi_by8ZQJx5AA) or scan the QR Code below to register for the online seminar: 
 
-![QR Code](/images//Keyprogrammes/Ndlp/bdmsndlpweb-276x300.jpeg)
+<img src="/images/Keyprogrammes/Ndlp/bdmsndlpweb-276x300.jpeg" alt="QR Code for NDLP" style="width:300px" /></p>
 
 ### Timeframe
 
