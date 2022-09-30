@@ -41,10 +41,8 @@ During the exploration phase, students actively explore the new concept through 
 ![Exploring Micro:bits Through Mini-Projects](/images/Keyprogrammes/Alp/alp-key-04.jpg)
 **Exploring Micro:bits Through Mini-Projects**
 
-![Electrifying Basketball](/images/Keyprogrammes/Alp/alp-key-05.jpg)
-**Electrifying Basketball**
 
-![Shake it to Light it](/images/Keyprogrammes/Alp/ALP6.jpg)
+![Shake it to Light it](/images/Keyprogrammes/Alp/alp-key-05.jpg)
 **Shake it to Light it**
 
 #### Elaborate
@@ -53,17 +51,17 @@ The elaboration phase of the 5E Inquiry Model focuses on giving students the spa
 
 -  Secondary 1 students code and design reaction games to stimulate the mind.
 
-![Secondary 1 students code and design reaction games to stimulate the mind](/images/Keyprogrammes/Alp/ALP7.jpg)
+![Secondary 1 students code and design reaction games to stimulate the mind](/images/Keyprogrammes/alp-key-07.jpg)
 
-![Secondary 1 students code and design reaction games to stimulate the mind](/images/Keyprogrammes/Alp/ALP8.jpg)
+![Secondary 1 students code and design reaction games to stimulate the mind](/images/Keyprogrammes/Alp/alp-key-08.jpg)
 
 - Secondary 2 students code and design a physical game that encourages the elderly to be more active.
 
-![Secondary 2 students code and design a physical game that encourages the elderly to be more active](/images/Keyprogrammes/Alp/ALP9.png)
+![Secondary 2 students code and design a physical game that encourages the elderly to be more active](/images/Keyprogrammes/Alp/alp-key-09.jpg)
 
-![Secondary 2 students code and design a physical game that encourages the elderly to be more active](/images/Keyprogrammes/Alp/ALP10.png)
+![Secondary 2 students code and design a physical game that encourages the elderly to be more active](/images/Keyprogrammes/Alp/alp-key-10.jpg)
 
-![Secondary 2 students code and design a physical game that encourages the elderly to be more active](/images/Keyprogrammes/Alp/ALP11.png)
+![Secondary 2 students code and design a physical game that encourages the elderly to be more active](/images/Keyprogrammes/Alp/alp-key-11.jpg)
 
 The ALP programme ultimately cultivates a spirit of enterprise in students through innovative solutions and prototypes to address healthcare issues in current landscapes using technology.
 
