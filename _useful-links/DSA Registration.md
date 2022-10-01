@@ -3,18 +3,16 @@ title: DSA Registration
 permalink: /useful-links/dsa-registration/
 description: ""
 ---
-
-
 ## **DSA Registration**
 
 #### Direct School Admission (DSA-Sec) – For 2023 Secondary One Admission
 
 Bendemeer Secondary School is able to offer admission to students under the DSA-Secondary programme. We are now inviting current Primary Six students who have a keen interest in the following areas to join the school through the Direct School Admission (DSA-Sec) Exercise.
 
-1. **Leadership,**
-2. **Health Sciences,**
+1. Leadership
+2. Health Sciences
 3. Sports and Games – Football (Boys)
-4. [Sports and Games – Tchoukball](/files/Bendemeer-Tchoukball-Experience.pdf) 
+4. Sports and Games – Tchoukball
 
 *LEARNING FOR LIFE PROGRAMME (LLP): DEVELOPING STUDENT LEADERSHIP THROUGH SERVICE LEARNING*
 
