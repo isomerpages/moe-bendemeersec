@@ -22,7 +22,7 @@ Sareef Rai (3R2)
 Evader Chiam Zern (3R2) <br>
 Brijesh Rana (3R5)
 
-![Football Team photo](/images/Cca/football-01-1024x497.png)
+![](/images/Cca/cca-football-01.jpg)
 
 #### Fun & Exciting Training Sessions
 
@@ -36,7 +36,7 @@ Brijesh Rana (3R5)
 
 <p style="text-align:justify">Character building is emphasised in every aspect of our Football CCA where our teachers and coaches emphasise the importance of values such as integrity, respect, responsibility and care for others. All our passionate young footballers have the drive to succeed and constantly put in the effort to learn and improve. We place special emphasis on values like striving for excellence and having the resilience to bounce back from challenges and to train even harder.</p>
 
-![Bendemmer footballers put their skills to the test during matches](/images/Cca/football-02-768x588.png)
+![](/images/Cca/cca-football-02.jpg)
 
 #### One Bendemeer Family
 
@@ -61,12 +61,12 @@ Brijesh Rana (3R5)
 
 <p style="text-align:justify; font-style:italic">“Football season in 2019 was one filled with ups and downs as well as learning opportunities. Despite not winning the championships and having only a handful of players, we still managed to prove that we were definitely a force to be reckoned with. I feel that it was a great experience for everyone and we bonded very well as a team. Most importantly, we had fun. At the same time, I would like to thank our coach and teachers for motivating and guiding us along the way.” <b>-Chong Shing, Alumni of Bendemeer Football Team.</b></p>
 
-![Goalkeeper training](/images/Cca/football-05-e1627316395517.png)
+![](/images/Cca/cca-football-03.jpg)
+
+![](/images/Cca/cca-football-04.jpg)
+
+![](/images/Cca/cca-football-05.jpg)
 
 <p style="text-align:justify">As the whistle blew, Hafiz, with sweat dripping down his face, pumped his fist in the air and said, “Yay! We scored 2 goals!” The excitement was contagious as the winners basked in their victory. Every soccer match brings an adrenaline rush to these passionate young footballers and that’s what they love about Bendemeer Football.</p>
 
 <p style="text-align:justify">Training under the hot sun is hard work but our passionate players persevere through the challenges.</p>
-
-#### Players in Motion
-
-![Players in Motion](/images/Cca/football-06.png)
