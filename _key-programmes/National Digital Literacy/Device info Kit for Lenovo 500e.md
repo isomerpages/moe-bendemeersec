@@ -61,12 +61,12 @@ Students can also reach us by filling up a form at [go.gov.sg/bdms-icthelp](http
 
 **3.3.  Replacement/Change of Device**
 
-* <p style="text-align:justify">Students are to inform their school-based service desk whenever there is a replacement/change of device.</p>
-Replacement/change of devices can be under any of the circumstances listed below:</p>
+* <p style="text-align:justify">Students are to inform their school-based service desk whenever there is a replacement/change of device.
+<br><br>Replacement/change of devices can be under any of the circumstances listed below:</p>
   <p style="text-align:justify">* Replacement of device covered under insurance by contractor</p>
 	<p style="text-align:justify">* Replacement of device by parents for device not covered under insurance or insurance period has ended</p>
 	<p style="text-align:justify">* Students who are using their own devices which were not procured from PDLP Device Bulk Tender changing to another device.</p>
-
+<br>
 *  <p style="text-align:justify">This is to facilitate the installation of the DMA into the new device.</p>
 
 *  School DMA administrator will enrol the new device to their school’s DMA.</p>
