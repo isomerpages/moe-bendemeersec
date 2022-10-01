@@ -47,26 +47,26 @@ Students can also reach us by filling up a form at [go.gov.sg/bdms-icthelp](http
 
 **3.2. Reporting of Lost Devices**
 
-* **Students are to inform their Form Teacher immediately if the device is lost.**  School’s DMA Administrator will remote lock the device.  
+* <p style="text-align:justify"><b>Students are to inform their Form Teacher immediately if the device is lost.</b>  School’s DMA Administrator will remote lock the device.  </p>
 
-* Should the device is still not found, Parents are to make a police report for the lost device.
+* <p style="text-align:justify">Should the device is still not found, Parents are to make a police report for the lost device.</p>
 
-* If the lost device is covered under the circumstances listed in the device’s insurance coverage, parents should contact and inform the device contractor via their helpdesk or service centre. They will need to furnish the contractor with the police report for insurance claim. (Applicable only if the device is still under insurance coverage period).
+* <p style="text-align:justify">If the lost device is covered under the circumstances listed in the device’s insurance coverage, parents should contact and inform the device contractor via their helpdesk or service centre. They will need to furnish the contractor with the police report for insurance claim. (Applicable only if the device is still under insurance coverage period).</p>
 
-* The contractor’s helpdesk/service centre will advise parents on the insurance claim procedure.
+* <p style="text-align:justify">The contractor’s helpdesk/service centre will advise parents on the insurance claim procedure.</p>
 
-* If the device is without insurance coverage or the loss is due to clause(s) not covered under insurance, parents can seek school’s assistance to procure a replacement device.
+* <p style="text-align:justify">If the device is without insurance coverage or the loss is due to clause(s) not covered under insurance, parents can seek school’s assistance to procure a replacement device.</p>
 
-* **Students can loan a device** from the school common pool for daily lessons.
+* <p style="text-align:justify"><b>Students can loan a device</b> from the school common pool for daily lessons.</p>
 
 **3.3.  Replacement/Change of Device**
 
-* Students are to inform their school-based service desk whenever there is a replacement/change of device.
-<br>Replacement/change of devices can be under any of the circumstances listed below:
-	* Replacement of device covered under insurance by contractor
-	* Replacement of device by parents for device not covered under insurance or insurance period has ended
-	* Students who are using their own devices which were not procured from PDLP Device Bulk Tender changing to another device.
+* <p style="text-align:justify">Students are to inform their school-based service desk whenever there is a replacement/change of device.</p>
+Replacement/change of devices can be under any of the circumstances listed below:</p>
+  <p style="text-align:justify">* Replacement of device covered under insurance by contractor</p>
+	<p style="text-align:justify">* Replacement of device by parents for device not covered under insurance or insurance period has ended</p>
+	<p style="text-align:justify">* Students who are using their own devices which were not procured from PDLP Device Bulk Tender changing to another device.</p>
 
-*  This is to facilitate the installation of the DMA into the new device.
+*  <p style="text-align:justify">This is to facilitate the installation of the DMA into the new device.</p>
 
-*  School DMA administrator will enrol the new device to their school’s DMA.
+*  School DMA administrator will enrol the new device to their school’s DMA.</p>
