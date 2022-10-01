@@ -4,12 +4,9 @@ permalink: /about-us/partners/parent-support-group/
 description: ""
 third_nav_title: Partners
 ---
-
-
-
 <p style="float:Center" >
 <img src="/images/Aboutus/PSG1.png" alt="learning" style="width:300px" /></p>
-![Parent Support Group 1](/images/Aboutus/PSG1.png)
+
 
 <b>Chairman</b>:		M S. Pannirselvam
 <br>
