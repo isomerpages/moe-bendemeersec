@@ -84,7 +84,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 </a>
 </p>
 <p style="text-align:center">
-<b>Lieutenant Colonel (LTC) Chew Chun-Chau / Colonel (COL) Chew Chun-Liang</b>
+<b> Colonel (COL) Chew Chun-Liang<br>Lieutenant Colonel (LTC) Chew Chun-Chau </b>
 </p>
 
 <p>
