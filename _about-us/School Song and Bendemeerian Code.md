@@ -5,7 +5,7 @@ description: ""
 ---
 ![Bendemeerian Code](/images/Aboutus/BSS%20Code.jpg)
 
-
+<pre>
 <p style="font-size:20px">
 <b><u>The Bendemeerian Code</u></b>
 
