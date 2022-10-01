@@ -1,4 +1,5 @@
 collections:
   new-life-at-bdms:
     output: true
-    order: []
+    order:
+      - Milestone Walk.md
