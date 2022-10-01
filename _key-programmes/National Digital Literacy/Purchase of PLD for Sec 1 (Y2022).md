@@ -8,21 +8,22 @@ third_nav_title: National Digital Literacy
 
 ### Sec 1 Parent’s Engagement Session
 
-In January (2022), Sec 1 parents/guardians will receive a letter from the school via Parents Gateway or hardcopy with details about the PLD initiative.  The letter will contain information about: 
-* Procurement details (e.g. Device bundle, Bulk Tender Terms and conditions)
-* Device Management Application
-* Finance Matters (Use of Edusave and Financial Assistance)
-* Roll out of IT Applications
-* Next Steps (Forms for Intent to Purchase, Edusave Form and Authorisation Form)
+<p style="text-align:justify">In January (2022), Sec 1 parents/guardians will receive a letter from the school via Parents Gateway or hardcopy with details about the PLD initiative.  The letter will contain information about: </p>
+	
+* <p style="text-align:justify">Procurement details (e.g. Device bundle, Bulk Tender Terms and conditions)</p>
+* <p style="text-align:justify">Device Management Application</p>
+* <p style="text-align:justify">Finance Matters (Use of Edusave and Financial Assistance)</p>
+* <p style="text-align:justify">Roll out of IT Applications</p>
+* <p style="text-align:justify">Next Steps (Forms for Intent to Purchase, Edusave Form and Authorisation Form)</p>
 
-We will be organising a briefing that will be conducted over the Internet to explain the details. explain the details of the upcoming NDLP and at the same time clarify any questions that parents might have.  Parents do not need to come to school for the briefing. 
+<p style="text-align:justify">We will be organising a briefing that will be conducted over the Internet to explain the details. explain the details of the upcoming NDLP and at the same time clarify any questions that parents might have.  Parents do not need to come to school for the briefing. </p>
 
-We have organised 3 sessions, each family only need to register for one of the following webinars: <br>
+<p style="text-align:justify">We have organised 3 sessions, each family only need to register for one of the following webinars: </p>
 Session 1: Thursday, 13 Jan 2022, 3.30pm - 5pm <br> 
 Session 2: Thursday, 13 Jan 2022, 5.30pm - 7pm  <br>
 Session 3: Friday, 14 Jan 2022, 3.30pm - 5pm 
 
-By clicking on the following URL, you will be brought to the zoom.us (https://zoom.us) website. Please fill in the required information, choose the briefing you want to attend and provide a working email address. Details of the webinar will then be emailed to you. Your child may register on your behalf. 
+<p style="text-align:justify">By clicking on the following URL, you will be brought to the zoom.us (<a href="https://zoom.us/">https://zoom.us</a>) website. Please fill in the required information, choose the briefing you want to attend and provide a working email address. Details of the webinar will then be emailed to you. Your child may register on your behalf. </p>
 
 Click on this URL [here](https://moe-singapore.zoom.us/webinar/register/WN_4k3jdrhUSoi_by8ZQJx5AA) or scan the QR Code below to register for the online seminar: 
 
@@ -75,24 +76,25 @@ Please refer to the time frame below for the upcoming dates to note.
 
 ### The Personal Learning Device
 
-The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (“SLS”) – as well as other educational technology to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.  
+<p style="text-align:justify">The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (“SLS”) – as well as other educational technology to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.  </p>
 
-The school has made arrangements for parents/guardians to purchase the PLD from Acer Limited Pte Ltd for your child/ward’s use in school. The vendor has been identified based on the choice of device determined by the school from a panel of awarded suppliers established by MOE. The PLD bundle which includes warranty and insurance for purchase by your child/ward will be:
+<p style="text-align:justify">The school has made arrangements for parents/guardians to purchase the PLD from Acer Limited Pte Ltd for your child/ward’s use in school. The vendor has been identified based on the choice of device determined by the school from a panel of awarded suppliers established by MOE. The PLD bundle which includes warranty and insurance for purchase by your child/ward will be:</p>
 
 ![Personal Learning Device](/images//Keyprogrammes/Ndlp/21-acerpld.png)
 
 ### Use of Edusave
 
-MOE has provided Edusave top-ups of $200 in 2020 and in May 2021 to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary students and $230 for primary students. Students who are Singapore citizens can use their Edusave to pay fully or partly for the PLD, after setting aside provision for payment of 2nd tier miscellaneous fees. Parents/Guardians can also choose to pay cash for the PLD.
+<p style="text-align:justify">MOE has provided Edusave top-ups of $200 in 2020 and in May 2021 to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary students and $230 for primary students. Students who are Singapore citizens can use their Edusave to pay fully or partly for the PLD, after setting aside provision for payment of 2nd tier miscellaneous fees. Parents/Guardians can also choose to pay cash for the PLD.</p>
 
 ### Financial Assistance
 
-Subsidies are available for students who require funding support to purchase a PLD. Please note that it is compulsory for all students on the MOE Financial Assistance Scheme (FAS) to use their Edusave to pay for the PLD, after subsidies have been granted. More information on the eligibility for the subsidy can be found in the Letter to Parents.
+<p style="text-align:justify">Subsidies are available for students who require funding support to purchase a PLD. Please note that it is compulsory for all students on the MOE Financial Assistance Scheme (FAS) to use their Edusave to pay for the PLD, after subsidies have been granted. More information on the eligibility for the subsidy can be found in the Letter to Parents.</p>
 
 
 ### Software Applications
 
-Schools will progressively roll out IT applications that will be vital for students’ teaching and learning. These include:
+<p style="text-align:justify">Schools will progressively roll out IT applications that will be vital for students’ teaching and learning. These include:</p)
+
 * (a)   **Student iCON**: Every secondary school student will be provided with access to the Google Suite set of tools, including email address.
 * (b)  **Microsoft ProPlus**: Every secondary school student will be able to use Microsoft Office tools that include Word, PowerPoint and Excel.
 * (c)   **Zoom**: Every secondary school student will be given a Zoom free account with 40 min time limit for their video conferencing needs. 
