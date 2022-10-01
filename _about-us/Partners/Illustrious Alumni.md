@@ -79,8 +79,8 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 </p>
 
 <p>
-<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni02-big.jpg" title="Lieutenant Colonel (LTC) Chew Chun-Chau / Colonel (COL) Chew Chun-Liang" target="_blank">
-<img src="/images/Aboutus/Alumni02-300x249.png" alt="Lieutenant Colonel (LTC) Chew Chun-Chau / Colonel (COL) Chew Chun-Liang" style="width:400px"/>
+<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni02-big.jpg" title="Colonel (COL) Chew Chun-Liang / Lieutenant Colonel (LTC) Chew Chun-Chau " target="_blank">
+<img src="/images/Aboutus/Alumni02-300x249.png" alt="Colonel (COL) Chew Chun-Liang / Lieutenant Colonel (LTC) Chew Chun-Chau " style="width:400px"/>
 </a>
 </p>
 <p style="text-align:center">
