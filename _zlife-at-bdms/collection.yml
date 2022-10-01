@@ -1,5 +1,5 @@
 collections:
-  z-life-at-bdms:
+  zlife-at-bdms:
     output: true
     order:
       - Milestone Walk.md
