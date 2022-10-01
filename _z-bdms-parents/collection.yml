@@ -2,4 +2,5 @@ collections:
   z-bdms-parents:
     output: true
     order:
+      - Sec 1 Orientation.md
       - NDLP Purchase of PLDs.md
