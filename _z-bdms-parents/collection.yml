@@ -1,0 +1,4 @@
+collections:
+  z-bdms-parents:
+    output: true
+    order: []
