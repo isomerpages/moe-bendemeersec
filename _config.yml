@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-bendemeersec-staging.netlify.app
 prod: https://moe-bendemeersec-prod.netlify.app
-shareicon: /images/logo.png
+shareicon: /images/hero-banner02.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
