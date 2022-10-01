@@ -14,7 +14,7 @@ Bendemeer Secondary School is able to offer admission to students under the DSA-
 3. Sports and Games – Football (Boys)
 4. Sports and Games – Tchoukball
 
-*LEARNING FOR LIFE PROGRAMME (LLP): DEVELOPING STUDENT LEADERSHIP THROUGH SERVICE LEARNING*
+#### LEARNING FOR LIFE PROGRAMME (LLP): DEVELOPING STUDENT LEADERSHIP THROUGH SERVICE LEARNING*
 
  **1. Our LLP Programme For Successful DSA Students**
 
@@ -29,17 +29,15 @@ In the selection of students, we are looking for students with one or more of th
 * Students who have a strong interest in Character and Citizenship Education (e.g. participating actively in school-organized learning journeys, Total Defence Day, Racial Harmony Day, International Friendship Day, etc)
 * Students who have a passion for community services (i.e. participating in community events and activities or school- organized events related to the community, e.g. National Day Observance Ceremony, Family Day at community clubs, etc)
 
-*APPLIED LEARNING PROGRAMME (ALP): HEALTH SCIENCES* 
+#### APPLIED LEARNING PROGRAMME (ALP): HEALTH SCIENCES
 
 **1. Our ALP Programme For Successful DSA Students**
-
 
 Our Applied Learning Programme (ALP) in Bendemeer Secondary School seeks to deepen students’ knowledge in STEM education where students solve authentic problems in health sciences and healthcare using technology.
 
 This programme consists of two tiers where Tier 1 is a broad-based programme for all lower secondary students and Tier 2, which students who are admitted to the school via the DSA-Sec scheme will be actively involved in, is a specialised programme for students who demonstrate a passion in STEM. The objective of the ALP is to give our students an opportunity to communicate effectively while collaborating with their peers to engineer innovative solutions that address the healthcare needs of the elderly in Singapore.
 
 Our Tier 1 programme provides the foundation for all our Sec 1 and Sec 2 students to explore integrated learning beyond the curriculum and a platform for them to contribute actively back to our society. This provides an edge for our students to enhance their problem-solving skills and appreciate the current healthcare issues facing Singapore to drive the innovation for the betterment of others in their little ways.
-
 
 
 
@@ -51,7 +49,7 @@ In the selection of students, we are looking for students with one or more of th
 * Students who have participated in science competitions and events or have been recognized in other relevant competitions.
 * Students who are active in science-related CCAs in their primary schools.
 
-*TALENT DEVELOPMENT IN SPORTS AND GAMES: FOOTBALL (BOYS)/ TCHOUKBALL*
+#### TALENT DEVELOPMENT IN SPORTS AND GAMES: FOOTBALL (BOYS)/ TCHOUKBALL
 
 **1. Our Talent Development Programme For Successful DSA Students**
 
@@ -70,7 +68,7 @@ In the selection of students, we are looking for students with one or more of th
 * Students who have represented their schools, clubs or academies in Football (Boys) or Tchoukball competitions.
 * Students who are active in sports related CCAs in their primary schools.
 
-*APPLICATION PROCEDURE*
+#### APPLICATION PROCEDURE
 
 
 
@@ -92,6 +90,6 @@ All applicants will be informed of their application outcome by **12 September 2
 
 Meeting all the criteria does not guarantee the student will be shortlisted/given an offer. The decision of the Interview Panel on the DSA-Sec application is final.  The school reserves the right not to release the reasons for non-selection of applicants and/or the results of the interview.
 
-*CONTACT DETAILS*
+#### CONTACT DETAILS
 
 For further enquiries, please contact **Mr Lee Chen Siang** at **6292 7616**. Alternatively, you can email your enquiries to bendemeer_ss@moe.edu.sg.
