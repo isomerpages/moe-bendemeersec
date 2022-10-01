@@ -2,7 +2,7 @@
 layout: homepage
 title: Bendemeer Secondary School
 description: Bendemeer Secondary School
-image: /images/logo.png
+image: /images/hero-banner02.jpg
 permalink: /
 notification: ""
 sections:
@@ -39,3 +39,4 @@ sections:
       description: Infobar description
       button: Button Text
 ---
+
