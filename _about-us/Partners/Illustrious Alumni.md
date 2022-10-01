@@ -70,108 +70,108 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 -->
 
 <p>
-<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni01-big.jpg" title="Mr Jonathan Phoon Siew Boon" target="_blank">
-<img src="/images/Aboutus/Alumni01-300x249.png" alt="Mr Jonathan Phoon siew Boon" style="width:400px"/>
-</a>
+
+<img src="/images/Aboutus/Alumni01-big.jpg" alt="Mr Jonathan Phoon siew Boon" style="width:400px"/>
+
 </p>
 <p style="text-align:center">
 <b>Mr Jonathan Phoon Siew Boon</b>
 </p>
 
 <p>
-<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni02-big.jpg" title="Colonel (COL) Chew Chun-Liang / Lieutenant Colonel (LTC) Chew Chun-Chau " target="_blank">
-<img src="/images/Aboutus/Alumni02-300x249.png" alt="Colonel (COL) Chew Chun-Liang / Lieutenant Colonel (LTC) Chew Chun-Chau " style="width:400px"/>
-</a>
+
+<img src="/images/Aboutus/Alumni02-big.jpg" alt="Colonel (COL) Chew Chun-Liang / Lieutenant Colonel (LTC) Chew Chun-Chau " style="width:500px"/>
+
 </p>
 <p style="text-align:center">
 <b> Colonel (COL) Chew Chun-Liang<br>Lieutenant Colonel (LTC) Chew Chun-Chau </b>
 </p>
 
 <p>
-<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni03-big.jpg" title="Mr Delane Lim Zi Xuan" target="_blank">
-<img src="/images/Aboutus/Alumni03-300x249.png" alt="Mr Delane Lim Zi Xuan" style="width:400px"/>
-</a>
+
+<img src="/images/Aboutus/Alumni03-big.jpg" alt="Mr Delane Lim Zi Xuan" style="width:600px"/>
+
 </p>
 <p style="text-align:center">
 <b>Mr Delane Lim Zi Xuan</b>
 </p>
 
 <p>
-<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni04-big.jpg" title="Mr Chia Yew Choon Chris" target="_blank">
-<img src="/images/Aboutus/Alumni04-300x249.png" alt="Mr Chia Yew Choon Chris" style="width:400px"/>
-</a>
+
+<img src="/images/Aboutus/Alumni04-big.jpg" alt="Mr Chia Yew Choon Chris" style="width:700px"/>
+
 </p>
 <p style="text-align:center">
 <b>Mr Chia Yew Choon Chris</b>
 </p>
 
 <p>
-<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni05-big.jpg" title="Captain Neo Wei Keong" target="_blank">
-<img src="/images/Aboutus/Alumni05-300x249.png" alt="Captain (CPT) Neo Wei Keong" style="width:400px"/>
-</a>
+
+<img src="/images/Aboutus/Alumni05-big.jpg" alt="Captain (CPT) Neo Wei Keong" style="width:800px"/>
+
 </p>
 <p style="text-align:center">
 <b>Captain (CPT) Neo Wei Keong</b>
 </p>
 
 <p>
-<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni06-big.jpg" title="Miss Siti Aishah Mohd Selamat" target="_blank">
-<img src="/images/Aboutus/Alumni06-300x249.png" alt="Miss Siti Aishah Mohd Selamat" style="width:400px"/>
-</a>
+
+<img src="/images/Aboutus/Alumni06-big.jpg" alt="Miss Siti Aishah Mohd Selamat" style="width:400px"/>
+
 </p>
 <p style="text-align:center">
 <b>Miss Siti Aishah Mohd Selamat</b>
 </p>
 
 <p>
-<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni07-big.jpg" title="Mr Tan Wei Qiang Jovin" target="_blank">
-<img src="/images/Aboutus/Alumni07-300x249.png" alt="Mr Tan Wei Qiang Jovin" style="width:400px"/>
-</a>
+
+<img src="/images/Aboutus/Alumni07-big.jpg" alt="Mr Tan Wei Qiang Jovin" style="width:400px"/>
+
 </p>
 <p style="text-align:center">
 <b>Mr Tan Wei Qiang Jovin</b>
 </p>
 
 <p>
-<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni08-big.jpg" title="Mr Teo Kin Hui Joseph" target="_blank">
-<img src="/images/Aboutus/Alumni08-300x249.png" alt="Mr Teo Kin Hui Joseph" style="width:400px"/>
-</a>
+
+<img src="/images/Aboutus/Alumni08-big.jpg" alt="Mr Teo Kin Hui Joseph" style="width:400px"/>
+
 </p>
 <p style="text-align:center">
 <b>Mr Teo Kin Hui Joseph</b>
 </p>
 
 <p>
-<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni09-big.jpg" title="Miss Hany Soh Hui Bin" target="_blank">
-<img src="/images/Aboutus/Alumni09-300x249.png" alt="Miss Hany Soh Hui Bin" style="width:400px"/>
-</a>
+
+<img src="/images/Aboutus/Alumni09-big.jpg" alt="Miss Hany Soh Hui Bin" style="width:400px"/>
+
 </p>
 <p style="text-align:center">
 <b>Miss Hany Soh Hui Bin</b>
 </p>
 
 <p>
-<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni10-big.jpg" title="Mr Mohamed Shameer" target="_blank">
-<img src="/images/Aboutus/Alumni10-300x249.png" alt="Mr Mohamed Shameer" style="width:400px"/>
-</a>
+
+<img src="/images/Aboutus/Alumni10-big.jpg" alt="Mr Mohamed Shameer" style="width:400px"/>
+
 </p>
 <p style="text-align:center">
 <b>Mr Mohamed Shameer</b>
 </p>
 
 <p>
-<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni11-big.jpg" title="Miss Yip Pin Xiu" target="_blank">
-<img src="/images/Aboutus/Alumni11-300x249.png" alt="Miss Yip Pin Xiu" style="width:400px"/>
-</a>
+
+<img src="/images/Aboutus/Alumni11-big.jpg" alt="Miss Yip Pin Xiu" style="width:400px"/>
+
 </p>
 <p style="text-align:center">
 <b>Miss Yip Pin Xiu</b>
 </p>
 
 <p>
-<a href="http://bendemeersec.moe.edu.sg/images/Aboutus/Alumni12-big.jpg" title="Mr Ian Fang Wei Jie" target="_blank">
-<img src="/images/Aboutus/Alumni12-300x249.png" alt="Mr Ian Fang Wei Jie" style="width:400px"/>
-</a>
+
+<img src="/images/Aboutus/Alumni12-big.jpg" alt="Mr Ian Fang Wei Jie" style="width:400px"/>
+
 </p>
 <p style="text-align:center">
 <b>Mr Ian Fang Wei Jie</b>
