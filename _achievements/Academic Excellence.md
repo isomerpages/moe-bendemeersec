@@ -3,7 +3,7 @@ title: Academic Excellence
 permalink: /achievements/academic-excellence/
 description: ""
 ---
-# Academic Excellence
+
 ### 2021 GCE O-Level Results
 
 <style type="text/css">
@@ -439,4 +439,3 @@ The Academic-Value Add award is awarded by the Ministry of Education in recognit
 2005 – **Academic Value-Add (Silver)** – Normal
 
 2004 – **Academic Value-Add (Bronze)** – Express
-
