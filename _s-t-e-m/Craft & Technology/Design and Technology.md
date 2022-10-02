@@ -4,7 +4,7 @@ permalink: /departments/cnt/design-n-tech/
 description: ""
 third_nav_title: Craft & Technology
 ---
-## **Design and Technology**
+
 <p style="text-align:justify">The study of Design & Technology (D&T) at Bendemeer Secondary School emphasizes the following:</p>
 
 * <p style="text-align:justify">Stimulation of students’ thinking through sketching to generate and develop design solutions</p>
