@@ -3,7 +3,7 @@ title: CCA Excellence
 permalink: /achievements/cca-excellence/
 description: ""
 ---
-# CCA Excellence
+
 
 ![Sustained Achievement Awards](/images/Achievements/img_substain_achievement_v2.png)
 
