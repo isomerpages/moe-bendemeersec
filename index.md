@@ -24,16 +24,4 @@ sections:
       alt: Image alt text
       image: /images/Announcements/annouce-dsa.jpg
       url: /announcements/e-openhouse/
-  - infobar:
-      title: Direct School Admission (DSA-Sec)
-      subtitle: New
-      description: Bendemeer Secondary School is able to offer admission to students
-        under the DSA-Secondary programme
-      button: read more
-      url: /announcements/dsa-registration
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
 ---
