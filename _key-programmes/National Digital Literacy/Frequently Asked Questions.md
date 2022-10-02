@@ -4,7 +4,7 @@ permalink: /key-programmes/ndlp/faqs/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-## **Frequently Asked Questions**
+
 
 ##### **Procurement Matters**
 
