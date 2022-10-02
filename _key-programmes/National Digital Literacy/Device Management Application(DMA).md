@@ -4,7 +4,7 @@ permalink: /key-programmes/ndlp/dma/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-## Device Management Application (DMA)
+
 
 #### Selecting After-School DMA Options for PLDs
 
