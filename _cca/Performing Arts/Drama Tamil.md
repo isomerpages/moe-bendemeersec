@@ -88,7 +88,7 @@ Colourful rice art display
 ![Colourful rice art display](/images/Cca/cca-dramatamil-05.jpg)
 Pongal celebrations
 
-![Making stage props](/images/Cca/cca-dramatamil-03.jpg)
+![Making stage props](/images/Cca/cca-dramatamil-06.jpg)
 Making stage props
 
 
