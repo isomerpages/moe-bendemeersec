@@ -4,7 +4,7 @@ permalink: /key-programmes/ndlp/ict-helpdesk/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-## ** ICT Helpline**
+
 
 <p style="text-align:justify">As part of our efforts to ensure minimum disruption to students’ learning,  The ICT Department will provide technical support (including password reset) to students. </p>
 
