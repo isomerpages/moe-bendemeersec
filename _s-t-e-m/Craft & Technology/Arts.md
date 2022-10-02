@@ -4,7 +4,7 @@ permalink: /departments/cnt/arts/
 description: ""
 third_nav_title: Craft & Technology
 ---
-## **Art**
+
 <p style="text-align:justify">In Bendemeer Secondary School we believe in developing our students to be active learners and responsible citizens, who are confident visual learners. The Art Unit aims to cultivate in our students the love for the visual arts through the development of artistic skills in observation, creative expression and appreciation of varied art forms in both the lower and upper secondary levels.</p>
 
 #### **Lower Secondary Art Curriculum**
