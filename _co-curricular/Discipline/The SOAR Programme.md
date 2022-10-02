@@ -4,7 +4,7 @@ permalink: /departments/discipline/soar-programme/
 description: ""
 third_nav_title: Discipline
 ---
-## **The SOAR Programme**
+
 
 #### Students Overcome Adversity Responsibly (SOAR)
 
