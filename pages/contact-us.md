@@ -10,7 +10,7 @@ locations:
       - ""
     operating_hours:
       - days: Mon - Fri
-        time: 7.00am - 6.30pm
+        time: 7.00am - 6.00pm
         description: Closed on Saturdays
     maps_link: ""
     title: Bendemeer Secondary School
