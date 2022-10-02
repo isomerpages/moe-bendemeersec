@@ -4,7 +4,7 @@ permalink: /key-programmes/ndlp/dik-acer-r752tn/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-## **Device Information Kit for Acer R752TN Chromebook**
+
 
 ### School-based Helpdesk
 
