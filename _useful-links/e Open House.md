@@ -5,6 +5,4 @@ description: ""
 ---
 
 
-## e-Open House
-
 Type content here
