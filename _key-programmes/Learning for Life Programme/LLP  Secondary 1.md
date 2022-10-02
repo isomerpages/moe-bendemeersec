@@ -4,7 +4,7 @@ permalink: /key-programmes/llp/sec1-llp/
 description: ""
 third_nav_title: Learning for Life Programme
 ---
-## **Secondary 1 LLP**
+
 ![Secondary One Learning for Life Programme](/images/Keyprogrammes/llps1-01.jpeg)
 
 ![Secondary One Learning for Life Programme](/images/Keyprogrammes/llps1-02.jpeg)
