@@ -4,7 +4,7 @@ permalink: /cca/clubs-and-societies/infocomm-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-## **Infocomm Club**
+
 
 **Teachers-in-charge:** <br>
 Mr Eric Choo (Advisor) <br>
