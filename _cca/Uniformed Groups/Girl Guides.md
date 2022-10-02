@@ -4,7 +4,7 @@ permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-## **Girl Guides**
+
 
 **Teacher-in-Charge:** <br>
 Ms Dawn Lim Sing Liean (I/C) <br>
