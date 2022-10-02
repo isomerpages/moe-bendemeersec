@@ -4,7 +4,7 @@ permalink: /departments/cnt/elements-business/
 description: ""
 third_nav_title: Craft & Technology
 ---
-## **Elements of Business Skills**
+
 
 <p style="text-align:justify">Elements of Business Skills (EBS) intends to provide students with opportunities to develop transferable employability skills and knowledge in the service industry, namely the Travel and Tourism, Hospitality, and Retail industries, which continue to offer employment opportunities accessible to the students. In the Elements of Business Skills (EBS) syllabus framework, the basic concepts of marketing and customer relations are at the core of the EBS syllabus. </p>
 
