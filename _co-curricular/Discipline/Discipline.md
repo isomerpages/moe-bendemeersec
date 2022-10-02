@@ -4,7 +4,7 @@ permalink: /departments/discipline/disc-overview/
 description: ""
 third_nav_title: Discipline
 ---
-## **Discipline**
+
 
 <p style="text-align:justify">The Discipline Committee, headed by Mr. Zuhri as the Discipline Master, has to maintain the overall tone of the school. We believe that every teacher plays a part in maintaining the general discipline of their own students, especially in classroom management.</p>
 
