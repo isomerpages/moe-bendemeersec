@@ -4,7 +4,7 @@ permalink: /cca/sports/sepak-takraw/
 description: ""
 third_nav_title: Sports
 ---
-# Sepak Takraw
+
 
 **Teachers-in-Charge:** <br>
 Mr Han Hong Kwong (I/C) <br>
