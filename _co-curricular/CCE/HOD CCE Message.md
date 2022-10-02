@@ -4,7 +4,7 @@ permalink: /departments/cce/cce-hod-msg/
 description: ""
 third_nav_title: CCE
 ---
-## **Character & Citizenship Education**
+
 
 #### HOD's Message
 <p style="float:left; margin: 0 10px 0px 0">  
