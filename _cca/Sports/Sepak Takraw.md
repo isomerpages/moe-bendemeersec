@@ -4,8 +4,6 @@ permalink: /cca/sports/sepak-takraw/
 description: ""
 third_nav_title: Sports
 ---
-
-
 **Teachers-in-Charge:** <br>
 Mr Han Hong Kwong (I/C) <br>
 Mr Zulkifli Bin Khamis (2I/C) <br>
@@ -75,7 +73,7 @@ Ready to strike!
 
 <p style="text-align:justify">During training, the team not only focuses on the athletic aspects critical to the sport but also on character building and leadership. School values such as resilience, respect and integrity are instilled in every player throughout the training sessions. Our athletes looked forward to these trainings and often turn up even before training starts. Trainings may be exhausting and gruelling but the boys always enjoy themselves and persevere throughout the training sessions.</p>
 
-![Players warming up](/images/Cca/cca-takraw-i-warm-ups-768x512%20(1).jpg)
+![Players warming up](/images/Cca/cca-takraw-i-warm-ups-768x512.jpg)
 
 <p style="text-align:justify">The teachers and coach have built a very strong rapport with these boys and often motivate and encourage them not only in terms of having good sportsmanship but also on character-building and studies.</p>
 
