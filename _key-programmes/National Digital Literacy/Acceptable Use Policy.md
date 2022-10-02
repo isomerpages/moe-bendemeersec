@@ -4,7 +4,7 @@ permalink: /key-programmes/ndlp/acceptable-use-policy/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-# Acceptable Use Policy
+
 
 **Bendemeer Secondary School <br>
 Acceptable Use Policy (AUP) <br>
