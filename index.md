@@ -16,12 +16,6 @@ sections:
         - title: Bendemeer e-open house is here!
           description: Click for more information!
           url: https://www.youtube.com/
-        - title: DSA
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
   - infopic:
       title: Bendemeer e-Open House
       subtitle: New!
@@ -43,5 +37,3 @@ sections:
       description: Infobar description
       button: Button Text
 ---
-
-
