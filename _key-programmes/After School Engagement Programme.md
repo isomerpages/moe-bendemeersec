@@ -3,7 +3,7 @@ title: After School Engagement Programme
 permalink: /key-programmes/uplift-ase/
 description: ""
 ---
-## After School Engagement Programme
+
 
 The After School Engagement (ASE) Programme aims to:
 
