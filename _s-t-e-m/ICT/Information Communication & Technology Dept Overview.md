@@ -4,7 +4,7 @@ permalink: /departments/ict/ict-overview/
 description: ""
 third_nav_title: ICT
 ---
-## **Information Communication & Technology Department Overview**
+
 
 #### VISION AND MISSION 
 
