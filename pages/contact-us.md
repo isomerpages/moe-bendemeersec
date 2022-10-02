@@ -11,7 +11,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 7.00am - 6.00pm
-        description: Closed on Saturdays
+        description: Closed on Saturdays and Sundays
     maps_link: ""
     title: Bendemeer Secondary School
 contacts:
@@ -20,4 +20,9 @@ contacts:
       - email: bendemeer_ss@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: ""
+      - other: https://go.gov.sg/bdms-icthelp
+    title: School-Based ICT Helpdesk
 ---
