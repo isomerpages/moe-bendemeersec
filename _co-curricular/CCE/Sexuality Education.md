@@ -4,7 +4,7 @@ permalink: /departments/cce/sexuality-education/
 description: ""
 third_nav_title: CCE
 ---
-## **Sexuality Education**
+
 
 #### MOE SEXUALITY EDUCATION IN SCHOOLS
 
