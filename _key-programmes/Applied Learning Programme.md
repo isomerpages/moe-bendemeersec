@@ -3,7 +3,7 @@ title: Applied Learning Programme
 permalink: /key-programmes/applied-learning-programme/
 description: ""
 ---
-## **Applied Learning Programme In Health Science and Healthcare technology**
+
 
 <p style="text-align:justify">Our Applied Learning Programme (ALP) seeks to deepen students’ knowledge in STEM education where students solve authentic problems in health sciences and healthcare using technology. </p>
 
