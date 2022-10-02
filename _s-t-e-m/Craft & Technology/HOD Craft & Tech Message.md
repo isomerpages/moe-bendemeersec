@@ -4,7 +4,7 @@ permalink: /departments/cnt/cnt-hod-msg/
 description: ""
 third_nav_title: Craft & Technology
 ---
-## **Craft & Technology**
+
 
 #### HOD's Message
 
