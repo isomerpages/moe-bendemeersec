@@ -67,7 +67,7 @@ Sudharsan Madhumita (4R2)
 
 Our Drama Tamil CCA students have participated and won prize in various external competitions organized by various organization at cluster and national level.</p>
 
-![Indian Dance, Singapore Youth Festival](/images/Cca/cca-dramatamil-i-Indian-Dance-SYF-768x576.jpg)
+![Indian Dance, Singapore Youth Festival](/images/Cca/cca-dramatamil-01n.jpg)
 Indian Dance, Singapore Youth Festival
 
 #### Cluster School Programme
