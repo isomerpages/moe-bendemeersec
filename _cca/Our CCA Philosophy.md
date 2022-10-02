@@ -3,7 +3,7 @@ title: Our CCA Philosophy
 permalink: /cca/cca-philosophy/
 description: ""
 ---
-## **Co-Curricular Activities - Our Philosophy**
+
 
 
 ![](/images/Cca/cca-philosophy.jpg)
