@@ -4,7 +4,7 @@ permalink: /departments/science/sci-hod-msg/
 description: ""
 third_nav_title: Science
 ---
-## **Science**
+
 
 #### HOD's Message
 
