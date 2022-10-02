@@ -4,7 +4,7 @@ permalink: /departments/physical-education/hod-pe-msg/
 description: ""
 third_nav_title: Physical Education
 ---
-## **Physical Education**
+
 
 #### HOD's Message
 
