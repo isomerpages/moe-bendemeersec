@@ -74,22 +74,26 @@ description: ""
 
 For students from mainstream primary schools, application for DSA-Sec can be submitted through the online DSA-Sec Portal at [https://go.gov.sg/apply-dsa-sec](https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant). The application is free-of-charge and will be open from **5 May 2022, 11am till 1 June 2022, 3pm.**
 
-Applicants studying in MOE mainstream primary schools will require the SingPass of one parent to log in to the DSA-Sec Portal. If parent/ guardian is unable to apply online, they can approach the child’s primary school for assistance. Applicants NOT studying in MOE mainstream primary schools need to obtain a Registration Number online via te MOE DSA website (online form) before they can apply through the DSA-Sec Portal.
+<p style="text-align:justify">Applicants studying in MOE mainstream primary schools will require the SingPass of one parent to log in to the DSA-Sec Portal. If parent/ guardian is unable to apply online, they can approach the child’s primary school for assistance. Applicants NOT studying in MOE mainstream primary schools need to obtain a Registration Number online via te MOE DSA website (online form) before they can apply through the DSA-Sec Portal.</p>
 
 For further details, please visit the MOE website at: www.moe.gov.sg/dsa-sec
 
-Application forms that are sent through fax or email will not be considered.
+<p style="text-align:justify">Application forms that are sent through fax or email will not be considered.</p>
 
-Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+<p style="text-align:justify">Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
 
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
+<p style="text-align:justify">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.</p>
 
-Short-listed applicants will be required to attend an **in-person interview and/or trial** between  **27 June 2022** and **31 August 2022**.
+<p style="text-align:justify">Short-listed applicants will be required to attend an <b>in-person interview and/or trial</b> between  <b>27 June 2022</b> and <b>31 August 2022</b>.</p>
 
-All applicants will be informed of their application outcome by **12 September 2022**.
+<p style="text-align:justify">All applicants will be informed of their application outcome by <b>12 September 2022</b>.</p>
 
-Meeting all the criteria does not guarantee the student will be shortlisted/given an offer. The decision of the Interview Panel on the DSA-Sec application is final.  The school reserves the right not to release the reasons for non-selection of applicants and/or the results of the interview.
+<p style="text-align:justify">Meeting all the criteria does not guarantee the student will be shortlisted/given an offer. The decision of the Interview Panel on the DSA-Sec application is final.  The school reserves the right not to release the reasons for non-selection of applicants and/or the results of the interview.</p>
 
 #### CONTACT DETAILS
 
+For further enquiries, please contact <b>Mr Lee Chen Siang</b> at <b>6292 7616</b>. Alternatively, you can email your enquiries to bendemeer_ss@moe.edu.sg.
+
+<!--
 For further enquiries, please contact **Mr Lee Chen Siang** at **6292 7616**. Alternatively, you can email your enquiries to bendemeer_ss@moe.edu.sg.
+-->
