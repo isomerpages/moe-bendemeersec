@@ -4,8 +4,6 @@ permalink: /key-programmes/ndlp/acceptable-use-policy/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-
-
 **Bendemeer Secondary School <br>
 Acceptable Use Policy (AUP) <br>
 For Personal Learning Device & School ICT Resources**
@@ -64,12 +62,12 @@ For Personal Learning Device & School ICT Resources**
 <p style="text-align:justify">12.   The protective shell of the PLD will provide only basic protection from everyday use. You should use a carrying bag or a padded sleeve for your PLD.</p>
  
 <p style="text-align:justify">13.   The touchscreen function also makes the screen particularly sensitive to damage from excessive pressure.</p>
- 
-		* Remove items (eg. pens, pencils) on the keyboard before closing the lid.
- 
-		* Do not place heavy objects on the Chromebook.
- 
-		* Do not jab at the screen with sharp objects.
+<p style="text-align:justify">
+		* Remove items (eg. pens, pencils) on the keyboard before closing the lid.</p>
+ <p style="text-align:justify">
+		* Do not place heavy objects on the Chromebook.</p>
+ <p style="text-align:justify">
+		* Do not jab at the screen with sharp objects.</p>
  
  **Protection and Storing your PLD.**
  
