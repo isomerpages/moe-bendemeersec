@@ -4,7 +4,7 @@ permalink: /cca/uniformed-groups/ncc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-## **National Cadet Corps (NCC)**
+
 
 **Teachers-in-Charge:** <br>
 CPT Tay Guangyu (Commanding Officer) <br>
