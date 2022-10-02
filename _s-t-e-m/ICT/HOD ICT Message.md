@@ -4,7 +4,7 @@ permalink: /departments/ict/ict-hod-msg/
 description: ""
 third_nav_title: ICT
 ---
-## **Information, Communication & Technology**
+
 
 #### HOD's Message
 <p style="text-align:justify">The evolution of Information Communication and Technology (ICT) has transformed the way teaching and learning takes place in the classrooms. From the days of chalk and talk to the use of smart devices for learning trails, ICT has played an important role in shaping our education landscape.</p>
