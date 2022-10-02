@@ -4,7 +4,7 @@ permalink: /cca/sports/football/
 description: ""
 third_nav_title: Sports
 ---
-# Football
+
 
 **Teachers-in-Charge:** <br>
 Mr Kenneth Goh (I/C) <br>
