@@ -4,7 +4,7 @@ permalink: /key-programmes/ndlp/purchase1pld/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-## **Purchase of PLD for Sec 1 (Y2022)**
+
 
 ### Sec 1 Parent’s Engagement Session
 
