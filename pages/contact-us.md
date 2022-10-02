@@ -18,6 +18,6 @@ contacts:
   - content:
       - phone: +65 6292 7616
       - email: bendemeer_ss@moe.edu.sg
-      - other: + 65 6293 2594 (Fax)
+      - other: ""
     title: General Enquiries & Feedback
 ---
