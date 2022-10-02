@@ -4,8 +4,6 @@ permalink: /cca/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
 **Teachers-in-Charge:** <br>
 Mdm Noor Aisyah (I/C) <br>
 Ms Kelly Lee (2I/C) <br>
@@ -56,16 +54,15 @@ Gurpal Singh Saini (4R5)
 
 <p style="text-align:justify">These past few months have really been challenging however we are looking forward to burn up the dance floor once the situation improves.</p>
 
-![Teachers’ Day performance](/images/Cca/cca-dance-i-Teacher_s-Day-Performance-768x513.jpg)
-Teachers’ Day performance
 
-![Singapore Youth Festival presentation](/images/Cca/cca-dance-i-SYF-Presentation-768x512.jpg)
+
+![Singapore Youth Festival presentation](/images/Cca/cca-dance-01.jpg)
 Singapore Youth Festival presentation
 
-![Return from Singapore Youth Festival competition](/images/Cca/cca-dance-i-SYF-Competition-768x337.jpg)
+![Return from Singapore Youth Festival competition](/images/Cca/cca-dance-02.jpg)
 Return from Singapore Youth Festival competition
 
-![Singapore Youth Festival street dance team](/images/Cca/cca-dance-i-The-Street_s-Addiction-768x576.jpg)
+![Singapore Youth Festival street dance team](/images/Cca/cca-dance-03.jpg)
 Singapore Youth Festival street dance team
 
 <p style="text-align:justify; font-style:italic">These four years have been like a roller coaster to me. During this time, I have learnt to become a much stronger and a more confident person. I will never forget this amazing journey with such fabulous people. These past few years have been tough due to the ongoing pandemic, coping with both CCA and schoolwork. However, I am proud that as a team we have managed to pull through and emerged stronger dancers. I am proud of being a part of TSA and I want to thank everyone who has given me a helping hand along the way.</p>
@@ -77,7 +74,10 @@ Singapore Youth Festival street dance team
 
 **- Gurpal Singh Saini (Vice-President)**
 
+![](/images/Cca/cca-dance-05.jpg)
  
 <p style="text-align:justify; font-style:italic">My journey in dance has been a memorable and enjoyable experience. I was able to overcome challenges and gain confidence with the help of the people around me in the dance club. I have not only gained much skills and techniques in dance but am also able to build long-lasting friendships with my members. Through this journey that I have had with the dance club, I have realised the importance of teamwork, determination and perseverance. All these coupled with the positive environment from the club has made me achieve success.</p>
 
 **- Nur Rafidah Binte Mohamed Rafi (4R4)**
+
+![](/images/Cca/cca-dance-06.jpg)
