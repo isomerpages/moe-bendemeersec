@@ -4,7 +4,7 @@ permalink: /departments/physical-education/pe-overview/
 description: ""
 third_nav_title: Physical Education
 ---
-## **Physical Education Department Overview**
+
 ![Physical Education Department Overview](/images/Departments/PE.png)
 
 #### VISION, MISSION AND DEPARTMENT’S GOALS
