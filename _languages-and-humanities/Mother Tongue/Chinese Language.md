@@ -127,7 +127,7 @@ To expose students to various writing genres and cultivate their love for writin
 
 <br>
 
-
+<!--
 ![Learning Journey cum School Immersion Programme to Xiamen (China)](/images/Departments/cl-xiamentrip-02.jpg)
 
 ![Learning Journey cum School Immersion Programme to Xiamen (China)](/images/Departments/cl-xiamentrip-03.jpg)
@@ -135,3 +135,9 @@ To expose students to various writing genres and cultivate their love for writin
 ![Learning Journey cum School Immersion Programme to Xiamen (China)](/images/Departments/cl-xiamentrip-04.jpg)
 
 ![Learning Journey cum School Immersion Programme to Xiamen (China)](/images/Departments/cl-xiamentrip-05.jpg)
+-->
+
+<img src="/images/Departments/cl-xiamentrip-02.jpg" alt="Learning Journey cum School Immersion Programme to Xiamen (China)"/>
+<img src="/images/Departments/cl-xiamentrip-03.jpg" alt="Learning Journey cum School Immersion Programme to Xiamen (China)"/>
+<img src="/images/Departments/cl-xiamentrip-04.jpg" alt="Learning Journey cum School Immersion Programme to Xiamen (China)"/>
+<img src="/images/Departments/cl-xiamentrip-05.jpg" alt="Learning Journey cum School Immersion Programme to Xiamen (China)"/>
