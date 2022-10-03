@@ -4,8 +4,6 @@ permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
 **Teacher-in-Charge:** <br>
 Ms Dawn Lim Sing Liean (I/C) <br>
 Ms Lu Yueh Ju (2I/C) <br>
@@ -82,6 +80,6 @@ Girl Guides orientation day
 
 ![](/images/Cca/cca-girlguides-03.jpg)
 
-*If you know me personally, you would find that I am quite a shy person. I would never go out of my house and mostly stayed at home like a molding troglodyte. So when the teachers- in- charge of Girl Guides selected me as the Commander Leader, you could imagine how much I wanted to crawl into a hole and never come out of it, forever. However, I did realise that this was a precious opportunity presented to me. Of course, this comes with heavy responsibilities but I wanted to break out of my shell and experience new things. I know that I’m not the best at leading, but I am fortunate to have two Assistant Commander Leaders to lend me invaluable assistance and I enjoy working together with them. I am slowly but surely combating my reluctance to step out but my leadership position definitely helps me to reach out to more people.*
+<p style="text-align:justify; font-style:italic">If you know me personally, you would find that I am quite a shy person. I would never go out of my house and mostly stayed at home like a molding troglodyte. So when the teachers- in- charge of Girl Guides selected me as the Commander Leader, you could imagine how much I wanted to crawl into a hole and never come out of it, forever. However, I did realise that this was a precious opportunity presented to me. Of course, this comes with heavy responsibilities but I wanted to break out of my shell and experience new things. I know that I’m not the best at leading, but I am fortunate to have two Assistant Commander Leaders to lend me invaluable assistance and I enjoy working together with them. I am slowly but surely combating my reluctance to step out but my leadership position definitely helps me to reach out to more people.</p>
 
 **- Yee Zihui (Company Leader)**
