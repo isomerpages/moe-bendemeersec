@@ -10,7 +10,7 @@ third_nav_title: Learning for Life Programme
 
 **Rumah Whampoa East (Elders and Teens Sharing)**
 
-<p style="text-align:justify">For their LLP initiative the Secondary 4 student councillors (SCs) extended their reach beyond the school and into the community, working with the elderly in Whampoa for the Rumah Whampoa EATs project. This was a collaboration with Tsao Foundation, the Whampoa community as well as the advisor, Professor Thomas Kong. Over the span of five months, the SCs documented and curated the elderly’s stories through heritage dishes that the elderly cooked. The SCs became the voices for the elderly, and this was a heavy responsibility that the students happily took on.</p>
+<p style="text-align:justify">For their LLP initiative the Secondary 4 student councillors (SCs) extended their reach beyond the school and into the community, working with the elderly in Whampoa for the Rumah Whampoa EATs project. This was a collaboration with Tsao Foundation, the Whampoa community as well as the advisor, Professor Thomas Kong. Over the span of five months, the SCs documented and curated the elderly’s stories through heritage dishes that the elderly cooked. The SCs became the voices for the elderly, and this was a heavy responsibility that the students happily took on.
 
 <p style="text-align:justify">The SCs wanted their curated stories to accurately portray the elderly that they had spent much time with as well as allow the community to see the elderly in a different light – not just as limited individuals weakened by age, but rather as vibrant individuals that were so full of life and experience. This was to capture the heart of the stories and to reach the wider community of Kallang and Whampoa where the project will be displayed in.</p>
 
@@ -29,8 +29,6 @@ third_nav_title: Learning for Life Programme
 <img src="/images/Keyprogrammes/llp-whampoaeats-01.jpg" alt="Rumah Whampoa EATs"/>
 <img src="/images/Keyprogrammes/llp-whampoaeats-02.jpg" alt="Rumah Whampoa EATS"/>
 <img src="/images/Keyprogrammes/llp-whampoaeats-03.jpg" alt="Rumah Whampoa EATS"/>
-
-![](/images/Keyprogrammes/llp-whampoaeats-03.jpg)
 
 **Donation Drive for St John’s Elderly**
 
