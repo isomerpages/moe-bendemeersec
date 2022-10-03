@@ -4,7 +4,7 @@ permalink: /departments/humanities/hum-overview/
 description: ""
 third_nav_title: Humanities
 ---
-## **Humanities Department Overview**
+
 
 ![Humanities Department Overview](/images/Departments/hum-humanities.png)
 
@@ -12,15 +12,15 @@ third_nav_title: Humanities
 
 #### **Vision**
 
-We aim to empower our students to see the relevance of humanities in their daily lives, their environment and the global world so as to develop them into active citizens & learners.
+<p style="text-align:justify">We aim to empower our students to see the relevance of humanities in their daily lives, their environment and the global world so as to develop them into active citizens & learners.</p>
 
 #### **Mission**
 
-A school where all students possess a genuine interest and love for the Humanities.
+<p style="text-align:justify">A school where all students possess a genuine interest and love for the Humanities.</p>
 
 #### **Department’s Goals**
 
-To appreciate the interconnectedness of our diverse experiences and to learn about our roles in society, so as to play our part as active citizens of the wider community.
+<p style="text-align:justify">To appreciate the interconnectedness of our diverse experiences and to learn about our roles in society, so as to play our part as active citizens of the wider community.</p>
 
 #### **Programmes**
 
