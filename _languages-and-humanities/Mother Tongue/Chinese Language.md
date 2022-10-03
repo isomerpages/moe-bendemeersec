@@ -4,21 +4,19 @@ permalink: /departments/mothertongue/chineselang/
 description: ""
 third_nav_title: Mother Tongue
 ---
-
-
 #### **Teaching and Learning of Chinese Language**
 
-The Chinese Language unit continued to create opportunities for students to acquire critical thinking skills using the 3C (Context, Content, Connection) 3R (Researching, Reasoning, Reflecting) PBL model which was used to guide teachers in designing effective PBL problems for students. Process writing was implemented in 2019. The incorporation of the process writing approach with self-directed learning and collaborative writing allowed students to familiarise themselves with essay writing structures and make use of descriptive techniques in their writing. With the use of thinking routines in SLS and online mindmapping tools, teachers were able to break down the learning process and provide scaffolding for students of various learning abilities to guide them in the lesson process. In 2021, students received their own personal learning devices, which increased the effectiveness of this ICT-integrated learning process. 
+<p style="text-align:justify">The Chinese Language unit continued to create opportunities for students to acquire critical thinking skills using the 3C (Context, Content, Connection) 3R (Researching, Reasoning, Reflecting) PBL model which was used to guide teachers in designing effective PBL problems for students. Process writing was implemented in 2019. The incorporation of the process writing approach with self-directed learning and collaborative writing allowed students to familiarise themselves with essay writing structures and make use of descriptive techniques in their writing. With the use of thinking routines in SLS and online mindmapping tools, teachers were able to break down the learning process and provide scaffolding for students of various learning abilities to guide them in the lesson process. In 2021, students received their own personal learning devices, which increased the effectiveness of this ICT-integrated learning process. </p>
 
 #### **Higher Chinese Language**
 
-Bendemeer Secondary offers an enriching and holistic learning experience through our Higher Chinese Language (HCL) syllabus. Apart from the teaching of listening, speaking, reading and writing skills, different learning experiences are introduced to students to appreciate the Chinese culture and heritage.
+<p style="text-align:justify">Bendemeer Secondary offers an enriching and holistic learning experience through our Higher Chinese Language (HCL) syllabus. Apart from the teaching of listening, speaking, reading and writing skills, different learning experiences are introduced to students to appreciate the Chinese culture and heritage.</p>
 
-The Secondary One HCL students attended cultural lessons over a period of three cycles. They were first introduced to the Chinese calligraphy where they wrote couplets and proudly displayed them around the school during Chinese New Year celebrations. 
+<p style="text-align:justify">The Secondary One HCL students attended cultural lessons over a period of three cycles. They were first introduced to the Chinese calligraphy where they wrote couplets and proudly displayed them around the school during Chinese New Year celebrations. </p>
 
-Due to Covid-19, the second and third cycles were held using lesson packages in the Student Learning Space (SLS) and over zoom sessions. Students were introduced to the history and characteristics of Chinese painting to learn to appreciate the beauty of the Chinese culture. Students also learnt the art of paper cutting. They started off by cutting basic patterns before learning to cut the Chinese characters “平安” which symbolises staying safe and well.
+<p style="text-align:justify">Due to Covid-19, the second and third cycles were held using lesson packages in the Student Learning Space (SLS) and over zoom sessions. Students were introduced to the history and characteristics of Chinese painting to learn to appreciate the beauty of the Chinese culture. Students also learnt the art of paper cutting. They started off by cutting basic patterns before learning to cut the Chinese characters “平安” which symbolises staying safe and well.</p>
 
-Through these cultural lessons, we hope that students will be able to appreciate the Chinese culture and cultivate their interest in learning the Chinese Language
+<p style="text-align:justify">Through these cultural lessons, we hope that students will be able to appreciate the Chinese culture and cultivate their interest in learning the Chinese Language</p>
 
 ![Chinese cultural lessons](/images/Departments/cl-hcl-calli-01.jpg)
 
@@ -34,9 +32,9 @@ Through these cultural lessons, we hope that students will be able to appreciate
 
 **Chinese New Year**
 
-Due to the Covid-19 situation, the Chinese New Year celebration in Bendemeer Secondary School is held online via Zoom. The Chinese New Year concert was a platform for students to showcase their talent. Concert performances include dancing, singing and martial arts. Exciting quizzes were also organized for students to learn more about the customs and traditions of the Chinese New Year. It was heartening to see students of Bendemeer Secondary School enjoying the concert and learning more about the Chinese culture. 
+<p style="text-align:justify">Due to the Covid-19 situation, the Chinese New Year celebration in Bendemeer Secondary School is held online via Zoom. The Chinese New Year concert was a platform for students to showcase their talent. Concert performances include dancing, singing and martial arts. Exciting quizzes were also organized for students to learn more about the customs and traditions of the Chinese New Year. It was heartening to see students of Bendemeer Secondary School enjoying the concert and learning more about the Chinese culture. </p>
 
-Various level activities were also planned to cultivate students’ appreciation of the Chinese culture. The Secondary One students researched on how different countries celebrated New Year. The Secondary Two students designed Spring Festival Couplets to welcome the new year. The Secondary Three students researched on topics and designed information sheets to introduce the traditions, customs and food items related to Chinese New Year. These works of art produced by the students were displayed at the school foyer to showcase their learning. 
+<p style="text-align:justify">Various level activities were also planned to cultivate students’ appreciation of the Chinese culture. The Secondary One students researched on how different countries celebrated New Year. The Secondary Two students designed Spring Festival Couplets to welcome the new year. The Secondary Three students researched on topics and designed information sheets to introduce the traditions, customs and food items related to Chinese New Year. These works of art produced by the students were displayed at the school foyer to showcase their learning. </p>
 
 ![Chinese New Year](/images/Departments/cl-cny-01.jpg)
 
