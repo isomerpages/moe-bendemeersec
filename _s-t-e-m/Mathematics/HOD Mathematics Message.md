@@ -56,6 +56,7 @@ The following is the Mathematics Department 4-Year Learning Roadmap:
 
 <p style="text-align:justify">Our teachers engage the students through the use of varied pedagogy such as Differentiated Instruction, Thinking Routines, Learning Experiences as well as Polya’s Problem Solving which enable the students to have deeper conceptual understanding and to see the relevance of Mathematics in a real-world context. We also engage our students in solving problems in real-world contexts during curriculum and provide authentic learning experiences (Processes, Metacognition and Attitude) through Math Trail and Math Week. Our activities for Math Week aim to promote and pique our students’ interest in the learning of Mathematics. It is also an opportunity to create environmental awareness amongst all students to encourage them to reduce, reuse and recycle.</p>
 
+
 ![Math](/images/Departments/math-mathweek.png)
 
 
@@ -67,9 +68,12 @@ The following is the Mathematics Department 4-Year Learning Roadmap:
 
 ![Mathematics Week](/images/Departments/math-03.jpg)
 
+
 <p style="text-align:justify">Moving forward with MOE National Digital Literacy Programme, our teachers leverage on technology and use e-pedagogy in their lesson design to create a student-centric learning environment, not only to enhance the learning of Mathematics but also to develop a critical appreciation of the use of information and communication technology in Mathematics. Our teachers integrate Student Learning Space and transform the learning experiences of students with the purposeful use of technology and enables students to engage in different learning modes, including self-directed and collaborative learning.</p>
 
+
 ![Learning outside Classroom](/images/Departments/math-04.jpg)
+
 
 <br>
 
