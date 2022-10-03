@@ -68,6 +68,13 @@ The following is the Mathematics Department 4-Year Learning Roadmap:
 
 ![Mathematics Week](/images/Departments/math-03.jpg)
 
+<img src="/images/Departments/math-mathweek.png" alt="Learning Outside Classroom"/>
+
+<img src="/images/Departments/math-01.jpg" alt="Learning Outside Classroom"/>
+
+<img src="/images/Departments/math-02.jpg" alt="Learning Outside Classroom"/>
+
+<img src="/images/Departments/math-03.jpg" alt="Learning Outside Classroom"/>
 
 <p style="text-align:justify">Moving forward with MOE National Digital Literacy Programme, our teachers leverage on technology and use e-pedagogy in their lesson design to create a student-centric learning environment, not only to enhance the learning of Mathematics but also to develop a critical appreciation of the use of information and communication technology in Mathematics. Our teachers integrate Student Learning Space and transform the learning experiences of students with the purposeful use of technology and enables students to engage in different learning modes, including self-directed and collaborative learning.</p>
 
