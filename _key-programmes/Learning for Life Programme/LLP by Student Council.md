@@ -18,11 +18,13 @@ third_nav_title: Learning for Life Programme
 
 <p style="text-align:justify">From 24th April to 11th May 2018, this project travelled from Bendemeer Secondary School, to Whampoa CC, to Kallang CC. With both students and elders living in these neighbourhoods the project captured the magic of these communities and appealed to visitors that arrived from near and far.</p>
 
+<!--
 ![Rumah Whampoa EATs](/images/Keyprogrammes/llp-whampoaeats-01.jpg)
 
 ![Rumah Whampoa EATs](/images/Keyprogrammes/llp-whampoaeats-02.jpg)
 
 ![Rumah Whampoa EATs](/images/Keyprogrammes/llp-whampoaeats-03.jpg)
+-->
 
 <img src="/images/Keyprogrammes/llp-whampoaeats-01.jpg" alt="Rumah Whampoa EATs"/>
 <img src="/images/Keyprogrammes/llp-whampoaeats-02.jpg" alt="Rumah Whampoa EATS"/>
@@ -39,6 +41,9 @@ third_nav_title: Learning for Life Programme
 ![Art Activity with SGH](/images/Keyprogrammes/llp-sgh-01.jpg)
 
 ![Art Activity with SGH](/images/Keyprogrammes/llp-sgh-02.jpg)
+
+<img src="/images/Keyprogrammes/llp-sgh-01.jpg" alt="Activity with SGH"/>
+<img src="/images/Keyprogrammes/llp-sgh-02.jpg" alt="Activity with SGH"/>
 
 **Food Wastage Awareness In Bendemeer Secondary School**
 
