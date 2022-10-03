@@ -71,7 +71,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni01-big.jpg" alt="Mr Jonathan Phoon siew Boon" style="width:500px"/>
+<img src="/images/Aboutus/Alumni01-big.jpg" alt="Mr Jonathan Phoon siew Boon" style="width:700px"/>
 
 </p>
 <p style="text-align:center">
@@ -80,7 +80,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni02-big.jpg" alt="Colonel (COL) Chew Chun-Liang / Lieutenant Colonel (LTC) Chew Chun-Chau " style="width:500px"/>
+<img src="/images/Aboutus/Alumni02-big.jpg" alt="Colonel (COL) Chew Chun-Liang / Lieutenant Colonel (LTC) Chew Chun-Chau " style="width:700px"/>
 
 </p>
 <p style="text-align:center">
@@ -89,7 +89,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni03-big.jpg" alt="Mr Delane Lim Zi Xuan" style="width:500px"/>
+<img src="/images/Aboutus/Alumni03-big.jpg" alt="Mr Delane Lim Zi Xuan" style="width:700px"/>
 
 </p>
 <p style="text-align:center">
@@ -98,7 +98,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni04-big.jpg" alt="Mr Chia Yew Choon Chris" style="width:500px"/>
+<img src="/images/Aboutus/Alumni04-big.jpg" alt="Mr Chia Yew Choon Chris" style="width:700px"/>
 
 </p>
 <p style="text-align:center">
@@ -107,7 +107,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni05-big.jpg" alt="Captain (CPT) Neo Wei Keong" style="width:500px"/>
+<img src="/images/Aboutus/Alumni05-big.jpg" alt="Captain (CPT) Neo Wei Keong" style="width:700px"/>
 
 </p>
 <p style="text-align:center">
@@ -134,7 +134,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni08-big.jpg" alt="Mr Teo Kin Hui Joseph" style="width:500px"/>
+<img src="/images/Aboutus/Alumni08-big.jpg" alt="Mr Teo Kin Hui Joseph" style="width:700px"/>
 
 </p>
 <p style="text-align:center">
@@ -143,7 +143,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni09-big.jpg" alt="Miss Hany Soh Hui Bin" style="width:500px"/>
+<img src="/images/Aboutus/Alumni09-big.jpg" alt="Miss Hany Soh Hui Bin" style="width:700px"/>
 
 </p>
 <p style="text-align:center">
@@ -152,7 +152,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni10-big.jpg" alt="Mr Mohamed Shameer" style="width:500px"/>
+<img src="/images/Aboutus/Alumni10-big.jpg" alt="Mr Mohamed Shameer" style="width:700px"/>
 
 </p>
 <p style="text-align:center">
@@ -161,7 +161,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni11-big.jpg" alt="Miss Yip Pin Xiu" style="width:500px"/>
+<img src="/images/Aboutus/Alumni11-big.jpg" alt="Miss Yip Pin Xiu" style="width:700px"/>
 
 </p>
 <p style="text-align:center">
@@ -170,7 +170,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni12-big.jpg" alt="Mr Ian Fang Wei Jie" style="width:500px"/>
+<img src="/images/Aboutus/Alumni12-big.jpg" alt="Mr Ian Fang Wei Jie" style="width:700px"/>
 
 </p>
 <p style="text-align:center">
