@@ -45,13 +45,13 @@ third_nav_title: Mother Tongue
 
 **Mid-Autumn Festival**
 
-The Mid-Autumn Festival celebrations in Bendemeer Secondary School is an annual event that students, staff, parents and alumni members look forward to every year. Activities planned by the Chinese Language teachers of the Mother Tongue Department include lantern painting, calligraphy, Chinese blow painting, tea appreciation and mooncake making. There was also a station set up for star gazing to the delight of the astronomy fans and a photo booth for all to capture these fond memories. It was heartening to see visitors of different races partaking in these cultural activities and learning more about the Chinese culture. As the skies darkened, it was a fascinating sight to see the parade square being illuminated by the lanterns being held up.
+<p style="text-align:justify">The Mid-Autumn Festival celebrations in Bendemeer Secondary School is an annual event that students, staff, parents and alumni members look forward to every year. Activities planned by the Chinese Language teachers of the Mother Tongue Department include lantern painting, calligraphy, Chinese blow painting, tea appreciation and mooncake making. There was also a station set up for star gazing to the delight of the astronomy fans and a photo booth for all to capture these fond memories. It was heartening to see visitors of different races partaking in these cultural activities and learning more about the Chinese culture. As the skies darkened, it was a fascinating sight to see the parade square being illuminated by the lanterns being held up.</p>
 
 ![Mid-Autumn Festival](/images/Departments/cl-midautumn-05.jpg)
 
 ![Mid-Autumn Festival](/images/Departments/cl-midautumn-06.jpg)
 
-Various level activities were also planned to cultivate students’ appreciation of the Chinese culture. The Secondary one students created bookmarks using proverbs about the moon. The Secondary two students designed posters about the Mid-Autumn Festival. The Secondary 3 students researched on topics and designed information sheets to introduce the traditions, customs and food related to the Mid-Autumn festival. These works of art produced by the students were displayed at the school foyer to showcase students’ learning.
+<p style="text-align:justify">Various level activities were also planned to cultivate students’ appreciation of the Chinese culture. The Secondary one students created bookmarks using proverbs about the moon. The Secondary two students designed posters about the Mid-Autumn Festival. The Secondary 3 students researched on topics and designed information sheets to introduce the traditions, customs and food related to the Mid-Autumn festival. These works of art produced by the students were displayed at the school foyer to showcase students’ learning.</p>
 
 ![Mid-Autumn Festival](/images/Departments/cl-midautumn-01.jpg)
 
@@ -65,43 +65,43 @@ Various level activities were also planned to cultivate students’ appreciation
 
 **37th National Huichun Calligraphy Convention 2020 at Singapore Calligraphy Centre**
 
-The Chinese Calligraphy Society of Singapore organized the 37th National Huichun Calligraphy Convention 2020 on Sunday, 5th January 2020.
+<p style="text-align:justify">The Chinese Calligraphy Society of Singapore organized the 37th National Huichun Calligraphy Convention 2020 on Sunday, 5th January 2020.</p>
 
 **Objectives:**
-To provide a platform for Singaporeans (especially youths) to practise Chinese calligraphy and increase their interest in this form of art;
-To cultivate the appreciation of Chinese culture by introducing more Singaporeans to the beauty of Chinese calligraphy.
+<p style="text-align:justify">To provide a platform for Singaporeans (especially youths) to practise Chinese calligraphy and increase their interest in this form of art;
+To cultivate the appreciation of Chinese culture by introducing more Singaporeans to the beauty of Chinese calligraphy.</p>
 
 **Outcome:**
-Our school was represented by 2 students, Tan Wan Fei (2R4) and Tan Wan Lin (2R5) who were awarded certificates of participation.
+<p style="text-align:justify">Our school was represented by 2 students, Tan Wan Fei (2R4) and Tan Wan Lin (2R5) who were awarded certificates of participation.</p>
 
 ![External Competitions](/images/Departments/cl-calligraphy-02.jpg)
 
 
 **18th National Secondary School Chinese Creative Writing Competition**
 
-Singapore Hokkien Huay Kuan, Singapore Literary Society, Nan Chiau High School and Zaobao Comma organised the 18th National Secondary School Chinese Creative Writing Competition which was held online from 22nd June to 29th June 2020.
+<p style="text-align:justify">Singapore Hokkien Huay Kuan, Singapore Literary Society, Nan Chiau High School and Zaobao Comma organised the 18th National Secondary School Chinese Creative Writing Competition which was held online from 22nd June to 29th June 2020.</p>
 
 ![18th National Secondary School Chinese Creative Writing Competition](/images/Departments/cl-writing-01.jpg)
 
 **Objectives:**
-To promote the use of Chinese Language and enhance the interest in creative writing among Secondary School students;
-To encourage students to be innovative and express their thoughts and feelings in a literary manner.
+<p style="text-align:justify">To promote the use of Chinese Language and enhance the interest in creative writing among Secondary School students;
+To encourage students to be innovative and express their thoughts and feelings in a literary manner.</p>
 
 **Outcome:**
-Our school was represented by 3 students, Yang Ningting (1C2), Chen Jiale (1C3) and Dai Jiayu (3R1) who were awarded certificates of participation. 
+<p style="text-align:justify">Our school was represented by 3 students, Yang Ningting (1C2), Chen Jiale (1C3) and Dai Jiayu (3R1) who were awarded certificates of participation. </p>
 
 ![18th National Secondary School Chinese Creative Writing Competition](/images/Departments/cl-writing-02.jpg)
 
 **“2020, Our story about fighting COVID-19” National Secondary School Chinese Creative Writing Competition**
 
-The Singapore Chinese Teachers Union and the Committee to Promote Chinese Language Learning organized the “2020, Our story about fighting COVID-19” National Secondary School Chinese Writing Competition from 20th May to 25th July 2020.
+<p style="text-align:justify">The Singapore Chinese Teachers Union and the Committee to Promote Chinese Language Learning organized the “2020, Our story about fighting COVID-19” National Secondary School Chinese Writing Competition from 20th May to 25th July 2020.</p>
 
 **Objectives:**
-To develop students’ proficiency of the Chinese Language and hone their writing skills;
-To expose students to various writing genres and cultivate their love for writing.
+<p style="text-align:justify">To develop students’ proficiency of the Chinese Language and hone their writing skills;
+To expose students to various writing genres and cultivate their love for writing.</p>
 
 **Outcome:**
-Our school was represented by 3 students, Qiao Mai (1C3), Dai Jiayu (3R1) and Li Yunfeng (3R1). Dai Jiayu (3R1) was awarded the Third Prize in the competition. 
+<p style="text-align:justify">Our school was represented by 3 students, Qiao Mai (1C3), Dai Jiayu (3R1) and Li Yunfeng (3R1). Dai Jiayu (3R1) was awarded the Third Prize in the competition. </p>
  
 **Learning Journey cum School Immersion Programme to Xiamen (China)**
 
@@ -112,18 +112,18 @@ Our school was represented by 3 students, Qiao Mai (1C3), Dai Jiayu (3R1) and Li
 <img src="/images/Departments/cl-xiamentrip-01.jpg" alt="Learning Journey cum School Immersion Programme to Xiamen (China)" style="width:400px" /></p>  
 <p style="text-align:justify">
 	
-Every year, a group of Secondary 3 students would embark on a learning journey cum school immersion programme to Xiamen, China. The objectives of the trip are to extend students’ learning experiences beyond Singapore and to expose them to a different cultural environment. The trip also gives students an opportunity to broaden their perspectives and learn social and language skills in a real world context.
+<p style="text-align:justify">Every year, a group of Secondary 3 students would embark on a learning journey cum school immersion programme to Xiamen, China. The objectives of the trip are to extend students’ learning experiences beyond Singapore and to expose them to a different cultural environment. The trip also gives students an opportunity to broaden their perspectives and learn social and language skills in a real world context.</p>
 
 <br>
 <br>
 
-During the trip, students were attached to Shuangshi Middle School, where they experienced local school life in China with their buddies. New friendships and fond memories were created as they attended classes with their buddies. Students also visited places of interest such as the Tan Kah Kee Museum, Hulishan Fortress, South Putuo Temple and Nanjing Hakka Earth Building, developing a deeper understanding and appreciation of Chinese culture and historical and geographical features.
+<p style="text-align:justify">During the trip, students were attached to Shuangshi Middle School, where they experienced local school life in China with their buddies. New friendships and fond memories were created as they attended classes with their buddies. Students also visited places of interest such as the Tan Kah Kee Museum, Hulishan Fortress, South Putuo Temple and Nanjing Hakka Earth Building, developing a deeper understanding and appreciation of Chinese culture and historical and geographical features.</p>
 
 <br>
 <br>
 
 
-On the whole, the overseas experience has increased students’ knowledge of the world beyond Singapore and enhanced their understanding and appreciation of the rich Chinese culture and heritage.  </p>
+<p style="text-align:justify">On the whole, the overseas experience has increased students’ knowledge of the world beyond Singapore and enhanced their understanding and appreciation of the rich Chinese culture and heritage.  </p>
 
 <br>
 
