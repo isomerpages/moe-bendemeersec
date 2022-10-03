@@ -8,7 +8,6 @@ third_nav_title: Mathematics
 
 <p style="float:left; margin: 0 10px 0px 0">  
 <img src="/images/Departments/maths-hod.jpg" alt="Principal" style="width:300px" /></p>  
-<p style="text-align:justify">
 	
 <p style="text-align:justify">I strongly believe that Mathematics education plays an important role in equipping our students with the knowledge and skills to be competent in logical thinking, critical thinking and analytical thinking. Learning of Mathematics is crucial so that our students will achieve a good level of mastery of mathematics that will enable them to function effectively in everyday life. In addition, with a strong foundation in Mathematics, our students will be able to pursue mathematics-related courses in higher institutes of education.</p>
 
@@ -68,6 +67,7 @@ The following is the Mathematics Department 4-Year Learning Roadmap:
 
 ![Mathematics Week](/images/Departments/math-03.jpg)
 
+
 <img src="/images/Departments/math-mathweek.png" alt="Learning Outside Classroom"/>
 
 <img src="/images/Departments/math-01.jpg" alt="Learning Outside Classroom"/>
@@ -78,8 +78,9 @@ The following is the Mathematics Department 4-Year Learning Roadmap:
 
 <p style="text-align:justify">Moving forward with MOE National Digital Literacy Programme, our teachers leverage on technology and use e-pedagogy in their lesson design to create a student-centric learning environment, not only to enhance the learning of Mathematics but also to develop a critical appreciation of the use of information and communication technology in Mathematics. Our teachers integrate Student Learning Space and transform the learning experiences of students with the purposeful use of technology and enables students to engage in different learning modes, including self-directed and collaborative learning.</p>
 
-
+<!--
 ![Learning outside Classroom](/images/Departments/math-04.jpg)
+-->
 
 <img src="/images/Departments/math-04.jpg" alt="Learning Outside Classroom"/>
 
