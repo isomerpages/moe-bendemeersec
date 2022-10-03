@@ -116,7 +116,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni06-big.jpg" alt="Miss Siti Aishah Mohd Selamat" style="width:500px"/>
+<img src="/images/Aboutus/Alumni06-big.jpg" alt="Miss Siti Aishah Mohd Selamat" style="width:700px"/>
 
 </p>
 <p style="text-align:center">
@@ -125,7 +125,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni07-big.jpg" alt="Mr Tan Wei Qiang Jovin" style="width:500px"/>
+<img src="/images/Aboutus/Alumni07-big.jpg" alt="Mr Tan Wei Qiang Jovin" style="width:700px"/>
 
 </p>
 <p style="text-align:center">
