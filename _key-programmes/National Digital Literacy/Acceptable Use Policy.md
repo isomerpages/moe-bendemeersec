@@ -57,7 +57,7 @@ For Personal Learning Device & School ICT Resources**
 
 <p style="text-align:justify">11.   You should report faulty PLD to your teacher or school ICT staff.  You may decide to send your PLD for repair through the school or on your own at the Service Centre.</p>
  
-  For students whose PLDs are under repair, you may loan a PLD until your PLD is repaired and returned to you.</p>
+<p style="text-align:justify">  For students whose PLDs are under repair, you may loan a PLD until your PLD is repaired and returned to you.</p>
  
 <p style="text-align:justify">12.   The protective shell of the PLD will provide only basic protection from everyday use. You should use a carrying bag or a padded sleeve for your PLD.</p>
  
