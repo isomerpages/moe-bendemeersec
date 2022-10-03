@@ -70,5 +70,5 @@ third_nav_title: Learning for Life Programme
 ![Student Council Learning for Life Programme](/images/Keyprogrammes/llpsc-02.jpeg)
 -->
 
-<img src="/images/Keyprogrammes/llpsc-01.jpg" alt="Student Council Learning for Life Programme"/>
-<img src="/images/Keyprogrammes/llpsc-02.jpg" alt="Student Council Learning for Life Programme"/>
+<img src="/images/Keyprogrammes/llpsc-01.jpeg" alt="Student Council Learning for Life Programme"/>
+<img src="/images/Keyprogrammes/llpsc-02.jpeg" alt="Student Council Learning for Life Programme"/>
