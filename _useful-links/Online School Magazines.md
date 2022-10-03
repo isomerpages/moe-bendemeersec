@@ -16,17 +16,14 @@ description: ""
 
 Please click on each link to view the the school magazine .
 
-1.  <a href="https://bendemeersec.moe.edu.sg/files/Schoolmag/2020-schmag-pg01.pdf" target="_blank" rel="noopener">Editor's Foreward</a>
-2.  <a href="https://bendemeersec.moe.edu.sg/files/Schoolmag/2020-schmag-pg02.pdf" target="_blank" rel="noopener">Ms Jeya's Farewell</a>
-3.  <a href="https://bendemeersec.moe.edu.sg/files/Schoolmag/2020-schmag-pg03.pdf" target="_blank" rel="noopener">Academic Achievements</a>
-4.  <a href="https://bendemeersec.moe.edu.sg/files/Schoolmag/2020-schmag-pg04-07.pdf" target="_blank" rel="noopener">School Events</a>
-5.  <a href="https://bendemeersec.moe.edu.sg/files/Schoolmag/2020-schmag-pg08-15.pdf" target="_blank" rel="noopener">SAC Caring Teacher Nominees and Staff Promotion</a>
-6.  <a href="https://bendemeersec.moe.edu.sg/files/Schoolmag/2020-schmag-pg16-23perf.pdf" target="_blank" rel="noopener">CCAs-Sports</a>
-7.  <a href="https://bendemeersec.moe.edu.sg/files/Schoolmag/2020-schmag-pg16-23sports.pdf" target="_blank" rel="noopener">CCAs-Performing Arts</a>
-8.  <a href="https://bendemeersec.moe.edu.sg/files/Schoolmag/2020-schmag-pg16-23ugclub.pdf" target="_blank" rel="noopener">CCAs-Uniformed Groups and Clubs and Societies</a>
-9.  <a href="https://bendemeersec.moe.edu.sg/files/Schoolmag/2020-schmag-pg24-29.pdf" target="_blank" rel="noopener">Teachers' Reflections</a>
-10.  <a href="https://bendemeersec.moe.edu.sg/files/Schoolmag/2020-schmag-pg30-41.pdf" target="_blank" rel="noopener">Student's Reflections</a>
-11.  <a href="https://bendemeersec.moe.edu.sg/files/Schoolmag/2020-schmag-pg42.pdf" target="_blank" rel="noopener">Acknowledgements</a>
-12.  <a href="https://go.gov.sg/bdms-schoolmag2020" target="_blank">Test Short URL</a>
-
-https://go.gov.sg/bdms-schoolmag2020
+1.  <a href="/files/Schoolmag/2020-schmag-pg01.pdf" target="_blank" >Editor's Foreward</a>
+2.  <a href="/files/Schoolmag/2020-schmag-pg02.pdf" target="_blank" >Ms Jeya's Farewell</a>
+3.  <a href="/files/Schoolmag/2020-schmag-pg03.pdf" target="_blank" >Academic Achievements</a>
+4.  <a href="/files/Schoolmag/2020-schmag-pg04-07.pdf" target="_blank">School Events</a>
+5.  <a href="/files/Schoolmag/2020-schmag-pg08-15.pdf" target="_blank" >SAC Caring Teacher Nominees and Staff Promotion</a>
+6.  <a href="/files/Schoolmag/2020-schmag-pg16-23perf.pdf" target="_blank">CCAs-Sports</a>
+7.  <a href="/files/Schoolmag/2020-schmag-pg16-23sports.pdf" target="_blank" >CCAs-Performing Arts</a>
+8.  <a href="/files/Schoolmag/2020-schmag-pg16-23ugclub.pdf" target="_blank" >CCAs-Uniformed Groups and Clubs and Societies</a>
+9.  <a href="/files/Schoolmag/2020-schmag-pg24-29.pdf" target="_blank"> Teachers' Reflections</a>
+10.  <a href="/files/Schoolmag/2020-schmag-pg30-41.pdf" target="_blank" >Student's Reflections</a>
+11.  <a href="/files/Schoolmag/2020-schmag-pg42.pdf" target="_blank" >Acknowledgements</a>
