@@ -11,7 +11,7 @@ third_nav_title: National Digital Literacy
 * <p style="text-align:justify">Option A: Parents can modify DMA settings after school hours</p>
 * <p style="text-align:justify">Option B: Parents can disable the DMA after school hours.</p>
 
-<p style="text-align:justify">Please submit your options using the online DMA option form below - <br>
+<p style="text-align:justify">Please submit your options using the online DMA option form below - <br></p>
  
  <p style="text-align:center"><a href="https://go.gov.sg/bdms-dmaoptions">https://go.gov.sg/bdms-dmaoptions</a></p>
 
@@ -25,11 +25,11 @@ More details of the Functions and DMA settings can be found below.  </p>
 <p style="text-align:justify">A Device Management Application (“DMA”) will come pre-installed on all PLDs purchased through the school, and will be installed on all student-owned devices subject to parental/guardian consent. The DMA has 3 main components which will support the use of the PLD in the classroom and safeguard students’ cyber wellness:  </p>
 
 
-<p style="text-align:justify">(a)  <b>Mobile Device Management Service.</b> This facilitates the updating and managing of the PLD, protects the PLD from malicious software, and protects students from objectionable internet content.  
+<p style="text-align:justify">(a)  <b>Mobile Device Management Service.</b> This facilitates the updating and managing of the PLD, protects the PLD from malicious software, and protects students from objectionable internet content.  </p>
   
-<p style="text-align:justify">(b) <b>Classroom Management Service.</b> This enables teachers to manage the students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning.  
+<p style="text-align:justify">(b) <b>Classroom Management Service.</b> This enables teachers to manage the students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning.  </p>
   
-<p style="text-align:justify">(c) <b>Usage Management Service.</b> This enables the school and/or parents/guardians to better supervise and set helpful limits for students’ use of PLD after school.
+<p style="text-align:justify">(c) <b>Usage Management Service.</b> This enables the school and/or parents/guardians to better supervise and set helpful limits for students’ use of PLD after school.</p>
 
 <br>
 
