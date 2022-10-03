@@ -30,6 +30,8 @@ third_nav_title: Learning for Life Programme
 <img src="/images/Keyprogrammes/llp-whampoaeats-02.jpg" alt="Rumah Whampoa EATS"/>
 <img src="/images/Keyprogrammes/llp-whampoaeats-03.jpg" alt="Rumah Whampoa EATS"/>
 
+![](/images/Keyprogrammes/llp-whampoaeats-03.jpg)
+
 **Donation Drive for St John’s Elderly**
 
 <p style="text-align:justify">A group of SCs decided to hold a donation drive for St John’s Elderly in Bendemeer Secondary School. This drive resulted from a visit to the home, where they gathered that the home was being relocated and needed help stocking up on non-perishables for the elderly. This motivated the students to hold the donation drive in school while raising awarness for the cause.</p>
