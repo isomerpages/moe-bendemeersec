@@ -24,7 +24,9 @@ third_nav_title: Learning for Life Programme
 
 ![Rumah Whampoa EATs](/images/Keyprogrammes/llp-whampoaeats-03.jpg)
 
-<img src="/images/Keyprogrammes/llp-whampoaeats-01.jpg" alt="LLP"><a/>
+<img src="/images/Keyprogrammes/llp-whampoaeats-01.jpg" alt="LLP1"/>
+<img src="/images/Keyprogrammes/llp-whampoaeats-02.jpg" alt="LLP2"/>
+<img src="/images/Keyprogrammes/llp-whampoaeats-03.jpg" alt="LLP3"/>
 
 **Donation Drive for St John’s Elderly**
 
