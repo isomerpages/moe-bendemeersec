@@ -4,8 +4,6 @@ permalink: /departments/mathematics/maths-overview/
 description: ""
 third_nav_title: Mathematics
 ---
-
-
 #### HOD's Message
 
 <p style="float:left; margin: 0 10px 0px 0">  
@@ -60,9 +58,12 @@ The following is the Mathematics Department 4-Year Learning Roadmap:
 
 ![Math](/images/Departments/math-mathweek.png)
 
+
 ![Mathematics Week](/images/Departments/math-01.jpg)
 
+
 ![Mathematics Week](/images/Departments/math-02.jpg)
+
 
 ![Mathematics Week](/images/Departments/math-03.jpg)
 
