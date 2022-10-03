@@ -1,5 +1,5 @@
 collections:
-  z-bdms-parents:
+  z-for-parents:
     output: true
     order:
       - Sec 1 Orientation.md
