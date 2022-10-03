@@ -74,6 +74,8 @@ The following is the Mathematics Department 4-Year Learning Roadmap:
 
 ![Learning outside Classroom](/images/Departments/math-04.jpg)
 
+<img src="/images/Departments/math-04.jpg" alt="Learning Outside Classroom"/>
+
 
 <br>
 
