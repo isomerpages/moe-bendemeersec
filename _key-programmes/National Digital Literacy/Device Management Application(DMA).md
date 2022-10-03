@@ -4,8 +4,6 @@ permalink: /key-programmes/ndlp/dma/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-
-
 #### Selecting After-School DMA Options for PLDs
 
 <p style="text-align:justify">For parents/guardians who prefer alternative DMA settings after school hours, they can choose from the following options:</p>
@@ -20,6 +18,7 @@ third_nav_title: National Digital Literacy
   
 <p style="text-align:justify">Please note that the system will be updated on every 15th of the following month.   <br><br>
 More details of the Functions and DMA settings can be found below.  </p>
+
 
 #### Functions of the DMA
 
@@ -71,7 +70,9 @@ More details of the Functions and DMA settings can be found below.  </p>
 
 <br>
 
+
 ### DMA Settings After School Hours
+
 
 <p style="text-align:justify; width:650px">1.     During school hours, the Default Setting will apply. Parents/Guardians are given a choice to opt for an Alternative Setting, which will apply only to after school hours. The following table outlines the different levels of restrictions, controls and monitoring for the different DMA options after school hours.</p>
 
