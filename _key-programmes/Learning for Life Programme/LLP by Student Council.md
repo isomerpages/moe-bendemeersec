@@ -53,9 +53,16 @@ third_nav_title: Learning for Life Programme
 
 ![Food Wastage Awareness](/images/Keyprogrammes/llp-foodbank-02.jpg)
 
+<img src="/images/Keyprogrammes/llp-foodbank-01.jpg" alt="Food Wastage Awareness"/>
+<img src="/images/Keyprogrammes/llp-foodbank-02.jpg" alt="Food Wastage Awareness"/>
+
 |||
 |-|-|
 
 ![Student Council Learning for Life Programme](/images/Keyprogrammes/llpsc-01.jpeg)
 
 ![Student Council Learning for Life Programme](/images/Keyprogrammes/llpsc-02.jpeg)
+
+<img src="/images/Keyprogrammes/llpsc-01.jpg" alt="Student Council Learning for Life Programme"/>
+<img src="/images/Keyprogrammes/llpsc-02.jpg" alt="Student Council Learning for Life Programme"/>
+
