@@ -38,9 +38,11 @@ third_nav_title: Learning for Life Programme
 
 <p style="text-align:justify">A group of SCs have planned an activity session with SGH to be held in the wards. Wanting to help the patients express themselves through art or to create a gift to express gratitude to their caregivers, the students set up an Arts and Craft booth for a week for patients to participate in and have fun! These activities catered to both the elderly and the young.</p>
 
+<!--
 ![Art Activity with SGH](/images/Keyprogrammes/llp-sgh-01.jpg)
 
 ![Art Activity with SGH](/images/Keyprogrammes/llp-sgh-02.jpg)
+-->
 
 <img src="/images/Keyprogrammes/llp-sgh-01.jpg" alt="Activity with SGH"/>
 <img src="/images/Keyprogrammes/llp-sgh-02.jpg" alt="Activity with SGH"/>
@@ -49,20 +51,24 @@ third_nav_title: Learning for Life Programme
 
 <p style="text-align:justify">A group of SCs decided to raise awareness of food wastage in school. This came after noticing that some Bendemeerians were wasting food that they did not or could not finish during recesses and lunch, and realising that this is a national an even global issue. They visited and volunteered at Food Bank SG to witness the extent of food wastage in Singapore, while sorting through donated food. This allowed them to gather information on food wastage in Singapore. After which, they conducted surveys to assess the extent of food wastage in Bendemeer before raising awareness of this problem to their fellow schoolmates.</p>
 
+<!--
 ![Food Wastage Awareness](/images/Keyprogrammes/llp-foodbank-01.jpg)
 
 ![Food Wastage Awareness](/images/Keyprogrammes/llp-foodbank-02.jpg)
+-->
 
 <img src="/images/Keyprogrammes/llp-foodbank-01.jpg" alt="Food Wastage Awareness"/>
 <img src="/images/Keyprogrammes/llp-foodbank-02.jpg" alt="Food Wastage Awareness"/>
 
+<!--
 |||
 |-|-|
+
 
 ![Student Council Learning for Life Programme](/images/Keyprogrammes/llpsc-01.jpeg)
 
 ![Student Council Learning for Life Programme](/images/Keyprogrammes/llpsc-02.jpeg)
+-->
 
 <img src="/images/Keyprogrammes/llpsc-01.jpg" alt="Student Council Learning for Life Programme"/>
 <img src="/images/Keyprogrammes/llpsc-02.jpg" alt="Student Council Learning for Life Programme"/>
-
