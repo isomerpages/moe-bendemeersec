@@ -3,7 +3,6 @@ title: DSA Registration
 permalink: /useful-links/dsa-registration/
 description: ""
 ---
-
 #### Direct School Admission (DSA-Sec) – For 2023 Secondary One Admission
 
 <p style="text-align:justify">Bendemeer Secondary School is able to offer admission to students under the DSA-Secondary programme. We are now inviting current Primary Six students who have a keen interest in the following areas to join the school through the Direct School Admission (DSA-Sec) Exercise.</p>
@@ -69,18 +68,20 @@ description: ""
 
 #### APPLICATION PROCEDURE
 
-
-
+<!--
 For students from mainstream primary schools, application for DSA-Sec can be submitted through the online DSA-Sec Portal at [https://go.gov.sg/apply-dsa-sec](https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant). The application is free-of-charge and will be open from **5 May 2022, 11am till 1 June 2022, 3pm.**
+-->
+
+<p style="text-align:justify">For students from mainstream primary schools, application for DSA-Sec can be submitted through the online DSA-Sec Portal at <a href="https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant">https://go.gov.sg/apply-dsa-sec</a>. The application is free-of-charge and will be open from <b>5 May 2022, 11am till 1 June 2022, 3pm.</b></p>
 
 <p style="text-align:justify">Applicants studying in MOE mainstream primary schools will require the SingPass of one parent to log in to the DSA-Sec Portal. If parent/ guardian is unable to apply online, they can approach the child’s primary school for assistance. Applicants NOT studying in MOE mainstream primary schools need to obtain a Registration Number online via te MOE DSA website (online form) before they can apply through the DSA-Sec Portal.</p>
-
-<a>For further details, please visit the MOE website at: </a><a href="www.moe.gov.sg/dsa-sec"> www.moe.gov.sg/dsa-sec</a>.
-<p></p>
 
 <!--
 For further details, please visit the MOE website at: www.moe.gov.sg/dsa-sec
 -->
+
+<a>For further details, please visit the MOE website at: </a><a href="www.moe.gov.sg/dsa-sec"> www.moe.gov.sg/dsa-sec</a>.
+<p></p>
 
 <p style="text-align:justify">Application forms that are sent through fax or email will not be considered.</p>
 
@@ -96,8 +97,8 @@ For further details, please visit the MOE website at: www.moe.gov.sg/dsa-sec
 
 #### CONTACT DETAILS
 
-<!--
+For further enquiries, please contact **Mr Lee Chen Siang** at **6292 7616**. Alternatively, you can email your enquiries to bendemeer_ss@moe.edu.sg.
+
+<!-- (code doesn't seem to work)
 <p style="text-align:justify">For further enquiries, please contact <b>Mr Lee Chen Siang</b> at <b>6292 7616</b>. Alternatively, you can email your enquiries to <a href="mailto:bendemeer_ss@moe.edu.sg">bendemeer_ss@moe.edu.sg</a>.</p>
 -->
-
-For further enquiries, please contact **Mr Lee Chen Siang** at **6292 7616**. Alternatively, you can email your enquiries to bendemeer_ss@moe.edu.sg.
