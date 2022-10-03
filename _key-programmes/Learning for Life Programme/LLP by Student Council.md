@@ -4,8 +4,6 @@ permalink: /key-programmes/llp/sc-llp/
 description: ""
 third_nav_title: Learning for Life Programme
 ---
-
-
 ##### **Student Council LLP**
 
 <p style="text-align:justify">Heart in service and communication skills are paramount for a Bendemeerian leader to identify problems and successfully convey ideas or motivate their peers. The Student Council’s LLP initiative saw different projects carried out over the years.</p>
@@ -25,6 +23,8 @@ third_nav_title: Learning for Life Programme
 ![Rumah Whampoa EATs](/images/Keyprogrammes/llp-whampoaeats-02.jpg)
 
 ![Rumah Whampoa EATs](/images/Keyprogrammes/llp-whampoaeats-03.jpg)
+
+[<img src="/images/Keyprogrammes/llp-whampoaeats-01.jpg" alt="LLP" style="width:400px" />](/images/Aboutus/VMV1.jpg
 
 **Donation Drive for St John’s Elderly**
 
