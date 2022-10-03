@@ -149,6 +149,8 @@ Outcome:
 
 <p style="text-align:justify">Our school was represented by 2 students, <b>Merisa Indajang (3R2) and Parvena Kaur Daljit Singh (3R3).</b> They gained valuable knowledge from their participation in the competition.</p>
 
+<!--
 ![Translation Competition: 3T (TERJEMAH, TUTUR, TEPAT) at National Junior College](/images/Departments/ml-comp-03.jpg)
+-->
 
 <img src="/images/Departments/ml-comp-03.jpg" alt="Competition:3T (TERJEMAH, TUTUR, TEPAT) at National Junior College"/>
