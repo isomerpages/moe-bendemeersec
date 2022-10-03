@@ -4,7 +4,7 @@ permalink: /departments/english/literature/
 description: ""
 third_nav_title: English and Literature
 ---
-## **English Literature**
+
 
 **Sec 1 DramaWorkz module**
 
