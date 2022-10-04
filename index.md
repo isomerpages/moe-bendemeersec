@@ -13,9 +13,9 @@ sections:
   - hero:
       background: /images/hero-banner01s.jpg
       key_highlights:
-        - title: Bendemeer e-open house is here!
+        - title: Bendemeer Open House is here!
           description: Click for more information!
-          url: https://www.youtube.com/
+          url: /useful-links/e-openhouse/
   - infopic:
       title: Bendemeer e-Open House
       subtitle: New!
