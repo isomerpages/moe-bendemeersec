@@ -16,13 +16,16 @@ third_nav_title: Science
 <p style="text-align:justify">Given the diverse changing global landscape, students with diverse learning needs and aptitudes for Science, and in alignment with the school’s vision “Active learners, Responsible Citizens” the department hopes to:
 </p>
 <p style="text-align:justify">* encourage Bendemeerians to apply the knowledge, skill sets and competencies gained in Science to make responsible and well-informed decision in their daily lives to solve problems, and contribute to the society, to improve self and others</p>
+
 <p style="text-align:justify">* provide all Bendemeerians with a good foundations in Science learning and excite them in the pursue of STEM related work</p>
-* <p style="text-align:justify">inculcate desire Values and attitudes of life such as Resilience, Integrity, Curiosity and responsibility through role-modelling and the key attributes of Scientists</p>
+
+<p style="text-align:justify">* inculcate desire Values and attitudes of life such as Resilience, Integrity, Curiosity and responsibility through role-modelling and the key attributes of Scientists</p>
 
 <p style="text-align:justify">To achieve the department’s goals, the approaches and programme were tiered for our Bendemeerians.</p>
 
-* <p style="text-align:justify">Lower secondary science – focus on enthusing and growing their passion and interest in science through application, exploration in science and STEM, growing their scientific literacy and develop strong foundation in the different discipline of science</p>
-* <p style="text-align:justify">Upper secondary science – subject mastery in the respective discipline of science, with in-depth application of scientific concept for innovation driven by problem solving of authentic issue, exposure to develop interdisciplinary thinking through STEM</p>
+<p style="text-align:justify">* Lower secondary science – focus on enthusing and growing their passion and interest in science through application, exploration in science and STEM, growing their scientific literacy and develop strong foundation in the different discipline of science</p>
+
+<p style="text-align:justify">* Upper secondary science – subject mastery in the respective discipline of science, with in-depth application of scientific concept for innovation driven by problem solving of authentic issue, exposure to develop interdisciplinary thinking through STEM</p>
 
 <p style="text-align:justify">Our approach in teaching and learning of science focuses much on inquiry-based learning through the use of varied resources and strategies such as phenomenon sharing and discussion, demonstration, questioning, and hands-on activity to get students to explore and discover further, to engage and enrich their learning. The use of department-based study skills such as note-taking and concept mapping were introduced to students to help them connect the concepts in science, leading to better appreciation and relevance of science learning.</p>
 
