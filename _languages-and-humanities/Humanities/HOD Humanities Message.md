@@ -4,13 +4,11 @@ permalink: /departments/humanities/hum-hod-msg/
 description: ""
 third_nav_title: Humanities
 ---
-
-
 #### HOD's Message
 
 <p style="float:left; margin: 0 10px 0px 0">
 <img src="/images/Departments/hum-hod.jpg" alt="HOD Humanities" style="width:300px" /></p>
-<p style="text-align:justify">
+
 
 	
 <p style="text-align:justify">I believe that the study of Humanities is a cohesive collection of experiences, each providing its own unique contribution where students learn to make sense of the world around them. This helps to nurture knowledgeable and committed citizens with a global outlook and skills for the future.</p>
