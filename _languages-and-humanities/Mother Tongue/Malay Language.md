@@ -127,7 +127,7 @@ The objectives of the competition are as follows:
 
 Outcome:
 
-<p style="text-align:justify">Our school was represented by 2 students, **Nur Madiha Binte Abdul Hameed (3R4) and Nur Eisya Izzatie Binte Muhd Iskandar (3R4)** and managed to attain fourth position in the competition.
+<p style="text-align:justify">Our school was represented by 2 students, **Nur Madiha Binte Abdul Hameed (3R4) and Nur Eisya Izzatie Binte Muhd Iskandar (3R4)** and managed to attain fourth position in the competition.</p>
 
 ![Friendly Inter-school Scrabble Competition at Yuying Secondary School](/images/Departments/ml-comp-01.jpg)
 
