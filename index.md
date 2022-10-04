@@ -23,5 +23,5 @@ sections:
       button: Click to find out more!
       alt: Image alt text
       image: /images/Announcements/annouce-dsa.jpg
-      url: /useful-links/e-openhouse/
+      url: /useful-links/openhouse/
 ---
