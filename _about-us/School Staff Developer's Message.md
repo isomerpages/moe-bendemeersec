@@ -3,8 +3,6 @@ title: School Staff Developer's Message
 permalink: /about-us/ssd-msg/
 description: ""
 ---
-
-
 <p style="float:left; margin: 0 10px 0px 0">
 <img src="/images/Aboutus/SSDM.png" alt="School Staff Developer" style="width:300px" /></p>
 
@@ -15,7 +13,7 @@ The continual professional growth of our teachers is crucial to the quality of t
 <p style="text-align:justify">
 Believing that staff well­being is also essential for a positive school culture, the school has put in place since 2012, a staff school based learning plan (SLP) based on the Physiological, Intellectual, Emotional and Social (PIES) approach to provide a more balanced and holistic approach to staff learning and development (L&D). Learning foci continues to be kept current via annual learning areas and planning of core L&D programmes and courses based on the school defined PIES dimensions. Teacher and leadership outcomes in the MOE Teacher Growth Model 3.0 and Leader Growth Model are also incorporated into the SLP. A concerted effort is also made to incorporate health enhancement, emotional well­being and work needs into the content of these sessions.</p>
 <p style="text-align:justify">
-By taking care of our staff “PIES”, we hope to empower our staff to continue to strive for quality education and administrative excellence for our learners.
+By taking care of our staff “PIES”, we hope to empower our staff to continue to strive for quality education and administrative excellence for our learners.</p>
 
 **Ms Mabel Kam** <br>
 *School Staff Developer*
