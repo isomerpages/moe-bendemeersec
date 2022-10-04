@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Bendemeer Open House is here!
           description: Click for more information!
-          url: /useful-links/openhouse/
+          url: /useful-links/open house/
   - infopic:
       title: Bendemeer e-Open House
       subtitle: New!
