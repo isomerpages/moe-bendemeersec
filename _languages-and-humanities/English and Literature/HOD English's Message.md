@@ -4,13 +4,11 @@ permalink: /departments/english/el-hod-msg/
 description: ""
 third_nav_title: English and Literature
 ---
-
-
 #### HOD's  Message
 
 <p style="float:left; margin: 0 10px 0px 0">
 <img src="/images/Departments/el-glenntan.jpg" alt="HOD English" style="width:300px" /></p>
-<p style="text-align:justify">
+
 
 <p style="text-align:justify">Language touches the heart. And in Bendemeer Secondary, there is a lot of ‘heart’ work!</p>
 
