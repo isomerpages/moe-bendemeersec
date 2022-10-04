@@ -39,7 +39,7 @@ third_nav_title: Science
 ![ALP](/images/Departments/sci-overview-01.jpg)
 ![ALP](/images/Departments/sci-overview-02.jpg)
 
-<a href="/images/Departments/sci-overview-01.jpg" ALT=ALP></a>
+<a href="/images/Departments/sci-overview-01.jpg" ALT="ALP"></a>
 
 <p style="text-align:justify">Through the above mentioned, we develop our Bendemeerians to be ‘Active learners, Responsible Citizens’ who can handle the uncertainty and fast changing landscape to be active in making responsible decisions to solve problems, and instill belief in them to unleash their potential, “From Each His Best”.</p>
 
