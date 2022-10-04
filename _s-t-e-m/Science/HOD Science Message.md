@@ -36,12 +36,10 @@ third_nav_title: Science
 
 <p style="text-align:justify">Through the Applied Learning Programme (ALP) in health science and healthcare technology, our tier 1 programme provides foundation and platform for our students to explore learning beyond the curriculum and apply their learning through technology to solve authentic problems. This provides an edge for our students in practice and enhance problem solving and the understanding of current healthcare issues facing Singapore and innovate for the betterment of others in their little ways.</p>
 
-
 ![ALP](/images/Departments/sci-overview-01.jpg)
-
-
 ![ALP](/images/Departments/sci-overview-02.jpg)
 
+<a href="/images/Departments/sci-overview-01.jpg" ALT=ALP></a>
 
 <p style="text-align:justify">Through the above mentioned, we develop our Bendemeerians to be ‘Active learners, Responsible Citizens’ who can handle the uncertainty and fast changing landscape to be active in making responsible decisions to solve problems, and instill belief in them to unleash their potential, “From Each His Best”.</p>
 
