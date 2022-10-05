@@ -2,5 +2,6 @@ collections:
   zlife-at-bdms:
     output: true
     order:
+      - Racial Harmony Day.md
       - National Day.md
       - Milestone Walk.md
