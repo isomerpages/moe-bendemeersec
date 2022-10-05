@@ -80,7 +80,7 @@ For students from mainstream primary schools, application for DSA-Sec can be sub
 For further details, please visit the MOE website at: www.moe.gov.sg/dsa-sec
 -->
 
-<a>For further details, please visit the MOE website at: </a><a href="https://www.moe.gov.sg/dsa-sec">http://www.moe.gov.sg/dsa-sec</a>.
+For further details, please visit the MOE website at: <a href="https://www.moe.gov.sg/dsa-sec">http://www.moe.gov.sg/dsa-sec</a>.
 <p></p>
 
 <p style="text-align:justify">Application forms that are sent through fax or email will not be considered.</p>
