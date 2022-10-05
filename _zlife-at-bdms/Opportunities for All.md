@@ -15,7 +15,7 @@ Our students from the Infocomm Club did us proud by emerging champions and first
 
 Here are some photos:
 
-<a href="[https://hrms.moe.gov.sg/](https://issuu.com/bendemeersec/docs/try.pptx)" target="\_blank" rel="noopener">Drones Odyssey  2022</a>
+<a href="https://issuu.com/bendemeersec/docs/try.pptx" target="\_blank" rel="noopener">Drones Odyssey  2022</a>
 
 | | 
 |-|
