@@ -5,7 +5,7 @@ description: ""
 third_nav_title: National Digital Literacy
 ---
 Resources for parents and students are available in the table below.
-[](/files/Keyprogrammes/DMA%20Parent%20Guide%20v2%20Option%20A%20Chrome%20OS.pdf)
+
 
 
 |  |  | 
