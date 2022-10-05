@@ -21,4 +21,15 @@ Here are some photos:
 |-|
 | |
 
-### **Drone Odyssey Challenge**
+### **Creativity, No Boundaries!**
+
+Our student Chen Jia Le from Sec 3R2 participated in the “Creativity, No Boundaries!” National Children’s Story Writing Competition. She has done the school proud by clinching the Excellence Award.
+
+A total of more than 1000 entries were submitted for the competition.
+
+36 entries were shortlisted nationwide and our student 
+ Chen Jiale’s entry《猫与蒲公英》(The Cat and the Dandelion) and she was awarded the Excellence Award.
+
+The winning entries of the story writing competition were published as a series of Chinese graded readers.
+
+The 18 graded readers (Grade 1 to 3) would be launched this year and distributed to the various Primary schools nationwide.
