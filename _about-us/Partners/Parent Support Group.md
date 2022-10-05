@@ -35,8 +35,10 @@ Some of our key activities are:
 
 <p style="text-align:justify">Please consider joining us in the following activities and embark on a journey with your child you will not regret.</p>
 
+<!--
 Scan here or use [this link](https://chat.whatsapp.com/GNULdwRsYmI2e22T9XhIeo) to join our WhatsApp chat!
 
 
 <p style="float:center">
 <img src="/images/Aboutus/PSG5.png" alt="PSG Group sign up Code" style="width:300px" /></p>
+-->
