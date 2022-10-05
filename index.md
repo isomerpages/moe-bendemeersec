@@ -17,7 +17,7 @@ sections:
           description: Click for more information!
           url: /useful-links/openhouse/
   - infopic:
-      title: Bendemeer e-Open House
+      title: Bendemeer Open House
       subtitle: New!
       description: Looking for your future secondary school?  Join the Bendemeer Family now!
       button: Click to find out more!
