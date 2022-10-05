@@ -8,7 +8,7 @@ third_nav_title: Science
 
 <p style="float:left; margin: 0 10px 0px 0">  
 <img src="/images/Departments/sci-hod.jpg" alt="HOD Science" style="width:300px" /></p>  
-<p style="text-align:justify">
+
 
 
 <p style="text-align:justify">As a parent and an educator, I always believe that every child has different readiness and talent, and when given the opportunity and the right approach, they can learn, grow and succeed in their life.</p>
