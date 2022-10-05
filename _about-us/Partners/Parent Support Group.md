@@ -13,7 +13,7 @@ third_nav_title: Partners
 <br>
 <b>Vice-Chairman</b>:	Ms Wong Wai Mei
 
-![Parent Support Group photo](/images/Aboutus/PSG2.jpg)
+![Parent Support Group photo](/images/Aboutus/psg-group.jpg)
 
 
 <p style="text-align:justify">Parents lay the foundation of moral values for students and the development of character and citizenship in our students is greatly influenced by what happens in school and at home.</p>
