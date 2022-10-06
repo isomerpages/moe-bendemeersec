@@ -35,4 +35,4 @@ From my experiences as being captain of Badminton, its is delightful to compete 
 
 <p style="text-align:justify; font-style:italic">Badminton CCA is a time to come together with friends to play and relieve any stress after long hours of lessons. Badminton also gives the opportunity to create new bonds and potentially learn from others and have fun. </p>
 
-**Mohammad Azhar 5R1**
+**-Mohammad Azhar 5R1**
