@@ -3,7 +3,6 @@ title: Test Accordion
 permalink: /zannouncement-archive/testaccordion/
 description: ""
 ---
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
