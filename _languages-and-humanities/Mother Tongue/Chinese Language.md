@@ -63,7 +63,7 @@ third_nav_title: Mother Tongue
 
 #### **External Competitions**
 
-**2022 Zhang Shou Shi National Calligraphy and Painting Competition for Primary and Secondary Schools**
+**1.  2022 Zhang Shou Shi National Calligraphy and Painting Competition for Primary and Secondary Schools**
 
 **Objective:**
 <p style="text-align:justify">To promote the art of Chinese Calligraphy and Painting and cultivate student's interest in the learning of Chinese Calligraphy and Painting.</p>
@@ -78,7 +78,7 @@ third_nav_title: Mother Tongue
 
 ![2022 Zhang Shou Shi National Calligraphy and Painting Competition for Primary and Secondary Schools](/images/Departments/cl-competition-02.jpg)
 
-**“Creativity, No Boundaries!” National Children’s Story Writing Competition**
+**2.  “Creativity, No Boundaries!” National Children’s Story Writing Competition**
 
 **Objectives:**
 <p style="text-align:justify">To promote local Chinese literary writing and cultivate children’s interest in learning Chinese.</p>
@@ -119,7 +119,7 @@ A total of more than 1000 entries were submitted for the competition. Our studen
 Jiale attended the Award Presentation Ceremony cum Launching of the Chinese Graded Readers on 16 September 2022.  (See Photos below)
 
 
-**National Crosstalk Competition**
+**3.  National Crosstalk Competition**
 
 **Objectives:**
 <p style="text-align:justify">1. To inherit and carry forward the performing arts of cross talk.<br>
@@ -143,7 +143,7 @@ Two groups of Lower Sec students also took part in the 36th All Singapore Second
 <img src="/images/Departments/cl-competition-03.jpg" alt="National Crosstalk Competition" style="width:600px" />
 
 
-**5th Text Recital Competition for Primary and Secondary Schools** 
+**4.  5th Text Recital Competition for Primary and Secondary Schools** 
 
 Our students took part in the above recital competition in May 2022 and they have done us proud with the following outcomes:
 
@@ -159,7 +159,7 @@ Our students took part in the above recital competition in May 2022 and they hav
 |  | Foo Zhi Xin（3R2 |
 |  |  Teo Li Ting（3R3）|
 
-**20th National Secondary School Chinese Creative Writing Competition **in April 2022
+**5.  20th National Secondary School Chinese Creative Writing Competition **in April 2022
 
 Our students took part in the above Chinese Creative Writing Competition in April 2022
 
