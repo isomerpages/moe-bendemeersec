@@ -140,6 +140,23 @@ Two groups of Lower Sec students also took part in the 36th All Singapore Second
 <img src="/images/Departments/cl-competition-03.jpg" alt="Learning Journey cum School Immersion Programme to Xiamen (China)" style="width:600px" />
 
 
+**5th Text Recital Competition for Primary and Secondary Schools** 
+
+Our students took part in the above recital competition in May 2022 and they have done us proud with the following outcomes:
+
+|  |  |
+| -------- | -------- | 
+|  Silver Award  |  Sing Hui Ru（1C1）   | 
+|  | Xiao Ying（3R2 |
+| | Tan Zi Lin（3R3）|
+
+|  |  |
+| -------- | -------- | 
+| Bronze Award |  Koh Jing Ya（3R2）|
+|  | Foo Zhi Xin（3R2 |
+|  |  Teo Li Ting（3R3）|
+
+
  
 **Learning Journey cum School Immersion Programme to Xiamen (China)**
 
