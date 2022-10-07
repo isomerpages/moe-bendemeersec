@@ -61,17 +61,12 @@ third_nav_title: Mother Tongue
 
 ![Mid-Autumn Festival](/images/Departments/cl-midautumn-04.jpg)
 
-**External Competitions**
+#### **External Competitions**
 
 **2022 Zhang Shou Shi National Calligraphy and Painting Competition for Primary and Secondary Schools**
 
-<p style="text-align:justify">Description of competition.</p>
-
 **Objective:**
 <p style="text-align:justify">To promote the art of Chinese Calligraphy and Painting and cultivate student's interest in the learning of Chinese Calligraphy and Painting.</p>
-
-
-
 
 | Chinese Painting Category |  | 
 | -------- | -------- | 
@@ -80,11 +75,7 @@ third_nav_title: Mother Tongue
 |   |  | 
 
 
-
-
 **“Creativity, No Boundaries!” National Children’s Story Writing Competition.**
-
-<p style="text-align:justify">Description of competition.</p>
 
 **Objectives:**
 <p style="text-align:justify">To promote local Chinese literary writing and cultivate children’s interest in learning Chinese.</p>
