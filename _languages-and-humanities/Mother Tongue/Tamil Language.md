@@ -4,14 +4,14 @@ permalink: /departments/mothertongue/tamillang/
 description: ""
 third_nav_title: Mother Tongue
 ---
-
 #### **Teaching and Learning of Tamil Language**
 
-<p style="text-align:justify">From Sec 1 to Sec 4, all the students were given opportunities to exhibit their interest and talents so as to develop their love for language and enhance academic learning.  Students are given opportunities to develop their language skills such as storytelling, stand up comedy, Drawing and Rangoli, advertisement act, one minute video making, one act play, mono acting, singing song, one minute talk, debate and other talents.  </p>
+<p style="text-align:justify">From Sec 1 to Sec 4, all the students were given opportunities to exhibit their interest and talents to develop their love for language and enhance academic learning. With the introduction of Personal Learning Devices, PLDs, ICT integrated lessons were carried out to deepen students’ understanding.  Students are given opportunities to develop their language skills such as storytelling, stand-up comedy, Drawing and Rangoli, advertisement act, one minute video making, one act play, mono acting, singing song, .  </p>
 
 
 
 ![Teaching and Learning of Tamil Language](/images/Departments/tl-lesson-01.jpg)
+Using PLD in Classroom
 
 #### **Learning Journey**
 
@@ -30,7 +30,7 @@ third_nav_title: Mother Tongue
 
 <p style="text-align:justify">Every year, the Tamil Language Unit organizes the Pongal Festival and Deepavali celebrations. The school foyer will be decorated with vibrant Rangoli designs and traditional decorations. Pongal delicacies were served for the school to savour traditional indian delights. Amidst the fanfare the celebrations also put across the values inculcated through traditional practices.</p>
 
-<p style="text-align:justify">Parents also participate in Pongal and Deepavali preparations at school by contributing their service in decorating school and making Pongal delicacies.</p>
+
 
 ![Pongal Festival and Deepavali Celebrations](/images/Departments/tl-festive-01.jpg)
 
@@ -41,7 +41,7 @@ third_nav_title: Mother Tongue
 
 **External Competitions**
 
-<p style="text-align:justify">Teachers will develop and train the students for inter-school competitions to be held at cluster and national level conducted by community centres and other literary organisations. Our Bendemeer Tamil Language students have been participating in SORKALAM, Naanum Oru Padaipaali (CPDD, MOE), Creative writing competition, language and cultural competitions organised by community centres and achieved many prizes at the national level.  </p>
+<p style="text-align:justify">Teachers will develop and train the students for inter-school competitions to be held at cluster and national level conducted by community centres and other literary organisations. Our Bendemeer Tamil Language students have been participating in SORKALAM, Naanum Oru Padaipaali (CPDD, MOE), Navarasam, Creative writing competition, language and cultural competitions organised by community centres and achieved many prizes at the national level.</p>
 
 ![External Competitions](/images/Departments/tl-competition-01.jpg)
 
