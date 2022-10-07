@@ -149,8 +149,35 @@ Outcome:
 
 <p style="text-align:justify">Our school was represented by 2 students, <b>Merisa Indajang (3R2) and Parvena Kaur Daljit Singh (3R3).</b> They gained valuable knowledge from their participation in the competition.</p>
 
-<!--
-![Translation Competition: 3T (TERJEMAH, TUTUR, TEPAT) at National Junior College](/images/Departments/ml-comp-03.jpg)
--->
+
 
 <img src="/images/Departments/ml-comp-03.jpg" alt="Competition:3T (TERJEMAH, TUTUR, TEPAT) at National Junior College"/>
+
+#### Malay Language Unit Partnership with MENDAKI.
+
+**MENDAKI** is a self-help group dedicated to helping the Malay/Muslim community. This year, 2022, the Malay Language Unit is happy to welcome MENDAKI as one of our partners to conduct a series of modules reaffirming the values and cultural aspects of the Malay students.<br>
+	
+These modules will further uplift the underprivileged and nurture a learning positive mindset as well as provide valuable guidance to our students to be future role models in the community.<br>
+	
+The modules were done in a face to face interactions with some well-known Malay community figures such as Mr Iskandar Muda Abdul Jalil who is a well known Silat teacher. He shared some tips to our Sec 3 students on how to be a successful person by instilling the values learnt through Silat. <br>
+	
+Mr Anuar Othman was another visitor to the school. He is a prolific writer who has written 15 books. One of Mr Anuar’s famous book is Mencari Hidayah.He was invited to talk about successful Malays who could be role models for the Malay community.
+
+**The 5 modules our Sec 3 students attended.**<br>
+**Module 1: Preserving identity through poetry.**
+Students will study while learning how to create a poem through theme, rhythm (rhyme), content of knowledge and melody that brings meaning to those who hear the poem.<br>
+
+**Module 2: Martial spirit to fight for success.**
+Students will learn how the spirit of struggle towards success can be sustained by every Malay child through the qualities practiced by martial artists.<br>
+
+**Module 3: My story and Malay identity.**
+Students will learn about the background of the Malay race and what are the characteristics of Malay identity. This identity can be developed through the understanding and study of Malay folk tales and modern films.<br>
+
+**Module 4: Motivating our Malay Youth.**
+Students will be introduced to Malay figures who have achieved success, the challenges they face and how they overcome them.<br>
+
+**Module 5: Malay customs and culture in the 21st century.**
+Students will learn how to preserve the Malay distinctive heritage and wisdom of customs and culture in the 21st century.
+
+The Malay Language teachers sincere hope is that one day, our students can identify themselves with one of the role models they have learnt in these sharing and be successful in their own ways and contribute back to society.<br>
+We would like to convey our sincere appreciation and thanks to MENDAKI and hope to continue working with the organisation again in the near future.
