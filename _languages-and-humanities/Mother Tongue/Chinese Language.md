@@ -156,6 +156,23 @@ Our students took part in the above recital competition in May 2022 and they hav
 |  | Foo Zhi Xin（3R2 |
 |  |  Teo Li Ting（3R3）|
 
+**20th National Secondary School Chinese Creative Writing Competition **in April 2022
+
+Our students took part in the above Chinese Creative Writing Competition in April 2022
+
+| Awarded Certificate of Participation |  |
+| -------- | -------- | 
+|   Lower Secondary |  Ngai Mang Wai（1C1)   | 
+|  | Jiang Sun Chengwei（2R1）  |
+|  | Huang Yizhe（2R3）  |
+|  | Xiang Bingbin（2R4） |
+| 高年级组  | Tai Zi Yang（3R1）  |
+|  |Ge Siyu（3R2）   |
+|  | Liu Jin（3R2）  |
+|  | Shen Qianxiang（3R2） |
+|  | Lee Yu Jing（3R3）  |
+
+
 
  
 **Learning Journey cum School Immersion Programme to Xiamen (China)**
