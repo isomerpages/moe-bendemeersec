@@ -92,7 +92,7 @@ third_nav_title: Mother Tongue
 **Outcome:**
 
 
-| Awarded Certificate of participation |  | 
+<!--| Awarded Certificate of participation |  | 
 | -------- | -------- | 
  | Josh Tekani (2R1)| |
 |Cui Xinran (2R4) | |
@@ -112,6 +112,28 @@ third_nav_title: Mother Tongue
 | Awarded the Excellence Award |  | 
 | -------- | -------- | 
 | Chen Jia Le (3R2) |  |
+| | |
+-->
+
+
+| Awarded Certificate of participation | Josh Tekani (2R1) | 
+| -------- | -------- | 
+|| Cui Xinran (2R4) |
+ | | Lee Jie Qi (2R4)|
+ |  |Xiang Bingbin (2R4)|
+|  |Qiao Mai (3R1)| 
+ | | Liu Jin (3R2)| 
+|  |Tan Zi Lin (3R3)| 
+|  | He Huanqi (4R1)|
+| |  Li Houze (4R1)| 
+| | Chen Yuqi (4R2)| 
+| | Cui Zhiying (4R2)| 
+ |   |Zheng Pui Hei (4R2)|
+|  |  |
+
+
+| Awarded the Excellence Award | Chen Jia Le (3R2)  | 
+| -------- | -------- | 
 | | |
 
 
