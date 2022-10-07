@@ -49,9 +49,9 @@ Using PLD in Classroom
 
 **Partnership with External Organisations**
 
-<p style="text-align:justify">Tamil unit has been liaising with SINDA to conduct motivational and personality development programmes for tamil students. In 2019, a character development and personality development workshop called ‘Youth Victory’ was conducted for 10 sessions to selected students. In 2021, a motivational workshop was conducted for upper secondary students.  </p>
+<p style="text-align:justify">Tamil unit has been liaising with SINDA to conduct motivational and personality development programmes for Tamil students. A character development and personality development workshop called ‘Youth Victory’ was conducted for selected students. Motivational workshops, Cyber wellness Programmes and Rise Above Mediocrity Programmes were conducted for Tamil students based on their developmental needs to equip them to adopt 21st Century Skills.   </p>
 
-<p style="text-align:justify">Tamil Unit and Chinese Language Unit have joined the research programme ‘Singapore primary &amp; secondary students’ perceptions, challenges &amp; attainment in CL &amp; TL composition writing: A comparative study on computer-based and paper-and-pen-based writing’ under the guidance of Mother Tongue HOD.  Our Secondary 3 Higher Tamil and Express students are participating in this 8 weeks research programme. </p>
+<p style="text-align:justify">Tamil Unit and Chinese Language Unit have joined the research programme ‘Singapore primary & secondary students’ perceptions, challenges & attainment in CL & TL composition writing: A comparative study on computer-based and paper-and-pen-based writing’ under the guidance of Mother Tongue HOD.  Our Secondary 3 Higher Tamil and Express students are participating in this 8 weeks research programme. </p>
 
 
 **Twinning Programme in Chennai (India)** 
