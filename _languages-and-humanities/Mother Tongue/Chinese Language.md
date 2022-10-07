@@ -110,7 +110,9 @@ third_nav_title: Mother Tongue
 | 3R2 | Chen Jia Le |
 | | |
 
-![2022 Zhang Shou Shi National Calligraphy and Painting Competition for Primary and Secondary Schools](/images/Departments/cl-competition-04.jpg)
+
+<img src="/images/Departments/cl-competition-04.jpg" alt="Creative, No Boundaries! National Children's Story Writing Competition" style="width:600px" />
+
 
 A total of more than 1000 entries were submitted for the competition. Our student, 3R2 Chen Jiale’s winning entry《猫与蒲公英》(The Cat and the Dandelion) was one of the 36 selected for the story writing competition and she was awarded the Excellence Award. The winning entries of the story writing competition were published as a series of Chinese graded readers. 
 
@@ -138,7 +140,7 @@ Two groups of Lower Sec students also took part in the 36th All Singapore Second
 |  | 2R4 Cui Xinran |
 
 
-<img src="/images/Departments/cl-competition-03.jpg" alt="Learning Journey cum School Immersion Programme to Xiamen (China)" style="width:600px" />
+<img src="/images/Departments/cl-competition-03.jpg" alt="National Crosstalk Competition" style="width:600px" />
 
 
 **5th Text Recital Competition for Primary and Secondary Schools** 
