@@ -109,6 +109,7 @@ third_nav_title: Mother Tongue
 | -------- | -------- | 
 | 3R2 | Chen Jia Le |
 | | |
+
 ![2022 Zhang Shou Shi National Calligraphy and Painting Competition for Primary and Secondary Schools](/images/Departments/cl-competition-04.jpg)
 
 A total of more than 1000 entries were submitted for the competition. Our student, 3R2 Chen Jiale’s winning entry《猫与蒲公英》(The Cat and the Dandelion) was one of the 36 selected for the story writing competition and she was awarded the Excellence Award. The winning entries of the story writing competition were published as a series of Chinese graded readers. 
