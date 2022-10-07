@@ -30,6 +30,7 @@ Using PLD in Classroom
 
 <p style="text-align:justify">Every year, the Tamil Language Unit organizes the Pongal Festival and Deepavali celebrations. The school foyer will be decorated with vibrant Rangoli designs and traditional decorations. Pongal delicacies were served for the school to savour traditional indian delights. Amidst the fanfare the celebrations also put across the values inculcated through traditional practices.</p>
 
+<p style="text-align:justify">Parents also participate in Pongal and Deepavali preparations at school by contributing their service in decorating school and making Pongal delicacies. </p>
 
 
 ![Pongal Festival and Deepavali Celebrations](/images/Departments/tl-festive-01.jpg)
