@@ -70,9 +70,13 @@ third_nav_title: Mother Tongue
 
 | Chinese Painting Category |  | 
 | -------- | -------- | 
-| 2R4 Xiang Bingbin     | Excellence Award     | Chinese Calligraphy Category |  |
+| 2R4 Xiang Bingbin     | Excellence Award     |
+| | | 
+
+| Chinese Calligraphy Category |  |
+| -------- | -------- | 
 |2R3 Huang Yizhe | Certificate of participation |
-|   |  | 
+| | | 
 
 ![2022 Zhang Shou Shi National Calligraphy and Painting Competition for Primary and Secondary Schools](/images/Departments/cl-competition-01.jpg)
 
