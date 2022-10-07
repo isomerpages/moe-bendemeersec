@@ -14,7 +14,7 @@ third_nav_title: Mother Tongue
 
 <p style="text-align:justify">The Secondary One HCL students attended cultural lessons over a period of three cycles. They were first introduced to the Chinese calligraphy where they wrote couplets and proudly displayed them around the school during Chinese New Year celebrations. </p>
 
-<p style="text-align:justify">Due to Covid-19, the second and third cycles were held using lesson packages in the Student Learning Space (SLS) and over zoom sessions. Students were introduced to the history and characteristics of Chinese painting to learn to appreciate the beauty of the Chinese culture. Students also learnt the art of paper cutting. They started off by cutting basic patterns before learning to cut the Chinese characters “平安” which symbolises staying safe and well.</p>
+<p style="text-align:justify">Students were introduced to the history and characteristics of Chinese painting to learn to appreciate the beauty of the Chinese culture. Students also learnt the art of paper cutting. They started off by cutting basic patterns before learning to cut the Chinese characters.</p>
 
 <p style="text-align:justify">Through these cultural lessons, we hope that students will be able to appreciate the Chinese culture and cultivate their interest in learning the Chinese Language</p>
 
@@ -51,7 +51,7 @@ third_nav_title: Mother Tongue
 
 ![Mid-Autumn Festival](/images/Departments/cl-midautumn-06.jpg)
 
-<p style="text-align:justify">Various level activities were also planned to cultivate students’ appreciation of the Chinese culture. The Secondary one students created bookmarks using proverbs about the moon. The Secondary two students designed posters about the Mid-Autumn Festival. The Secondary 3 students researched on topics and designed information sheets to introduce the traditions, customs and food related to the Mid-Autumn festival. These works of art produced by the students were displayed at the school foyer to showcase students’ learning.</p>
+<p style="text-align:justify">Various level activities were also planned to cultivate students’ appreciation of the Chinese culture. The Secondary 1 students created bookmarks using proverbs about the moon. The Secondary 2 students designed posters about the Mid-Autumn Festival. The Secondary 3 students researched on topics and designed information sheets to introduce the traditions, customs and food related to the Mid-Autumn festival. These works of art produced by the students were displayed at the school foyer to showcase students’ learning.</p>
 
 ![Mid-Autumn Festival](/images/Departments/cl-midautumn-01.jpg)
 
@@ -63,45 +63,91 @@ third_nav_title: Mother Tongue
 
 **External Competitions**
 
-**37th National Huichun Calligraphy Convention 2020 at Singapore Calligraphy Centre**
+**2022 Zhang Shou Shi National Calligraphy and Painting Competition for Primary and Secondary Schools**
 
-<p style="text-align:justify">The Chinese Calligraphy Society of Singapore organized the 37th National Huichun Calligraphy Convention 2020 on Sunday, 5th January 2020.</p>
+<p style="text-align:justify">Description of competition.</p>
+
+**Objective:**
+<p style="text-align:justify">To promote the art of Chinese Calligraphy and Painting and cultivate student's interest in the learning of Chinese Calligraphy and Painting.</p>
+
+
+
+
+| Chinese Painting Category |  | 
+| -------- | -------- | 
+| 2R4 Xiang Bingbin     | Excellence Award     | Chinese Calligraphy Category |  |
+|2R3 Huang Yizhe | Certificate of participation |
+|   |  | 
+
+
+
+
+**“Creativity, No Boundaries!” National Children’s Story Writing Competition.**
+
+<p style="text-align:justify">Description of competition.</p>
 
 **Objectives:**
-<p style="text-align:justify">To provide a platform for Singaporeans (especially youths) to practise Chinese calligraphy and increase their interest in this form of art;
-To cultivate the appreciation of Chinese culture by introducing more Singaporeans to the beauty of Chinese calligraphy.</p>
-
-**Outcome:**
-<p style="text-align:justify">Our school was represented by 2 students, Tan Wan Fei (2R4) and Tan Wan Lin (2R5) who were awarded certificates of participation.</p>
-
-![External Competitions](/images/Departments/cl-calligraphy-02.jpg)
-
-
-**18th National Secondary School Chinese Creative Writing Competition**
-
-<p style="text-align:justify">Singapore Hokkien Huay Kuan, Singapore Literary Society, Nan Chiau High School and Zaobao Comma organised the 18th National Secondary School Chinese Creative Writing Competition which was held online from 22nd June to 29th June 2020.</p>
+<p style="text-align:justify">To promote local Chinese literary writing and cultivate children’s interest in learning Chinese.</p>
 
 ![18th National Secondary School Chinese Creative Writing Competition](/images/Departments/cl-writing-01.jpg)
 
-**Objectives:**
-<p style="text-align:justify">To promote the use of Chinese Language and enhance the interest in creative writing among Secondary School students;
-To encourage students to be innovative and express their thoughts and feelings in a literary manner.</p>
+
 
 **Outcome:**
-<p style="text-align:justify">Our school was represented by 3 students, Yang Ningting (1C2), Chen Jiale (1C3) and Dai Jiayu (3R1) who were awarded certificates of participation. </p>
+
+
+| Awarded Certificate of participation |  | 
+| -------- | -------- | 
+| 2R1 | Josh Tekani |
+|2R4 |Cui Xinran  |
+| 2R4 | Lee Jie Qi |
+| 2R4 | Xiang Bingbin |
+| 3R1 | Qiao Mai | 
+| 3R2 | Liu Jin | 
+| 3R3 | Tan Zi Lin | 
+| 4R1 | He Huanqi | 
+| 4R1 |  Li Houze | 
+| 4R2 | Chen Yuqi | 
+| 4R2 | Cui Zhiying | 
+| 4R2 | Zheng Pui Hei | 
+|  |  |
+
+| Awarded the Excellence Award |  | 
+| -------- | -------- | 
+| 3R2 | Chen Jia Le |
+| | |
+
+A total of more than 1000 entries were submitted for the competition. Our student, 3R2 Chen Jiale’s winning entry《猫与蒲公英》(The Cat and the Dandelion) was one of the 36 selected for the story writing competition and she was awarded the Excellence Award. The winning entries of the story writing competition were published as a series of Chinese graded readers. 
+
+Jiale attended the Award Presentation Ceremony cum Launching of the Chinese Graded Readers on 16 September 2022.  (See Photos below)
+
 
 ![18th National Secondary School Chinese Creative Writing Competition](/images/Departments/cl-writing-02.jpg)
 
-**“2020, Our story about fighting COVID-19” National Secondary School Chinese Creative Writing Competition**
-
-<p style="text-align:justify">The Singapore Chinese Teachers Union and the Committee to Promote Chinese Language Learning organized the “2020, Our story about fighting COVID-19” National Secondary School Chinese Writing Competition from 20th May to 25th July 2020.</p>
+**National Crosstalk Competition**
 
 **Objectives:**
-<p style="text-align:justify">To develop students’ proficiency of the Chinese Language and hone their writing skills;
-To expose students to various writing genres and cultivate their love for writing.</p>
+<p style="text-align:justify">1. To inherit and carry forward the performing arts of cross talk.<br>
+2. To promote healthy cultural and recreational activities. <br>
+3. To increase student’s interest in the learning of Chinese and the level of appreciation for cross talk performances.</p>
 
 **Outcome:**
-<p style="text-align:justify">Our school was represented by 3 students, Qiao Mai (1C3), Dai Jiayu (3R1) and Li Yunfeng (3R1). Dai Jiayu (3R1) was awarded the Third Prize in the competition. </p>
+Two groups of Lower Sec students also took part in the 36th All Singapore Secondary School Crosstalk Competition which were held last Semester.
+
+
+
+| Awarded Certificate of Participation |  | 
+| -------- | -------- | 
+| Group 1     | 2R1 Jiang Sun Chengwei     | 
+|  |  2R1 Lu Qingfu |
+|  |  2R3 Zhang Jingshu |
+| Group 2 |  2R1 Josh Tekani |
+|  | 2R4 Cui Xinran |
+
+
+
+
+
  
 **Learning Journey cum School Immersion Programme to Xiamen (China)**
 
