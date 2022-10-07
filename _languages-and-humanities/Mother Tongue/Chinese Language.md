@@ -70,12 +70,12 @@ third_nav_title: Mother Tongue
 
 | Chinese Painting Category |  | 
 | -------- | -------- | 
-| 2R4 Xiang Bingbin     | Excellence Award     |
+| Xiang Bingbin (2R4)    | Excellence Award     |
 | | | 
 
 | Chinese Calligraphy Category |  |
 | -------- | -------- | 
-|2R3 Huang Yizhe | Certificate of participation |
+|Huang Yizhe (2R3) | Certificate of participation |
 | | | 
 
 ![2022 Zhang Shou Shi National Calligraphy and Painting Competition for Primary and Secondary Schools](/images/Departments/cl-competition-01.jpg)
@@ -94,31 +94,31 @@ third_nav_title: Mother Tongue
 
 | Awarded Certificate of participation |  | 
 | -------- | -------- | 
-| 2R1 | Josh Tekani |
-|2R4 |Cui Xinran  |
-| 2R4 | Lee Jie Qi |
-| 2R4 | Xiang Bingbin |
-| 3R1 | Qiao Mai | 
-| 3R2 | Liu Jin | 
-| 3R3 | Tan Zi Lin | 
-| 4R1 | He Huanqi | 
-| 4R1 |  Li Houze | 
-| 4R2 | Chen Yuqi | 
-| 4R2 | Cui Zhiying | 
-| 4R2 | Zheng Pui Hei | 
+ | Josh Tekani (2R1)| |
+|Cui Xinran (2R4) | |
+ | Lee Jie Qi (2R4)| |
+ | Xiang Bingbin (2R4)| |
+| Qiao Mai (3R1)|  |
+ | Liu Jin (3R2)|  |
+| Tan Zi Lin (3R3)|  |
+| He Huanqi (4R1)|  |
+|  Li Houze (4R1)|  |
+| Chen Yuqi (4R2)|  |
+| Cui Zhiying (4R2)|  |
+ | Zheng Pui Hei (4R2)|  |
 |  |  |
 
 
 | Awarded the Excellence Award |  | 
 | -------- | -------- | 
-| 3R2 | Chen Jia Le |
+| Chen Jia Le (3R2) |  |
 | | |
 
 
 <img src="/images/Departments/cl-competition-04.jpg" alt="Creative, No Boundaries! National Children's Story Writing Competition" style="width:600px" />
 
 
-A total of more than 1000 entries were submitted for the competition. Our student, 3R2 Chen Jiale’s winning entry《猫与蒲公英》(The Cat and the Dandelion) was one of the 36 selected for the story writing competition and she was awarded the Excellence Award. The winning entries of the story writing competition were published as a series of Chinese graded readers. 
+A total of more than 1000 entries were submitted for the competition. Our student, Chen Jiale’s winning entry《猫与蒲公英》(The Cat and the Dandelion) was one of the 36 selected for the story writing competition and she was awarded the Excellence Award. The winning entries of the story writing competition were published as a series of Chinese graded readers. 
 
 Jiale attended the Award Presentation Ceremony cum Launching of the Chinese Graded Readers on 16 September 2022.  (See Photos below)
 
@@ -137,11 +137,11 @@ Two groups of Lower Sec students also took part in the 36th All Singapore Second
 
 | Awarded Certificate of Participation |  | 
 | -------- | -------- | 
-| Group 1     | 2R1 Jiang Sun Chengwei     | 
-|  |  2R1 Lu Qingfu |
-|  |  2R3 Zhang Jingshu |
-| Group 2 |  2R1 Josh Tekani |
-|  | 2R4 Cui Xinran |
+| Group 1     | 2R1 Jiang Sun Chengwei (2R1)  | 
+|  |  Lu Qingfu (2R1)|
+|  |  Zhang Jingshu (2R3)|
+| Group 2 |  Josh Tekani (2R1)|
+|  | Cui Xinran (2R4)|
 
 
 <img src="/images/Departments/cl-competition-03.jpg" alt="National Crosstalk Competition" style="width:600px" />
@@ -153,15 +153,15 @@ Our students took part in the above recital competition in May 2022 and they hav
 
 |  |  |
 | -------- | -------- | 
-|  Silver Award  |  Sing Hui Ru（1C1）   | 
-|  | Xiao Ying（3R2 |
-| | Tan Zi Lin（3R3）|
+|  Silver Award  |  Sing Hui Ru (1C1) | 
+|  | Xiao Ying (3R2) |
+| | Tan Zi Lin (3R3)|
 
 |  |  |
 | -------- | -------- | 
-| Bronze Award |  Koh Jing Ya（3R2）|
-|  | Foo Zhi Xin（3R2 |
-|  |  Teo Li Ting（3R3）|
+| Bronze Award |  Koh Jing Ya (3R2)|
+|  | Foo Zhi Xin (3R2) |
+|  |  Teo Li Ting (3R3) |
 
 **5.  20th National Secondary School Chinese Creative Writing Competition **in April 2022
 
