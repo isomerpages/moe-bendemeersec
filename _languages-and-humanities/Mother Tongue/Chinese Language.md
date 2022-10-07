@@ -74,13 +74,14 @@ third_nav_title: Mother Tongue
 |2R3 Huang Yizhe | Certificate of participation |
 |   |  | 
 
+![2022 Zhang Shou Shi National Calligraphy and Painting Competition for Primary and Secondary Schools](/images/Departments/cl-competition-01.jpg)
 
-**“Creativity, No Boundaries!” National Children’s Story Writing Competition.**
+![2022 Zhang Shou Shi National Calligraphy and Painting Competition for Primary and Secondary Schools](/images/Departments/cl-competition-02.jpg)
+
+**“Creativity, No Boundaries!” National Children’s Story Writing Competition**
 
 **Objectives:**
 <p style="text-align:justify">To promote local Chinese literary writing and cultivate children’s interest in learning Chinese.</p>
-
-![18th National Secondary School Chinese Creative Writing Competition](/images/Departments/cl-writing-01.jpg)
 
 
 
@@ -103,17 +104,17 @@ third_nav_title: Mother Tongue
 | 4R2 | Zheng Pui Hei | 
 |  |  |
 
+
 | Awarded the Excellence Award |  | 
 | -------- | -------- | 
 | 3R2 | Chen Jia Le |
 | | |
+![2022 Zhang Shou Shi National Calligraphy and Painting Competition for Primary and Secondary Schools](/images/Departments/cl-competition-04.jpg)
 
 A total of more than 1000 entries were submitted for the competition. Our student, 3R2 Chen Jiale’s winning entry《猫与蒲公英》(The Cat and the Dandelion) was one of the 36 selected for the story writing competition and she was awarded the Excellence Award. The winning entries of the story writing competition were published as a series of Chinese graded readers. 
 
 Jiale attended the Award Presentation Ceremony cum Launching of the Chinese Graded Readers on 16 September 2022.  (See Photos below)
 
-
-![18th National Secondary School Chinese Creative Writing Competition](/images/Departments/cl-writing-02.jpg)
 
 **National Crosstalk Competition**
 
@@ -136,7 +137,7 @@ Two groups of Lower Sec students also took part in the 36th All Singapore Second
 |  | 2R4 Cui Xinran |
 
 
-
+<img src="/images/Departments/cl-competition-03.jpg" alt="Learning Journey cum School Immersion Programme to Xiamen (China)" style="width:600px" />
 
 
  
