@@ -36,16 +36,7 @@ description: ""
 
 <p>The winning entries of the story writing competition were published as a series of Chinese graded readers.</p>
 
-<p>The 18 graded readers (Grade 1 to 3) would be launched this year and distributed to the various Primary schools nationwide.</p>
-
-
-<p>
-
-| Awarded the Excellence Award | Chen Jia Le (3R2)  | 
-| -------- | -------- | 
-| | |
-
-</p>
+<p>The 18 graded readers (Grade 1 to 3) would be launched this year and distributed to the various Primary schools nationwide. </p>
 
 
 <img src="/images/Departments/cl-competition-04.jpg" alt="Creative, No Boundaries! National Children's Story Writing Competition" style="width:600px" />
