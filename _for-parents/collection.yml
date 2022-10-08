@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Open House.md
       - Online School Magazines.md
       - Class Timetable.md
       - Useful Links.md
-      - Open House.md
