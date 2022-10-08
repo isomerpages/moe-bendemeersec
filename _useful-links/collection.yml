@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - First Day of School.md
       - Online School Magazines.md
       - Class Timetable.md
       - Links for Parents & Staff.md
