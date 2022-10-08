@@ -3,6 +3,10 @@ title: Teacher's Day Celebration
 permalink: /life-at-bdms/teachersday/
 description: ""
 ---
+<style>
+.google-slides-container{ position: relative; width: 100%; padding-top: 60%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+</style>
+
 This year's Teachers' Day Celebrations,
 is the first event that had all students gathered back to the school hall to acknowledge the efforts and show appreciation for their
 teachers' and school staff'. 
