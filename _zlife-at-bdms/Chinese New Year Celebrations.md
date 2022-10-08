@@ -17,3 +17,5 @@ It was heartening to see students of Bendemeer Secondary School enjoying the con
 ![Chinese New Year](/images/Departments/cl-cny-02.jpg)
 
 ![Chinese New Year](/images/Departments/cl-cny-03.jpg)
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRW-9nxZAGpgk9kwbfSfCGMbAc1ztfwn1-p8q3V0z7Rix5Scc2Nz1NSIU4Bx2fzCoT0cDGW_qog2MMz/embed?start=true&loop=true&delayms=3000" frameborder="0" width="840" height="589" allowfullscreen="true"></iframe>
