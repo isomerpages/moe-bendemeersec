@@ -6,13 +6,13 @@ description: ""
 <details> 
 <summary style="color:#f8bf1c; font-size:30px;"><b>Drone Odyssey Challenge</b></summary>
 
-Our student took part in the Drone Odyssey Challenge, organised by Science Centre Singapore.  
+Our student took part in the Drone Odyssey Challenge, organised by Science Centre Singapore.  <br>
 
-The objective of the event aim to inculcate technical skillsets, critical thinking, and an appreciation of new and disruptive technologies relevant to the modern world.
+The objective of the event aim to inculcate technical skillsets, critical thinking, and an appreciation of new and disruptive technologies relevant to the modern world.<br>
 
-A series of workshops and live demonstrations have been specially developed for both students and mentors to complement their learning journeys leading up to the competition proper. 
+A series of workshops and live demonstrations have been specially developed for both students and mentors to complement their learning journeys leading up to the competition proper. <br>
 
-Our students from the Infocomm Club did us proud by emerging champions and first-runners up!  Congratulations!  
+Our students from the Infocomm Club did us proud by emerging champions and first-runners up!  Congratulations!  <br>
 
 Here are some photos:
 
