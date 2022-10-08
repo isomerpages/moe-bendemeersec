@@ -6,9 +6,9 @@ description: ""
 <details> 
 <summary style="color:#f8bf1c; font-size:30px;"><b>Drone Odyssey Challenge</b></summary>
 
-Our student took part in the Drone Odyssey Challenge, organised by Science Centre Singapore.  <br>
+<p>Our student took part in the Drone Odyssey Challenge, organised by Science Centre Singapore.  </p>
 
-The objective of the event aim to inculcate technical skillsets, critical thinking, and an appreciation of new and disruptive technologies relevant to the modern world.<br>
+<p>The objective of the event aim to inculcate technical skillsets, critical thinking, and an appreciation of new and disruptive technologies relevant to the modern world.</p>
 
 A series of workshops and live demonstrations have been specially developed for both students and mentors to complement their learning journeys leading up to the competition proper. <br>
 
@@ -23,8 +23,7 @@ Here are some photos:
 
 </details>
 
-| | 
-|-|
+<hr>
 
 <details> 
 <summary style="color:#f8bf1c; font-size:30px;"><b>Creativity, No Boundaries!</b></summary>
