@@ -4,6 +4,22 @@ permalink: /departments/mothertongue/tamillang/
 description: ""
 third_nav_title: Mother Tongue
 ---
+<style>.google-slides-container{  
+position: relative;  
+width: 100%;  
+padding-top: 72%;  
+overflow: hidden;  
+}  
+  
+.google-slides-container iframe{  
+position: absolute;  
+top: 0;  
+left: 0;  
+width: 100%;  
+height: 100%;  
+}  
+</style>
+
 #### **Teaching and Learning of Tamil Language**
 
 <p style="text-align:justify">From Sec 1 to Sec 4, all the students were given opportunities to exhibit their interest and talents to develop their love for language and enhance academic learning. With the introduction of Personal Learning Devices, PLDs, ICT integrated lessons were carried out to deepen students’ understanding.  Students are given opportunities to develop their language skills such as storytelling, stand-up comedy, Drawing and Rangoli, advertisement act, one minute video making, one act play, mono acting, singing song, .  </p>
@@ -65,4 +81,5 @@ Using PLD in Classroom
 
 ![Twinning Programme in Chennai (India)](/images/Departments/tl-chennai-02.jpg)
 
-<iframe allowfullscreen="true" height="589" width="840" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSi5548wj5982hijWPK4R8FvpSixsVpZNUGAjhh7TXfIjOXLw_99TLSE8zozNsKHxttzeSoAQtubf7J/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div class="google-slides-container">
+<iframe allowfullscreen="true" height="589" width="840" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSi5548wj5982hijWPK4R8FvpSixsVpZNUGAjhh7TXfIjOXLw_99TLSE8zozNsKHxttzeSoAQtubf7J/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>
