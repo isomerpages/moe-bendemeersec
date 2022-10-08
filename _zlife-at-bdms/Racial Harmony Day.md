@@ -13,5 +13,5 @@ harmony should never be taken for granted and everyone has a part to play in mai
 Our enthusiastic school leaders, teachers and graduating students all adorned in
 vibrant ethnic costumes on this special occasion.  Not to mention, students and teachers had lots of fun posing for photographs in their colourful ethnic wear.
 
-
-<iframe allowfullscreen="true" height="589" width="840" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSsWXS1KuWGYTjBvbFneLNhd_LUwSyeLhQNpwngHglRIGd5BJL48_f7RP-DTCOsDqj0l9OyX9hXsnmg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="google-slides-container">
+<iframe allowfullscreen="true" height="589" width="840" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSsWXS1KuWGYTjBvbFneLNhd_LUwSyeLhQNpwngHglRIGd5BJL48_f7RP-DTCOsDqj0l9OyX9hXsnmg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div>
