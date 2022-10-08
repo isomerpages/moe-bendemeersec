@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Sec 1 Orientation/.keep
-      - Sec 1 Orientation/Sec 1 Orientation.md
       - PLD Purchase for Sec 1(2023)/.keep
