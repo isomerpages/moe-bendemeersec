@@ -1,5 +1,5 @@
 collections:
-  z-for-parents:
+  z-for-parents-archive:
     output: true
     order:
       - First Day of School.md
