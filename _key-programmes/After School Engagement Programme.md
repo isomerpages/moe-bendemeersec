@@ -3,7 +3,21 @@ title: After School Engagement Programme
 permalink: /key-programmes/uplift-ase/
 description: ""
 ---
-
+<style>.google-slides-container{  
+position: relative;  
+width: 100%;  
+padding-top: 72%;  
+overflow: hidden;  
+}  
+  
+.google-slides-container iframe{  
+position: absolute;  
+top: 0;  
+left: 0;  
+width: 100%;  
+height: 100%;  
+}  
+</style>
 
 The After School Engagement (ASE) Programme aims to:
 
@@ -33,4 +47,5 @@ Some of the activities that have been conducted are:
 * Presentation skills
 * Photo booth for Friendship Day
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXHo-qhJVt7A6U3s99CJIzMTzCpqS0kpan-t_6-JgDLWxvbcqNSRS4dn-biqak2kvxWfJFbSNt2Tn9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="845" height="592" allowfullscreen="true"></iframe>
+<div class="google-slides-container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXHo-qhJVt7A6U3s99CJIzMTzCpqS0kpan-t_6-JgDLWxvbcqNSRS4dn-biqak2kvxWfJFbSNt2Tn9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="845" height="592" allowfullscreen="true"></iframe></div>
