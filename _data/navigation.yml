@@ -28,14 +28,14 @@ links:
         url: /key-programmes/uplift-ase
   - title: Achievements
     collection: achievements
-  - title: Useful Links
-    url: /useful-links/sch-magazines
+  - title: For Parents
+    url: /for-parents/sch-magazines
     sublinks:
-      - title: Online School Magazine
-        url: /useful-links/sch-magazines
       - title: Class Timetable
         url: /useful-links/class-timetable
-      - title: Links for Parents & Staff
-        url: /useful-links/infolinks
+      - title: Online School Magazine
+        url: /useful-links/sch-magazines
       - title: DSA Registration
         url: /useful-links/dsa-registration/
+      - title: Useful Links
+        url: /useful-links/infolinks
