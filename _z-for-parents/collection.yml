@@ -2,6 +2,7 @@ collections:
   z-for-parents:
     output: true
     order:
+      - Sec 1 Registration 2023/.keep
       - Sec 1 Meet The Parents.md
       - First Day of School.md
       - Sec 1 Orientation/Sec 1 Orientation.md
