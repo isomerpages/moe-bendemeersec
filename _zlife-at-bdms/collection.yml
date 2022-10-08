@@ -2,6 +2,7 @@ collections:
   zlife-at-bdms:
     output: true
     order:
+      - Teacher's Day Celebration.md
       - Chinese New Year Celebrations.md
       - Opportunities for All.md
       - Racial Harmony Day.md
