@@ -4,7 +4,7 @@ permalink: /life-at-bdms/opportunities/
 description: ""
 ---
 <details> 
-<summary style="color:GoldenRod; font-size:30px;"><b>Drone Odyssey Challenge</b></summary>
+<summary style="color:#f8bf1c; font-size:30px;"><b>Drone Odyssey Challenge</b></summary>
 
 Our student took part in the Drone Odyssey Challenge, organised by Science Centre Singapore.  
 
@@ -27,7 +27,7 @@ Here are some photos:
 |-|
 
 <details> 
-<summary style="color:GoldenRod; font-size:30px;"><b>Creativity, No Boundaries!</b></summary>
+<summary style="color:#f8bf1c; font-size:30px;"><b>Creativity, No Boundaries!</b></summary>
 
 
 
@@ -62,4 +62,3 @@ Jiale attended the Award Presentation Ceremony cum Launching of the Chinese Grad
 
 | | 
 |-|
-
