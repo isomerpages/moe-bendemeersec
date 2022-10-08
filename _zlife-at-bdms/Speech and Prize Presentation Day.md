@@ -4,7 +4,7 @@ permalink: /life-at-bdms/speechday/
 description: ""
 ---
 <style>
-.google-slides-container{ position: relative; width: 100%; padding-top: 85%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+.google-slides-container{ position: relative; width: 100%; padding-top: 75%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 </style>
 
 Bendemeer Secondary School's Speech Day and Prize-giving Presentation was held on 14th April 2022. We celebrated the achievements of staff and students.
