@@ -39,3 +39,5 @@ links:
         url: /useful-links/infolinks
       - title: DSA Registration
         url: /useful-links/dsa-registration/
+  - title: Menu Title
+    collection: useful-links
