@@ -4,7 +4,7 @@ permalink: /life-at-bdms/rhdcelebrates/
 description: ""
 ---
 <style>
-.google-slides-container{ position: relative; width: 100%; padding-top: 60%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+.google-slides-container{ position: relative; width: 100%; padding-top: 72%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 </style>
 
 The Racial Harmony Day started with a meaningful sharing on the importance of maintain harmony among the various races living in Singapore and the significance of celebrating racial harmony. The main message that was reinforced was that racial
