@@ -2,6 +2,7 @@ collections:
   zlife-at-bdms:
     output: true
     order:
+      - Speech and Prize Presentation Day.md
       - Teacher's Day Celebration.md
       - Chinese New Year Celebrations.md
       - Opportunities for All.md
