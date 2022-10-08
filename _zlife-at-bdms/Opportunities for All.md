@@ -3,7 +3,8 @@ title: Opportunities for All
 permalink: /life-at-bdms/opportunities/
 description: ""
 ---
-### **Drone Odyssey Challenge**
+<details> 
+<summary style="color:GoldenRod; font-size:30px;"><b>Drone Odyssey Challenge</b></summary>
 
 Our student took part in the Drone Odyssey Challenge, organised by Science Centre Singapore.  
 
@@ -17,11 +18,18 @@ Here are some photos:
 
 <a href="https://issuu.com/bendemeersec/docs/try.pptx" target="_blank" >Drones Odyssey  2022</a>
 
+
+	
+
+</details>
+
 | | 
 |-|
-| |
 
-### **Creativity, No Boundaries!**
+<details> 
+<summary style="color:GoldenRod; font-size:30px;"><b>Creativity, No Boundaries!</b></summary>
+
+
 
 Our student Chen Jia Le from Sec 3R2 participated in the “Creativity, No Boundaries!” National Children’s Story Writing Competition. She has done the school proud by clinching the Excellence Award.
 
@@ -49,3 +57,9 @@ Jiale attended the Award Presentation Ceremony cum Launching of the Chinese Grad
 ![](/images/Departments/cl-creativebook-01.jpg)
 
 ![](/images/Departments/cl-creativebook-02.jpg)
+	
+</details>
+
+| | 
+|-|
+
