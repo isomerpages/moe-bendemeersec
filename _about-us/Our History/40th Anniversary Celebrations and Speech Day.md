@@ -4,6 +4,10 @@ permalink: /about-us/our-history/40th-anniversary-speechday/
 description: ""
 third_nav_title: Our History
 ---
+<style>
+.google-slides-container{ position: relative; width: 100%; padding-top: 60%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+</style>
+
 <p style="text-align:justify">
 2017 marked our school’s 40th anniversary. As part of our 40th Anniversary Celebrations, the School Heritage Gallery was officially declared open by Mr Chiang Heng Liang, our School Advisory Committee chairman. In collaboration with our community partners, the school staff and students engaged in our ‘40 Acts of Kindness’ programme. We also had a Homecoming Dinner in conjunction with our 40th Speech Day.</p>
 <p style="text-align:justify">
@@ -32,5 +36,8 @@ In keeping with Bendeemer’s long history of community involvement, we chose to
 <p style="text-align:justify">
 We concluded our 40th Anniversary celebrations with a Homecoming Dinner for the Alumni in conjunction with our 40th Speech Day. The Dinner was graced by our Minister, Associate Professor Yaacob Ibrahim and the night was made memorable by performances by students and alumni.</p>
 
+<div class="google-slides-container">
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR-jAC15Fxosyfs9AD49WEYx22u6Eg6m2TvGZaXSJV6AVADoouTPNC_mWGOfkrgynywwS5pldfxgcZD/embed?start=true&loop=true&delayms=3000" frameborder="0" width="845" height="592" allowfullscreen="true" ></iframe>
+
+</div>
