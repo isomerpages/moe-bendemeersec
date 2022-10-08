@@ -1,5 +1,5 @@
 collections:
-  zannouncement-archive:
+  z-announcement-archive:
     output: true
     order:
       - Test Accordion.md
