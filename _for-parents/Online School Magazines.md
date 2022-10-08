@@ -3,7 +3,6 @@ title: Online School Magazines
 permalink: /for-parents/sch-magazines/
 description: ""
 ---
-
 <p style="text-align:justify">The school produces a school magazine at the end of each year to celebrate the achievements of the students.  It is also a record of activities and work done by the stag and students during the year.  It is an invaluable testimony to work done by everyone.</p>
 
 ### Online School Magazine 2021
@@ -12,7 +11,7 @@ description: ""
 
 [Bendemeer Secondary School e-Magazine 2021](https://issuu.com/touche-design/docs/bendemeer_sec_e-magazine_2021?fr=sNWE3NzI3NTIwODU)
 
-
+<!--
 ### Online School Magazine 2020
 
 Please click on each link to view the the school magazine .
@@ -28,3 +27,5 @@ Please click on each link to view the the school magazine .
 9.  <a href="/files/Schoolmag/2020-schmag-pg24-29.pdf" target="_blank"> Teachers' Reflections</a>
 10.  <a href="/files/Schoolmag/2020-schmag-pg30-41.pdf" target="_blank" >Student's Reflections</a>
 11.  <a href="/files/Schoolmag/2020-schmag-pg42.pdf" target="_blank" >Acknowledgements</a>
+
+-->
