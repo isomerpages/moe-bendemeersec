@@ -3,6 +3,10 @@ title: Chinese New Year Celebrations
 permalink: /life-at-bdms/cnycelebrates/
 description: ""
 ---
+<style>
+.google-slides-container{ position: relative; width: 100%; padding-top: 60%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+</style>
+
 <p style="text-align:justify">The Chinese New Year celebrations this year took place within the individual classrooms. The school population was treated, via Zoom, to an array of stunning performances by the Performing Arts CCA groups, namely, Dance, Choir, Wushu and Band.  Students also obtained a glimpse of how Chinese calligraphy and Chinese painting is done. <br></p>
 
 <p style="text-align:justify">The Chinese New Year concert was a platform for students to showcase their talent. Concert performances include dancing, singing and martial arts. Exciting quizzes were also organized for students to learn more about the customs and traditions of the Chinese New Year. <br></p>
