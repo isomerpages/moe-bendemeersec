@@ -12,3 +12,5 @@ We also had an unveiling of our artwork - Precious in our Hands.
 ![](/images/Lifebdms/lifebdms-speechday-01.jpg)
 
 ![](/images/Lifebdms/lifebdms-speechday-02.jpg)
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTnk85JaiLb8T1Dr1y3WziPvvuq63nne8Al2LfOuDz9DzWxBNA_sGdA3A8tZGmYYWHcZwkn7HDl4WHU/embed?start=true&loop=true&delayms=3000" frameborder="0" width="840" height="589" allowfullscreen="true" ></iframe>
