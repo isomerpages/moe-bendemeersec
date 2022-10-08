@@ -45,3 +45,7 @@ The 18 graded readers (Grade 1 to 3) would be launched this year and distributed
 
 
 Jiale attended the Award Presentation Ceremony cum Launching of the Chinese Graded Readers on 16 September 2022.  (See Photos below)
+
+![](/images/Departments/cl-creativebook-01.jpg)
+
+![](/images/Departments/cl-creativebook-02.jpg)
