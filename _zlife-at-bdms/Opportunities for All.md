@@ -28,8 +28,20 @@ Our student Chen Jia Le from Sec 3R2 participated in the “Creativity, No Bound
 A total of more than 1000 entries were submitted for the competition.
 
 36 entries were shortlisted nationwide and our student 
- Chen Jiale’s entry《猫与蒲公英》(The Cat and the Dandelion) and she was awarded the Excellence Award.
+ Chen Jiale’s entry《猫与蒲公英》(The Cat and the Dandelion) was one of those shortlisted.  She was awarded the Excellence Award.
 
 The winning entries of the story writing competition were published as a series of Chinese graded readers.
 
 The 18 graded readers (Grade 1 to 3) would be launched this year and distributed to the various Primary schools nationwide.
+
+
+
+| Awarded the Excellence Award | Chen Jia Le (3R2)  | 
+| -------- | -------- | 
+| | |
+
+
+<img src="/images/Departments/cl-competition-04.jpg" alt="Creative, No Boundaries! National Children's Story Writing Competition" style="width:600px" />
+
+
+Jiale attended the Award Presentation Ceremony cum Launching of the Chinese Graded Readers on 16 September 2022.  (See Photos below)
