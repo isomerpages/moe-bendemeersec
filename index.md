@@ -13,15 +13,7 @@ sections:
   - hero:
       background: /images/hero-banner01s.jpg
       key_highlights:
-        - title: Bendemeer Open House is here!
-          description: Click for more information!
-          url: /useful-links/openhouse/
-  - infopic:
-      title: Bendemeer Open House
-      subtitle: New!
-      description: Looking for your future secondary school?  Join the Bendemeer Family now!
-      button: Click to find out more!
-      alt: Image alt text
-      image: /images/Announcements/annouce-dsa.jpg
-      url: /useful-links/openhouse/
+        - title: Useful Links for Staff
+          description: Click to see more
+          url: /for-parents/useful-links
 ---
