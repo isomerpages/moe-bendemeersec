@@ -14,18 +14,7 @@ links:
   - title: CCA
     collection: cca
   - title: Key Programmes
-    url: /key-programmes/ndlp/ndlp-overview/
-    sublinks:
-      - title: National Digital Literacy
-        url: /key-programmes/ndlp/ndlp-overview
-      - title: Applied Learning Programme
-        url: /key-programmes/applied-learning-programme
-      - title: Learning For Life Programme
-        url: /key-programmes/llp/llp-overview
-      - title: Bi Cultural Overseas Exchange
-        url: /key-programmes/bi-cultural-prog
-      - title: After School Programme
-        url: /key-programmes/uplift-ase
+    collection: key-programmes
   - title: Achievements
     collection: achievements
   - title: For Parents
@@ -37,5 +26,3 @@ links:
         url: /for-parents/sch-magazines
       - title: Useful Links
         url: /for-parents/useful-links
-  - title: kp
-    collection: key-programmes
