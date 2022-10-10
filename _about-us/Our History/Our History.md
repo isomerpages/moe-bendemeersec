@@ -4,9 +4,8 @@ permalink: /about-us/our-history/
 description: ""
 third_nav_title: Our History
 ---
-
 <p style="text-align:justify">
-Bendemeer Secondary School was first located along the busy Serangoon Road for over 20 years before it moved to its current location at 1 St Wilfred Road.</p>
+Bendemeer Secondary School was first located along the busy Serangoon Road for over 20 years before it moved to its current location at 1 St Wilfred Road..</p>
 <p style="text-align:justify">
 Formerly, the land was owned by Mr Hoo Ah Kay, better known as ‘Whampoa’. There was a famous garden on this land – the Whampoa Gardens – a popular place of interest for residents. Upon Whampoa’s death in 1880, the property was bought by Mr Seah Liang Seah. It was upon this very land that Bendemeer Secondary School was built on.</p>
 <p style="text-align:justify">
