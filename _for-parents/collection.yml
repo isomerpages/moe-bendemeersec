@@ -1,0 +1,7 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - Class Timetable.md
+      - Online School Magazines.md
+      - Useful Links.md

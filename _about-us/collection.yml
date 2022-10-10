@@ -1,0 +1,20 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Our Mission, Vision and Values.md
+      - Principal's Message.md
+      - Vice Principal Mr Ho's Message.md
+      - Vice Principal Mr Azman's Message.md
+      - School Staff Developer's Message.md
+      - Our History/.keep
+      - Our History/Our History.md
+      - Our History/40th Anniversary Celebrations and Speech Day.md
+      - School Song and Bendemeerian Code.md
+      - Bendemeer School Tour.md
+      - School Management Committee.md
+      - School Advisory Committee.md
+      - Partners/.keep
+      - Partners/Parent Support Group.md
+      - Partners/Illustrious Alumni.md
+      - Partners/Triple P Positive Parenting Programme.md

@@ -1,0 +1,17 @@
+collections:
+  co-curricular:
+    output: true
+    order:
+      - Physical Education/.keep
+      - Physical Education/Physical Education Department Overview.md
+      - Physical Education/Acting HOD PE Message.md
+      - CCE/.keep
+      - CCE/Character and Citizenship Education Overview.md
+      - CCE/HOD CCE Message.md
+      - CCE/Career Guidance.md
+      - CCE/Cyber Wellness.md
+      - CCE/Sexuality Education.md
+      - CCE/Character Awards.md
+      - Discipline/.keep
+      - Discipline/Discipline.md
+      - Discipline/The SOAR Programme.md

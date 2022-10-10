@@ -1,0 +1,20 @@
+collections:
+  languages-and-humanities:
+    output: true
+    order:
+      - English and Literature/.keep
+      - English and Literature/English Language Department Overview.md
+      - English and Literature/HOD English's Message.md
+      - English and Literature/English Literature.md
+      - Humanities/.keep
+      - Humanities/Humanities Department Overview.md
+      - Humanities/HOD Humanities Message.md
+      - Humanities/Geography.md
+      - Humanities/History.md
+      - Humanities/Social Studies.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Mother Tongue Dept Overview.md
+      - Mother Tongue/HOD Mother Tongue's Message.md
+      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Malay Language.md
+      - Mother Tongue/Tamil Language.md

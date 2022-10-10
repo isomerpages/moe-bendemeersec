@@ -1,0 +1,8 @@
+collections:
+  z-archive-announcements:
+    output: true
+    order:
+      - DSA Registration.md
+      - Congratulatory Message from Dr Wan Rizal, Adviser to Jalan Besar GRC
+        GROs.md
+      - Test Accordion.md

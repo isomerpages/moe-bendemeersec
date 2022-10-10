@@ -1,13 +1,28 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    collection: about-us
+  - title: Departments
+    url: /departments/english/el-overview
+    sublinks:
+      - title: Language and Humanities
+        url: /departments/english/el-overview
+      - title: S.T.E.M.
+        url: /departments/cnt/cnt-overview
+      - title: Co-Curricular
+        url: /departments/physical-education/pe-overview
+  - title: CCA
+    collection: cca
+  - title: Key Programmes
+    collection: key-programmes
+  - title: Achievements
+    collection: achievements
+  - title: For Parents
+    url: /for-parents/class-timetable
+    sublinks:
+      - title: Class Timetable
+        url: /for-parents/class-timetable
+      - title: Online School Magazine
+        url: /for-parents/sch-magazines
+      - title: Useful Links
+        url: /for-parents/useful-links
