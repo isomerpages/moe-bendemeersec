@@ -30,7 +30,8 @@ third_nav_title: Sports
 
 Our members trained hard to perfect their routines, especially in synchronising with team members for the team events. We managed to obtain one silver and three bronze medals for the National Schools Games and we were also the Overall Champion for the Kallang Community Club Taekwondo Competition. </p>
 
-![](/images/Cca/cca-taekd-03.jpg)
+<img src="/images/Cca/cca-taekd-03.jpg" alt="taekwondo" style="width:400px" />
+
 
 ![](/images/Cca/cca-taekd-02.jpg)
 
