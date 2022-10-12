@@ -4,7 +4,7 @@ permalink: /departments/mothertongue/malaylang/
 description: ""
 third_nav_title: Mother Tongue
 ---
-#### Malay Language Unit Partnership with MENDAKI.
+#### **Malay Language Unit Partnership with MENDAKI**
 
 <b>MENDAKI</b> is a self-help group dedicated to helping the Malay/Muslim community. This year, 2022, the Malay Language Unit is happy to welcome MENDAKI as one of our partners to conduct a series of modules reaffirming the values and cultural aspects of the Malay students.<br>
 	
@@ -198,4 +198,3 @@ Outcome:
 
 
 <img src="/images/Departments/ml-comp-03.jpg" alt="Competition:3T (TERJEMAH, TUTUR, TEPAT) at National Junior College"/>
-
