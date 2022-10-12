@@ -16,9 +16,21 @@ third_nav_title: Sports
 | | |
 
 
+|**Participation** | 
+| --|
+|  National Schools Games Taekwondo Championship 2022|  
+| Kallang Community Club Taekwondo Championship 2022 |  
+| |
+
+<p style="text-align:justify">With relaxed safety measures, training has returned to normalcy. We started the year with the recruitment of seventeen secondary one students through a video that was prepared by our members.</p>
+
+<p style="text-align:justify">Members were excited when the National School Games and the Kallang Community Club Taekwondo Competition resumed albeit with some Safe Management Measures.  Through participation in these competitions, our members could gain the valuable lessons of discipline, sportsmanship and teamwork, which develop them holistically. Our members trained hard to perfect their routines, especially in synchronising with team members for the team events. We managed to obtain one silver and three bronze medals for the National Schools Games and we were also the Overall Champion for the Kallang Community Club Taekwondo Competition. </p>
+
+<p style="text-align:justify">We bid farewell to the graduating members who are preparing for their GCE O and N level examinations. We have appointed the new Captain and Vice-Captains to take over the leadership of the CCA.  </p>
+
+<p style="text-align:justify">We are extremely proud of our members as they adapt to the disruptions for the last two years and their continued enthusiasm in training and the desire to improve their skills in Taekwondo. </p>
 
 
-|  <br> <br><br><br> <br><br><br> <br> <br><br> <br>Leong Wei Ming <br>Chermaine Pang (4R6)     | 
 
 
 
