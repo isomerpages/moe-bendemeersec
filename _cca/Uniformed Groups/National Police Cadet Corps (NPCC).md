@@ -64,8 +64,16 @@ Passing out parade
 | ![High rope courses on Pulau Ubin](/images/Cca/cca-npcc-03.jpg)    | ![Pinning on badges for juniors](/images/Cca/cca-npcc-04.jpg)  |
 
 
+#### NPCC Outing to Marina Barrage 2022
 
 
+This year, NPCC organised an outing to Marina Barrage, to foster stronger bonds among the cadets. It also serves as a reward for their hard work put in throughout the year. The cadets thoroughly enjoyed kite-flying as well as the team-bonding games planned by the UG Leaders.
+
+![](/images/Cca/cca-npcc-11.jpg)
+
+![](/images/Cca/cca-npcc-12.jpg)
+
+![](/images/Cca/cca-npcc-13.jpg)
 
 #### 4 year Programme Highlights
 Learning about Police work:
