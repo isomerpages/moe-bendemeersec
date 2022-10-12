@@ -4,24 +4,21 @@ permalink: /cca/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
-**Teachers-in-Charge:** <br>
-A/ASP (NPCC) Ms Sabrina Wee (OC) <br>
-ASP (NPCC) Mr Oh Tze Ming (2I/C) <br>
-ASP (NPCC) Mr Michael Lee <br>
-
-
-
-**SPF-NPCC Award Recipients 2021**<br>
-SSGT (NPCC) M Mohamed Yasir (4R3) <br>
-SI (NPCC) Liu Xiang (4R5)
-
- CPL(NPCC) Kamal Syed Yousuf (3R3)<br>
-SSGT (NPCC) Subbiah S/O Lakshmanan (5R1)<br>
-SSGT (NPCC) M Mohamed Yasir (4R3)
-
+|**Teachers-in-Charge:**| A/ASP (NPCC) Ms Sabrina Wee (OC)   |
+|---|---|
+|  |  ASP (NPCC) Mr Oh Tze Ming (2I/C)  |
+|  | ASP (NPCC) Mr Michael Lee   |
 <br>
+| **SPF-NPCC Award Recipients 2021** | SARAH ZOE SUNG (4R1)  |
+|  |  JUNETTE ONG JING QING (4R2) |
+<br>
+|Best Unit Cadet  |  CATHERINE LIM MEI NA (4R2) |
+|  | KAMAL SYED YOUSUF (4R3)  |
+<br>
+| Station Inspectors | CATHERINE LIM MEI NA (4R2)  |
+|  | JUNETTE ONG JING QING (4R2)  |
+<br>
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
