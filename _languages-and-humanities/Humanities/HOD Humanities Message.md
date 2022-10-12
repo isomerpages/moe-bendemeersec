@@ -14,12 +14,8 @@ third_nav_title: Humanities
 <p style="text-align:justify">I believe that the study of Humanities is a cohesive collection of experiences, each providing its own unique contribution where students learn to make sense of the world around them. This helps to nurture knowledgeable and committed citizens with a global outlook and skills for the future.</p>
 
 <br>
-<br>
 	
 <p style="text-align:justify">In alignment to the Schools’ Vision, Mission, Values and Motto, the department seeks to influence passionate learners and critical thinkers who will see the relevance of Humanities subjects in their everyday lives.</p>
-
-<br>
-<br>
 	
 <p style="text-align:justify">Through an inquiry-based pedagogical approach, my department equips our students to investigate national and global issues by adopting different perspectives and questioning the accuracy and relevancy of what they hear, read and see in their daily lives. It also teaches them to investigate and solve problems in the exploration of issues surrounding us. The acquisition of these lifelong skills will equip and prepare our students to handle complex challenges of the future.</p>
 
