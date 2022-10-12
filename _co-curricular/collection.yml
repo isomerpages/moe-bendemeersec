@@ -2,7 +2,6 @@ collections:
   co-curricular:
     output: true
     order:
-      - BEE Programme.md
       - Physical Education/.keep
       - Physical Education/Physical Education Department Overview.md
       - Physical Education/Acting HOD PE Message.md
@@ -13,6 +12,7 @@ collections:
       - CCE/Cyber Wellness.md
       - CCE/Sexuality Education.md
       - CCE/Character Awards.md
+      - BEE Programme.md
       - Discipline/.keep
       - Discipline/Discipline.md
       - Discipline/The SOAR Programme.md
