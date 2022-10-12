@@ -63,6 +63,3 @@ In my four years of Taekwondo training, besides learning self-defense, I have le
 
 **- Chermaine Pang (5R1)**
 
-
-
-![](/images/Cca/cca-taekwondo-06.jpg)
