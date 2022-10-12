@@ -4,9 +4,8 @@ permalink: /cca/sports/taekwondo/
 description: ""
 third_nav_title: Sports
 ---
-|  |  | 
+|  **Teachers-in-Charge:** | Mrs Chin Chen Han (I/C) | 
 | -------- | -------- |
-|**Teachers-in-Charge:**   | Mrs Chin Chen Han (I/C)  |  
 | |Ms Shen May Ling (2I/C) |
 |**Coach:** | Mrs Rosalind Chow|
 |**Captains:** |Evelyn Angelina (outgoing) |
@@ -62,4 +61,3 @@ In my four years of Taekwondo training, besides learning self-defense, I have le
 ![](/images/Cca/cca-taekwondo-05.jpg)
 
 **- Chermaine Pang (5R1)**
-
