@@ -41,37 +41,18 @@ third_nav_title: Sports
 
 
 
+<hr>
 
-
-![Sparring](/images/Cca/cca-taekwondo-04.jpg)
-Sparring
-
-<p style="text-align:justify">Every year, our members train hard for two Taekwondo competitions, the National School Games and the Whampoa Community Club Taekwondo Competition. Through participation in competitions, our students gain valuable lessons of discipline, sportsmanship and teamwork, which develop them holistically. Therefore, we were very glad when it was announced that the National School Games would be carried out this year, albeit with strict Safe Management Measures.</p>
-
-![](/images/Cca/cca-taekwondo-03.jpg)
-
-
-<p style="text-align:justify">
-
-</p>
-
-
-<p style="text-align:justify">
-</p>
-
-<p style="text-align:justify">
-</p>
-
-![](/images/Cca/cca-taekwondo-01.jpg)
-
+***Personal Reflections***
 <p style="text-align:justify; font-style:italic">
 My experience in Taekwondo has been one of the most enjoyable experience of my secondary school life. I am proud to say that making Taekwondo my first choice was correct. Taekwondo is not merely a form of martial arts, but rather, an opportunity for me to gain leadership skills and to acquire values of discipline and resilience. My skills as a CCA leader would be challenged whenever there was an upcoming competition. Besides overcoming my own difficulties in memorising the Poomsae pattern routine, I have to teach my juniors and motivate them to persevere and be determined to win the competition. All in all, Taekwondo is a CCA that has challenged me, both physically and mentally. </p>
 
 <p style="text-align:justify; font-style:italic">
 </p>
 
-**Evelyn Angelina The (4R1)**
+**- Evelyn Angelina The (4R1)**
 
+![](/images/Cca/cca-taekwondo-03.jpg)
  
 <p style="text-align:justify; font-style:italic">
 In my four years of Taekwondo training, besides learning self-defense, I have learnt values like teamwork, perseverance, and responsibility. As a vice captain, I was tasked to co-ordinate the designing and the production of the CCA T-shirts, administrative work and preparing for the secondary one orientation programme. </p>
