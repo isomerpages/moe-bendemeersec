@@ -42,7 +42,6 @@ third_nav_title: Uniformed Groups
 </tbody>
 </table>
 
-<br>
 <p style="text-align:justify">The National Police Cadet Corps (NPCC) was formed in 1959 and has become one of the popular youth uniformed organisations in Singapore.</p>
 
 <p style="text-align:justify">The mission of the National Police Cadet Corps is to develop our members to be active citizens and community leaders, by working in partnership with Singapore Police Force to fight crime and keep Singapore safe.</p>
