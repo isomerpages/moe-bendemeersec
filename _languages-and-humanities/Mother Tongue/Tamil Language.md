@@ -10,7 +10,6 @@ width: 100%;
 padding-top: 72%;  
 overflow: hidden;  
 }  
-  
 .google-slides-container iframe{  
 position: absolute;  
 top: 0;  
