@@ -3,7 +3,7 @@ title: BEE Programme
 permalink: /departments/co-curriculum/bee-prog/
 description: ""
 ---
-<p style="text-align:justify">**Bendemeerian Experience (BEE) Programme** is a signature programme for Secondary 1NT students. Through this programme, students can build their confidence as they learn new skills and discover their interests and talents. Through the engaging activities, student develop values such as care, respect and resilience.</p>
+<p style="text-align:justify"><b>Bendemeerian Experience (BEE) Programme</b> is a signature programme for Secondary 1NT students. Through this programme, students can build their confidence as they learn new skills and discover their interests and talents. Through the engaging activities, student develop values such as care, respect and resilience.</p>
 
 <p style="text-align:justify">In Term 1, students either learn balloon sculpting or circus skills. For balloon sculpting, students develop resilience as they practiced for weeks, in spite of their fears of popping balloons, to put up a beautiful balloon display that framed the stage for our school's Speech Day 2022.</p>
 
