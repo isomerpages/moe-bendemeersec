@@ -4,7 +4,7 @@ permalink: /cca/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-|**Teachers-in-Charge:**| A/ASP (NPCC) Ms Sabrina Wee (OC)   |
+<p>|**Teachers-in-Charge:**| A/ASP (NPCC) Ms Sabrina Wee (OC)   |
 |---|---|
 |  |  ASP (NPCC) Mr Oh Tze Ming (2I/C)  |
 |  | ASP (NPCC) Mr Michael Lee   |
@@ -18,7 +18,7 @@ third_nav_title: Uniformed Groups
 | Station Inspectors | CATHERINE LIM MEI NA (4R2)  |
 |  | JUNETTE ONG JING QING (4R2)  |
 <br>
-
+</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
