@@ -91,7 +91,7 @@ third_nav_title: Mother Tongue
 
 **Outcomes:**
 
-|  Table 1 |  | 
+<!--|  Table 1 |  | 
 | -------- | -------- | 
  | Josh Tekani (2R1)| Certificate of participation|
 |Cui Xinran (2R4) |Certificate of participation|
@@ -112,10 +112,9 @@ third_nav_title: Mother Tongue
 | -------- | -------- | 
 | Chen Jia Le (3R2) | Excellence Award |
 | | |
+-->
 
-<br>
-
-| Table 2 Awarded Certificate of participation |  | 
+| Awarded Certificate of participation |  | 
 | -------- | -------- | 
  | Josh Tekani (2R1)| |
 |Cui Xinran (2R4) | |
@@ -138,25 +137,6 @@ third_nav_title: Mother Tongue
 | | |
 
 
-| Table 3  Awarded Certificate of participation | Josh Tekani (2R1) | 
-| -------- | -------- | 
-|| Cui Xinran (2R4) |
- | | Lee Jie Qi (2R4)|
- |  |Xiang Bingbin (2R4)|
-|  |Qiao Mai (3R1)| 
- | | Liu Jin (3R2)| 
-|  |Tan Zi Lin (3R3)| 
-|  | He Huanqi (4R1)|
-| |  Li Houze (4R1)| 
-| | Chen Yuqi (4R2)| 
-| | Cui Zhiying (4R2)| 
- |   |Zheng Pui Hei (4R2)|
-|  |  |
-
-
-| Awarded the Excellence Award | Chen Jia Le (3R2)  | 
-| -------- | -------- | 
-| | |
 
 
 <img src="/images/Departments/cl-competition-04.jpg" alt="Creative, No Boundaries! National Children's Story Writing Competition" style="width:600px" />
