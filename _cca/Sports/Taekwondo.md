@@ -24,11 +24,11 @@ third_nav_title: Sports
 
 <p style="text-align:justify">With relaxed safety measures, training has returned to normalcy. We started the year with the recruitment of seventeen secondary one students through a video that was prepared by our members.</p>
 
-<p style="text-align:justify">Members were excited when the National School Games and the Kallang Community Club Taekwondo Competition resumed albeit with some Safe Management Measures.  Through participation in these competitions, our members could gain the valuable lessons of discipline, sportsmanship and teamwork, which develop them holistically. 
+<p style="text-align:justify">Members were excited when the National School Games and the Kallang Community Club Taekwondo Competition resumed albeit with some Safe Management Measures.  Through participation in these competitions, our members could gain the valuable lessons of discipline, sportsmanship and teamwork, which develop them holistically. </p>
 
 ![](/images/Cca/cca-taekd-01.jpg)
 
-Our members trained hard to perfect their routines, especially in synchronising with team members for the team events. We managed to obtain one silver and three bronze medals for the National Schools Games and we were also the Overall Champion for the Kallang Community Club Taekwondo Competition. </p>
+<p style="text-align:justify">Our members trained hard to perfect their routines, especially in synchronising with team members for the team events. We managed to obtain one silver and three bronze medals for the National Schools Games and we were also the Overall Champion for the Kallang Community Club Taekwondo Competition. </p>
 
 <img src="/images/Cca/cca-taekd-03.jpg" alt="taekwondo" style="width:400px" />
 
