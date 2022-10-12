@@ -91,7 +91,7 @@ third_nav_title: Mother Tongue
 
 **Outcomes:**
 
-|  Table 1 |  | 
+<!--|  Table 1 |  | 
 | -------- | -------- | 
  | Josh Tekani (2R1)| Certificate of participation|
 |Cui Xinran (2R4) |Certificate of participation|
@@ -112,10 +112,9 @@ third_nav_title: Mother Tongue
 | -------- | -------- | 
 | Chen Jia Le (3R2) | Excellence Award |
 | | |
+-->
 
-<br>
-
-| Table 2 Awarded Certificate of participation |  | 
+| Awarded Certificate of participation |  | 
 | -------- | -------- | 
  | Josh Tekani (2R1)| |
 |Cui Xinran (2R4) | |
@@ -138,33 +137,14 @@ third_nav_title: Mother Tongue
 | | |
 
 
-| Table 3  Awarded Certificate of participation | Josh Tekani (2R1) | 
-| -------- | -------- | 
-|| Cui Xinran (2R4) |
- | | Lee Jie Qi (2R4)|
- |  |Xiang Bingbin (2R4)|
-|  |Qiao Mai (3R1)| 
- | | Liu Jin (3R2)| 
-|  |Tan Zi Lin (3R3)| 
-|  | He Huanqi (4R1)|
-| |  Li Houze (4R1)| 
-| | Chen Yuqi (4R2)| 
-| | Cui Zhiying (4R2)| 
- |   |Zheng Pui Hei (4R2)|
-|  |  |
-
-
-| Awarded the Excellence Award | Chen Jia Le (3R2)  | 
-| -------- | -------- | 
-| | |
 
 
 <img src="/images/Departments/cl-competition-04.jpg" alt="Creative, No Boundaries! National Children's Story Writing Competition" style="width:600px" />
 
 
-A total of more than 1000 entries were submitted for the competition. Our student, Chen Jiale’s winning entry《猫与蒲公英》(The Cat and the Dandelion) was one of the 36 selected for the story writing competition and she was awarded the Excellence Award. The winning entries of the story writing competition were published as a series of Chinese graded readers. 
+<p style="text-align:justify">A total of more than 1000 entries were submitted for the competition. Our student, Chen Jiale’s winning entry《猫与蒲公英》(The Cat and the Dandelion) was one of the 36 selected for the story writing competition and she was awarded the Excellence Award. The winning entries of the story writing competition were published as a series of Chinese graded readers. </p>
 
-Jiale attended the Award Presentation Ceremony cum Launching of the Chinese Graded Readers on 16 September 2022.  (See Photos below)
+<p style="text-align:justify">Jiale attended the Award Presentation Ceremony cum Launching of the Chinese Graded Readers on 16 September 2022.  (See Photos below)</p>
 
 
 **3.  National Crosstalk Competition**
@@ -175,7 +155,7 @@ Jiale attended the Award Presentation Ceremony cum Launching of the Chinese Grad
 3. To increase student’s interest in the learning of Chinese and the level of appreciation for cross talk performances.</p>
 
 **Outcome:**
-Two groups of Lower Sec students also took part in the 36th All Singapore Secondary School Crosstalk Competition which were held last Semester.
+<p style="text-align:justify">Two groups of Lower Sec students also took part in the 36th All Singapore Secondary School Crosstalk Competition which were held last Semester.</p>
 
 
 
@@ -193,7 +173,7 @@ Two groups of Lower Sec students also took part in the 36th All Singapore Second
 
 **4.  5th Text Recital Competition for Primary and Secondary Schools** 
 
-Our students took part in the above recital competition in May 2022 and they have done us proud with the following outcomes:
+<p style="text-align:justify">Our students took part in the above recital competition in May 2022 and they have done us proud with the following outcomes:</p>
 
 |  |  |
 | -------- | -------- | 
@@ -209,7 +189,7 @@ Our students took part in the above recital competition in May 2022 and they hav
 
 **5.  20th National Secondary School Chinese Creative Writing Competition **in April 2022
 
-Our students took part in the above Chinese Creative Writing Competition in April 2022
+<p style="text-align:justify">Our students took part in the above Chinese Creative Writing Competition in April 2022</p>
 
 | Awarded Certificate of Participation |  |
 | -------- | -------- | 
@@ -233,7 +213,6 @@ Our students took part in the above Chinese Creative Writing Competition in Apri
 
 <p style="float:left; margin: 0 10px 0px 0">  
 <img src="/images/Departments/cl-xiamentrip-01.jpg" alt="Learning Journey cum School Immersion Programme to Xiamen (China)" style="width:400px" /></p>  
-<p style="text-align:justify">
 	
 <p style="text-align:justify">Every year, a group of Secondary 3 students would embark on a learning journey cum school immersion programme to Xiamen, China. The objectives of the trip are to extend students’ learning experiences beyond Singapore and to expose them to a different cultural environment. The trip also gives students an opportunity to broaden their perspectives and learn social and language skills in a real world context.</p>
 

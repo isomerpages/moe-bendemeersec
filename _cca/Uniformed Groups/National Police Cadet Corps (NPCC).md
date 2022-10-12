@@ -4,25 +4,21 @@ permalink: /cca/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+|**Teachers-in-Charge:**| A/ASP (NPCC) Ms Sabrina Wee (OC)   |
+|---|---|
+|  |  ASP (NPCC) Mr Oh Tze Ming (2I/C)  |
+|  | ASP (NPCC) Mr Michael Lee   |
+| **SPF-NPCC Award Recipients 2021** | SARAH ZOE SUNG (4R1)  |
+|  |  JUNETTE ONG JING QING (4R2) |
+|**Best Unit Cadet**  |  CATHERINE LIM MEI NA (4R2) |
+|  | KAMAL SYED YOUSUF (4R3)  |
+| **Station Inspectors** | CATHERINE LIM MEI NA (4R2)  |
+|  | JUNETTE ONG JING QING (4R2)  |
 
 
-**Teachers-in-Charge:** <br>
-A/ASP (NPCC) Ms Sabrina Wee (OC) <br>
-ASP (NPCC) Mr Oh Tze Ming (2I/C) <br>
-ASP (NPCC) Mr Michael Lee <br>
-
-
-
-**SPF-NPCC Award Recipients 2021**<br>
-SSGT (NPCC) M Mohamed Yasir (4R3) <br>
-SI (NPCC) Liu Xiang (4R5)
-
- CPL(NPCC) Kamal Syed Yousuf (3R3)<br>
-SSGT (NPCC) Subbiah S/O Lakshmanan (5R1)<br>
-SSGT (NPCC) M Mohamed Yasir (4R3)
 
 <br>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
 .tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
@@ -46,7 +42,6 @@ SSGT (NPCC) M Mohamed Yasir (4R3)
 </tbody>
 </table>
 
-<br>
 <p style="text-align:justify">The National Police Cadet Corps (NPCC) was formed in 1959 and has become one of the popular youth uniformed organisations in Singapore.</p>
 
 <p style="text-align:justify">The mission of the National Police Cadet Corps is to develop our members to be active citizens and community leaders, by working in partnership with Singapore Police Force to fight crime and keep Singapore safe.</p>
@@ -67,8 +62,16 @@ Passing out parade
 | ![High rope courses on Pulau Ubin](/images/Cca/cca-npcc-03.jpg)    | ![Pinning on badges for juniors](/images/Cca/cca-npcc-04.jpg)  |
 
 
+#### NPCC Outing to Marina Barrage 2022
 
 
+This year, NPCC organised an outing to Marina Barrage, to foster stronger bonds among the cadets. It also serves as a reward for their hard work put in throughout the year. The cadets thoroughly enjoyed kite-flying as well as the team-bonding games planned by the UG Leaders.
+
+![](/images/Cca/cca-npcc-11.jpg)
+
+![](/images/Cca/cca-npcc-12.jpg)
+
+![](/images/Cca/cca-npcc-13.jpg)
 
 #### 4 year Programme Highlights
 Learning about Police work:

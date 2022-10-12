@@ -2,6 +2,5 @@ collections:
   normal-course:
     output: true
     order:
-      - NTcipate Life.md
       - Elective Modules.md
       - Normal Course.md
