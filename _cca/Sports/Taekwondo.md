@@ -4,14 +4,21 @@ permalink: /cca/sports/taekwondo/
 description: ""
 third_nav_title: Sports
 ---
-
-
-
-
-
 |  |  | 
-| -------- | -------- | 
-| **Teachers-in-Charge:** <br>Mrs Chin Chen Han (I/C) <br>Mdm Shen May Ling (2I/C)<br><br>**Coach:** <br>Mrs Rosalind Chow<br><br>**Captain:** <br>Lim Keyi (4R6)<br><br>**Vice-Captains:** <br>Leong Wei Ming <br>Chermaine Pang (4R6)     | <img src="/images/Cca/cca-tkd-i-Overhead-kick-720x1024.jpg" alt="TaeKwonDo" style="width:400px" />   | 
+| -------- | -------- |
+|**Teachers-in-Charge:**   | Mrs Chin Chen Han (I/C)  |  
+| |Ms Shen May Ling (2I/C) |
+|**Coach:** | Mrs Rosalind Chow|
+|**Captains:** |Evelyn Angelina (outgoing) |
+| |Kok Zi Ying (incoming) |
+|**Vice-Captains:** |Tan Yin Ying and Laopakdee Yanist (outgoing)    |
+| |Helen Ng Hui Yu and Li Kexin (incoming) |
+| | |
+
+
+
+
+|  <br> <br><br><br> <br><br><br> <br> <br><br> <br>Leong Wei Ming <br>Chermaine Pang (4R6)     | 
 
 
 
