@@ -65,7 +65,7 @@ Passing out parade
 #### NPCC Outing to Marina Barrage 2022
 
 
-This year, NPCC organised an outing to Marina Barrage, to foster stronger bonds among the cadets. It also serves as a reward for their hard work put in throughout the year. The cadets thoroughly enjoyed kite-flying as well as the team-bonding games planned by the UG Leaders.
+<p style="text-align:justify">This year, NPCC organised an outing to Marina Barrage, to foster stronger bonds among the cadets. It also serves as a reward for their hard work put in throughout the year. The cadets thoroughly enjoyed kite-flying as well as the team-bonding games planned by the UG Leaders.</p>
 
 ![](/images/Cca/cca-npcc-11.jpg)
 
