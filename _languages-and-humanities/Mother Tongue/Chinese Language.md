@@ -63,7 +63,7 @@ third_nav_title: Mother Tongue
 
 #### **External Competitions**
 
-**1.  2022 Zhang Shou Shi National Calligraphy and Painting Competition for Primary and Secondary Schools**
+<p style="text-align:justify"><b>1.  2022 Zhang Shou Shi National Calligraphy and Painting Competition for Primary and Secondary Schools</b></p>
 
 **Objective:**
 <p style="text-align:justify">To promote the art of Chinese Calligraphy and Painting and cultivate student's interest in the learning of Chinese Calligraphy and Painting.</p>
