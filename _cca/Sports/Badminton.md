@@ -15,7 +15,7 @@ Mr Wong Chee Seng (2I/C)
 Ng Choon Lin (3R3) 
 
 <p style="text-align:justify">
-Badminton gives our students good flexibility and a good joint work-out. In addition, fast hand and eye coordination is key in predicting and delivering accurate shots. No badminton player will succeed without building up their stamina, for long bouts lasting 2-3 hours. This year’s CCA sessions started with that aim in mind, at the same time keeping it fun, relaxing and challenging for the members.n</p>
+Badminton gives our students good flexibility and a good joint work-out. In addition, fast hand and eye coordination is key in predicting and delivering accurate shots. No badminton player will succeed without building up their stamina, for long bouts lasting 2-3 hours. This year’s CCA sessions started with that aim in mind, at the same time keeping it fun, relaxing and challenging for the members.</p>
 
 ![Basic Strokes](/images/Cca/cca-badmin-i-Basic-stroke-768x576.jpg)
 Basic Strokes
