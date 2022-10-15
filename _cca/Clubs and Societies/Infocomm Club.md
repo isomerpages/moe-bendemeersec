@@ -19,7 +19,7 @@ third_nav_title: Clubs and Societies
 
 
 
-During Infocomm sessions, our students attend AV training and a variety of programming courses. They are in charge of setting up the AV system for daily morning assembly as well as a host of other important school events. 
+<p style="text-align:justify">During Infocomm sessions, our students attend AV training and a variety of programming courses. They are in charge of setting up the AV system for daily morning assembly as well as a host of other important school events. </p>
 
 
 ![Checking event programme](/images/Cca/cca-infocomm-01.jpg)
@@ -40,7 +40,7 @@ Learning Drones Programming
 ![Drones Odyssey](/images/Cca/cca-infocomm-07.jpg)
 Victory!
 
-Earlier this year, our school particated in the Infocomm Media Club Student Leaders Conference.  We learnt a great deal from this conference!
+<p style="text-align:justify">Earlier this year, our school particated in the Infocomm Media Club Student Leaders Conference.  We learnt a great deal from this conference!</p>
 
 ![Infocomm Media Club Student Leaders Conference](/images/Cca/cca-infocomm-mediaclub-01.jpg)
 
