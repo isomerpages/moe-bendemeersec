@@ -28,11 +28,17 @@ Gulinton Lim Zhifu (4R5)
 ![Training for Singapore Youth Festival](/images/Cca/cca-choir-01.jpg)
 Training for Singapore Youth Festival
 
-![Practice for Chinese New Year celebrations](/images/Cca/cca-choir-02.jpg)
-Practice for Chinese New Year celebrations
+![](/images/Cca/cca-choir2022-01.jpg)
+Video recording for Chinese New Year Celebrations
 
-![Choir practice](/images/Cca/cca-choir-03.jpg)
-Choir practice
+![](/images/Cca/cca-choir2022-02.jpg)
+Teacher's Day Celebration
+
+![](/images/Cca/cca-choir2022-03.jpg)
+Performing at External 
+
+![](/images/Cca/cca-choir2022-04.jpg)
+Performing at External 
 
 <p style="text-align:justify; font-style:italic">I have always loved to sing but I did not have the confidence to do so in front of others. The choir had helped me to hone not only my singing ability but also my confidence and leadership abilities. At first, the training was tiring and difficult, however I always looked forward to attending CCA as I get to do what I love to do and train together with my friends. In choir, I made numerous unforgettable memories and experiences that I would always be grateful for. I am truly glad that I decided to join the choir.</p>
 
