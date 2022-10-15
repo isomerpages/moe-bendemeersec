@@ -4,8 +4,6 @@ permalink: /cca/clubs-and-societies/infocomm-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-
-  
 |  **Teachers-in-Charge:** | Mdm Winnie Tang (I/C) | 
 | -------- | -------- |
 | |Mr Esmond Loh (2I/C)|
@@ -24,18 +22,14 @@ third_nav_title: Clubs and Societies
 During Infocomm sessions, our students attend AV training and a variety of programming courses. They are in charge of setting up the AV system for daily morning assembly as well as a host of other important school events. 
 
 
-
-
-
-
-
-
 ![Checking event programme](/images/Cca/cca-infocomm-01.jpg)
 Checking event programme
 
 ![Sound and lighting crew](/images/Cca/cca-infocomm-02.jpg)
+Sound and lighting crew
 
 ![Sound and lighting crew](/images/Cca/cca-infocomm-03.jpg)
+Sound and Lighting crew
 
 
 <p style="text-align:justify">This year, our Secondary One students took part in the Drones Odyssey Challenge, a culmination of weeks of intense practice in programming drones. Two of our teams clinched the first and second place in the B1 Category. </p>
