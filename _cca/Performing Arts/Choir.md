@@ -34,11 +34,13 @@ Video recording for Chinese New Year Celebrations
 ![](/images/Cca/cca-choir2022-02.jpg)
 Teacher's Day Celebration
 
-![](/images/Cca/cca-choir2022-03.jpg)
-Performing at External 
-
 ![](/images/Cca/cca-choir2022-04.jpg)
-Performing at External 
+Performance for Voices of Singapore Festival 2022 at CHIJMES
+
+![](/images/Cca/cca-choir2022-03.jpg)
+
+<br>
+
 
 <p style="text-align:justify; font-style:italic">I have always loved to sing but I did not have the confidence to do so in front of others. The choir had helped me to hone not only my singing ability but also my confidence and leadership abilities. At first, the training was tiring and difficult, however I always looked forward to attending CCA as I get to do what I love to do and train together with my friends. In choir, I made numerous unforgettable memories and experiences that I would always be grateful for. I am truly glad that I decided to join the choir.</p>
 
