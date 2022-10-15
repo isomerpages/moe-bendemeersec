@@ -91,10 +91,10 @@ Explaining the significance behind each item
 
 ![Learn Conect Share](/images/Cca/cca-dramatamil-06a.jpg)
 
-<p style="text-align:justify; font-style:italic">I am very happy after joining this cca as it provided me with many opportunities to showcase my talent, taught me to believe in myself and strive to achieve many things. Having gained values like perseverance, resilience and confidence, helped me to overcome challenges and when I face difficulties managing my studies. I was able to bond and interact with my juniors and seniors and having a whale of time with them during CCA. I have learnt to believe and have confidence in myself when executing a plan or when giving presentations. I learnt to understand my peers better and communicate better with them. Participating in competitions and practising for that requires a lot of skills, time and hard work. The Navarasam team worked together and won the champion trophy for our school. I was delighted to get the Tamil Drama Chairperson shield during speech day when I was secondary 3. It was rewarding receiving the award because I know I worked hard for it!</p>
+<p style="text-align:justify; font-style:italic">As the Tamil Drama president, I have learnt a lot of things in this journey of 4 years.  I have learnt to lead with pride. Participating in competitions like Singapore Youth Festival (SYF) has built confidence in me and has also made me understand the importance of teamwork. It instilled responsibility in me which has helped me to manage time even for studies efficiently.  I helped my CCA members learn new skills such as debating and acting by organizing various activities. It has also helped to build a stronger bond with my CCA members. Lastly, thank you to all the teachers who never failed to make our days and supporting pillars in all our paths.</p>
 
-**- Khadeejah Beevi Binti Gulam Kadher 4R2 <br>
-CCA Chairperson 2020–2021**
+**- Kailasam Jayashri 4R1 <br>
+CCA Chairperson 2021–2022**
 
 
 
