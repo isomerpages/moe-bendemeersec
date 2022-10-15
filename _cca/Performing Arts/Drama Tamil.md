@@ -102,4 +102,3 @@ CCA Chairperson 2021–2022**
 
 **- Priyanka Balasubramani 4R1<br>
 CCA Member 2021–2022**
-
