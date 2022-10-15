@@ -4,26 +4,31 @@ permalink: /cca/clubs-and-societies/infocomm-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-**Teachers-in-charge:** <br>
-Mr Eric Choo (Advisor) <br>
-Mdm Winnie Tang (I/C) <br>
-Mr Esmond Loh (2I/C) <br>
-Ms Foo Lee Wee
 
-**Chairperson:** <br>
-Charles Tan Jun Le (3R8)
-
-**Vice-Chairperson:** <br>
-K R Heemraj (3R8)
-
-**Admin:** <br>
-Goh Jun Meng Xavier (3R8) <br>
-Choo Zheng Jie Jericho (3R8) 
+  
+|  **Teachers-in-Charge:** | Mdm Winnie Tang (I/C) | 
+| -------- | -------- |
+| |Mr Esmond Loh (2I/C)|
+|  |  Ms Foo Lee Wee |
+|**Advisor:** | Mr Eric Choo |
+|**Chairperson:** |Darren Loy (3R2) |
+| |Kok Zi Ying (incoming) |
+|**Vice-Chairperson:** |Ong Chee Khee (3R2)    |
+| |Helen Ng Hui Yu and Li Kexin (incoming) |
+|**Administrators:** | Tan Xing Yu (3R2) <br>Foo Zhixin (3R2)|
+|  |  |
 
 
-<p style="text-align:justify">This year, our Infocomm Club members took part in the Singapore Energy Grand Challenge (Youth). In its second year, this year’s theme was “How would your carbon-free school or neighbourhood in Singapore look like in 2050?”</p>
 
-<p style="text-align:justify">Using the Minecraft: Education Edition (M:EE) software, students were asked to create their ideal Energy World and showcase their Energy Story aspirations for Singapore, with a focus on sustainability and low-carbon solutions. Our Infocomm students drew inspiration from various energy-saving technologies already implemented in our school as well as what they have observed in buildings around Singapore.</p>
+
+During Infocomm sessions, our students attend AV training and a variety of programming courses. They are in charge of setting up the AV system for daily morning assembly as well as a host of other important school events. 
+
+
+
+
+
+
+
 
 ![Checking event programme](/images/Cca/cca-infocomm-01.jpg)
 Checking event programme
@@ -32,11 +37,16 @@ Checking event programme
 
 ![Sound and lighting crew](/images/Cca/cca-infocomm-03.jpg)
 
-![Sound and lighting crew](/images/Cca/cca-infocomm-04.jpg)
-Sound and lighting crew
+
+<p style="text-align:justify">This year, our Secondary One students took part in the Drones Odyssey Challenge, a culmination of weeks of intense practice in programming drones. Two of our teams clinched the first and second place in the B1 Category. </p>
+
+
 
 ![Learning Journey](/images/Cca/cca-infocomm-04.jpg)
 Learning Journey
+
+
+
 
 <p style="text-align:justify; font-style:italic">I feel creative and inspired from my CCA training. I like building on Minecraft and enjoy the process of building with my friends. This is because we can solve difficult problems, as well as coming up with different ideas to solve problems. When we entered the competition, we were pleasantly surprised to emerge as semi-finalists.</p>
 
