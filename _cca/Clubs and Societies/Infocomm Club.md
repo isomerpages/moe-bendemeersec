@@ -36,9 +36,6 @@ Sound and Lighting crew
 
 
 
-![Learning Journey](/images/Cca/cca-infocomm-04.jpg)
-Learning Journey
-
 
 
 
