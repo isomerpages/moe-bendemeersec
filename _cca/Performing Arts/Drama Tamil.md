@@ -4,13 +4,8 @@ permalink: /cca/performing-arts/drama-tamil/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
-
-
 **Teachers-in-Charge:** <br>
-Mr Govindasamy Santhanraj (I/C) <br>
-Mdm Atri Vasudha (2I/C)
+Ms Achaiya Gunasekaran (I/C)
 
 **Advisor:** <br>
 Mr G Murugan
