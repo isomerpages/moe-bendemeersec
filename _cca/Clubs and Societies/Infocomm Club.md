@@ -40,12 +40,12 @@ Learning Drones Programming
 
 <p style="text-align:justify; font-style:italic">I feel creative and inspired from my CCA training. I like building on Minecraft and enjoy the process of building with my friends. This is because we can solve difficult problems, as well as coming up with different ideas to solve problems. When we entered the competition, we were pleasantly surprised to emerge as semi-finalists.</p>
 
-**- Ong Chee Khee,  2R3**
+**- Ong Chee Khee,  3R2**
 
  
 <p style="text-align:justify; font-style:italic">We got inspiration modelling after US-styled schools and enjoyed the process building block by block in the competition. I enjoyed the team work with my friends and was pleasantly surprised to emerge as semi-finalists. I was glad our hard work paid off.</p>
 
-**- Tan Xing Yu, 2R3**
+**- Tan Xing Yu, 3R2**
  
 
 <p style="text-align:justify; font-style:italic">5 teams were sent for this challenge and one of our teams was selected for the semi-finals.</p>
