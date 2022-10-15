@@ -4,9 +4,6 @@ permalink: /cca/sports/tchoukball/
 description: ""
 third_nav_title: Sports
 ---
-
-
-
 |  **Teachers-in-Charge:** | Mr Seah Seng Chye (I/C) | 
 | -------- | -------- |
 | |Mrs Sharon Chin (2I/C)  |
@@ -43,7 +40,8 @@ third_nav_title: Sports
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3jrd">Tchoukball Inter Schools Tournament 2022 B Division  (Girls)<br>3rd in Cup Category</td>
+    <td class="tg-3jrd">Tchoukball Inter Schools Tournament 2022 B Division  (Girls)<br>3rd in Cup Category<br>Tchoukball Inter Schools Tournament 2022 C Division  (Girls)<br>8th in Cup Category </td>
+		
   </tr>
 </tbody>
 </table>
