@@ -26,7 +26,7 @@ Gulinton Lim Zhifu (4R5)
 <p style="text-align:justify">For the SYF, the School Choir also had to record their singing in small groups before all the individual audio clips were fused together into a single audio file for the SYF central judging. It was an enriching experience and we look forward to presenting an interesting repertoire in the upcoming performances!</p>
 
 ![Training for Singapore Youth Festival](/images/Cca/cca-choir-01.jpg)
-Training for Singapore Youth Festival
+Audio recording for Singapore Youth Festival
 
 ![](/images/Cca/cca-choir2022-01.jpg)
 Video recording for Chinese New Year Celebrations
