@@ -47,7 +47,7 @@ Learning Drones Programming
 
 **- Tan Xing Yu, 3R2**
  
-
+<!--
 <p style="text-align:justify; font-style:italic">5 teams were sent for this challenge and one of our teams was selected for the semi-finals.</p>
 Here are the links to our teams’ ideal carbon-free school.
 
@@ -56,3 +56,4 @@ Team 2 : [https://www.youtube.com/watch?v=BMQegnTKrwA](https://www.youtube.com/w
 Team 3 : [https://www.youtube.com/watch?v=hWpz9GqmS5E](https://www.youtube.com/watch?v=hWpz9GqmS5E) <br>
 Team 4 : [https://www.youtube.com/watch?v=ZkXAqM_QuOY](https://www.youtube.com/watch?v=ZkXAqM_QuOY) <br>
 Team 5 : [https://www.youtube.com/watch?v=w38LWfRriFI](https://www.youtube.com/watch?v=w38LWfRriFI)
+-->
