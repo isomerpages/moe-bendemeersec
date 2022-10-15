@@ -4,8 +4,6 @@ permalink: /cca/uniformed-groups/ncc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
 **Teachers-in-Charge:** <br>
 CPT Tay Guangyu (Commanding Officer) <br>
 CPT Lawrence Ng (2I/C) <br>
@@ -50,12 +48,22 @@ LTA Dennis Wong
 
 <p style="text-align:justify">2021 marks the 120th Anniversary of the National Cadet Corps. In line with the anniversary celebrations, our unit took part in a number of commemorative activities. Through the NCC120 Virtual Race, our cadets got to take ownership of their own fitness and strived to build a culture for fitness. Cadets also got to explore their creativity and express themselves, while strengthening their identity as a corps when they took part in the NCC120 TikTok Challenge. By doing the monthly fitness routine challenges, our cadets learnt to be confident individuals who will embrace discipline and perseverance when the going gets tough.</p>
 
+
+Here in East Coast Park, cadets labour in the hot sun picking up beach litter. The cadets really enjoyed the day out at the beach, doing their part to keep the beautiful beaches of Singapore clean
+
+![](/images/Cca/cca-ncc-trekking-01.jpg)
+
 ![](/images/Cca/cca-ncc-02.jpg)
+Keeping the beach beautiful
+
 
 <p style="text-align:justify">All in all, it has been an eventful year for Bendemeer NCC (Land) unit. We will continue to challenge and develop our cadets as we build a NCC that is Nurturing, Committed and Cool.</p>
 
-![Going on a hike](/images/Cca/cca-ncc-04.jpg)
-Going on a hike
+![](/images/Cca/cca-ncc-trekking-03.jpg)
+
+![](/images/Cca/cca-ncc-trekking-02.jpg)
+NCC cadets enjoying a hike through MacRitchie Reservoir
+
 
 ![NCC orientation day](/images/Cca/cca-ncc-05.jpg)
 NCC orientation day
