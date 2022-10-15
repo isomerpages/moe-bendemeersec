@@ -32,7 +32,7 @@ Audio recording for Singapore Youth Festival
 Video recording for Chinese New Year Celebrations
 
 ![](/images/Cca/cca-choir2022-02.jpg)
-Teacher's Day Celebration
+Teacher's Day Celebrations
 
 ![](/images/Cca/cca-choir2022-04.jpg)
 Performance for Voices of Singapore Festival 2022 at CHIJMES
