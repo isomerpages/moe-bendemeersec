@@ -66,7 +66,7 @@ Return from Singapore Youth Festival competition
 Singapore Youth Festival street dance team
 
 ![2022 CCA Group Photo](/images/Cca/cca-dance-09.jpg)
-2022 CCA Group Photo
+Our lively Dance members!
 
 
 <p style="text-align:justify; font-style:italic">These four years have been like a roller coaster to me. During this time, I have learnt to become a much stronger and a more confident person. I will never forget this amazing journey with such fabulous people. These past few years have been tough due to the ongoing pandemic, coping with both CCA and schoolwork. However, I am proud that as a team we have managed to pull through and emerged stronger dancers. I am proud of being a part of TSA and I want to thank everyone who has given me a helping hand along the way.</p>
