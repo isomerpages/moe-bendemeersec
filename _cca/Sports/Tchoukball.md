@@ -63,8 +63,12 @@ third_nav_title: Sports
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3jrd">Tchoukball Inter Schools Tournament 2022 B Division  (Boys)<br>3rd in Cup Category<br>4th in Plate Category<br>
-1st in Bowl Category</td>
+    <td class="tg-3jrd">Tchoukball Inter Schools Tournament 2022 B Division  (Boys)<br>
+			3rd in Cup Category<br>
+			4th in Plate Category<br>
+1st in Bowl Category<br>
+			Tchoukball Inter Schools Tournament 2022 C Division  (Boys)<br>
+			3rd in Cup Category</td>
   </tr>
 </tbody>
 </table>
