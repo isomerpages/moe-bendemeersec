@@ -11,11 +11,11 @@ Ms Achaiya Gunasekaran (I/C)
 Mr G Murugan
 
 **Chairperson:** <br>
-Khadeejah Beevi Binti Gulam Kadher (4R2)
+Balamurugan Vicknesh (3R2)
 
 **Vice-Chairpersons:** <br>
-Kugan s/o Kumaresan (4R1) <br>
-Sudharsan Madhumita (4R2)
+Jasrah D/O Abdul Rahim (3R3)
+Muralidharan Yazhini (3R3)
 
 
 <br>
