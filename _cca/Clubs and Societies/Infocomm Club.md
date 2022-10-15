@@ -34,9 +34,8 @@ Sound and Lighting crew
 
 <p style="text-align:justify">This year, our Secondary One students took part in the Drones Odyssey Challenge, a culmination of weeks of intense practice in programming drones. Two of our teams clinched the first and second place in the B1 Category. </p>
 
-
-
-
+![Drones Odyssey](/images/Cca/cca-infocomm-06.jpg)
+Learning Drones Programming
 
 
 <p style="text-align:justify; font-style:italic">I feel creative and inspired from my CCA training. I like building on Minecraft and enjoy the process of building with my friends. This is because we can solve difficult problems, as well as coming up with different ideas to solve problems. When we entered the competition, we were pleasantly surprised to emerge as semi-finalists.</p>
