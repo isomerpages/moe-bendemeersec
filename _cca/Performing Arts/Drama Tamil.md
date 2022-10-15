@@ -60,7 +60,7 @@ Muralidharan Yazhini (3R3)
 
 ![Drama Tamil CCA](/images/Cca/cca-dramatamil-i-logo04.png)
 
-Our Drama Tamil CCA students have participated and won prize in various external competitions organized by various organization at cluster and national level.</p>
+<p style="text-align:justify">Our Drama Tamil CCA students have participated and won prize in various external competitions organized by various organization at cluster and national level.</p>
 
 ![Indian Dance, Singapore Youth Festival](/images/Cca/cca-dramatamil-01b.jpg)
 Indian Dance, Singapore Youth Festival
