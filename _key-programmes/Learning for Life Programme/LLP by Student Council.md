@@ -4,11 +4,9 @@ permalink: /key-programmes/llp/sc-llp/
 description: ""
 third_nav_title: Learning for Life Programme
 ---
-##### **Student Council LLP**
-
 <p style="text-align:justify">Heart in service and communication skills are paramount for a Bendemeerian leader to identify problems and successfully convey ideas or motivate their peers. The Student Council’s LLP initiative saw different projects carried out over the years.</p>
 
-**Rumah Whampoa East (Elders and Teens Sharing)**
+##### **Rumah Whampoa East (Elders and Teens Sharing)**
 
 <p style="text-align:justify">For their LLP initiative the Secondary 4 student councillors (SCs) extended their reach beyond the school and into the community, working with the elderly in Whampoa for the Rumah Whampoa EATs project. This was a collaboration with Tsao Foundation, the Whampoa community as well as the advisor, Professor Thomas Kong. Over the span of five months, the SCs documented and curated the elderly’s stories through heritage dishes that the elderly cooked. The SCs became the voices for the elderly, and this was a heavy responsibility that the students happily took on.</p>
 
