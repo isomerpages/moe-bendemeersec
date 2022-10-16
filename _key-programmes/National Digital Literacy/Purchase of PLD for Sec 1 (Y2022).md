@@ -91,7 +91,7 @@ Please refer to the time frame below for the upcoming dates to note.
 
 ### Software Applications
 
-<p style="text-align:justify">Schools will progressively roll out IT applications that will be vital for students’ teaching and learning. These include:</p)
+<p style="text-align:justify">Schools will progressively roll out IT applications that will be vital for students’ teaching and learning. These include:</p>
 
 * <p style="text-align:justify">(a)   <b>Student iCON</b>: Every secondary school student will be provided with access to the Google Suite set of tools, including email address.</p>
 * <p style="text-align:justify">(b)  <b>Microsoft ProPlus</b>: Every secondary school student will be able to use Microsoft Office tools that include Word, PowerPoint and Excel.</p>
