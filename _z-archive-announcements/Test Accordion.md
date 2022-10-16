@@ -3,8 +3,7 @@ title: Test Accordion
 permalink: /zannouncement-archive/testaccordion/
 description: ""
 ---
-
-<style > TEst Colour</style>
+<font style="color:blue">ddddd</font>
 
 <details>
  <summary>Preview</summary>
@@ -437,4 +436,3 @@ Name       | Description
 	- jjjjjj
 		- hjhjh
 
-<font style="color:blue">ddddd</font>
