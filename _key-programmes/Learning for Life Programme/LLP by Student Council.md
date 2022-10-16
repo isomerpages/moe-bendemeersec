@@ -32,7 +32,7 @@ third_nav_title: Learning for Life Programme
 
 <p style="text-align:justify">A group of SCs decided to hold a donation drive for St John’s Elderly in Bendemeer Secondary School. This drive resulted from a visit to the home, where they gathered that the home was being relocated and needed help stocking up on non-perishables for the elderly. This motivated the students to hold the donation drive in school while raising awarness for the cause.</p>
 
-**Art Activity Session With SGH**
+#### **Art Activity Session With SGH**
 
 <p style="text-align:justify">A group of SCs have planned an activity session with SGH to be held in the wards. Wanting to help the patients express themselves through art or to create a gift to express gratitude to their caregivers, the students set up an Arts and Craft booth for a week for patients to participate in and have fun! These activities catered to both the elderly and the young.</p>
 
@@ -45,7 +45,7 @@ third_nav_title: Learning for Life Programme
 <img src="/images/Keyprogrammes/llp-sgh-01.jpg" alt="Activity with SGH"/>
 <img src="/images/Keyprogrammes/llp-sgh-02.jpg" alt="Activity with SGH"/>
 
-**Food Wastage Awareness In Bendemeer Secondary School**
+#### **Food Wastage Awareness In Bendemeer Secondary School**
 
 <p style="text-align:justify">A group of SCs decided to raise awareness of food wastage in school. This came after noticing that some Bendemeerians were wasting food that they did not or could not finish during recesses and lunch, and realising that this is a national an even global issue. They visited and volunteered at Food Bank SG to witness the extent of food wastage in Singapore, while sorting through donated food. This allowed them to gather information on food wastage in Singapore. After which, they conducted surveys to assess the extent of food wastage in Bendemeer before raising awareness of this problem to their fellow schoolmates.</p>
 
@@ -54,7 +54,8 @@ third_nav_title: Learning for Life Programme
 
 ![Food Wastage Awareness](/images/Keyprogrammes/llp-foodbank-02.jpg)
 -->
-
+<br>
+<br>
 <img src="/images/Keyprogrammes/llp-foodbank-01.jpg" alt="Food Wastage Awareness"/>
 <img src="/images/Keyprogrammes/llp-foodbank-02.jpg" alt="Food Wastage Awareness"/>
 
