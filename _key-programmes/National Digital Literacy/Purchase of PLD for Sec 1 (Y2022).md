@@ -4,8 +4,6 @@ permalink: /key-programmes/ndlp/purchase1pld/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-
-
 ### Sec 1 Parent’s Engagement Session
 
 <p style="text-align:justify">In January (2022), Sec 1 parents/guardians will receive a letter from the school via Parents Gateway or hardcopy with details about the PLD initiative.  The letter will contain information about: </p>
@@ -95,7 +93,7 @@ Please refer to the time frame below for the upcoming dates to note.
 
 <p style="text-align:justify">Schools will progressively roll out IT applications that will be vital for students’ teaching and learning. These include:</p)
 
-* <p style="text-align:justify">(a)   <b>Student iCON</b>: Every secondary school student will be provided with access to the Google Suite set of tools, including email address.>/p>
+* <p style="text-align:justify">(a)   <b>Student iCON</b>: Every secondary school student will be provided with access to the Google Suite set of tools, including email address.</p>
 * <p style="text-align:justify">(b)  <b>Microsoft ProPlus</b>: Every secondary school student will be able to use Microsoft Office tools that include Word, PowerPoint and Excel.</p>
 * <p style="text-align:justify">(c)   <b>Zoom</b>: Every secondary school student will be given a Zoom free account with 40 min time limit for their video conferencing needs. </p>
 
