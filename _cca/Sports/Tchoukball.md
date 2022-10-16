@@ -92,7 +92,6 @@ Remain calm and alert during the game so that you dont panic and make mistakes. 
 **- Jeona (3R4)**
 
 
-**-Gerald Soh, Bendemeer Tchoukball Alumni.**
 
 ![](/images/Cca/cca-tchoukball-03.jpg)
 
