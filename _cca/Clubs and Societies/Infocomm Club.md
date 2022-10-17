@@ -48,15 +48,21 @@ Victory!
 Infocomm Media Club Student Leaders Conference
 
 
-<p style="text-align:justify; font-style:italic">I feel creative and inspired from my CCA training. I like building on Minecraft and enjoy the process of building with my friends. This is because we can solve difficult problems, as well as coming up with different ideas to solve problems. When we entered the competition, we were pleasantly surprised to emerge as semi-finalists.</p>
+<p style="text-align:justify; font-style:italic">After attending the Infocomm Club Student Leader Conference, I have learnt many different values that can be apply in my daily lives such as Professionalism, Perseverance, Resilience, and Respect and I have also gotten several inspiration from the famous artists after listening to them about their challenges and how they overcome it.</p>
 
 **- Ong Chee Khee,  3R2**
 
  
-<p style="text-align:justify; font-style:italic">We got inspiration modelling after US-styled schools and enjoyed the process building block by block in the competition. I enjoyed the team work with my friends and was pleasantly surprised to emerge as semi-finalists. I was glad our hard work paid off.</p>
+<p style="text-align:justify; font-style:italic">During the whole programme, I have learn a lot of thing such as coding, game making , online security and about the different types of hackers.Furthermore other than having fun making new games by ourselves and we are also able to learn how to protect ourselves online which is very important.</p>
 
-**- Tan Xing Yu, 3R2**
+**- Zhixin, 3R2**
  
+ 
+<p style="text-align:justify; font-style:italic">From the Student Leaders Conference, I learnt more about tech and the media. Jian Hao Tan, one of my favourite YouTubers, was there to talk about how he started his channel, and how it grew to the popular channel we all know. There were also other speakers there to tell us more about ICT. Overall it was very fun to attend the conference.</p>
+
+**-Darren 3R2**
+
+
 <!--
 <p style="text-align:justify; font-style:italic">5 teams were sent for this challenge and one of our teams was selected for the semi-finals.</p>
 Here are the links to our teams’ ideal carbon-free school.
