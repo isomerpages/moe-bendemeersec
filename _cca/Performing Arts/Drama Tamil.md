@@ -69,16 +69,11 @@ Indian Dance, Singapore Youth Festival
 
 <p style="text-align:justify">The Drama Tamil student leaders were given a platform to display their talents and to develop leadership qualities.  In ‘Muthukoodal 2019 and 2020’ language and culture camp for cluster school our students leaders were in charge of certain segments. They have done well and gained a wider level of experience.</p>
 
-![Competition day](/images/Cca/cca-dramatamil-01.jpg)
-
 ![Competition day](/images/Cca/cca-dramatamil-02.jpg)
 Competition day
 
-
 ![Pongal celebrations](/images/Cca/cca-dramatamil-03b.jpg)
 Colourful rice art display
-
-![Competition day](/images/Cca/cca-dramatamil-04.jpg)
 
 ![Colourful rice art display](/images/Cca/cca-dramatamil-05.jpg)
 Pongal celebrations
