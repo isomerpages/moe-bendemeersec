@@ -3,9 +3,16 @@ title: Student Council
 permalink: /cca/student-council/
 description: ""
 ---
-|  |  | 
-| -------- | -------- | 
-| **Teachers-in-Charge**<br>Mr Glenn Yeong Zhen Pang (I/C)<br>Miss Denise Fung Xin Hui (2I/C)<br><br>**President:** <br> Neha Raja Raman (4R1)<br><br>**Vice-Presidents:** <br> Samsul Sasmeen (3R1) <br> Priyankar Balasubramani (3R1)  <br><br>**Executive Committee** <br> Breia Lim Yu Jia (3R4) <br> Junette Ong (3R2) <br> Liz-Alva Ong (3R1) <br> So Wai Tat (3R3)     | | 
+|  **Teachers-in-Charge:** | Mr Glenn Yeong Zhen Pang (I/C) | 
+| -------- | -------- |
+| |Miss Denise Fung Xin Hui (2I/C) |
+|**President:** | Neha Raja Raman (4R1)|
+|**Vice-Presidents:** |Samsul Sasmeen (4R1) |
+| |Priyankar Balasubramani (4R1) |
+|**Executive Committee:** |Breia Lim Yu Jia (4R4)|
+| |Junette Ong (4R2)  |
+
+
 
 
 <p style="text-align:justify"> 2022 has seen the resumption of many activities, which has provided our Student Councilors with many valuable opportunities to plan and carry out events for the school. Here are some of the highlights!</p>
