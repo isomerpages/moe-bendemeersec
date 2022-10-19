@@ -41,5 +41,7 @@ description: ""
 <p style="text-align:justify">After 2 years, the school was finally able to gather all together in the school hall to celebrate our teachers. The Student Council filmed videos and planned games, quizzes and even a concert put up by the Performing Arts CCAs. 
 </p>
 
+![](/images/Cca/cca-sc-tday-01.jpg)
+
 ##### **Leadership Workshop (14 Oct 2022)** 
 <p style="text-align:justify">As a post-exam activity, students participated in a leadership workshop that helped them to understand the five practices of the Leadership Challenge (Inspire a Shared Vision, Model the Way, Challenge the Process, Encourage the Heart and Enable Others to Act) and how to apply them in their capacity as student leaders. </p>
