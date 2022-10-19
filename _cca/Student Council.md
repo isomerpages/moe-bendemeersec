@@ -29,7 +29,7 @@ description: ""
 
 
 
-##### LLP Green Movement
+##### **LLP Green Movement**
 
 <p style="text-align:justify">Student Council’s Green Movement marked the first student-led effort to increase the school’s effort towards sustainability. The Secondary Two councilors designed and put up green-related posters around the school while our Secondary Three councilors spent the entire Term 2 planning for this week-long movement which came to fruition in Term 3. Our leaders held a school-wide assembly programme educating the school population about the importance of conservation and sustainability. This was followed by activities such as quizzes and competitions that students participated in to boost their knowledge and recycling efforts. At the end of the week, our councilors collected a whopping 839 pieces of plastic, amounting to 18 kg of waste. The success of the Green Movement also led to a collaboration between Bendemeer Secondary School and Environmental Solutions Asia.</p>
 
