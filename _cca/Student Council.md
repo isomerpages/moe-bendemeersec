@@ -6,11 +6,12 @@ description: ""
 |  **Teachers-in-Charge:** | Mr Glenn Yeong Zhen Pang (I/C) | 
 | -------- | -------- |
 | |Miss Denise Fung Xin Hui (2I/C) |
-|**President:** | Neha Raja Raman (4R1)|
-|**Vice-Presidents:** |Samsul Sasmeen (4R1) |
-| |Priyankar Balasubramani (4R1) |
-|**Executive Committee:** |Breia Lim Yu Jia (4R4)|
-| |Junette Ong (4R2)  |
+|**President:** | Thirunesh Gandhi |
+|**Vice-Presidents:** |Ace Tan |
+| |Charmaine Ng Xuan Min |
+|**Executive Committee:** |Qiao Mai |
+| |Lim Wen Hui, Clara  |
+|  | Shairafaye Romaguera Revindran |
 |  |  |
 
 
