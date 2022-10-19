@@ -37,6 +37,9 @@ Nur Azyza Binte Mohamad Azman (3R6)
     <td class="tg-3jrd">Puan Noor Aishah (PNA) Award 2021<br>
 Girl Guides (Bronze)</td>
   </tr>
+	<tr>
+		<td class="tg-3jrd">Smoke Free Ambassador Course (Organized by Singapore Cancer Society)- 2nd Prize
+	 </td>
 </tbody>
 </table>
 
