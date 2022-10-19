@@ -39,7 +39,8 @@ Girl Guides (Bronze)</td>
   </tr>
 	<tr>
 		<td class="tg-3jrd">Smoke Free Ambassador Course (Organized by Singapore Cancer Society)- 2nd Prize
-	 </td>
+		</td>
+	</tr>
 </tbody>
 </table>
 
