@@ -4,50 +4,64 @@ permalink: /cca/clubs-and-societies/infocomm-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-**Teachers-in-charge:** <br>
-Mr Eric Choo (Advisor) <br>
-Mdm Winnie Tang (I/C) <br>
-Mr Esmond Loh (2I/C) <br>
-Ms Foo Lee Wee
-
-**Chairperson:** <br>
-Charles Tan Jun Le (3R8)
-
-**Vice-Chairperson:** <br>
-K R Heemraj (3R8)
-
-**Admin:** <br>
-Goh Jun Meng Xavier (3R8) <br>
-Choo Zheng Jie Jericho (3R8) 
+|  **Teachers-in-Charge:** | Mdm Winnie Tang (I/C) | 
+| -------- | -------- |
+| |Mr Esmond Loh (2I/C)|
+|  |  Ms Foo Lee Wee |
+|**Advisor:** | Mr Eric Choo |
+|**Chairperson:** |Darren Loy (3R2) |
+|**Vice-Chairperson:** |Ong Chee Khee (3R2)    |
+|**Administrators:** | Tan Xing Yu (3R2) <br>Foo Zhixin (3R2)|
+|  |  |
 
 
-<p style="text-align:justify">This year, our Infocomm Club members took part in the Singapore Energy Grand Challenge (Youth). In its second year, this year’s theme was “How would your carbon-free school or neighbourhood in Singapore look like in 2050?”</p>
 
-<p style="text-align:justify">Using the Minecraft: Education Edition (M:EE) software, students were asked to create their ideal Energy World and showcase their Energy Story aspirations for Singapore, with a focus on sustainability and low-carbon solutions. Our Infocomm students drew inspiration from various energy-saving technologies already implemented in our school as well as what they have observed in buildings around Singapore.</p>
+
+<p style="text-align:justify">During Infocomm sessions, our students attend AV training and a variety of programming courses. They are in charge of setting up the AV system for daily morning assembly as well as a host of other important school events. </p>
+
 
 ![Checking event programme](/images/Cca/cca-infocomm-01.jpg)
 Checking event programme
 
 ![Sound and lighting crew](/images/Cca/cca-infocomm-02.jpg)
-
-![Sound and lighting crew](/images/Cca/cca-infocomm-03.jpg)
-
-![Sound and lighting crew](/images/Cca/cca-infocomm-04.jpg)
 Sound and lighting crew
 
-![Learning Journey](/images/Cca/cca-infocomm-04.jpg)
-Learning Journey
+![Sound and lighting crew](/images/Cca/cca-infocomm-03.jpg)
+Sound and Lighting crew
 
-<p style="text-align:justify; font-style:italic">I feel creative and inspired from my CCA training. I like building on Minecraft and enjoy the process of building with my friends. This is because we can solve difficult problems, as well as coming up with different ideas to solve problems. When we entered the competition, we were pleasantly surprised to emerge as semi-finalists.</p>
 
-**- Ong Chee Khee,  2R3**
+<p style="text-align:justify">This year, our Secondary One students took part in the Drones Odyssey Challenge, a culmination of weeks of intense practice in programming drones. Two of our teams clinched the first and second place in the B1 Category. </p>
+
+![Drones Odyssey](/images/Cca/cca-infocomm-06.jpg)
+Learning Drones Programming
+
+![Drones Odyssey](/images/Cca/cca-infocomm-07.jpg)
+Victory!
+
+<p style="text-align:justify">Earlier this year, our school particated in the Infocomm Media Club Student Leaders Conference.  We learnt a great deal from this conference!</p>
+
+![Infocomm Media Club Student Leaders Conference](/images/Cca/cca-infocomm-mediaclub-01.jpg)
+
+![Infocomm Media Club Student Leaders Conference](/images/Cca/cca-infocomm-mediaclub-02.jpg)
+Infocomm Media Club Student Leaders Conference
+
+
+<p style="text-align:justify; font-style:italic">After attending the Infocomm Club Student Leader Conference, I have learnt many different values that can be apply in my daily lives such as Professionalism, Perseverance, Resilience, and Respect and I have also gotten several inspiration from the famous artists after listening to them about their challenges and how they overcome it.</p>
+
+**- Ong Chee Khee,  3R2**
 
  
-<p style="text-align:justify; font-style:italic">We got inspiration modelling after US-styled schools and enjoyed the process building block by block in the competition. I enjoyed the team work with my friends and was pleasantly surprised to emerge as semi-finalists. I was glad our hard work paid off.</p>
+<p style="text-align:justify; font-style:italic">During the whole programme, I have learn a lot of thing such as coding, game making , online security and about the different types of hackers.Furthermore other than having fun making new games by ourselves and we are also able to learn how to protect ourselves online which is very important.</p>
 
-**- Tan Xing Yu, 2R3**
+**- Zhixin, 3R2**
  
+ 
+<p style="text-align:justify; font-style:italic">From the Student Leaders Conference, I learnt more about tech and the media. Jian Hao Tan, one of my favourite YouTubers, was there to talk about how he started his channel, and how it grew to the popular channel we all know. There were also other speakers there to tell us more about ICT. Overall it was very fun to attend the conference.</p>
 
+**-Darren 3R2**
+
+
+<!--
 <p style="text-align:justify; font-style:italic">5 teams were sent for this challenge and one of our teams was selected for the semi-finals.</p>
 Here are the links to our teams’ ideal carbon-free school.
 
@@ -56,3 +70,4 @@ Team 2 : [https://www.youtube.com/watch?v=BMQegnTKrwA](https://www.youtube.com/w
 Team 3 : [https://www.youtube.com/watch?v=hWpz9GqmS5E](https://www.youtube.com/watch?v=hWpz9GqmS5E) <br>
 Team 4 : [https://www.youtube.com/watch?v=ZkXAqM_QuOY](https://www.youtube.com/watch?v=ZkXAqM_QuOY) <br>
 Team 5 : [https://www.youtube.com/watch?v=w38LWfRriFI](https://www.youtube.com/watch?v=w38LWfRriFI)
+-->

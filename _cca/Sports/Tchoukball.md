@@ -4,9 +4,22 @@ permalink: /cca/sports/tchoukball/
 description: ""
 third_nav_title: Sports
 ---
-| |  | 
+|  **Teachers-in-Charge:** | Mr Seah Seng Chye (I/C) | 
 | -------- | -------- |
-|**Teachers-in-Charge:**<br>Mr Seah Seng Chye (I/C)<br>Mrs Sharon Chin (2I/C) <br>Mr Mark Sanjay<br><br>**Coach:** <br>Mr Jeff Ang<br><br>**Boys Captain:** <br>Haomin (4R2)<br><br>**Boys Vice-Captain:** <br>Rayius (4R6)<br><br>**Girls Captain:** <br>Claudia (4R2)<br><br>**Girls Vice-Captain:** <br>Eunice (4R2)<br>Xinyi (4R3)     | <img src="/images/Cca/cca-tchoukball-strike.jpg" alt="Principal" style="width:400px"  />     | 
+| |Mrs Sharon Chin (2I/C)  |
+|  |  Mr Mark Sanjay |
+|**Coach:** | Mr Jeff Ang|
+|**B Div Boys Captains:** |Haomin (4R2) |
+| **B Div Boys Vice-Captain:**|Rayius (4R6)|
+|**B Div Girls Captain:** |Claudia (4R2)    |
+| **B Div Girls Vice-Captain:** |Eunice (4R2) |
+| | Xinyi (4R3) |
+|**C Div Boys Captain:** |Rayvien Lim (2R6) |
+| **C Div Boys Vice-Captain:**|Ryan Ng (2R1)|
+|**C Div Girls Captain:** |Rachel Tay (2R7)   |
+| **C Div Girls Vice-Captain:** |Hazel Lay (2R3) |
+
+
 
 <br>
 
@@ -27,7 +40,8 @@ third_nav_title: Sports
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3jrd">Tchoukball Inter Schools Tournament 2022 B Division  (Girls)<br>3rd in Cup Category</td>
+    <td class="tg-3jrd">Tchoukball Inter Schools Tournament 2022 B Division  (Girls)<br>3rd in Cup Category<br>Tchoukball Inter Schools Tournament 2022 C Division  (Girls)<br>8th in Cup Category </td>
+		
   </tr>
 </tbody>
 </table>
@@ -49,8 +63,12 @@ third_nav_title: Sports
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3jrd">Tchoukball Inter Schools Tournament 2022 B Division  (Boys)<br>3rd in Cup Category<br>4th in Plate Category<br>
-1st in Bowl Category</td>
+    <td class="tg-3jrd">Tchoukball Inter Schools Tournament 2022 B Division  (Boys)<br>
+			3rd in Cup Category<br>
+			4th in Plate Category<br>
+1st in Bowl Category<br>
+			Tchoukball Inter Schools Tournament 2022 C Division  (Boys)<br>
+			3rd in Cup Category</td>
   </tr>
 </tbody>
 </table>
@@ -60,20 +78,20 @@ The Covid-19 pandemic and constant disruptions have both immensely impacted our 
 ![](/images/Cca/cca-tchoukball-02.jpg)
 
 <p style="text-align:justify; font-style:italic">
-"I learnt from the competitions and training that no matter how tough the competition or training is, you have to put in effort and try your very best and not give up. I also learnt that winning is not everything to aim for in a match – doing our best and being proud of ourselves after the game is what we should aim for."</p>
+1. I learned that following instructions is important as they are there for a reason.  Knowing opponent shots and their angles and adapt to it is important because defending also come before attacking.  Lastly, I learned that cupping together is important to prevent the ball from passing through both defenders. </p>
 
-**-Lim An Qi, Bendemeer Tchoukball Alumni.**
+<p style="text-align:justify; font-style:italic">2. Shooting into gaps, getting most of my shots in and blasting a power shot when the defenders hug the line and try to guard all my shooting angles are some of things I well during the competition. I managed to save most of the balls in my second line rebounds position.  </p>
+
+<p style="text-align:justify; font-style:italic">3. I want to work on our communication as in counting the number of passes and number of people defending our attacker so we can switch court and have a higher chance of scoring. For example, if my opponent went into the first line to defend, I could have signaled to my teammate to pass me the ball to increase the chance of scoring  Therefore, from the next training onwards, I will start practicing during training no matter whether it is match play or etc so it will be neutral in competition too.</p>
+
+**- Ryan Ng ( 2R1 )**
+
  <p style="text-align:justify; font-style:italic">
-"I learnt the importance of punctuality, because if one member is missing the whole team cannot train well as a team. I realised the importance of teamwork because Tchoukball is a team game that requires everyone to contribute."</p>
+Remain calm and alert during the game so that you dont panic and make mistakes. </p>
 
-**-Isabella Shem, Bendemeer Tchoukball Team.**
+**- Jeona (3R4)**
 
-
-![Defending the ball](/images/Cca/cca-tchoukball-01.jpg)
-<p style="text-align:justify; font-style:italic">
-"It all starts with curiosity and the hunger to know more about this sport that little people know of. As it progresses, you realize that the variety of styles and techniques are indefinite. Slowly, passion plays a huge role in the sport. But players like me, face huge walls and obstacles that take a lot of hustle to overcome. But it is for the best as it helps us to grow even better individually. Personally I struggled with lots of distractions in secondary school to the point where I felt really lost. However, training helped me to clear my mind and focus on the long term goal and eventually I managed to better understand myself and the problems I was facing. With no interest in studies and no drive, I was reluctant to even try and was ready to give up. Training helped me back on track and realize reality, that my future was at stake. I started putting in more effort and always compared it to my training. “Am I trying my best?”. In my entire secondary school life I have never passed math once. But this time, I passed the O levels. Which was not only the ultimate goal for me, but also a boost in self confidence."</p>
-
-**-Gerald Soh, Bendemeer Tchoukball Alumni.**
+<br>
 
 ![](/images/Cca/cca-tchoukball-03.jpg)
 

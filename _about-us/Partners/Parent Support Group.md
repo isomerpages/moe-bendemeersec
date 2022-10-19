@@ -29,12 +29,22 @@ Some of our key activities are:
 * Coffee Talks with parents
 * Bonding activities
 
-![Parent Support Group photo](/images/Aboutus/PSG3.jpg)
+![Parent Support Group photo](/images/Aboutus/psg-breakfast-01.jpg)
 
-![Parent Support Group photo](/images/Aboutus/PSG4.jpg)
+![Parent Support Group photo](/images/Aboutus/psg-breakfast-02.jpg)
+
+![Parent Support Group photo](/images/Aboutus/psg-breakfast-03.jpg)
+
+![Parent Support Group photo](/images/Aboutus/psg-breakfast-04.jpg)
+
+![Parent Support Group photo](/images/Aboutus/psg-breakfast-05.jpg)
+
+![Parent Support Group photo](/images/Aboutus/psg-breakfast-06.jpg)
+
+<p style="text-align:justify">Please consider joining us in the following activities and embark on a journey with your child you will not regret.</p>
 
 <!--
-<p style="text-align:justify">Please consider joining us in the following activities and embark on a journey with your child you will not regret.</p>
+
 
 Scan here or use [this link](https://chat.whatsapp.com/GNULdwRsYmI2e22T9XhIeo) to join our WhatsApp chat!
 

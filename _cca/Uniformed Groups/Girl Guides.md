@@ -4,6 +4,10 @@ permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+
+
+
+
 **Teacher-in-Charge:** <br>
 Ms Dawn Lim Sing Liean (I/C) <br>
 Ms Lu Yueh Ju (2I/C) <br>
@@ -41,8 +45,11 @@ Girl Guides (Bronze)</td>
 </tbody>
 </table>
 
-<br>
+![Girl Guides Camp](/images/Cca/cca-girlguidecamp-01.jpg)
 
+![Girl Guides Camp](/images/Cca/cca-girlguidecamp-02.jpg)
+
+![Girl Guides Camp](/images/Cca/cca-girlguidecamp-03.jpg)
 
 <p style="text-align:justify">Emerging from the pandemic of 2020, Bendemeer Guides were eager and hopeful that 2021 would be a year back to normalcy. Making the most of Safety Management Measures (SMM), our guides sought to conduct activities in person to gel the new Secondary One guides who joined us at the beginning of the year. Besides our usual programme of roll call, drills, physical training, and familiarising ourselves with the history of guiding, we tried to fun team-bonding incorporate games. Our Company hosted the Baden Powell (BPA) written test for the South Division schools.  Two of our guides, Areefa and Shannon attended the first virtual WAGGGS Leadership Mindset Course in April.</p>
 
@@ -64,11 +71,13 @@ Girl Guides orientation day
 
 <p style="text-align:justify">Towards the end of the year there was an activity where we had to sell cookies at a Fair Price supermarket located in the Tampines Hub. I was the only Secondary 1 student who volunteered for it. It was until that day that I realised that I can be so patient to sell cookies for 9 hours each day. After that whole activity I was so proud of myself.</p>
 
-<p style="text-align:justify; font-style:italic">This year I am in Secondary 3. I was appointed the Assistant Company leader for my CCA. To think that when I first came to Girl Guides, I wanted to quit and now I am the Assistant Company leader. In my three years in Girl Guides I have learned so many things about myself and gained a lot of self-confidence, I have learned how to be independent and learned that when we love what we do, we can achieve more than we think we can achieve. So far Girl Guides has really played a major role in my secondary school life.</p>
 
 ![](/images/Cca/cca-girlguides-02.jpg)
 
 ![](/images/Cca/cca-girlguides-04.jpg)
+
+<p style="text-align:justify; font-style:italic">This year I am in Secondary 3. I was appointed the Assistant Company leader for my CCA. To think that when I first came to Girl Guides, I wanted to quit and now I am the Assistant Company leader. In my three years in Girl Guides I have learned so many things about myself and gained a lot of self-confidence, I have learned how to be independent and learned that when we love what we do, we can achieve more than we think we can achieve. So far Girl Guides has really played a major role in my secondary school life.</p>
+
 
 
 **- Areefa Begum (Assistant Company Leader)**

@@ -24,9 +24,10 @@ height: 100%;
 <p style="text-align:justify">From Sec 1 to Sec 4, all the students were given opportunities to exhibit their interest and talents to develop their love for language and enhance academic learning. With the introduction of Personal Learning Devices, PLDs, ICT integrated lessons were carried out to deepen students’ understanding.  Students are given opportunities to develop their language skills such as storytelling, stand-up comedy, Drawing and Rangoli, advertisement act, one minute video making, one act play, mono acting, singing song, .  </p>
 
 
+![Teaching and Learning of Tamil Language](/images/Departments/tl-01-tnl-01.jpg)
 
-![Teaching and Learning of Tamil Language](/images/Departments/tl-lesson-01.jpg)
-Using PLD in Classroom
+![Teaching and Learning of Tamil Language](/images/Departments/tl-01-tnl-01.jpg)
+
 
 #### **Learning Journey**
 
@@ -45,21 +46,28 @@ Using PLD in Classroom
 
 <p style="text-align:justify">Every year, the Tamil Language Unit organizes the Pongal Festival and Deepavali celebrations. The school foyer will be decorated with vibrant Rangoli designs and traditional decorations. Pongal delicacies were served for the school to savour traditional indian delights. Amidst the fanfare the celebrations also put across the values inculcated through traditional practices.</p>
 
+![Deepavali Celebrations](/images/Departments/tl-02-deepa.jpg)
+
+![Deepavali Celebrations](/images/Departments/tl-festive-01.jpg)
+
+![Deepavali Celebrations](/images/Departments/tl-festive-02.jpg)
+
+
+
 <p style="text-align:justify">Parents also participate in Pongal and Deepavali preparations at school by contributing their service in decorating school and making Pongal delicacies. </p>
 
+![Pongal Festival](/images/Departments/tl-03-pongal.jpg)
 
-![Pongal Festival and Deepavali Celebrations](/images/Departments/tl-festive-01.jpg)
-
-![Pongal Festival and Deepavali Celebrations](/images/Departments/tl-festive-02.jpg)
-
-![Pongal Festival and Deepavali Celebrations](/images/Departments/tl-festive-03.jpg)
+![Pongal Festival](/images/Departments/tl-festive-03.jpg)
 
 
 **External Competitions**
 
 <p style="text-align:justify">Teachers will develop and train the students for inter-school competitions to be held at cluster and national level conducted by community centres and other literary organisations. Our Bendemeer Tamil Language students have been participating in SORKALAM, Naanum Oru Padaipaali (CPDD, MOE), Navarasam, Creative writing competition, language and cultural competitions organised by community centres and achieved many prizes at the national level.</p>
 
-![External Competitions](/images/Departments/tl-competition-01.jpg)
+![External Competitions](/images/Departments/tl-04-award.jpg)
+
+![External Competitions](/images/Departments/tl-05-award.jpg)
 
 ![External Competitions](/images/Departments/tl-competition-02.jpg)
 
@@ -79,6 +87,9 @@ Using PLD in Classroom
 ![Twinning Programme in Chennai (India)](/images/Departments/tl-chennai-01.jpg)
 
 ![Twinning Programme in Chennai (India)](/images/Departments/tl-chennai-02.jpg)
+
+<br>
+<br>
 
 <div class="google-slides-container">
 <iframe allowfullscreen="true" height="589" width="840" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSi5548wj5982hijWPK4R8FvpSixsVpZNUGAjhh7TXfIjOXLw_99TLSE8zozNsKHxttzeSoAQtubf7J/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>
