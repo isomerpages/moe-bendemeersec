@@ -27,7 +27,11 @@ description: ""
 <p style="text-align:justify">With the easing of covid measures, our Secondary Three leaders finally experienced their first face to face leadership workshop in Sentosa. They were challenged from the get-go as they took on low element tasks and a kayaking expedition into the open sea. Our leaders not only built resilience but also communication skills and team spirit!
 </p>
 
+![](/images/Cca/cca-sc-camp-01.jpg)
 
+![](/images/Cca/cca-sc-camp-02.jpg)
+
+![](/images/Cca/cca-sc-camp-03.jpg)
 
 ##### **LLP Green Movement**
 
