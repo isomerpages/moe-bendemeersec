@@ -4,14 +4,9 @@ permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
-
-
 **Teacher-in-Charge:** <br>
 Ms Dawn Lim Sing Liean (I/C) <br>
 Ms Lu Yueh Ju (2I/C) <br>
-Mdm Nasyitah Binte Abu Bakar <br>
 Ms Caroline Murty
 
 **Company Leader:** <br>
@@ -42,6 +37,10 @@ Nur Azyza Binte Mohamad Azman (3R6)
     <td class="tg-3jrd">Puan Noor Aishah (PNA) Award 2021<br>
 Girl Guides (Bronze)</td>
   </tr>
+	<tr>
+		<td class="tg-3jrd">Smoke Free Ambassador Course (Organized by Singapore Cancer Society)- 2nd Prize
+		</td>
+	</tr>
 </tbody>
 </table>
 

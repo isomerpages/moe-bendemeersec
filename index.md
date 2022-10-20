@@ -16,4 +16,7 @@ sections:
         - title: Useful Links for Staff
           description: Click to see more
           url: /for-parents/useful-links
+        - title: Open House
+          description: Click to see more
+          url: /for-parents/openhouse
 ---
