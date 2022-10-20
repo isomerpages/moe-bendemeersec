@@ -43,6 +43,8 @@ description: ""
 
 <p style="text-align:justify">The school enjoyed their first Racial Harmony Day celebrations in over 2 years- students came to school decked in multicultural costumes, played ethnic games such as Chapteh, and even got to participate in Best Dressed competitions. This was all planned and executed by the Student Councilors! As measures further ease, the Student Council looks forward to planning more of such events and activities for the school!!</p>
 
+![](/images/Cca/cca-sc-rhd-01.jpg)
+
 ##### **Teacher’s Day Celebration (1 Sep 2022)**
 <p style="text-align:justify">After 2 years, the school was finally able to gather all together in the school hall to celebrate our teachers. The Student Council filmed videos and planned games, quizzes and even a concert put up by the Performing Arts CCAs. 
 </p>
