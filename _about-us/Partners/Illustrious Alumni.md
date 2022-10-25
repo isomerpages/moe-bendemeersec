@@ -24,7 +24,7 @@ third_nav_title: Partners
 
 
  
-The Alumni is a group of young men and women who have graduated from Bendemeer Secondary School. Together with the school, the Alumni hope to support the school and the community through organising events that promote a positive message, as well as re-connect Bendemeerian with one another.</p>
+<p style="text-align:justify">The Alumni is a group of young men and women who have graduated from Bendemeer Secondary School. Together with the school, the Alumni hope to support the school and the community through organising events that promote a positive message, as well as re-connect Bendemeerian with one another.</p>
 <p style="text-align:justify">
 We encourage our alumni to come back to their Bendemeer and strengthen bonds developed while they were in school We believes in working closely with our alumni through the formation of synergistic partnerships.</p>
 <p style="text-align:justify">
