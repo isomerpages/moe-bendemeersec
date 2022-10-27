@@ -9,10 +9,11 @@ third_nav_title: Humanities
 </style>
 
 
-
 <p style="text-align:justify">Our students participated in the National Level video creation competition on sustainability, initiated by Toa Payoh West CC – IAEC, jointly organised by Raffles Girls’ Secondary School. The objective of the competition is  to create more awareness in the community and encourage residents to adopt sustainability-related habits in their daily lives and empower primary and secondary school children to play an active role in promoting environmental sustainability in their community. Our students emerged 1st Runner-up in the competition. </p>
 
+
 The students are : 
+
 | OZONE 2022 National Level Sustainability Competition |  |
 | - | - |
 |1st Runner-ups|  Josh Tekani (2R1)  |   
