@@ -13,6 +13,7 @@ third_nav_title: Humanities
 
 
 The students are : 
+
 | OZONE 2022 National Level Sustainability Competition |  |
 | - | - |
 |1st Runner-ups|  Josh Tekani (2R1)  |   
