@@ -20,25 +20,46 @@ Gulinton Lim Zhifu (4R5)
 
 
 <p style="text-align:justify">Bendemeer School Choir meets twice a week (Mondays & Wednesdays, 4 pm to 6 pm) to train our choir members. Besides learning the proper vocal production techniques, we train students’ leadership by assigning them to lead the warm-ups, choreograph the dance movements for performances and plan choir camp activities.  </p>
-	
+
+![Choir training](/images/Cca/cca-choir2022n-01.jpg)
+
+![Video recording for Chinese New Year performance](/images/Cca/cca-choir2022n-02.jpg)
+
+![Choir Enrichment workshop](/images/Cca/cca-choir2022n-03.jpg)
+
+![Group photo with Principal](/images/Cca/cca-choir2022n-04.jpg)
+
+
+
 <p style="text-align:justify">Anyone without music background or knowledge are welcome to join the School Choir because we have engaged a professional conductor to teach our choir members. </p>
 
-<p style="text-align:justify">We are involved in performing at Community Clubs for CNY concert and National Day Observance Ceremony yearly. Teamwork, self-discipline, responsibility, passion and buildup of confidence levels are what we place importance on the most.  Every session is indeed a good learning experience for our members. </p>
+<p style="text-align:justify">We are involved in performing at Community Clubs for CNY concert and National Day Observance Ceremony yearly. </p>
 
-
-![Training for Singapore Youth Festival](/images/Cca/cca-choir-01.jpg)
-Audio recording for Singapore Youth Festival
-
-![](/images/Cca/cca-choir2022-01.jpg)
-Video recording for Chinese New Year Celebrations
-
-![](/images/Cca/cca-choir2022-02.jpg)
+![Teacher's Day Performance](/images/Cca/cca-choir2022n-05.jpg)
 Teacher's Day Celebrations
 
-![](/images/Cca/cca-choir2022-04.jpg)
+![Teacher's Day Performance](/images/Cca/cca-choir2022n-06.jpg)
+Teacher's Day Celebrations
+
+![Rehearsal before the Voices of Singapore Festival 2022 at CHIJMES](/images/Cca/cca-choir2022n-07.jpg)
+
+![Rehearsal before the Voices of Singapore Festival 2022 at CHIJMES](/images/Cca/cca-choir2022n-08.jpg)
+
+
+<p style="text-align:justify">Teamwork, self-discipline, responsibility, passion and buildup of confidence levels are what we place importance on the most.  Every session is indeed a good learning experience for our members. </p>
+
+
+![Performing at Voices of Singapore Festival 2022 at CHIJMES](/images/Cca/cca-choir2022n-09.jpg)
 Performance for Voices of Singapore Festival 2022 at CHIJMES
 
-![](/images/Cca/cca-choir2022-03.jpg)
+![Performing at Voices of Singapore Festival 2022 at CHIJMES](/images/Cca/cca-choir2022n-10.jpg)
+Performance for Voices of Singapore Festival 2022 at CHIJMES
+
+![Performing at Voices of Singapore Festival 2022 at CHIJMES](/images/Cca/cca-choir2022n-11.jpg)
+Performance for Voices of Singapore Festival 2022 at CHIJMES
+
+
+
 
 <br>
 
