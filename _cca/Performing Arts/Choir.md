@@ -10,13 +10,14 @@ Mrs Elaine Wong (2I/C) <br>
 Mdm Wang Huilin
 
 **Instructor:** <br>
-Ms Grace Oey
+Ms Angila Tan
 
 **Chairperson:** <br>
-Valerie Nadya (4R1)
+Adeline Tan (3R4)
 
 **Vice-Chairperson:** <br>
-Gulinton Lim Zhifu (4R5)
+Shane Magela Fernando (3R3)<br>
+Regina Hor(3R4)
 
 
 <p style="text-align:justify">Bendemeer School Choir meets twice a week (Mondays & Wednesdays, 4 pm to 6 pm) to train our choir members. Besides learning the proper vocal production techniques, we train students’ leadership by assigning them to lead the warm-ups, choreograph the dance movements for performances and plan choir camp activities.  </p>
