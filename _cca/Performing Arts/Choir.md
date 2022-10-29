@@ -22,12 +22,16 @@ Gulinton Lim Zhifu (4R5)
 <p style="text-align:justify">Bendemeer School Choir meets twice a week (Mondays & Wednesdays, 4 pm to 6 pm) to train our choir members. Besides learning the proper vocal production techniques, we train students’ leadership by assigning them to lead the warm-ups, choreograph the dance movements for performances and plan choir camp activities.  </p>
 
 ![Choir training](/images/Cca/cca-choir2022n-01.jpg)
+Choir training
 
 ![Video recording for Chinese New Year performance](/images/Cca/cca-choir2022n-02.jpg)
+Video recording for Chinese New Year performance
 
 ![Choir Enrichment workshop](/images/Cca/cca-choir2022n-03.jpg)
+Choir Enrichment workshop
 
 ![Group photo with Principal](/images/Cca/cca-choir2022n-04.jpg)
+Group photo with Principal
 
 
 
@@ -42,8 +46,10 @@ Teacher's Day Celebrations
 Teacher's Day Celebrations
 
 ![Rehearsal before the Voices of Singapore Festival 2022 at CHIJMES](/images/Cca/cca-choir2022n-07.jpg)
+Rehearsal before the Voices of Singapore Festival 2022 at CHIJMES
 
 ![Rehearsal before the Voices of Singapore Festival 2022 at CHIJMES](/images/Cca/cca-choir2022n-08.jpg)
+Rehearsal before the Voices of Singapore Festival 2022 at CHIJMES
 
 
 <p style="text-align:justify">Teamwork, self-discipline, responsibility, passion and buildup of confidence levels are what we place importance on the most.  Every session is indeed a good learning experience for our members. </p>
