@@ -68,11 +68,10 @@ Performance for Voices of Singapore Festival 2022 at CHIJMES
 
 **- Valerie Nadya**
 
- ![](/images/Cca/cca-choir-04.jpg)
 <p style="text-align:justify; font-style:italic">I learnt a lot of new things, made a lot of friends and have wonderful memories with the choir. I will never forget those days where we worked extremely hard for SYF and other school performances. We put in many hours of hard work for every performance, gave our best effort and always present for the training even though exams were approaching. During training, everyone was disciplined and would hone the techniques and skills taught until we were ready. Choir has changed me as a person, I became more confident and I gained the courage to lead my own section as a section leader and assist the chairperson in leading the choir. I am very glad that I have joined choir as I think that it has changed my life for the better.</p>
 
 **- Gulinton Lim (Vice-Chairperson)**
 
-![](/images/Cca/cca-choir-05.jpg)
+![Bonding time at CHIJMES](/images/Cca/cca-choir2022n-12.jpg)Bonding time at CHIJMES
 
-![](/images/Cca/cca-choir-06.jpg)
+![Bonding time at CHIJMES](/images/Cca/cca-choir2022n-13.jpg)Parents show their support for the event
