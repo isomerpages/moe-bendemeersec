@@ -4,20 +4,14 @@ permalink: /cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
-**Teachers-in-Charge:** <br>
-Mrs Poon Chong Cheah (I/C) <br>
-Mrs Elaine Wong (2I/C) <br>
-Mdm Wang Huilin
-
-**Instructor:** <br>
-Ms Angila Tan
-
-**Chairperson:** <br>
-Adeline Tan (3R4)
-
-**Vice-Chairperson:** <br>
-Shane Magela Fernando (3R3)<br>
-Regina Hor(3R4)
+|**Teachers-in-Charge:**| Mrs Poon Chong Cheah (I/C)   |
+|---|---|
+|  |  Mrs Elaine Wong (2I/C)  |
+|  | Mdm Wang Huilin  |
+| **Instructor** | Ms Angila Tan  |
+|**Chairperson**  |  Adeline Tan (3R4) |
+| **Vice-Chairperson** | Shane Magela Fernando (3R3)  |
+|  | Regina Hor(3R4) |
 
 
 <p style="text-align:justify">Bendemeer School Choir meets twice a week (Mondays & Wednesdays, 4 pm to 6 pm) to train our choir members. Besides learning the proper vocal production techniques, we train students’ leadership by assigning them to lead the warm-ups, choreograph the dance movements for performances and plan choir camp activities.  </p>
