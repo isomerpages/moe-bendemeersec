@@ -4,8 +4,6 @@ permalink: /key-programmes/ndlp/dik-lenovo-500e/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-
-
 ### School-Based Help Desk
 <p style="text-align:justify">The ICT Department will provide technical support to students.    This is part of our efforts to ensure that there is minimum disruption to students’ learning.  </p>
 
@@ -41,7 +39,7 @@ Students can also reach us by filling up a form at [go.gov.sg/bdms-icthelp](http
 
 * <p style="text-align:justify">School-based service desk personnel will inform the students when they can collect back their devices.</p>
 
-* Parents/students can also bring the device to the Contractor's Service Centre.  Parents/students are advised to contact Contractor’s helpdesk (T: 800 852 8100). Parents/students will need the following information such as their device serial number, brand and model of the device, their name and contact number to log a case with the helpdesk.</p>
+* <p style="text-align:justify">Parents/students can also bring the device to the Contractor's Service Centre.  Parents/students are advised to contact Contractor’s helpdesk (T: 800 852 8100). Parents/students will need the following information such as their device serial number, brand and model of the device, their name and contact number to log a case with the helpdesk.</p>
 * <p style="text-align:justify">Contractor’s helpdesk agent will advise parents/students on any further actions required (e.g. bringing their devices to the service centre for diagnosis or assessment of damage).</p>
 * <p style="text-align:justify"><b>Students can loan a device</b> from the school common pool for daily lessons <b>during the period of repair</b></p>
 
