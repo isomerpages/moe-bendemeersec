@@ -40,10 +40,10 @@ For Personal Learning Device & School ICT Resources**
 	* hurtful to others.
  
 <p style="text-align:justify">7.  You should not use any devices to</p>
+
+	* store, modify, create or share content (e.g. documents, presentations, pictures and videos) that is inappropriate (e.g. indecent, pornographic, defamatory, hurtful to self or others).
  
-<p style="text-align:justify">	*  store, modify, create or share content (e.g. documents, presentations, pictures and videos) that is inappropriate (e.g. indecent, pornographic, defamatory, hurtful to self or others).</p>
- 
-<p style="text-align:justify">	*  make threats, cause harassment or embarrassment, impersonate or intimidate others.</p>
+	* make threats, cause harassment or embarrassment, impersonate or intimidate others.
  
 <p style="text-align:justify">8. You should not use MOE/school-deployed ICT system accounts for any commercial activities (e.g. buying and selling of goods and services).</p>
 
