@@ -62,18 +62,20 @@ For Personal Learning Device & School ICT Resources**
 <p style="text-align:justify">12.   The protective shell of the PLD will provide only basic protection from everyday use. You should use a carrying bag or a padded sleeve for your PLD.</p>
  
 <p style="text-align:justify">13.   The touchscreen function also makes the screen particularly sensitive to damage from excessive pressure.</p>
-<p style="text-align:justify">
-		* Remove items (eg. pens, pencils) on the keyboard before closing the lid.</p>
- <p style="text-align:justify">
-		* Do not place heavy objects on the Chromebook.</p>
- <p style="text-align:justify">
-		* Do not jab at the screen with sharp objects.</p>
+
+	* Remove items (eg. pens, pencils) on the keyboard before closing the lid.
+	
+	* Do not place heavy objects on the Chromebook.
+	
+	* Do not jab at the screen with sharp objects.
+	
+
  
  **Protection and Storing your PLD.**
  
 <p style="text-align:justify">14.   Besides the mandatory labels which will have the school logo, your name and class, you may personalise your PLD on the cover with stickers, tape or labels.  You may also change your desktop wallpaper.</p>
  
-<p style="text-align:justify">15.   You should keep your PLD in the class mobile cart with the **digital lock securely fastened** during PE or recess.  </p>
+<p style="text-align:justify">15.   You should keep your PLD in the class mobile cart with the <b>digital lock securely fastened</b> during PE or recess.  </p>
  
 <p style="text-align:justify">16.   You should store your PLD into the metal cabinets during CCAs. Your CCA teachers-in-charge will provide the instructions to do so.</p>
 
