@@ -93,8 +93,9 @@ Online form:                [https://go.gov.sg/bdms-icthelp ](https://form.gov.s
 
 Services provided by the ICT Office include:
 
-▪       Student MIMS, iCON and SLS password reset.
-
-▪       Coordination of fortnightly collection of PLDs for repair.
-
-▪       Basic troubleshooting of PLDs.
+	* Student MIMS, iCON and SLS password reset.
+	
+	* Coordination of fortnightly collection of PLDs for repair 
+	
+	* Basic troubleshooting of PLDs.
+      
