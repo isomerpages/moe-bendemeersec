@@ -1,5 +1,5 @@
 collections:
-  zlife-at-bdms:
+  life-at-bdms:
     output: true
     order:
       - Opportunities for All.md
