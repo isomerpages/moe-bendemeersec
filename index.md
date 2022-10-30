@@ -15,5 +15,5 @@ sections:
       key_highlights:
         - title: Useful Links for Staff
           description: Click to see more
-          url: /for-parents/useful-links
+          url: /for-staff/links/
 ---
