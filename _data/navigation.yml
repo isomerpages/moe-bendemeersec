@@ -17,6 +17,8 @@ links:
     collection: key-programmes
   - title: Achievements
     collection: achievements
+  - title: Life@BDMS
+    collection: life-at-bdms
   - title: For Parents
     url: /for-parents/class-timetable
     sublinks:
