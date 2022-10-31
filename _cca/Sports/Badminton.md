@@ -4,15 +4,14 @@ permalink: /cca/sports/badminton/
 description: ""
 third_nav_title: Sports
 ---
-**Teachers-in-Charge:** <br>
-Mr Manoj Kumar Dave (I/C) <br>
-Mr Wong Chee Seng (2I/C)
+|  **Teachers-in-Charge:** | Mr Manoj Kumar Dave(I/C) | 
+| -------- | -------- |
+|  | Mr Wong Chee Seng(2I/C) |
+|**Captain:** |  Tan Jing Ren, Mattias (4R2) |
+|**Vice-Captains:** |  Ng Choon Lin (3R3)   |
+|  |  |
 
-**Captain:** <br>
- Tan Jing Ren, Mattias (4R2)
-
-**Vice-Captain**<br>
-Ng Choon Lin (3R3) 
+<br>
 
 <p style="text-align:justify">
 Badminton gives our students good flexibility and a good joint work-out. In addition, fast hand and eye coordination is key in predicting and delivering accurate shots. No badminton player will succeed without building up their stamina, for long bouts lasting 2-3 hours. This year’s CCA sessions started with that aim in mind, at the same time keeping it fun, relaxing and challenging for the members.</p>
