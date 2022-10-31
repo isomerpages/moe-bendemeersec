@@ -13,6 +13,7 @@ description: ""
 
 [Bendemeer Secondary School e-Magazine 2021 BDMS](https://issuu.com/bendemeersec/docs/bendemeer_sec_e-magazine_2021?fr=sY2FhYTU0MjE3MTM)
 
+<a href="[https://issuu.com/bendemeersec/docs/bendemeer_sec_e-magazine_2021?fr=sY2FhYTU0MjE3MTM)" target="\_blank" rel="noopener">href Bendemeer Secondary School e-Magazine 2021 BDMS</a>
 
 <!--
 ### Online School Magazine 2020
