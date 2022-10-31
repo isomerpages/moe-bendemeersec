@@ -18,7 +18,7 @@ Thank you for visiting Bendemeer Secondary School's website.  By accessing and u
 
 **Privacy Policy**
 
-4. Click here to review this website Privacy Statement.
+4. Click [here](/privacy/) to review this website Privacy Statement.
 
 **Restrictions on use of Materials**
 
