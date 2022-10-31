@@ -6,10 +6,10 @@ third_nav_title: Uniformed Groups
 ---
 |  **Youth Officers:** | Ms Ling Kai Xin Shauna(I/C) | 
 | -------- | -------- |
-|  |  Ms Ramamdevi (Advisor)  |
 |  | Mr Ng Jan Ile (2I/C) |
 |  |  Ms Toh Yen Nee |
 |  | Ms Vimala Selvarasu|
+|  **Advisor:** | Ms Ramamdevi  |
 |**Volunteer Instructor:** | Ms Wang Yu Qing|
 |**RCY Chairpersons:** |  Neo Hui En Rachael (4R3) |
 |**RCY Vice-Chairpersons:** | Ethan Lee Jie (4R1)   |
