@@ -4,18 +4,22 @@ permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-**Teacher-in-Charge:** <br>
-Ms Dawn Lim Sing Liean (I/C) <br>
-Ms Lu Yueh Ju (2I/C) <br>
-Ms Caroline Murty
+|  **Teachers-in-Charge:** | Ms Dawn Lim Sing Liean(I/C) | 
+| -------- | -------- |
+|  | Ms Lu Yueh Ju(2I/C) |
+|  | Ms Caroline Murty|
+|**Company Leader:** | Yee Zi Hui (3R3) |
+|  |  - |
+|**Assistant Company Leaders:** |  Areefa Begum (3R7)  |
+|  |  Nur Azyza Binte Mohamad Azman (3R6) |
+|  |  |
 
-**Company Leader:** <br>
-Yee Zi Hui (3R3)
+ <br>
 
-**Assistant Company Leaders:** <br>
-Areefa Begum (3R7) <br>
-Nur Azyza Binte Mohamad Azman (3R6)
 
+| Training days: | Thursdays  |
+| - | -|
+| Duration: |  3.00pm - 5.30pm |
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
