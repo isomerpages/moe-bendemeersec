@@ -40,10 +40,10 @@ For Personal Learning Device & School ICT Resources**
 	* hurtful to others.
  
 <p style="text-align:justify">7.  You should not use any devices to</p>
+
+	* store, modify, create or share content (e.g. documents, presentations, pictures and videos) that is inappropriate (e.g. indecent, pornographic, defamatory, hurtful to self or others).
  
-<p style="text-align:justify">	*  store, modify, create or share content (e.g. documents, presentations, pictures and videos) that is inappropriate (e.g. indecent, pornographic, defamatory, hurtful to self or others).</p>
- 
-<p style="text-align:justify">	*  make threats, cause harassment or embarrassment, impersonate or intimidate others.</p>
+	* make threats, cause harassment or embarrassment, impersonate or intimidate others.
  
 <p style="text-align:justify">8. You should not use MOE/school-deployed ICT system accounts for any commercial activities (e.g. buying and selling of goods and services).</p>
 
@@ -62,18 +62,20 @@ For Personal Learning Device & School ICT Resources**
 <p style="text-align:justify">12.   The protective shell of the PLD will provide only basic protection from everyday use. You should use a carrying bag or a padded sleeve for your PLD.</p>
  
 <p style="text-align:justify">13.   The touchscreen function also makes the screen particularly sensitive to damage from excessive pressure.</p>
-<p style="text-align:justify">
-		* Remove items (eg. pens, pencils) on the keyboard before closing the lid.</p>
- <p style="text-align:justify">
-		* Do not place heavy objects on the Chromebook.</p>
- <p style="text-align:justify">
-		* Do not jab at the screen with sharp objects.</p>
+
+	* Remove items (eg. pens, pencils) on the keyboard before closing the lid.
+	
+	* Do not place heavy objects on the Chromebook.
+	
+	* Do not jab at the screen with sharp objects.
+	
+
  
  **Protection and Storing your PLD.**
  
 <p style="text-align:justify">14.   Besides the mandatory labels which will have the school logo, your name and class, you may personalise your PLD on the cover with stickers, tape or labels.  You may also change your desktop wallpaper.</p>
  
-<p style="text-align:justify">15.   You should keep your PLD in the class mobile cart with the **digital lock securely fastened** during PE or recess.  </p>
+<p style="text-align:justify">15.   You should keep your PLD in the class mobile cart with the <b>digital lock securely fastened</b> during PE or recess.  </p>
  
 <p style="text-align:justify">16.   You should store your PLD into the metal cabinets during CCAs. Your CCA teachers-in-charge will provide the instructions to do so.</p>
 
@@ -91,8 +93,9 @@ Online form:                [https://go.gov.sg/bdms-icthelp ](https://form.gov.s
 
 Services provided by the ICT Office include:
 
-▪       Student MIMS, iCON and SLS password reset.
-
-▪       Coordination of fortnightly collection of PLDs for repair.
-
-▪       Basic troubleshooting of PLDs.
+	* Student MIMS, iCON and SLS password reset.
+	
+	* Coordination of fortnightly collection of PLDs for repair 
+	
+	* Basic troubleshooting of PLDs.
+      

@@ -11,12 +11,14 @@ links:
         url: /departments/cnt/cnt-overview
       - title: Co-Curricular
         url: /departments/physical-education/pe-overview
-  - title: CCA
-    collection: cca
+      - title: CCA
+        url: /cca/cca-philosophy/
   - title: Key Programmes
     collection: key-programmes
   - title: Achievements
     collection: achievements
+  - title: Life@BDMS
+    collection: life-at-bdms
   - title: For Parents
     url: /for-parents/class-timetable
     sublinks:
