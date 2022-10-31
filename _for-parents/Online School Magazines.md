@@ -11,7 +11,7 @@ description: ""
 
 [Bendemeer Secondary School e-Magazine 2021](https://issuu.com/touche-design/docs/bendemeer_sec_e-magazine_2021?fr=sNWE3NzI3NTIwODU)
 
-[Bendemeer Secondary School e-Magazine 2021 BDMS](https://issuu.com/bendemeersec/docs/bendemeer\_sec\_e-magazine\_2021)
+[Bendemeer Secondary School e-Magazine 2021 BDMS](https://issuu.com/bendemeersec/docs/bendemeer\_sec\_e-magazine\_2021?fr=sY2FhYTU0MjE3MTM)
 
 
 <!--
