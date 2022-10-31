@@ -4,9 +4,15 @@ permalink: /cca/performing-arts/drama-english/
 description: ""
 third_nav_title: Performing Arts
 ---
-| |  | 
-| -------- | -------- | 
-| **Teachers-in-Charge:** <br>Mrs Lo May Ling (I/C) <br>Ms Ivy Lim Chiew Sian (2I/C) <br>Mdm Karamjit Kaur<br><br>**Advisor:** <br>Mr Glenn Tan<br><br>**Instructor:** <br>Ms Aricia Ng<br><br>**President:**<br>      Neo Ting Hui Sherisse (4R1)<br><br>**Vice-President:**    <br>Phua Sheng Yang Justin (4R2) | <img src="/images/Cca/cca-dramael-01.jpg" alt="Discussing the script" style="width:400px" />  | 
+|  **Teachers-in-Charge:** | Mrs Lo May Ling (I/C) | 
+| -------- | -------- |
+|  | Ms Ivy Lim Chiew Sian(2I/C) |
+|  | Mdm Karamjit Kaur  |
+| **Advisor:** | Mr Glenn Tan |
+|**Instructor:** | Ms Aricia Ng |
+|**President:** | Neo Ting Hui Sherisse (4R1)|
+|**Vice-President:** |  Phua Sheng Yang Justin (4R2)   |
+|  |  |
 
 <br>
 
