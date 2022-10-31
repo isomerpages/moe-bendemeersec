@@ -21,8 +21,9 @@ permalink: /privacy/
 
 <p style="text-align: justify;">6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.</p>
 
-<p style="text-align: justify;">7. Please submit a form via our [feedback channel](https://go.gov.sg/bdms-icthelp) if you:</p>
+<p style="text-align: justify;">7. Please submit a form via our <a href="https://go.gov.sg/bdms-icthelp">feedback</a> channel if you:</p>
 <ul>
 	<li><p style="text-align: justify;">have any enquires or feedback on our data protection policies and procedures,</p</li>
 	<li><p style="text-align: justify;">need more information on or access to data which you have provided to us in the past.</p></li>
+
 </ul>
