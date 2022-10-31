@@ -4,19 +4,13 @@ permalink: /cca/performing-arts/drama-tamil/
 description: ""
 third_nav_title: Performing Arts
 ---
-**Teachers-in-Charge:** <br>
-Ms Achaiya Gunasekaran (I/C)
-
-**Advisor:** <br>
-Mr G Murugan
-
-**Chairperson:** <br>
-Balamurugan Vicknesh (3R2)
-
-**Vice-Chairpersons:** <br>
-Jasrah D/O Abdul Rahim (3R3)<br>
-Muralidharan Yazhini (3R3)
-
+|  **Teachers-in-Charge:** | Ms Achaiya Gunasekaran(I/C) | 
+| -------- | -------- |
+| **Advisor:** | Mr G Murugan |
+|**Chairperson:** |  Balamurugan Vicknesh (3R2) |
+|**Vice-Chairpersons:** |  Jasrah D/O Abdul Rahim (3R3)  |
+|  |  Muralidharan Yazhini (3R3) |
+|  |  |
 
 <br>
 
