@@ -15,6 +15,9 @@ LTA Dennis Wong
 **Assistant Sergeant Major:** <br>
 3SG Yeo Quan Wei (3R3)
 
+| Training days: | Thursdays  |
+| - | -|
+| Duration: |  3.00pm - 5.30pm |
 <br>
  
  <style type="text/css">
