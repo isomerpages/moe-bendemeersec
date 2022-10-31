@@ -4,14 +4,17 @@ permalink: /cca/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
-
-
-
-| |  | 
-| -------- | -------- | 
-| **Teachers-in-Charge:** <br>Mdm Noorlizah Osman (I/C) <br>Mdm Lim Ying Shung (2I/C) <br>Ms Ng Qian Hui <br>Ms Ivy Lim Gek Hoon<br><br>**Instructors:** <br>Mr Joseph Teo <br>Mr Alvin Quek<br><br>**Band Major:** <br>Jesse Ng Ren Jie (4R3) <br>Lim En Jie Janavia (4R2)<br><br>**Drum Major:** <br>Kirthik Vnesh Naidu S/O Alwar Naidu (4R1)<br><br>     |  <img src="/images/Cca/cca-concertband-01.jpeg" alt="Keep on Going" style="width:400px" />    | 
+|  **Teachers-in-Charge:** | Mdm Noorlizah Osman(I/C) | 
+| -------- | -------- |
+|  | Mdm Lim Ying Shung (2I/C) |
+|  | Ms Ng Qian Hui |
+|  | Ms Ivy Lim Gek Hoon |
+|**Instructors:** | Mr Joseph Teo|
+|  | Mr Alvin Quek |
+|**Band Majors:** |  Jesse Ng Ren Jie (4R3)  |
+|  |  Lim En Jie Janavia (4R2) |
+|**Drum Majors:** |  Kirthik Vnesh Naidu S/O Alwar Naidu (4R1)| 
+|  |  |
 
 
 <br>
