@@ -20,7 +20,7 @@ third_nav_title: Uniformed Groups
 | - | -|
 | Thursdays |  3pm - 5.30pm |
 
-<br>
+
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
