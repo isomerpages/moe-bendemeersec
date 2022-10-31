@@ -9,7 +9,6 @@ third_nav_title: Uniformed Groups
 |  | Ms Lu Yueh Ju(2I/C) |
 |  | Ms Caroline Murty|
 |**Company Leader:** | Yee Zi Hui (3R3) |
-|  |  - |
 |**Assistant Company Leaders:** |  Areefa Begum (3R7)  |
 |  |  Nur Azyza Binte Mohamad Azman (3R6) |
 |  |  |
