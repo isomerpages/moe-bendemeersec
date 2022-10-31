@@ -23,7 +23,7 @@ permalink: /privacy/
 
 <p style="text-align: justify;">7. Please submit a form via our <a href="https://go.gov.sg/bdms-icthelp">feedback</a> channel if you:</p>
 <ul>
-	<li><p style="text-align: justify;">have any enquires or feedback on our data protection policies and procedures,</p</li>
+	<li><p style="text-align: justify;">have any enquires or feedback on our data protection policies and procedures,</p></li>
 	<li><p style="text-align: justify;">need more information on or access to data which you have provided to us in the past.</p></li>
 
 </ul>
