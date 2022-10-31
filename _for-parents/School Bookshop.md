@@ -8,6 +8,7 @@ Below are the details:
 
 
 
-|Name:  | Opening Hours  |
+|Company name:  | Pacific Bookstores |
 | - |-|
-|Pacific Bookstores |  9:00 am to 3:00 pm |
+|Opening hours:  |  9:00 am to 3:00 pm |
+|  Phone number: |  62913021 |
