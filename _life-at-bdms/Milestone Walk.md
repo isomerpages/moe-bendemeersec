@@ -15,6 +15,8 @@ The objectives of the walk are as follow:
 * increase our students’ appreciation of Singapore’s achievements and the need to maintain harmony; and
 * improve class cohesiveness and unity.
 
+Below are some of the memories captured during the event.
+
 <div class="google-slides-container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSuY8nDij2GhtP_-8VbAwS6o0Xx1GmdR8a5g5A6TR9n5p8hzuFD5f-vuDOJJutdFaQ2m_j1Vn2FUqxL/embed?start=true&loop=true&delayms=3000" frameborder="0" width="845" height="592" allowfullscreen="true" ></iframe>
 	</div>
