@@ -11,10 +11,7 @@ description: ""
 
 [Bendemeer Secondary School e-Magazine 2021](https://issuu.com/touche-design/docs/bendemeer_sec_e-magazine_2021?fr=sNWE3NzI3NTIwODU)
 
-[Bendemeer Secondary School e-Magazine 2021 BDMS](https://e.issuu.com/embed.html?d=bendemeer\_sec\_e-magazine\_2021&u=bendemeersec)
-
-
-<div style="position:relative;padding-top:max(60%,326px);height:0;width:100%" src="https://e.issuu.com/embed.html?d=bendemeer\_sec\_e-magazine\_2021&u=bendemeersec"></div>
+[Bendemeer Secondary School e-Magazine 2021 BDMS](https://issuu.com/bendemeersec/docs/bendemeer\_sec\_e-magazine\_2021)
 
 
 <!--
