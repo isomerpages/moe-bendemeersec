@@ -11,9 +11,13 @@ permalink: /privacy/
 <p style="text-align: justify;">3. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p>
 
 <p style="text-align: justify;">4. If you provide us with personally identifiable data:</p>
-<p style="text-align: justify;">* We may share necessary data with other Government agencies, so as to serve you in the most efficient and effective way unless such sharing is prohibited by law.</p>
-<p style="text-align: justify;">* We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.</p>
-<p style="text-align: justify;">* For your convenience, we may also display to you data you had previously supplied us or other Government Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.</p>
+<p style="text-align: justify;"><ul>
+	<li>We may share necessary data with other Government agencies, so as to serve you in the most efficient and effective way unless such sharing is prohibited by law.</li></p>
+<p style="text-align: justify;">
+	<li> We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.</li></p>
+<p style="text-align: justify;">
+	<li>For your convenience, we may also display to you data you had previously supplied us or other Government Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.</li></p>
+	</ul>
 
 <p style="text-align: justify;">5. To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.</p>
 
