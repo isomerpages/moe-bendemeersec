@@ -13,7 +13,7 @@ third_nav_title: Sports
 |  |  |
 
 
-
+<br>
 
 <img src="/images/Cca/cca-crosscountry-01n.jpg" alt="Training in school" style="width:400px" />
 
