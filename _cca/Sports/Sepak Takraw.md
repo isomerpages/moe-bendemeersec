@@ -12,7 +12,9 @@ third_nav_title: Sports
 |**'C' Boys Captain:** |  Muhammad Azmirul Bin Nour Muhd Alley  |
 |  |  |
 
-<br>
+| Training days: | Mondays and Wednesday  |
+| - | -|
+| Duration: |  3.00pm - 5.00pm |
  
 **Objectives** <br>
 To uphold the five school values when participating in CCA activities.
