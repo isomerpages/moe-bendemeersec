@@ -13,13 +13,9 @@ third_nav_title: Performing Arts
 |**Vice-President:** |  Gurpal Singh Saini (4R5)    |
 |  |  |
 
-| Training days: | Tuesdays  |
-| - | -|
-| Duration: |  4.00pm - 6.00pm |
-
-| Training days: | Thursdays  |
-| - | -|
-| Duration: |  3.00pm - 5.00pm |
+| Training days: | Tuesdays  | Thursdays |
+| - | -| -|
+| Duration: |  4.00pm - 6.00pm | 3.00pm - 5.00pm |
 
 <br><style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
