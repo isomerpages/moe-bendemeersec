@@ -27,7 +27,7 @@ third_nav_title: Sports
 | Training days: | Wednesdays and Thursdays  |
 | - | -|
 | Duration: |  4.00pm - 6.00pm |
-
+|  |  |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
