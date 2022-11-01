@@ -11,8 +11,8 @@ links:
         url: /departments/cnt/cnt-overview
       - title: Co-Curricular
         url: /departments/physical-education/pe-overview
-      - title: CCA
-        url: /cca/cca-philosophy/
+  - title: CCA
+    collection: cca
   - title: Key Programmes
     collection: key-programmes
   - title: Achievements
@@ -22,6 +22,8 @@ links:
   - title: For Parents
     url: /for-parents/class-timetable
     sublinks:
+      - title: Open House
+        url: /for-parents/openhouse/
       - title: Class Timetable
         url: /for-parents/class-timetable
       - title: Online School Magazine

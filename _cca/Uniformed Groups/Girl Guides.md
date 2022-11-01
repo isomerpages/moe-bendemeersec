@@ -13,13 +13,11 @@ third_nav_title: Uniformed Groups
 |  |  Nur Azyza Binte Mohamad Azman (3R6) |
 |  |  |
 
- <br>
-
-
 | Training days: | Thursdays  |
 | - | -|
 | Duration: |  3.00pm - 5.30pm |
-<br>
+|  |  |
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
 .tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
