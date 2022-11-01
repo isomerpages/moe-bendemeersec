@@ -23,5 +23,5 @@ Head on a virtual learning journey to discover some of the exciting programmes B
 
 See you there!
 
-Click the link to view the <a href="https://issuu.com/bendemeersec/docs/2022_bendemeer_brochure_brochure?fr=sODlkMDU0MjE3MTM" target="\_blank" rel="noopener">Bendemeer Secondary School Brochure</a><br>
-Click here to have a <a href="/about-us/bendemeer-school-tour/" target="\_blank" rel="noopener">school tour</a> of our school!
+Click to view our <a href="https://issuu.com/bendemeersec/docs/2022_bendemeer_brochure_brochure?fr=sODlkMDU0MjE3MTM" target="\_blank" rel="noopener">Bendemeer Secondary School Brochure</a><br>
+Click <a href="/about-us/bendemeer-school-tour/" target="\_blank" rel="noopener">here</a> for tour of our school!
