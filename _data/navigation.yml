@@ -22,6 +22,8 @@ links:
   - title: For Parents
     url: /for-parents/class-timetable
     sublinks:
+      - title: Open House
+        url: /for-parents/openhouse/
       - title: Class Timetable
         url: /for-parents/class-timetable
       - title: Online School Magazine
@@ -30,5 +32,3 @@ links:
         url: /for-parents/useful-links
       - title: School Bookshop
         url: /for-parents/bookshop/
-      - title: Open House
-        url: /for-parents/openhouse/
