@@ -12,9 +12,11 @@ third_nav_title: Performing Arts
 |  |  Muralidharan Yazhini (3R3) |
 |  |  |
 
-<br>
+| Training days: | Tuesdays  |
+| - | -|
+| Duration: |  4.00pm - 6.00pm |
 
-<style type="text/css">
+<br><style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
 .tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}

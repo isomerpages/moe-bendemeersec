@@ -8,11 +8,14 @@ third_nav_title: Sports
 | -------- | -------- |
 |  | Mr Zulkifli Bin Khamis(2I/C) |
 |**Coach:** | Mr Juraime Bin Atan|
-|**'B' Boys Captain:** | Ayob Bin Mohd Jaaffar (4R8) |
-|**'C' Boys Captain:** |  Muhammad Azmirul Bin Nour Muhd Alley  |
+|**Captain 'B' Boys:** | Tharunesh Sahadevan (4R8) |
+|**Vice-Captain 'B' Boys:** | Mohamed Zulazim Bin Zulkifli (3R8) |
+|**Captain 'C' Boys:** |  Muhammad Firdaus Bin Repin (2R6)  |
 |  |  |
 
-<br>
+| Training days: | Mondays and Wednesday  |
+| - | -|
+| Duration: |  3.00pm - 5.00pm |
  
 **Objectives** <br>
 To uphold the five school values when participating in CCA activities.

@@ -15,10 +15,9 @@ third_nav_title: Sports
 |  | Brijesh Rana (3R5) |
 |  |  |
 
-
-
- <br>
-
+| Training days: | Mondays, Wednesday and Thursdays  |
+| - | -|
+| Duration: |  3.00pm - 5.30pm |
 
 ![](/images/Cca/cca-football-01.jpg)
 

@@ -11,7 +11,9 @@ third_nav_title: Sports
 |**Vice-Captains:** |  Ng Choon Lin (3R3)   |
 |  |  |
 
-<br>
+| Training days: | Tuesdays  |
+| - | -|
+| Duration: |  4.00pm - 6.00pm |
 
 <p style="text-align:justify">
 Badminton gives our students good flexibility and a good joint work-out. In addition, fast hand and eye coordination is key in predicting and delivering accurate shots. No badminton player will succeed without building up their stamina, for long bouts lasting 2-3 hours. This year’s CCA sessions started with that aim in mind, at the same time keeping it fun, relaxing and challenging for the members.</p>
