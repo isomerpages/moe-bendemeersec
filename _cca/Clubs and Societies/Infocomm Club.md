@@ -14,8 +14,9 @@ third_nav_title: Clubs and Societies
 |**Administrators:** | Tan Xing Yu (3R2) <br>Foo Zhixin (3R2)|
 |  |  |
 
-
-
+| Training days: | Thursdays  |
+| - | -|
+| Duration: |  4.00pm - 6.00pm |
 
 <p style="text-align:justify">During Infocomm sessions, our students attend AV training and a variety of programming courses. They are in charge of setting up the AV system for daily morning assembly as well as a host of other important school events. </p>
 
