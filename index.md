@@ -16,4 +16,11 @@ sections:
         - title: Bendemeer Open House
           description: Click to see what we have in store for you
           url: /for-parents/openhouse/
+  - infopic:
+      title: Bendemeer Sec Open House
+      description: What can you expect from us?
+      button: Enter Here
+      url: /for-parents/openhouse/
+      image: /images/Usefullinks/2022bdmmotd.jpg
+      alt: Open House
 ---
