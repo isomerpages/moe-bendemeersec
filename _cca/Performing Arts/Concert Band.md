@@ -18,7 +18,7 @@ third_nav_title: Performing Arts
 
 | Training days: | Thursdays  |
 | - | -|
-| Duration: |  3.00pm - 5.30pm |
+| Duration: |  3.00pm - 6.00pm |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
