@@ -17,7 +17,7 @@ third_nav_title: Sports
 | Training days: | Tuesday and Wednesdays  |
 | - | -|
 | Duration: |  4.00pm - 6.00pm |
-
+| | |
 
 
 |**Participation** | 
