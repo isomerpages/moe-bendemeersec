@@ -14,6 +14,9 @@ third_nav_title: Sports
 | |Helen Ng Hui Yu and Li Kexin (incoming) |
 | | |
 
+| Training days: | Tuesday and Wednesdays  |
+| - | -|
+| Duration: |  4.00pm - 6.00pm |
 
 |**Participation** | 
 | --|
