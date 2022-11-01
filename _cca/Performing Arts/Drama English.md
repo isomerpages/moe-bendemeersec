@@ -14,7 +14,9 @@ third_nav_title: Performing Arts
 |**Vice-President:** |  Phua Sheng Yang Justin (4R2)   |
 |  |  |
 
-<br>
+| Training days: | Thursdays  |
+| - | -|
+| Duration: |  3.00pm - 6.00pm |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
