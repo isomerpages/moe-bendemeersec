@@ -13,7 +13,7 @@ sections:
   - hero:
       background: /images/hero-banner01s.jpg
       key_highlights:
-        - title: Useful Links for Staff
-          description: Click to see more
-          url: /for-staff/links/
+        - title: Bendemeer Open House
+          description: Click to see what we have in store for you
+          url: /for-parents/openhouse/
 ---
