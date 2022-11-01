@@ -4,14 +4,18 @@ permalink: /cca/sports/cross-country/
 description: ""
 third_nav_title: Sports
 ---
+|  **Teachers-in-Charge:** | Mrs Charmaine Tan(I/C) | 
+| -------- | -------- |
+|  | Mr Daryl Toy(2I/C) |
+|**Coach:** | Mr S Pandian|
+|**Captains:** | Chua Yong Jin (4R2) |
+|**Vice-Captains:** |  Yeo Daxson (4R2)     |
+|  |  |
 
- 
- 
- 
 
-|  | | 
-| -------- | -------- | 
-| **Teachers-in-charge:** <br>Mrs Charmaine Tan (I/C) <br>Mr Daryl Toy (2I/C) <br><br>**Coach:** <br>Mr S Pandian<br><br>**Captain:** <br>Chua Yong Jin (3R2)<br><br>**Vice-Captain:** <br>Yeo Daxson (3R2)  | <img src="/images/Cca/cca-crosscountry-01n.jpg" alt="Training in school" style="width:400px" />
+<br>
+
+<img src="/images/Cca/cca-crosscountry-01n.jpg" alt="Training in school" style="width:400px" />
 
 
 <p style="text-align:justify">Since the Circuit Breaker was declared last year, the school’s Cross Country team has been facing unprecedented challenges. The team has not been able to participate in competitions and even the regular team training sessions have also been disrupted.  Indeed, the strength and resilience of the team have never been tested and stretched to such extent before until now.</p>

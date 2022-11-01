@@ -4,23 +4,21 @@ permalink: /cca/sports/football/
 description: ""
 third_nav_title: Sports
 ---
+|  **Teachers-in-Charge:** | Mr Kenneth Goh(I/C) | 
+| -------- | -------- |
+|  | Ms Shamini Subramaniam(2I/C) |
+|  | Ms Hu Wen-Tian Wendy |
+|  | Mr Fahmy Bin Sidik |
+|**Coach:** |Bah Mamadou |
+|**Captain:** | Sareef Rai (3R2) |
+|**Vice-Captains:** |  Evader Chiam Zern (3R2)  |
+|  | Brijesh Rana (3R5) |
+|  |  |
 
 
-**Teachers-in-Charge:** <br>
-Mr Kenneth Goh (I/C) <br>
-Ms Shamini Subramaniam (2I/C) <br>
-Ms Hu Wen-Tian Wendy <br>
-Mr Fahmy Bin Sidik
 
-**Coach:** <br>
-Bah Mamadou
+ <br>
 
-**Captain:** <br>
-Sareef Rai (3R2)
-
-**Vice-Captains:** <br>
-Evader Chiam Zern (3R2) <br>
-Brijesh Rana (3R5)
 
 ![](/images/Cca/cca-football-01.jpg)
 

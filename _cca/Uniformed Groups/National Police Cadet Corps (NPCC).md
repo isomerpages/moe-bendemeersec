@@ -16,13 +16,10 @@ third_nav_title: Uniformed Groups
 |  | JUNETTE ONG JING QING (4R2)  |
 
 
-| Training days | Duration  |
+| Training days: | Thursdays  |
 | - | -|
-| Thursdays |  3pm - 5.30pm |
+| Duration: |  3.00pm - 5.30pm |
 
-
-Training days :  Thursdays<br>
-Duration:  3pm - 5.30pm
 
 <br>
 <style type="text/css">

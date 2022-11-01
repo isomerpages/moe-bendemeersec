@@ -4,17 +4,17 @@ permalink: /cca/uniformed-groups/ncc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-**Teachers-in-Charge:** <br>
-CPT Tay Guangyu (Commanding Officer) <br>
-CPT Lawrence Ng (2I/C) <br>
-LTA Dennis Wong
+|  **Teachers-in-Charge:** | CPT Tay Guangyu (Commanding Officer) | 
+| -------- | -------- |
+|  | CPT Lawrence Ng (2I/C) |
+|  | LTA Dennis Wong|
+|**Unit Sergeant Major:** |  3SG Loo Guo Hui (3R1) |
+|**Assistant Sergeant Major:** |  3SG Yeo Quan Wei (3R3)  |
+|  |  |
 
-**Unit Sergeant Major:** <br>
-3SG Loo Guo Hui (3R1)
-
-**Assistant Sergeant Major:** <br>
-3SG Yeo Quan Wei (3R3)
-
+| Training days: | Thursdays  |
+| - | -|
+| Duration: |  3.00pm - 5.30pm |
 <br>
  
  <style type="text/css">

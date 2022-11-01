@@ -4,20 +4,15 @@ permalink: /cca/sports/sepak-takraw/
 description: ""
 third_nav_title: Sports
 ---
-**Teachers-in-Charge:** <br>
-Mr Han Hong Kwong (I/C) <br>
-Mr Zulkifli Bin Khamis (2I/C) <br>
-Ms Tang Li Hua
+|  **Teachers-in-Charge:** | Mr Han Hong Kwong(I/C) | 
+| -------- | -------- |
+|  | Mr Zulkifli Bin Khamis(2I/C) |
+|**Coach:** | Mr Juraime Bin Atan|
+|**'B' Boys Captain:** | Ayob Bin Mohd Jaaffar (4R8) |
+|**'C' Boys Captain:** |  Muhammad Azmirul Bin Nour Muhd Alley  |
+|  |  |
 
-**Coach:** <br>
-Mr Juraime Bin Atan
-
-**'B' Boys Captain:** <br>
-Ayob Bin Mohd Jaaffar (4R8)
- 
-**'C' Boys Captain:** <br>
-Muhammad Azmirul Bin Nour Muhd Alley (2R9)
-
+<br>
  
 **Objectives** <br>
 To uphold the five school values when participating in CCA activities.
