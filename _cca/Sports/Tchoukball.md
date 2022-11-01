@@ -20,10 +20,8 @@ third_nav_title: Sports
 | **C Div Girls Vice-Captain:** |Hazel Lay (2R3) |
 <br>
 | Training days: | Mondays  |
-| - | -|
 | Duration: |  3.00pm - 5.00pm |
 | Training days: | Wdnesdays and Thursdays  |
-| - | -|
 | Duration: |  4.00pm - 6.00pm |
 <br>
 <style type="text/css">
