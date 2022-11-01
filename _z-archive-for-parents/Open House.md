@@ -3,19 +3,23 @@ title: Open House
 permalink: /for-parents/openhouse/
 description: ""
 ---
-![](/images/Usefullinks/widenyourchoice.jpeg)
+<img src="/images/Usefullinks/2022bdmmotd.jpg" alt="Open house" style="width: 650px" /><br>
 
+
+## **2022 Bendemeer Secondary Open House**
 
 | | |
 |-| -|
-| Date | 26 November 2022 |
-| Time | 8am to 5pm |
+| **Date:** | 26 November 2022 |
+| **Time:**  | 9.00 am to 5.00 pm |
+||
 
+What can you expect from us?
 
-e-School Tour 
+Fun-filled school tour with our student leaders to find more about our school facilities. 
 
-<div class="bp-youtube">
+Immerse yourself in interactive science experiments at our booths at the foyer. Feast your eyes on our showcase of student’s work and beautiful project artefacts. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F5O1tTR8CQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Head on a virtual learning journey to discover some of the exciting programmes Bendemeer has to offer. Lastly, engage with our teachers and have all your queries addressed.
 
-</div>
+See you there!
