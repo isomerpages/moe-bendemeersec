@@ -15,6 +15,7 @@ third_nav_title: Uniformed Groups
 | Training days: | Thursdays  |
 | - | -|
 | Duration: |  3.00pm - 5.30pm |
+|  |  |
 
  
  <style type="text/css">
