@@ -12,8 +12,9 @@ third_nav_title: Sports
 |**Vice-Captains:** |  Yeo Daxson (4R2)     |
 |  |  |
 
-
-<br>
+| Training days: | Tuesdays and Thursdays  |
+| - | -|
+| Duration: |  4.00pm - 6.00pm |
 
 <img src="/images/Cca/cca-crosscountry-01n.jpg" alt="Training in school" style="width:400px" />
 
