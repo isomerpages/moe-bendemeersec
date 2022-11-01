@@ -14,7 +14,7 @@ sections:
       background: /images/hero-banner01s.jpg
       key_highlights:
         - title: Bendemeer Open House
-          description: Click to see what we have in store for you
+          description: Click here for more
           url: /for-parents/openhouse/
   - infopic:
       title: Bendemeer Open House
