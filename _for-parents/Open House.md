@@ -3,8 +3,6 @@ title: Open House
 permalink: /for-parents/openhouse/
 description: ""
 ---
-
-
 <img src="/images/Usefullinks/2022bdmmotd.jpg" alt="Open house" style="width: 650px" /><br>
 
 ## **2022 Bendemeer Secondary Open House**
@@ -24,3 +22,4 @@ Immerse yourself in interactive science experiments at our booths at the foyer. 
 Head on a virtual learning journey to discover some of the exciting programmes Bendemeer has to offer. Lastly, engage with our teachers and have all your queries addressed.
 
 See you there!
+
