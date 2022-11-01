@@ -13,10 +13,12 @@ third_nav_title: Sports
 |**Captain:** | Sareef Rai (3R2) |
 |**Vice-Captains:** |  Evader Chiam Zern (3R2)  |
 |  | Brijesh Rana (3R5) |
-<br>
+|  |  |
+
 | Training days: | Mondays, Wednesday and Thursdays  |
+| - | -|
 | Duration: |  3.00pm - 5.30pm |
-<br>
+
 ![](/images/Cca/cca-football-01.jpg)
 
 #### Fun & Exciting Training Sessions
