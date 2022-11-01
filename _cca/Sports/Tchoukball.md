@@ -19,9 +19,13 @@ third_nav_title: Sports
 |**C Div Girls Captain:** |Rachel Tay (2R7)   |
 | **C Div Girls Vice-Captain:** |Hazel Lay (2R3) |
 
+| Training days: | Mondays  |
+| - | -|
+| Duration: |  3.00pm - 5.00pm |
 
-
-<br>
+| Training days: | Wednesdays and Thursdays  |
+| - | -|
+| Duration: |  4.00pm - 6.00pm |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
