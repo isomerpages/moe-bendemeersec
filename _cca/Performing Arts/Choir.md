@@ -14,6 +14,9 @@ third_nav_title: Performing Arts
 |  | Regina Hor(3R4) |
 |  |  |
 
+| Training days: | Mondays and Wednesdays  |
+| - | -|
+| Duration: |  4.00pm - 6.00pm |
 
 <p style="text-align:justify">Bendemeer School Choir meets twice a week (Mondays & Wednesdays, 4 pm to 6 pm) to train our choir members. Besides learning the proper vocal production techniques, we train students’ leadership by assigning them to lead the warm-ups, choreograph the dance movements for performances and plan choir camp activities.  </p>
 
