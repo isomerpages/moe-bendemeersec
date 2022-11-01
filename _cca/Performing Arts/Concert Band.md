@@ -16,6 +16,9 @@ third_nav_title: Performing Arts
 |**Drum Majors:** |  Kirthik Vnesh Naidu S/O Alwar Naidu (4R1)| 
 |  |  |
 
+| Training days: | Thursdays  |
+| - | -|
+| Duration: |  3.00pm - 5.30pm |
 
 <br>
 
