@@ -11,8 +11,8 @@ links:
         url: /departments/cnt/cnt-overview
       - title: Co-Curricular
         url: /departments/physical-education/pe-overview
-      - title: CCA
-        url: /cca/cca-philosophy/
+  - title: CCA
+    collection: cca
   - title: Key Programmes
     collection: key-programmes
   - title: Achievements
@@ -30,5 +30,3 @@ links:
         url: /for-parents/useful-links
       - title: School Bookshop
         url: /for-parents/bookshop/
-  - title: CCA
-    collection: cca
