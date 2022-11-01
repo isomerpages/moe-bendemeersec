@@ -18,7 +18,9 @@ third_nav_title: Sports
 | - | -|
 | Duration: |  4.00pm - 6.00pm |
 
-<br><br>|**Participation** | 
+
+
+|**Participation** | 
 | --|
 |  National Schools Games Taekwondo Championship 2022|  
 | Kallang Community Club Taekwondo Championship 2022 |  
