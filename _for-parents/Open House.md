@@ -5,7 +5,7 @@ description: ""
 ---
 <img src="/images/Usefullinks/2022bdmmotd.jpg" alt="Open house" style="width: 650px" /><br>
 
-## **2022 Bendemeer Secondary Open House**
+## **Bendemeer Experience Open House**
 
 | | |
 |-| -|
@@ -24,4 +24,4 @@ Head on a virtual learning journey to discover some of the exciting programmes B
 See you there!
 
 Click to view our <a href="https://issuu.com/bendemeersec/docs/2022_bendemeer_brochure_brochure?fr=sODlkMDU0MjE3MTM" target="\_blank" rel="noopener">Bendemeer Secondary School Brochure</a><br>
-Click <a href="/about-us/bendemeer-school-tour/" target="\_blank" rel="noopener">here</a> for tour of our school!
+Click <a href="/about-us/bendemeer-school-tour/" target="\_blank" rel="noopener">here</a> for a school tour!
