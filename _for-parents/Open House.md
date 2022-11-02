@@ -10,7 +10,7 @@ description: ""
 | | |
 |-| -|
 | **Date:** | 26 November 2022 |
-| **Time:**  | 9.00 am to 5.00 pm |
+| **Time:**  | 8.00 am to 5.00 pm |
 ||
 
 What can you expect from us?
