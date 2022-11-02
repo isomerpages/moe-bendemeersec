@@ -5,7 +5,7 @@ description: ""
 ---
 <img src="/images/Usefullinks/2022bdmmotd.jpg" alt="Open house" style="width: 650px" /><br>
 
-## **2022 Bendemeer Secondary Open House**
+## **Bendemeer Experience Open House**
 
 | | |
 |-| -|
