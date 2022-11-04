@@ -55,3 +55,11 @@ description: ""
 <p style="text-align:justify">As a post-exam activity, students participated in a leadership workshop that helped them to understand the five practices of the Leadership Challenge (Inspire a Shared Vision, Model the Way, Challenge the Process, Encourage the Heart and Enable Others to Act) and how to apply them in their capacity as student leaders. </p>
 
 ![](/images/Cca/cca-sc-leaderworkshp-01.jpg)
+
+
+##### **Recap of events organised by the Student Council**
+
+The Student Council organised several events this year.  Click to see a recap of these events here. 
+
+
+https://issuu.com/bendemeersec/docs/bdms\_2022\_e-o-y\_recap?fr=sM2ZhMjU0MjE3MTM
