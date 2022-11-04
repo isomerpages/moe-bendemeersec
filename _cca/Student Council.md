@@ -59,7 +59,6 @@ description: ""
 
 ##### **Recap of events organised by the Student Council**
 
-The Student Council organised several events this year.  Click to see a recap of these events here. 
+The Student Council organised several events this year.  Click to see a recap of these events <a href="https://issuu.com/bendemeersec/docs/bdms_2022_e-o-y_recap?fr=sM2ZhMjU0MjE3MTM" target="\_blank" rel="noopener">here</a>.
 
 
-https://issuu.com/bendemeersec/docs/bdms\_2022\_e-o-y\_recap?fr=sM2ZhMjU0MjE3MTM
