@@ -6,7 +6,7 @@ description: ""
 <details> 
 <summary style="color:#f8bf1c; font-size:30px;"><b>Drone Odyssey Challenge</b></summary>
 
-<p>Our student took part in the Drone Odyssey Challenge, organised by Science Centre Singapore.  </p>
+<<p style="text-align:justify">>Our student took part in the Drone Odyssey Challenge, organised by Science Centre Singapore.  </p>
 
 <p>The objective of the event aim to inculcate technical skillsets, critical thinking, and an appreciation of new and disruptive technologies relevant to the modern world.</p>
 
