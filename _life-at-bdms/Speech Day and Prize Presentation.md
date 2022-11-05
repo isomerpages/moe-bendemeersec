@@ -3,16 +3,15 @@ title: Speech Day and Prize Presentation
 permalink: /life-at-bdms/speechday/
 description: ""
 ---
-
 <style>
 .google-slides-container{ position: relative; width: 100%; padding-top: 72%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 </style>
 
-Bendemeer Secondary School's Speech Day and Prize-giving Presentation was held on 14th April 2022. We celebrated the achievements of staff and students.
+<p style="text-align:justify">Bendemeer Secondary School's Speech Day and Prize-giving Presentation was held on 14th April 2022. We celebrated the achievements of staff and students.</p>
 
-The CCA group also prepared and put up performance on stage for the audience and via Zoom for the students who are in their classrooms. 
+<p style="text-align:justify">The CCA group also prepared and put up performance on stage for the audience and via Zoom for the students who are in their classrooms. </p>
 
-We also had an unveiling of our artwork - Precious in our Hands.  
+<p style="text-align:justify">We also had an unveiling of our artwork - Precious in our Hands.  </p>
 
 ![](/images/Lifebdms/lifebdms-speechday-01.jpg)
 
