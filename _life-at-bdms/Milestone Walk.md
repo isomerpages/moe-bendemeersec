@@ -11,8 +11,8 @@ description: ""
 
 The objectives of the walk are as follow:
  
-* instill a sense of mental/psychological resilience among youths, giving them the confidence and mental capacity to tackle challenges;
-* increase our students’ appreciation of Singapore’s achievements and the need to maintain harmony; and
+* <p style="text-align:justify">instill a sense of mental/psychological resilience among youths, giving them the confidence and mental capacity to tackle challenges;</p>
+* <p style="text-align:justify">increase our students’ appreciation of Singapore’s achievements and the need to maintain harmony; and</p>
 * improve class cohesiveness and unity.
 
 <p style="text-align:justify">Below are some of the memories captured during the event.</p>
