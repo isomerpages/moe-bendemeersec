@@ -34,6 +34,7 @@ The operating hours during school holidays are as follows:
 | 29/12/2022 | Thu | AIl Levels |
 | 30/12/2022 | Fri  | All Levels |
 
+<br>
 
 |Company name:  | Pacific Bookstores Pte Ltd.|
 | - |-|
