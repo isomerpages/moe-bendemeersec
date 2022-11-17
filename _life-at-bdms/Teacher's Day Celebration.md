@@ -7,11 +7,11 @@ description: ""
 .google-slides-container{ position: relative; width: 100%; padding-top: 72%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 </style>
 
-This year's Teachers' Day Celebrations,
+<p style="text-align:justify">This year's Teachers' Day Celebrations,
 is the first event that had all students gathered back to the school hall to acknowledge the efforts and show appreciation for their
-teachers' and school staff'. 
+teachers' and school staff'. </p>
 
-The school staff were treated to a Lunch at Holiday Inn Atrium.
+<p style="text-align:justify">The school staff were treated to a Lunch at Holiday Inn Atrium.</p>
 
 ![](/images/Lifebdms/lifebdms-teachersday-01.jpg)
 
