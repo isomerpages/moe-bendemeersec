@@ -48,3 +48,10 @@ Give form and meaning to their ideas, thoughts and feelings through visual and t
 <p style="text-align:justify">The upper secondary art curriculum also enables students to have more exposure to the study of multiple international and local artists, modern and contemporary artists especially in the study of visual art - which is infused into their studio practice. With the artistic skills and knowledge that are introduced in-depth to the upper secondary art students, they are able to generate ideas more effectively and be well-prepared for the rigour of the GCE N & O Level Art examinations such as coursework, at secondary 4.</p>
 
 <p style="text-align:justify">The students also get to experience various learning journeys to art supply stores, art exhibitions and museums as well as art tertiary institutions such as NAFA & LaSalle College of the Arts.  With such opportunities, upper secondary art students are able to gain exposure, and increase their appreciation and understanding of the art scene in Singapore.</p>
+
+##### **Sec 3 Arts Education Programme** 
+This programme aims to give students exposure to both visual and performing arts such as photography, Stomp, K-pop dance, Stop-motion using clay as a medium and sand animation painting. Our students were able to exercise their autonomy and chose 3 choices out of the various given options. Students will understand the origins, fundamentals and learn different techniques and skills involved in these arts. In addition, students also learn the various softwares and apps needed to present, enhance and store their works and experiences. They also brought back their works either in hardcopy or softcopy.
+
+<div class="google-slides-container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR4F2Ng1Uv18LSodw_n-hwvaLl2rYXDW4lAKDyE8KJmb4b5UBfhDZbW8Mce25foUEYJn7IAVHtFoZeW/embed?start=false&loop=false&delayms=3000" frameborder="0" width="840" height="589" allowfullscreen="true"></iframe>
+</div>
