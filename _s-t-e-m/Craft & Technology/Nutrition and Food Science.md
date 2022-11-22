@@ -27,11 +27,13 @@ third_nav_title: Craft & Technology
 <p style="text-align:justify">In addition, the Nutrition and Food Science (NFS) unit extends students’ learning through programmes such as: </p>
 
 * Collaboration with CCE department for the school’s Sec 1 LLP towards Appreciation Day
-* Bendemeer MasterChef competition 
-
+* Bendemeer MasterChef competition  
+<b>Sec 1 MasterChef Competition</b><br>
+The theme-based competition allows students to work in pairs to demonstrate their culinary knowledge and skills to prepare a dish of their choice before a judging panel. Apart from cooking, students will get to develop their leadership abilities, self-confidence and apply their decision-making in the process.  
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSW2Kg-T7i-hYJ9msKlHx6zTTmeoxI8S1O-nnr-lxYatsAl_ER7CEGPiLUH2WxXRWsoNlL5WWSvQEHI/embed?start=false&loop=true&delayms=3000" frameborder="0" width="840" height="589" allowfullscreen="true">
 </iframe>
+
 #### **Upper Secondary: Nutrition and Food Science**
  
 <p style="text-align:justify">Nutrition and Food Science (NFS) is offered as an elective subject for our upper secondary students. The subject seeks to provide students with a broad understanding of concepts in nutrition and health, food literacy and principles of food science. Students are exposed to authentic real world contexts through hands-on practical and coursework. </p>
