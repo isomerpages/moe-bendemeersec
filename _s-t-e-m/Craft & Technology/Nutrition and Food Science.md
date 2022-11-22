@@ -31,8 +31,10 @@ third_nav_title: Craft & Technology
 <b>Sec 1 MasterChef Competition</b><br>
 The theme-based competition allows students to work in pairs to demonstrate their culinary knowledge and skills to prepare a dish of their choice before a judging panel. Apart from cooking, students will get to develop their leadership abilities, self-confidence and apply their decision-making in the process.  
 
+<div class="google-slides-container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSW2Kg-T7i-hYJ9msKlHx6zTTmeoxI8S1O-nnr-lxYatsAl_ER7CEGPiLUH2WxXRWsoNlL5WWSvQEHI/embed?start=false&loop=true&delayms=3000" frameborder="0" width="840" height="589" allowfullscreen="true">
 </iframe>
+</div>
 
 #### **Upper Secondary: Nutrition and Food Science**
  
