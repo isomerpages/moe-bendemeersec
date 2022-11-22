@@ -4,6 +4,10 @@ permalink: /departments/cce/career-guidance/
 description: ""
 third_nav_title: CCE
 ---
+<style>
+.google-slides-container{ position: relative; width: 100%; padding-top: 72%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+</style>
+
 <p style="text-align:justify">Education and Career Guidance (ECG) is about equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work, and hence to manage their career pathways and lifelong learning throughout their lives. Through ECG, social emotional competencies and qualities of proactivity, adaptability and resilience are developed to prepare students for the 21st Century.
 For students who wish to consult with the school’s ECG counsellor Ms Nur, you may book a session with her via email </p>
 
@@ -43,7 +47,7 @@ The MOH Healthcare Exhibition bus helps to inform students on health-related iss
 ##### **Sec 3 Career Development Programme**
 Through the Sec 3E Career Development Programme, students will gain insights through hands-on experiences from selected industries and post-secondary institutions. This programme will help students in their portfolio development for future admissions to post-secondary institutions and job interviews. This programme seeks to prepare students for the Early Admissions Exercise (EAE) in 2023. 
 
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSeljykz8la5kdHIWYXWyJXhm90RP7-SnhRwGCajXJjvBtvWhl9FRdmk7vlsPE0MeO0iQhtLC8B2mpo/embed?start=false&loop=true&delayms=3000" frameborder="0" width="840" height="589" allowfullscreen="true"></iframe>
 
 <!---**Secondary 2 ECG Programme:**
 
