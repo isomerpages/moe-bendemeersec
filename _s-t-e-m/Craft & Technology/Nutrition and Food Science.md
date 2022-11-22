@@ -4,6 +4,10 @@ permalink: /departments/cnt/nutrition-foodscience/
 description: ""
 third_nav_title: Craft & Technology
 ---
+<style>
+.google-slides-container{ position: relative; width: 100%; padding-top: 72%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+</style>
+
 ##### **Lower Secondary: Food and Consumer Education** 
  
 <p style="text-align:justify">The study of Food and Consumer Education (FCE) at Bendemeer Secondary School aims to equip students with the knowledge to be health-conscious and discerning consumers; enabling them to better manage their lives for the present and the future. The curriculum centres on two core areas of study, namely Food Studies and Consumer Studies where students learn to: </p>
@@ -25,10 +29,9 @@ third_nav_title: Craft & Technology
 * Collaboration with CCE department for the school’s Sec 1 LLP towards Appreciation Day
 * Bendemeer MasterChef competition 
 
-![Lower Secondary: Food and Consumer Education](/images/Departments/ct-nfs-01.jpg)
 
-![Lower Secondary: Food and Consumer Education](/images/Departments/ct-nfs-02.jpg)
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSW2Kg-T7i-hYJ9msKlHx6zTTmeoxI8S1O-nnr-lxYatsAl_ER7CEGPiLUH2WxXRWsoNlL5WWSvQEHI/embed?start=false&loop=true&delayms=3000" frameborder="0" width="840" height="589" allowfullscreen="true">
+</iframe>
 #### **Upper Secondary: Nutrition and Food Science**
  
 <p style="text-align:justify">Nutrition and Food Science (NFS) is offered as an elective subject for our upper secondary students. The subject seeks to provide students with a broad understanding of concepts in nutrition and health, food literacy and principles of food science. Students are exposed to authentic real world contexts through hands-on practical and coursework. </p>
