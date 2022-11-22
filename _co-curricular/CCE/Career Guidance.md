@@ -24,7 +24,7 @@ For students who wish to consult with the school’s ECG counsellor Ms Nur, you 
 
 ### **Secondary 2 & Secondary 3 ECG Programme**
 
-##### **Sec 2 Career Exploration Programme** 
+##### Sec 2 Career Exploration Programme
 The Sec 2 Career Exploration Programme will develop students’ understanding of their own strengths, aptitude, interest and passion. The programme will allow students to gain first-hand insights and gather information from different industries and the career opportunities available. Students will be more aware of the important attributes and values needed to be successful in a career. This will help students in their personal goal setting and motivate them towards these goals.
 
 ![Sec 2 Career Exploration Programme](/images/Departments/cce-ecg-s2cep01.jpg)
