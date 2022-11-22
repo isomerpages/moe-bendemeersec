@@ -4,7 +4,6 @@ permalink: /departments/cnt/arts/
 description: ""
 third_nav_title: Craft & Technology
 ---
-
 <p style="text-align:justify">In Bendemeer Secondary School we believe in developing our students to be active learners and responsible citizens, who are confident visual learners. The Art Unit aims to cultivate in our students the love for the visual arts through the development of artistic skills in observation, creative expression and appreciation of varied art forms in both the lower and upper secondary levels.</p>
 
 #### **Lower Secondary Art Curriculum**
@@ -40,10 +39,3 @@ Give form and meaning to their ideas, thoughts and feelings through visual and t
 
 <p style="text-align:justify">The students also get to experience various learning journeys to art supply stores, art exhibitions and museums as well as art tertiary institutions such as NAFA & LaSalle College of the Arts.  With such opportunities, upper secondary art students are able to gain exposure, and increase their appreciation and understanding of the art scene in Singapore.</p>
 
-
-
-![Learning journey](/images/Departments/ct-art-02.jpg)
-
-![Art lesson](/images/Departments/ct-art-03.jpg)
-
-![Art lesson](/images/Departments/ct-art-04.jpg)
