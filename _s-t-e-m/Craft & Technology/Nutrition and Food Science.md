@@ -27,8 +27,7 @@ third_nav_title: Craft & Technology
 <p style="text-align:justify">In addition, the Nutrition and Food Science (NFS) unit extends students’ learning through programmes such as: </p>
 
 * Collaboration with CCE department for the school’s Sec 1 LLP towards Appreciation Day
-* Bendemeer MasterChef competition  
-<b>Sec 1 MasterChef Competition</b><br>
+* Bendemeer MasterChef competition - <b>Sec 1 MasterChef Competition</b><br>
 The theme-based competition allows students to work in pairs to demonstrate their culinary knowledge and skills to prepare a dish of their choice before a judging panel. Apart from cooking, students will get to develop their leadership abilities, self-confidence and apply their decision-making in the process.  
 
 <div class="google-slides-container">
