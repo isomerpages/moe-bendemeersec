@@ -8,7 +8,7 @@ third_nav_title: Craft & Technology
 .google-slides-container{ position: relative; width: 100%; padding-top: 72%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 </style>
 
-##### **Lower Secondary: Food and Consumer Education** 
+#### **Lower Secondary: Food and Consumer Education** 
  
 <p style="text-align:justify">The study of Food and Consumer Education (FCE) at Bendemeer Secondary School aims to equip students with the knowledge to be health-conscious and discerning consumers; enabling them to better manage their lives for the present and the future. The curriculum centres on two core areas of study, namely Food Studies and Consumer Studies where students learn to: </p>
  
