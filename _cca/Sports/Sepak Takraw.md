@@ -104,6 +104,7 @@ To uphold the five school values when participating in CCA activities.
 **- Muhammad Rahul bin Mohamed Raffi (4R8)**
 
 ![](/images/Cca/cca-takraw-n-04.jpg)
+
 <!--
 <p style="text-align:justify">The Bendemeer Secondary Sepak Takraw is a CCA that provides our students with a keen interest in the sport a platform to not only enhance their playing skills but to have a CCA that is both interesting and challenging. Over the years, camaraderie, team work and sportsmanship is instilled, especially when representing the school at competitive levels. As they experience sports at a competitive level, the school hopes to prepare them psychologically for future sporting endeavours as they move on to higher educational institutions.</p>
 
