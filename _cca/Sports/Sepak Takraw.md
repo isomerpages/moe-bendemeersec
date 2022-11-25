@@ -59,17 +59,17 @@ To uphold the five school values when participating in CCA activities.
 
 
 
-Bendemeer Secondary Sepak Takraw as a CCA provides boys with a keen interest in the sport a platform to not only enhance their playing skills but to have a co-curricular activity that is both interesting and challenging. Over the years, the boys are expected to demonstrate camaraderie, team work and sportsmanship, especially when representing the school at competitions. As they experience sports at a competitive level, the school hopes to prepare them psychologically for future sporting endeavours as they move on to higher educational institutions.
+<p style="text-align:justify">Bendemeer Secondary Sepak Takraw as a CCA provides boys with a keen interest in the sport a platform to not only enhance their playing skills but to have a co-curricular activity that is both interesting and challenging. Over the years, the boys are expected to demonstrate camaraderie, team work and sportsmanship, especially when representing the school at competitions. As they experience sports at a competitive level, the school hopes to prepare them psychologically for future sporting endeavours as they move on to higher educational institutions.</p>
 
-The CCA comprises Secondary 1 to Secondary 4 students who are enthusiastic and motivated to learn the skills of the sport. The students play the game at recreational and competitive level. They are trained, guided and supervised by 3 dedicated teachers and a coach. 
+<p style="text-align:justify">The CCA comprises Secondary 1 to Secondary 4 students who are enthusiastic and motivated to learn the skills of the sport. The students play the game at recreational and competitive level. They are trained, guided and supervised by 3 dedicated teachers and a coach.</p> 
 
-Bendemeer Sepak Takraw kicked start the year by recruiting new members from secondary-one through skill testing sessions during the orientation week. After several sessions of intensive trainings, we had our friendly matches between the ‘B’ and ‘C’ division boys to assess our players’ readiness and competiveness.  These matches and trainings provide us with a great opportunity to build good and strong friendship with others. It also gives the new members a good platform for team bonding. 
+<p style="text-align:justify">Bendemeer Sepak Takraw kicked start the year by recruiting new members from secondary-one through skill testing sessions during the orientation week. After several sessions of intensive trainings, we had our friendly matches between the ‘B’ and ‘C’ division boys to assess our players’ readiness and competiveness.  These matches and trainings provide us with a great opportunity to build good and strong friendship with others. It also gives the new members a good platform for team bonding.</p> 
 
 ![](/images/Cca/cca-takraw-n-01.jpg)
 
-Trainings are conducted two times a week. They are held on Mondays and Wednesdays.  During training, the team not only focuses on the athletic aspects critical to the sport but also on character bulding and leadership. School values such as resilience, respect and integrity are instilled in every player throughout the training sessions. Very often, the boys looked forward to these trainings and turned up even earlier before training started. Trainings may be exhausting and gruelling but the boys enjoyed themselves and persevered throughout the training sessions. 
+<p style="text-align:justify">Trainings are conducted two times a week. They are held on Mondays and Wednesdays.  During training, the team not only focuses on the athletic aspects critical to the sport but also on character bulding and leadership. School values such as resilience, respect and integrity are instilled in every player throughout the training sessions. Very often, the boys looked forward to these trainings and turned up even earlier before training started. Trainings may be exhausting and gruelling but the boys enjoyed themselves and persevered throughout the training sessions.</p>
 
-The teachers and coaches have built a very strong rapport with these boys and often motivated and encouraged them not only in terms of having good sportsmanship but also on character-building.
+<p style="text-align:justify">The teachers and coaches have built a very strong rapport with these boys and often motivated and encouraged them not only in terms of having good sportsmanship but also on character-building.</p>
 
 ![](/images/Cca/cca-takraw-n-02.jpg)
 
@@ -117,7 +117,7 @@ Ready to strike!
 
 ![Players standing, ready to defend](/images/Cca/cca-takraw-i-standing-ready-to-defend-768x576.jpg)
 
-<p style="text-align:justify">During training, the team not only focuses on the athletic aspects critical to the sport but also on character building and leadership. School values such as resilience, respect and integrity are instilled in every player throughout the training sessions. Our athletes looked forward to these trainings and often turn up even before training starts. Trainings may be exhausting and gruelling but the boys always enjoy themselves and persevere throughout the training sessions.</p>
+<p style="text-align:justify">During training, the team not only focuses on the athletic aspects critical to the sport but also on character building and leadership. School values such as resilience, respect and integrity are instilled in every player throughout the training sessions. Our athletes looked forward to these trainings and often turn up even before training starts. Trainings may be exhausting and gruelling but the boys always enjoy themselves and persevere throughout the training sessions.
 
 ![Players warming up](/images/Cca/cca-takraw-i-warm-ups-768x512.jpg)
 
