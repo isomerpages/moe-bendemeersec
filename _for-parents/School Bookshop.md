@@ -36,7 +36,7 @@ Operating hours:  Mon-Fri: 9.00am - 3.00pm,  Sat: 8.30am - 11.30am
 | 29/12/2022 | Thu | AIl Levels |
 | 30/12/2022 | Fri  | All Levels |
 
-Opened from Mon-Fri: 9.00am - 3.00pm,  Sat: 8.30am - 11.30am
+
 <br>
 
 
