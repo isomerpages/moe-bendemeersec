@@ -2,8 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Sec 1 Registration (Y2022)/Sec 1 Meet The Parents.md
-      - Sec 1 Registration (Y2022)/First Day of School.md
       - Sec 1 Registration (Y2022)/.keep
       - Sec 1 Registration (Y2022)/Sec 1 Registration Overview.md
       - Sec 1 Registration (Y2022)/Sale of Uniform and Books.md
@@ -12,3 +10,5 @@ collections:
       - Sec 1 Registration (Y2022)/Application for Other Programmes.md
       - Sec 1 Registration (Y2022)/Appeal for Transfer of School.md
       - Sec 1 Registration (Y2022)/Parents Gateway Mobile Application.md
+      - Sec 1 Registration (Y2022)/First Day of School.md
+      - Sec 1 Registration (Y2022)/Sec 1 Meet The Parents.md
