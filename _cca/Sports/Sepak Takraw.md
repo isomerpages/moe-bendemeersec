@@ -7,6 +7,7 @@ third_nav_title: Sports
 |  **Teachers-in-Charge:** | Mr Han Hong Kwong(I/C) | 
 | -------- | -------- |
 |  | Mr Zulkifli Bin Khamis(2I/C) |
+|  | Ms Nasyitah Bte Abu Bakar |
 |**Coach:** | Mr Juraime Bin Atan|
 |**Captain 'B' Boys:** | Tharunesh Sahadevan (4R8) |
 |**Vice-Captain 'B' Boys:** | Mohamed Zulazim Bin Zulkifli (3R8) |
@@ -63,7 +64,7 @@ To uphold the five school values when participating in CCA activities.
 
 <p style="text-align:justify">The CCA comprises Secondary 1 to Secondary 4 students who are enthusiastic and motivated to learn the skills of the sport. The students play the game at recreational and competitive level. They are trained, guided and supervised by 3 dedicated teachers and a coach.</p> 
 
-<p style="text-align:justify">Bendemeer Sepak Takraw kicked start the year by recruiting new members from secondary-one through skill testing sessions during the orientation week. After several sessions of intensive trainings, we had our friendly matches between the ‘B’ and ‘C’ division boys to assess our players’ readiness and competiveness.  These matches and trainings provide us with a great opportunity to build good and strong friendship with others. It also gives the new members a good platform for team bonding.</p> 
+<p style="text-align:justify">Bendemeer Sepak Takraw kicked start the year by recruiting new members from Secondary One through skill testing sessions during the orientation week. After several sessions of intensive trainings, we had our friendly matches between the ‘B’ and ‘C’ division boys to assess our players’ readiness and competiveness.  These matches and trainings provide us with a great opportunity to build good and strong friendship with others. It also gives the new members a good platform for team bonding.</p> 
 
 ![](/images/Cca/cca-takraw-n-01.jpg)
 
@@ -104,4 +105,3 @@ To uphold the five school values when participating in CCA activities.
 **- Muhammad Rahul bin Mohamed Raffi (4R8)**
 
 ![](/images/Cca/cca-takraw-n-04.jpg)
-
