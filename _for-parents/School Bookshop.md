@@ -34,8 +34,9 @@ The operating hours during school holidays are as follows:
 | 29/12/2022 | Thu | AIl Levels |
 | 30/12/2022 | Fri  | All Levels |
 
-<br>
 Opened from Mon-Fri: 9.00am - 3.00pm,  Sat: 8.30am - 11.30am
+<br>
+
 
 
 |Company name:  | Pacific Bookstores Pte Ltd.|
