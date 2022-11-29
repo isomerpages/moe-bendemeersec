@@ -4,9 +4,9 @@ permalink: /for-parents/bookshop/
 description: ""
 ---
 Our school bookshop is located beside the school library. Besides books and stationery, students can also buy school uniforms.  
-The operating hours during school holidays are as follows:  
+The bookshop are opened on the following days with the operating hours as follows:  
 
-Opened from Mon-Fri: 9.00am - 3.00pm,  Sat: 8.30am - 11.30am
+Operating hours:  Mon-Fri: 9.00am - 3.00pm,  Sat: 8.30am - 11.30am
 
 |Date | Day |  |
 | - | - | - |
