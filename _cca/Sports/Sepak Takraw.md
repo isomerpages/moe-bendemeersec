@@ -74,7 +74,7 @@ To uphold the five school values when participating in CCA activities.
 
 ![](/images/Cca/cca-takraw-n-02.jpg)
 
-<p style="text-align:justify; font-style:italic">This year is an unforgetable moment for me as it is my first time taking part in a competition and getting to know more about Sepak Takraw. I learnt a lot and will continue to improve my skills in Sepak Takraw. I am not shy to seek help from my team mates to be a better player.</p>
+<p style="text-align:justify; font-style:italic">This year is an unforgettable moment for me as it is my first time taking part in a competition and getting to know more about Sepak Takraw. I learnt a lot and will continue to improve my skills in Sepak Takraw. I am not shy to seek help from my team mates to be a better player.</p>
 
 **- Mohamed Zulazim Bin Zulkifli - (3R8)**
 
