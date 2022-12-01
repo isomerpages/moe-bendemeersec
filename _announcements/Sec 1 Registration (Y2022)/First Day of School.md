@@ -2,7 +2,9 @@
 title: First Day of School
 permalink: /announcements/sec1-registration/first-day-of-school/
 description: ""
+third_nav_title: Sec 1 Registration (Y2022)
 ---
+
 
 
 

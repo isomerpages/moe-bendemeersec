@@ -4,7 +4,9 @@ permalink: /for-parents/bookshop/
 description: ""
 ---
 Our school bookshop is located beside the school library. Besides books and stationery, students can also buy school uniforms.  
-The operating hours during school holidays are as follows:  
+The bookshop is opened on the following days with the operating hours as follows:  
+
+Operating hours:  Mon-Fri: 9.00am - 3.00pm,  Sat: 8.30am - 11.30am.
 
 |Date | Day |  |
 | - | - | - |
@@ -34,7 +36,10 @@ The operating hours during school holidays are as follows:
 | 29/12/2022 | Thu | AIl Levels |
 | 30/12/2022 | Fri  | All Levels |
 
+
 <br>
+
+
 
 |Company name:  | Pacific Bookstores Pte Ltd.|
 | - |-|
