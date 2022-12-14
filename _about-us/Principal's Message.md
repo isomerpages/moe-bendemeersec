@@ -5,7 +5,7 @@ description: ""
 ---
 <p style="float:left; margin: 0 10px 0px 0">
 <img src="/images/Aboutus/principal-hiress.jpg" alt="Principal" style="width:400px" /></p>
-<br>
+
 <p style="text-align:justify">
 Since its establishment in 1977, Bendemeer Secondary School has placed a strong focus on character development, nurturing young individuals anchored in strong values of Integrity, Care, Respect, Responsibility, Resilience and Harmony.</p>
 <p style="text-align:justify">
