@@ -13,7 +13,7 @@ Since its establishment in 1977, Bendemeer Secondary School has placed a strong 
 <p style="text-align:justify">
 2022 marks our 45th year of preparing our students both for life and future by providing them with a purposeful holistic education, focused on their interests and strengths. Our strong culture of care is evident in the positive relationships our students enjoy with their teachers, seniors, peers and community.</p>
 <p style="text-align:justify">
-The diverse successes of our alumni and students are testament to the school’s collective dedication in fulfilling our mission of Building Character, Nurturing Learners and Serving the Community. With the strong support from our partners, our students continue to grow as Active Learners and Responsible Citizens who are beacons in others’ lives, ever willing to serve their families, school and nation.</p>
+The diverse successes of our alumni and students are testament to the school’s collective dedication in fulfilling our mission of <i>Building Character, Nurturing Learners</i> and <i>Serving the Community</i>. With the strong support from our partners, our students continue to grow as <i>Active Learners</i> and <i>Responsible Citizens</i> who are beacons in others’ lives, ever willing to serve their families, school and nation.</p>
 <p style="text-align:justify">
 With the changing landscape, we remain steadfast in ensuring our students are empowered with the necessary attitude and aptitude to succeed in their lives. Our students are our purpose and mission. </p>
 <p style="text-align:justify">
