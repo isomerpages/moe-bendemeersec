@@ -4,9 +4,9 @@ permalink: /about-us/principals-message/
 description: ""
 ---
 <p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/Aboutus/principal.jpeg" alt="Principal" style="width:400px" />
+<img src="/images/Aboutus/principal.jpeg" alt="Principal" style="width:400px" /> From whatsapp
 <br>
-<img src="/images/Aboutus/principal-hiress.jpg" alt="Principal" style="width:400px" />
+<img src="/images/Aboutus/principal-hiress.jpg" alt="Principal" style="width:400px" />  high res
 </p>
 
 <p style="text-align:justify">
