@@ -4,7 +4,6 @@ permalink: /announcements/sec1-registration/appeal-for-transfer/
 description: ""
 third_nav_title: Sec 1 Registration 2023
 ---
-
 #### **A. Appeal for Transfer to Other Schools**
 
 **For students with serious medical conditions or severe physical impairments**, please submit your application to the General Office of Bendemeer Secondary School by **12pm on 23 December 2022**. All appeals must be accompanied by relevant supporting documents, such as medical reports and letters from doctors.
@@ -16,9 +15,9 @@ For information on appeals for transfer for serious medical conditions, please g
 
 #### **B. Appeal for Transfer to Bendemeer Secondary School**
 
-Please complete the following form (https://go.gov.sg/transfertobdms) by **12pm on 27 December 2021.**
+Please complete the following form (https://go.gov.sg/transfertobdms) by **12pm on 27 December 2022.**
 
 Note:  If you are seeking a transfer due to other reasons, you may approach the school of choice directly.  It’s important to keep the following in mind:
-Your child’s PSLE aggregate score should meet the school’s cut-off point of the posting year.
-Your child should meet the school’s admission criteria.
-The school must have available vacancies.
+* Your child’s PSLE score should meet the school’s cut-off point of the posting year.
+* Your child should meet the school’s admission criteria.
+* The school must have available vacancies.
