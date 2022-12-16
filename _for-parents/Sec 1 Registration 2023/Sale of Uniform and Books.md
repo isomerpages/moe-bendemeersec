@@ -25,9 +25,9 @@ Pacific Bookstores Pte Ltd.(Bookshop Vendor)
 <br>Website for Sales: https://www.pacificbookstores.com
 <br>Book lists can be downloaded below :
 <br>
-<br>2022 Sec 1 Express Book List
-<br>2022 Sec 1 Normal (Academic) Book List
-<br>2022 Sec 1 Normal (Technical) Book List
+<br>2023 Sec 1 Express Book List
+<br>2023 Sec 1 Normal (Academic) Book List
+<br>2023 Sec 1 Normal (Technical) Book List
 
 **Walk-in purchase of school uniforms and books**
 
