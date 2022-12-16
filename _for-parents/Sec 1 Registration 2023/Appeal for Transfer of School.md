@@ -15,7 +15,7 @@ For information on appeals for transfer for serious medical conditions, please g
 
 #### **B. Appeal for Transfer to Bendemeer Secondary School**
 
-Please complete the following <a href="https://go.gov.sg/transfertobdms" target="_blank" >form</a> by **12pm on 27 December 2022.**
+Please complete the following form at <a href="https://go.gov.sg/transfertobdms" target="_blank" >https://go.gov.sg/transfertobdms</a> by **12pm on 27 December 2022.**
 
 Note:  If you are seeking a transfer due to other reasons, you may approach the school of choice directly.  It’s important to keep the following in mind:
 * Your child’s PSLE score should meet the school’s cut-off point of the posting year.
