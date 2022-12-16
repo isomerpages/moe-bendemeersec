@@ -21,4 +21,5 @@ sections:
       button: Click here
       url: /announcements/n-level-results
       alt: Image alt text
+      image: /images/Announcements/announce-nlevel.png
 ---
