@@ -4,7 +4,6 @@ permalink: /for-parents/sec1-registration/sec1-mtp/
 description: ""
 third_nav_title: Sec 1 Registration 2023
 ---
-
 ## **Sec 1 Meet-The-Parents**
 
 The school has organised a Sec 1 Meet-The-Parents Session cum CCA Orientation. 
@@ -19,6 +18,7 @@ The school has organised a Sec 1 Meet-The-Parents Session cum CCA Orientation.
 |  | |
 
 
+Please register your attendance <a href="https://go.gov.sg" target="_blank" >here</a>.
 
 
 <!--Thank you for attending the Sec 1 Meet The Parents session. 
