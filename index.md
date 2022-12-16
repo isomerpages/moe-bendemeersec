@@ -13,9 +13,9 @@ sections:
   - hero:
       background: /images/hero-banner01s.jpg
       key_highlights:
-        - title: Bendemeer Open House
-          description: Click here for more information
-          url: /for-parents/openhouse/
+        - title: Release of 'N' Levels results
+          description: Click here for details
+          url: /announcements/n-level-results
   - infopic:
       title: Release of N-Level Results
       description: Infopic description
