@@ -1,5 +1,5 @@
 collections:
-  for-parents:
+  parents-and-students:
     output: true
     order:
       - Open House.md
