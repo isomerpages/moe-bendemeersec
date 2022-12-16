@@ -4,27 +4,16 @@ permalink: /announcements/sec1-registration/sec1reg-overview/
 description: ""
 third_nav_title: Sec 1 Registration (Y2023)
 ---
-
-
-
 ## **2022 Sec 1 Registration**
 
 
 Bendemeer Secondary School welcomes all Secondary One students and parents!
 
-  
-
 Congratulations on receiving your posting to Bendemeer Secondary School! An exciting and enriching secondary school experience awaits you! Here, we believe in empowering you to find your purpose and passion, define your guiding principles in life and discover what fulfils you.
-
-  
 
 We are happy to welcome you to the Bendemeerian family, and walk this journey with you to be Active Learners and Responsible Citizens.
 
-  
-
-In light of the COVID-19 situation, students **do not need** to report to their posted secondary schools this year after receiving the posting results. Information will be provided via the school website and parents who are on Parents Gateway (PG) will also receive instructions by **the afternoon of 22 December 2021**. 
-
-  
+Students do **not** need to report to their posted secondary schools this year after receiving the posting results. Information will be provided via the school website and parents who are on Parents Gateway (PG) will also receive instructions by the afternoon of **22 December 2022**. 
 
 Please read the following information on instructions for online registration, purchase of books and uniforms, and the reporting details for the first day of school. 
 
