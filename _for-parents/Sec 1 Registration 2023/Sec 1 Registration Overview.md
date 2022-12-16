@@ -24,7 +24,7 @@ Please read the following information on instructions for online registration, p
 6.  [Appeal for Transfer of School](/for-parents/sec1-registration/appeal-for-transfer/)
 7.  [Parents Gateway Mobile Application](/for-parents/sec1-registration/pg-mobileapp/)
 8.  [First Day of School](/for-parents/sec1-registration/first-day/)
-9.  [Sec 1 Meet-The-Parents](/for-parents/2022-sec-1-registration/sec-1-meet-the-parents)
+9.  [Sec 1 Meet-The-Parents](/for-parents/sec1-registration/first-day/)
 
   
 
