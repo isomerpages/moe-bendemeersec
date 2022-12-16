@@ -4,9 +4,7 @@ permalink: /announcements/sec1-registration/sale-uniform-and-books/
 description: ""
 third_nav_title: Sec 1 Registration 2023
 ---
-
-
-## **Sale of Uniform and Books**
+## **Sale of Uniforms and Books**
 Online purchases of school uniforms and books are highly encouraged.  Home delivery options and self-collection options are available. Please refer to the respective websites for more information on how to make your purchases online.
 
 **Online Purchase of School Uniforms**
@@ -30,6 +28,7 @@ Book lists can be downloaded below :
 2022 Sec 1 Normal (Academic) Book List
 2022 Sec 1 Normal (Technical) Book List
 
+For details of the opening hours, please refer to [here](/for-parents/bookshop/).
 
 **Walk-in purchase of school uniforms and books**
 
