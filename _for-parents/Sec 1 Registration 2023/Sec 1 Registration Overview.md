@@ -36,7 +36,7 @@ All newly posted students will need to be registered with the school.  The onli
 
   
 
-Please assist in filling up the following form ([https://go.gov.sg/bdms2022sec1reg](https://go.gov.sg/bdms2022sec1reg)) to complete the Secondary 1 registration process by **Sunday, 26 December 2022, 11:59pm.**
+Please assist in filling up the following form <a href="https://go.gov.sg/bdms2022sec1reg" target="_blank" >https://go.gov.sg/bdms2022sec1reg</a> to complete the Secondary 1 registration process by **Sunday, 26 December 2022, 11:59pm.**
 
 
 
