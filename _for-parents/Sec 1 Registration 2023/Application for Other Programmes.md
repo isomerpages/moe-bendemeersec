@@ -4,8 +4,6 @@ permalink: /for-parents/sec1-registration/app-for-oth-programmes/
 description: ""
 third_nav_title: Sec 1 Registration 2023
 ---
-
-
 ## **Application for Other Programmes**
 
 Students who are eligible may apply for other Programmes shown below :
@@ -30,6 +28,6 @@ Successful applicants will attend weekly lessons in the afternoon at the AEP/MEP
 
 For more information, please refer to the following slides and web links provided below:
 
-Art (AEP) - https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec
+Art (AEP) - <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec" target="_blank" >https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec</a> 
 
-Music (MEP) - https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec
+Music (MEP) - <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec" target="_blank" >https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec</a> 
