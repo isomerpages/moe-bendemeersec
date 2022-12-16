@@ -4,10 +4,8 @@ permalink: /announcements/sec1-registration/first-day-of-school/
 description: ""
 third_nav_title: Sec 1 Registration 2023
 ---
-
 All Sec 1 students are to report to school on the first day of school which falls on 3rd January 2022.
 Details are as follows:
-
 
 
 
