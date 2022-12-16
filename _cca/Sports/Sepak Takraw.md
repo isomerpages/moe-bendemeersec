@@ -46,7 +46,7 @@ To uphold the five school values when participating in CCA activities.
     <td class="tg-fxx4"><span style="color:#222">Being accountable for your words and actions as well as taking care of your personal health and safety.</span></td>
   </tr>
     <tr>
-    <td class="tg-e2rw">Integrity</td>
+    <td class="tg-b4br">Integrity</td>
     <td class="tg-fxx4"><span style="color:#222">Being true, fair and honest to yourselves and others in your words and actions.</span></td>
   </tr>
   <tr>
