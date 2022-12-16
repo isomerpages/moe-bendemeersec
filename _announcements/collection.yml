@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - Example Title.md
       - Sec 1 Registration (Y2023)/.keep
