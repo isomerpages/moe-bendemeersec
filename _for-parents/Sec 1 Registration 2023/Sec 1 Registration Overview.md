@@ -17,9 +17,9 @@ Please read the following information on instructions for online registration, p
   
 
 1.  E-Registration (See Below)
-2.  [Sale of School Uniforms and Books](/announcements/sec1-registration/sale-uniform-and-books/)
-3.  [Information for Financial Assistance Scheme (FAS) Application](/announcements/sec1-registration/moe-fas/)
-4.  [Subject-Based Banding](/announcements/sec1-registration/subject-basedbanding/)
+2.  [Sale of School Uniforms and Books](/for-parents/sec1-registration/sale-uniform-and-books/)
+3.  [Information for Financial Assistance Scheme (FAS) Application](/for-parents/sec1-registration/moe-fas/)
+4.  [Subject-Based Banding](/for-parents/sec1-registration/subject-basedbanding/)
 5.  [Application for other Programmes](/for-parents/sec1-registration/app-for-oth-programmes/)
 6.  [Appeal for Transfer of School](/for-parents/sec1-registration/appeal-for-transfer/)
 7.  [Parents Gateway Mobile Application](/for-parents/sec1-registration/pg-mobileapp/)
