@@ -26,7 +26,7 @@ Please read the following information on instructions for online registration, p
 8.  [First Day of School](/for-parents/sec1-registration/first-day/)
 9.  [Sec 1 Meet-The-Parents](/for-parents/sec1-registration/sec1-mtp/)
 
-  
+
 
 For more information on the 2022 Secondary 1 Posting, please refer to <a href="https://pg.moe.edu.sg" target="_blank" >this</a> MOE webpage.
 
