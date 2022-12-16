@@ -33,15 +33,14 @@ Please read the following information on instructions for online registration, p
 
 For more information on the 2022 Secondary 1 Posting, please refer to [this](https://www.moe.gov.sg/secondary/s1-posting) MOE webpage.
 
-### 1) E-Registration (22 Dec 2022, 9am to 26 Dec 2022, 11:59pm)
-------------------------------------------------------------
+### **1) E-Registration (22 Dec 2022, 9am to 26 Dec 2022, 11:59pm)**
 
-All newly posted students will need to be registered with the school.  The online registration will open from **Wednesday, 22 December 2021, 9am** to **Sunday, 26 December 2021, 11:59pm**.
+All newly posted students will need to be registered with the school.  The online registration will open from **Wednesday, 22 December 2022, 9am** to **Sunday, 26 December 2022, 11:59pm**.
 
   
 
-Please assist in filling up the following form ([https://go.gov.sg/bdms2022sec1reg](https://go.gov.sg/bdms2022sec1reg)) to complete the Secondary 1 registration process by **Sunday, 26 December 2021, 11:59pm.**
+Please assist in filling up the following form ([https://go.gov.sg/bdms2022sec1reg](https://go.gov.sg/bdms2022sec1reg)) to complete the Secondary 1 registration process by **Sunday, 26 December 2022, 11:59pm.**
 
 
 
-If you have any questions, do drop us an email at [bendemeer\_ss@moe.edu.sg](mailto:bendemeer_ss@moe.edu.sg).
+If you have any questions, do drop us a note at [bendemeer_ss@moe.edu.sg](mailto:bendemeer_ss@moe.edu.sg), or contact us at 62927616.
