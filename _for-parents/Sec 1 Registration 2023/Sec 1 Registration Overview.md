@@ -17,14 +17,14 @@ Please read the following information on instructions for online registration, p
   
 
 1.  E-Registration (See Below)
-2.  [Sale of School Uniforms and Books](/for-parents/sec1-registration/sec1reg-overview/)
-3.  [Information for Financial Assistance Scheme (FAS) Application](https://bendemeersec.moe.edu.sg/useful-links/2022-sec-1-registration/moe-financial-assistance-scheme)
-4.  [Subject-Based Banding](https://bendemeersec.moe.edu.sg/useful-links/2022-sec-1-registration/subject-based-banding)
-5.  [Application for other Programmes](https://bendemeersec.moe.edu.sg/useful-links/2022-sec-1-registration/application-for-other-programmes)
-6.  [Appeal for Transfer of School](https://bendemeersec.moe.edu.sg/useful-links/2022-sec-1-registration/appeal-for-transfer-of-school)
-7.  [Parents Gateway Mobile Application](https://bendemeersec.moe.edu.sg/useful-links/2022-sec-1-registration/parents-gateway-mobile-application)
-8.  [First Day of School](https://bendemeersec.moe.edu.sg/useful-links/2022-sec-1-registration/first-day-of-school)
-9.  [Sec 1 Meet-The-Parents](https://bendemeersec.moe.edu.sg/useful-links/2022-sec-1-registration/sec-1-meet-the-parents)
+2.  [Sale of School Uniforms and Books](/announcements/sec1-registration/sale-uniform-and-books/)
+3.  [Information for Financial Assistance Scheme (FAS) Application](/announcements/sec1-registration/moe-fas/)
+4.  [Subject-Based Banding](/announcements/sec1-registration/subject-basedbanding/)
+5.  [Application for other Programmes](/for-parents/sec1-registration/application-for-other-programmes/)
+6.  [Appeal for Transfer of School](/for-parents/2022-sec-1-registration/appeal-for-transfer-of-school)
+7.  [Parents Gateway Mobile Application](/for-parents/2022-sec-1-registration/parents-gateway-mobile-application)
+8.  [First Day of School](/for-parents/2022-sec-1-registration/first-day-of-school)
+9.  [Sec 1 Meet-The-Parents](/for-parents/2022-sec-1-registration/sec-1-meet-the-parents)
 
   
 
