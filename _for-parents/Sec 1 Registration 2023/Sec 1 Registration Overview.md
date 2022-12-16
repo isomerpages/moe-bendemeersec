@@ -28,7 +28,7 @@ Please read the following information on instructions for online registration, p
 
   
 
-For more information on the 2022 Secondary 1 Posting, please refer to [this](https://www.moe.gov.sg/secondary/s1-posting) MOE webpage.
+For more information on the 2022 Secondary 1 Posting, please refer to <a href="https://pg.moe.edu.sg" target="_blank" >this</a> MOE webpage.
 
 ### **1) E-Registration (22 Dec 2022, 9am to 26 Dec 2022, 11:59pm)**
 
