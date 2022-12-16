@@ -18,7 +18,6 @@ sections:
           url: /announcements/n-level-results
   - infopic:
       title: Release of N-Level Results
-      description: Infopic description
       button: Click here
       url: /announcements/n-level-results
       alt: Image alt text
