@@ -17,7 +17,7 @@ Please read the following information on instructions for online registration, p
   
 
 1.  E-Registration (See Below)
-2.  [Sale of School Uniforms and Books](https://bendemeersec.moe.edu.sg/useful-links/2022-sec-1-registration/sale-of-uniform-and-books)
+2.  [Sale of School Uniforms and Books](/for-parents/sec1-registration/sec1reg-overview/)
 3.  [Information for Financial Assistance Scheme (FAS) Application](https://bendemeersec.moe.edu.sg/useful-links/2022-sec-1-registration/moe-financial-assistance-scheme)
 4.  [Subject-Based Banding](https://bendemeersec.moe.edu.sg/useful-links/2022-sec-1-registration/subject-based-banding)
 5.  [Application for other Programmes](https://bendemeersec.moe.edu.sg/useful-links/2022-sec-1-registration/application-for-other-programmes)
