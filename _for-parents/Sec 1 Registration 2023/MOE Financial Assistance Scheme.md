@@ -13,4 +13,4 @@ For more information on the MOE Financial Assistance Scheme (FAS), please refer 
 
 Downloads :
 
-[Information pamphlet about MOE Financial Assistance Scheme](/files/forparents/2022%20MOE%20FAS%20Pamphlet.pdf)
+[Information pamphlet about MOE Financial Assistance Scheme](/files/Forparents/s1reg-2022%20MOE%20FAS%20Pamphlet.pdf)
