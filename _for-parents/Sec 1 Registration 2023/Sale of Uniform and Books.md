@@ -10,25 +10,24 @@ Online purchases of school uniforms and books are highly encouraged.  Home deliv
 **Online Purchase of School Uniforms**
 
 Asencio Pte Ltd (Uniform Vendor)
-Contact no.: 6764 3102 (09.00am – 06.00pm)
-                      8031 0502 (Text Message only)
-Email: uniforms@asencio.com.sg
-Website for Sales: https://asencio.com.sg
+<br>Contact no.: 6764 3102 (9.00am – 6.00pm)
+ <br>                     8031 0502 (Text Message only)
+<br>Email: uniforms@asencio.com.sg
+<br>Website for Sales: https://asencio.com.sg
 
 
 **Online Purchase of Books**
 
 
-Pacific Bookstores (Bookshop Vendor)
-Contact no.: 6291 3031 (09:00am – 03:00pm)
-Email: sales@pacificbookstores.com
-Website for Sales: https://www.pacificbookstores.com
-Book lists can be downloaded below :
-2022 Sec 1 Express Book List
-2022 Sec 1 Normal (Academic) Book List
-2022 Sec 1 Normal (Technical) Book List
-
-For details of the opening hours, please refer to [here](/for-parents/bookshop/).
+Pacific Bookstores Pte Ltd.(Bookshop Vendor)
+<br>Contact no.: 6291 8012 / 6559 2269 (9:00am – 3:00pm)
+<br>Email: sales@pacificbookstores.com
+<br>Website for Sales: https://www.pacificbookstores.com
+<br>Book lists can be downloaded below :
+<br>
+<br>2022 Sec 1 Express Book List
+<br>2022 Sec 1 Normal (Academic) Book List
+<br>2022 Sec 1 Normal (Technical) Book List
 
 **Walk-in purchase of school uniforms and books**
 
@@ -53,12 +52,12 @@ Please take note that each student can only be accompanied by 1 parent/guardian 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">21 to 23 Dec 2021</span></td>
+    <td class="tg-fxx4"><span style="color:#222">21 to 23 Dec 2022</span></td>
     <td class="tg-fxx4"><span style="color:#222">9am to 3pm</span></td>
     <td class="tg-fxx4"><span style="color:#222">Sec 1 Students</span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">27 to 30 Dec 2021</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">27 to 30 Dec 2022</span><br></td>
     <td class="tg-fxx4"><span style="color:#222">9am to 3pm</span></td>
     <td class="tg-fxx4"><span style="color:#222">All Levels</span></td>
   </tr>
