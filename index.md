@@ -17,10 +17,9 @@ sections:
           description: Click here for more information
           url: /for-parents/openhouse/
   - infopic:
-      title: Bendemeer Open House
-      description: What can you expect from us?
-      button: Find out more
-      url: /for-parents/openhouse/
-      image: /images/Usefullinks/2022bdmmotd.jpg
-      alt: Open House
+      title: Release of N-Level Results
+      description: Infopic description
+      button: Click here
+      url: /announcements/n-level-results
+      alt: Image alt text
 ---
