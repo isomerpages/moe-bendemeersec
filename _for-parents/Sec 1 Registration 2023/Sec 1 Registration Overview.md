@@ -20,7 +20,7 @@ Please read the following information on instructions for online registration, p
 2.  [Sale of School Uniforms and Books](/announcements/sec1-registration/sale-uniform-and-books/)
 3.  [Information for Financial Assistance Scheme (FAS) Application](/announcements/sec1-registration/moe-fas/)
 4.  [Subject-Based Banding](/announcements/sec1-registration/subject-basedbanding/)
-5.  [Application for other Programmes](/for-parents/sec1-registration/application-for-other-programmes/)
+5.  [Application for other Programmes](/for-parents/sec1-registration/app-for-oth-programmes/)
 6.  [Appeal for Transfer of School](/for-parents/2022-sec-1-registration/appeal-for-transfer-of-school)
 7.  [Parents Gateway Mobile Application](/for-parents/2022-sec-1-registration/parents-gateway-mobile-application)
 8.  [First Day of School](/for-parents/2022-sec-1-registration/first-day-of-school)
