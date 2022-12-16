@@ -45,8 +45,8 @@ Please take note that each student can only be accompanied by 1 parent/guardian 
 <thead>
   <tr>
     <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Date/Day</span>   </th>
-    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">B</span></th>
-    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">E</span></th>
+    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Time</span></th>
+    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999"> </span></th>
   </tr>
 </thead>
 <tbody>
