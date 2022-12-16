@@ -10,7 +10,7 @@ description: ""
 <p style="text-align:center"><b>A school that builds character, nurtures learners and serves the community</b></p>
 
 <img src="/images/Aboutus/vmv-03.jpg" alt="Values" style="width:400px" />
-<p style="text-align:center"><b>Integrity, Care, Respect, Responsibility, Resilience, Harmony</b></p>
+<p style="text-align:center"><b>Resilience, Respect, Responsibility, Integrity, Care, Harmony</b></p>
 
 <br>
 
