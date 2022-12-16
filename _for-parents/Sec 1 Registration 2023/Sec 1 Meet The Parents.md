@@ -6,7 +6,7 @@ third_nav_title: Sec 1 Registration 2023
 ---
 ## **Sec 1 Meet-The-Parents**
 
-The school has organised a Sec 1 Meet-The-Parents Session cum CCA Orientation . 
+The school has organised a Sec 1 Meet-The-Parents Session cum CCA Orientation. 
 <br>Details are as follows:
 
 
