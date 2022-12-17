@@ -19,10 +19,14 @@ The Secondary 1 Meet-The-Parents Session cum CCA Orientation will be held on **F
 |  | |
 
 
+
+
+
+<!--
 Please register your attendance <a href="https://go.gov.sg" target="_blank" >here</a>.
 
 
-<!--Thank you for attending the Sec 1 Meet The Parents session. 
+Thank you for attending the Sec 1 Meet The Parents session. 
 
 Please click **here** to view the slides presented that day. <br>
 Please click [here](https://drive.google.com/file/d/1C0jvkwEuzVKNZwOxz5AXRPRoebJUPieK/view) to view the parenting talk by Mr Edwin Choy on Transition to Sec 1.
