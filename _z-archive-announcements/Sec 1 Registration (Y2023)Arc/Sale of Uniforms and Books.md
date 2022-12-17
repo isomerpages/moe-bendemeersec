@@ -23,15 +23,19 @@ Online purchase of school uniforms and books are highly encouraged.  Home delive
 **Online Purchase of Books**
 
 
-Pacific Bookstores Pte Ltd.(Bookshop Vendor)
-<br>Contact no.: 6291 8012 / 6559 2269 (9:00am – 3:00pm)
-<br>Email: sales@pacificbookstores.com
-<br>Website for Sales: <a href="https://www.pacificbookstores.com" target="_blank" >https://www.pacificbookstores.com</a> 
-<br>Book lists can be downloaded below :
+|  |  | 
+| -------- | -------- | 
+| **Company:**     | Pacific Bookstores Pte Ltd.     |
+| **Contact No.:** | 6291 8012 / 6559 2269 (9:00am – 3:00pm) | 
+|  | 8031 0502 (Text Message only) | 
+|**Email:**   | sales@pacificbookstores.com | 
+| **Website for Sales:** | <a href="https://www.pacificbookstores.com" target="_blank" >https://www.pacificbookstores.com</a>   | 
+|  |  |
+
 <br>
-<br>2023 Sec 1 Express Book List
-<br>2023 Sec 1 Normal (Academic) Book List
-<br>2023 Sec 1 Normal (Technical) Book List
+
+[2023 Secondary 1 Booklist](/files/Forparents/sec1reg-sec1booklistfor2023.pdf)
+
 
 **Walk-in purchase of school uniforms and books**
 
