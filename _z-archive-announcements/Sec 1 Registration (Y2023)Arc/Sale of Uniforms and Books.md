@@ -6,7 +6,7 @@ third_nav_title: Sec 1 Registration (Y2023)Arc
 ---
 Online purchase of school uniforms and books are highly encouraged.  Home delivery options and self-collection options are available. Please refer to the respective websites for more information on how to make your purchases online.
 
-**Online Purchase of School Uniforms**
+##### **Online Purchase of School Uniforms**
 
 
 |  |  | 
@@ -20,7 +20,7 @@ Online purchase of school uniforms and books are highly encouraged.  Home delive
 
 
 
-**Online Purchase of Books**
+##### **Online Purchase of Books**
 
 
 |  |  | 
@@ -37,7 +37,7 @@ Online purchase of school uniforms and books are highly encouraged.  Home delive
 [2023 Secondary 1 Booklist](/files/Forparents/sec1reg-sec1booklistfor2023.pdf)
 
 
-**Walk-in purchase of school uniforms and books**
+##### **Walk-in purchase of school uniforms and books**
 
 Please take note that each student can only be accompanied by 1 parent/guardian when entering the school premises. You may purchase the school uniforms and books from the classrooms on the ground floor on the dates stated below:
 
@@ -62,10 +62,10 @@ Please take note that each student can only be accompanied by 1 parent/guardian 
   <tr>
     <td class="tg-fxx4"><span style="color:#222">21 to 23 Dec 2022</span></td>
     <td class="tg-fxx4"><span style="color:#222">9am to 3pm</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Sec 1 Students</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Secondary 1 Students</span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">27 to 30 Dec 2022</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">27 to 29 Dec 2022</span><br></td>
     <td class="tg-fxx4"><span style="color:#222">9am to 3pm</span></td>
     <td class="tg-fxx4"><span style="color:#222">All Levels</span></td>
   </tr>
