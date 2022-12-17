@@ -4,11 +4,9 @@ permalink: /departments/cce/cce-overview/
 description: ""
 third_nav_title: CCE
 ---
-
-
 ![Character and Citizenship Education Overview](/images/Departments/cce1.png)
 
-<p style="text-align:justify">Our school builds our students’ character and nurtures learners who serve the community. Our programmes develop our students as active learners and responsible citizens based on the school values of Integrity, Care, Respect, Responsibility, Resilience and Harmony, with reference to the CCE 2021 Curriculum Frame.</p>
+<p style="text-align:justify">Our school builds our students’ character and nurtures learners who serve the community. Our programmes develop our students as active learners and responsible citizens based on the school values of Resilience, Respect, Responsibility, Integrity, Care and Harmony, with reference to the CCE 2021 Curriculum Frame.</p>
 
 <p style="text-align:justify">The CCE 2021 Curriculum Frame takes reference from the existing Framework for 21st Century Competencies and Student Outcomes. It emphasises the interconnectedness of the core values, social and emotional competencies and civic literacy, global awareness and cross-cultural skills that are critical for character and citizenship development of our students.</p>
 

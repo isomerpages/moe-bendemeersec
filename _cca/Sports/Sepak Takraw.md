@@ -32,18 +32,12 @@ To uphold the five school values when participating in CCA activities.
 .tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2rw">Integrity</th>
-    <th class="tg-fxx4"><span style="color:#222">Being true, fair and honest to yourselves and others in your words and actions.</span></th>
-  </tr>
-</thead>
 <tbody>
   <tr>
-    <td class="tg-b4br">Care </td>
-    <td class="tg-fxx4"><span style="color:#222">By looking after yourselves, others and your surroundings.</span></td>
+    <td class="tg-b4br">Resilience</td>
+    <td class="tg-fxx4"><span style="color:#222">Not to give up easily and always giving your personal best.</span></td>
   </tr>
-  <tr>
+	<tr>
     <td class="tg-b4br">Respect</td>
     <td class="tg-fxx4"><span style="color:#222">Being kind in words, manners and actions to the teachers, coaches, peers, opponents, umpires and the audience.</span></td>
   </tr>
@@ -51,11 +45,15 @@ To uphold the five school values when participating in CCA activities.
     <td class="tg-b4br">Responsibility</td>
     <td class="tg-fxx4"><span style="color:#222">Being accountable for your words and actions as well as taking care of your personal health and safety.</span></td>
   </tr>
-  <tr>
-    <td class="tg-b4br">Resilience</td>
-    <td class="tg-fxx4"><span style="color:#222">Not to give up easily and always giving your personal best.</span></td>
+    <tr>
+    <td class="tg-b4br">Integrity</td>
+    <td class="tg-fxx4"><span style="color:#222">Being true, fair and honest to yourselves and others in your words and actions.</span></td>
   </tr>
-</tbody>
+  <tr>
+    <td class="tg-b4br">Care </td>
+    <td class="tg-fxx4"><span style="color:#222">By looking after yourselves, others and your surroundings.</span></td>
+  </tr>
+	</tbody>
 </table>
 
 

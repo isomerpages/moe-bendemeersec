@@ -13,14 +13,13 @@ sections:
   - hero:
       background: /images/hero-banner01s.jpg
       key_highlights:
-        - title: Bendemeer Open House
-          description: Click here for more information
-          url: /for-parents/openhouse/
+        - title: Release of 'N' Levels results
+          description: Click here for details
+          url: /announcements/n-level-results
   - infopic:
-      title: Bendemeer Open House
-      description: What can you expect from us?
-      button: Find out more
-      url: /for-parents/openhouse/
-      image: /images/Usefullinks/2022bdmmotd.jpg
-      alt: Open House
+      title: Release of N-Level Results
+      button: Click here
+      url: /announcements/n-level-results
+      alt: Image alt text
+      image: /images/Announcements/announce-nlevel.png
 ---

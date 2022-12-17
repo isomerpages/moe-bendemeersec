@@ -9,7 +9,7 @@ description: ""
 </p>
 
 <p style="text-align:justify">
-Since its establishment in 1977, Bendemeer Secondary School has placed a strong focus on character development, nurturing young individuals anchored in strong values of <i>Integrity, Care, Respect, Responsibility, Resilience</i> and <i>Harmony</i>.</p>
+Since its establishment in 1977, Bendemeer Secondary School has placed a strong focus on character development, nurturing young individuals anchored in strong values of <i>Resilience, Respect, Responsibility, Integrity, Care, </i> and <i>Harmony</i>.</p>
 <p style="text-align:justify">
 2022 marks our 45th year of preparing our students both for life and future by providing them with a purposeful holistic education, focused on their interests and strengths. Our strong culture of care is evident in the positive relationships our students enjoy with their teachers, seniors, peers and community.</p>
 <p style="text-align:justify">

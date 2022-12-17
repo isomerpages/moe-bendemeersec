@@ -16,7 +16,7 @@ third_nav_title: CCE
 
 <p style="text-align:justify">Bendemeer Secondary School crafted our Vision in the direction of nurturing “Active Learners and Responsible Citizens”. We also aspire to build character and help our students develop their fullest potential in their own way.</p>
 
-<p style="text-align:justify">Our character development efforts are grounded on our School Values – Integrity, Care, Respect, Responsibility and Resilience. These had been our evergreen school values in our recent history. In 2020, we had several rounds of staff engagement sessions to review the relevance of our school values in today’s context. Consequently, ‘Harmony’ was introduced as the sixth school value. This also aligns our school values with MOE CCE core values </p>
+<p style="text-align:justify">Our character development efforts are grounded on our School Values – Resilience, Respect, Responsibility, Integrity, Care and Harmony. These had been our evergreen school values in our recent history. In 2020, we had several rounds of staff engagement sessions to review the relevance of our school values in today’s context. Consequently, ‘Harmony’ was introduced as the sixth school value. This also aligns our school values with MOE CCE core values </p>
 
 ([click link](https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curriculum/cce2021.html)).
 

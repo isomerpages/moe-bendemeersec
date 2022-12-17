@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - Open House.md
+      - Sec 1 Registration 2023/.keep
       - Online School Magazines.md
       - School Bookshop.md
       - Class Timetable.md
