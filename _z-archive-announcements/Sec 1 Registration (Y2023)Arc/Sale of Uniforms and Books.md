@@ -8,11 +8,16 @@ Online purchase of school uniforms and books are highly encouraged.  Home delive
 
 **Online Purchase of School Uniforms**
 
-Asencio Pte Ltd (Uniform Vendor)
-<br>Contact no.: 6764 3102 (9.00am – 6.00pm)
- <br>                     8031 0502 (Text Message only)
-<br>Email: uniforms@asencio.com.sg
-<br>Website for Sales: <a href="https://asencio.com.sg" target="_blank" >https://asencio.com.sg</a> 
+
+|  |  | 
+| -------- | -------- | 
+| **Company:**     | Asencio Pte Ltd     |
+| **Contact No.:** | 6764 3102 (9.00am – 6.00pm) | 
+|  | 8031 0502 (Text Message only) | 
+|**Email:**   | uniforms@asencio.com.sg | 
+| **Website for Sales:** | <a href="https://asencio.com.sg" target="_blank" >https://asencio.com.sg</a>  | 
+|  |  |
+
 
 
 **Online Purchase of Books**
