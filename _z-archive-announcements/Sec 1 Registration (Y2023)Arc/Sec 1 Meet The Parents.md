@@ -4,20 +4,18 @@ permalink: /for-parents/sec1-registration/sec1-mtp/
 description: ""
 third_nav_title: Sec 1 Registration (Y2023)Arc
 ---
-
-
-
 ## **Sec 1 Meet-The-Parents**
 
-The school has organised a Sec 1 Meet-The-Parents Session cum CCA Orientation. 
+The Secondary 1 Meet-The-Parents Session cum CCA Orientation will be held on **Friday, 6 January 2023**, from 2:00 pm to 6:00 pm.
 <br>Details are as follows:
 
 
 |  |  | 
 | -------- | -------- | 
-| **Venue:** | Bendemeer Secondary School | 
-| **Date:**     | 6 January 2023   |
-| **Time:** | 8 am to 12:30 pm | 
+| 2:00 – 3:30 pm | CCA Showcase | 
+| 3:30 – 4:30 pm    | School Leader’s Opening Address   |
+| | Year Head Introduction|
+| 4:30 – 6:00 pm | Form Teacher Engagement with Parents | 
 |  | |
 
 
