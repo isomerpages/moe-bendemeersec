@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Sec 1 Registration 2023/Sale of Uniforms and Books.md
       - Sec 1 Registration 2023/MOE Financial Assistance Scheme.md
       - Sec 1 Registration 2023/Subject Based Banding.md
       - Sec 1 Registration 2023/Application for Other Programmes.md
