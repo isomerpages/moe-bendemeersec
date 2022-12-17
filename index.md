@@ -17,6 +17,15 @@ sections:
           description: Click here for details
           url: /announcements/n-level-results
   - infopic:
+      title: Sec 1 Registration
+      subtitle: 2023 Sec 1 Posting
+      description: "Please read the following information on instructions for online
+        registration, sale of books and uniforms and more. "
+      button: more info
+      url: /for-parents/sec1-registration/sec1reg-overview/
+      image: /images/Usefullinks/s1reg-infopic.jpg
+      alt: Image alt text
+  - infopic:
       title: Release of N-Level Results
       button: Click here
       url: /announcements/n-level-results
