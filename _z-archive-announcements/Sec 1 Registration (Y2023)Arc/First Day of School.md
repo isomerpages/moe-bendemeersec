@@ -16,6 +16,6 @@ Details are as follows:
 | **Attire:** | School uniform (If you are unable to purchase our school uniform, then you may wear your Primary School Uniform) | 
 |**Things to bring**:   | Stationery, Notebook, Water Bottle, Personal Medication (if required) | 
 | **Reporting venue** | Respective classrooms.  (refer to map below). You may check your child's allocated class in Parents Gateway.  | 
-| **Important** |  |
+| **Important:** |Students seeking transfer should report to their posted school on the first day and continue to attend lessons until the transfer is approved.  |
 
-: Students seeking transfer should report to their posted school on the first day and continue to attend lessons until the transfer is approved.
+![Report Venue on First day of school](/images/Usefullinks/s1reg-firstdaymap.jpg)
