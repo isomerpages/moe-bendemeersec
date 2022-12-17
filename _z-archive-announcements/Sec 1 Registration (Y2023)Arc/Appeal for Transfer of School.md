@@ -4,8 +4,7 @@ permalink: /for-parents/sec1-registration/appeal-for-transfer/
 description: ""
 third_nav_title: Sec 1 Registration (Y2023)Arc
 ---
-
-#### **A. Appeal for Transfer to Other Schools**
+#### **A. Students with medical condition or severe physical impairments**
 
 **For students with serious medical conditions or severe physical impairments**, please submit your application to the General Office of Bendemeer Secondary School by **12pm on 23 December 2022**. All appeals must be accompanied by relevant supporting documents, such as medical reports and letters from doctors.
 
