@@ -31,8 +31,6 @@ Online purchase of school uniforms and books are highly encouraged.  Home delive
 | **Website for Sales:** | <a href="https://www.pacificbookstores.com" target="_blank" >https://www.pacificbookstores.com</a>   | 
 |  |  |
 
-<br>
-
 Booklist can be downloaded below: 
 <br>[2023 Secondary 1 Booklist](/files/Forparents/sec1reg-sec1booklistfor2023.pdf)
 
