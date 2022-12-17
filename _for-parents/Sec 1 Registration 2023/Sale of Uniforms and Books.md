@@ -33,7 +33,8 @@ Online purchase of school uniforms and books are highly encouraged.  Home delive
 
 <br>
 
-Download the booklist here: [2023 Secondary 1 Booklist](/files/Forparents/sec1reg-sec1booklistfor2023.pdf)
+Booklist can be downloaded below: 
+<br>[2023 Secondary 1 Booklist](/files/Forparents/sec1reg-sec1booklistfor2023.pdf)
 
 
 ##### **Walk-in purchase of school uniforms and books**
