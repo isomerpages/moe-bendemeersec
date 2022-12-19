@@ -37,7 +37,7 @@ Booklist can be downloaded below:
 
 ##### **Walk-in purchase of school uniforms and books**
 
-Please take note that each student can only be accompanied by 1 parent/guardian when entering the school premises. You may purchase the school uniforms and books from the classrooms on the ground floor on the dates stated below:
+To reduce congestion at the bookshop, we recommend that each student to be accompanied by not more than 1 parent/guardian to enter the school premises. You may purchase the school uniforms and books from the classrooms on the ground floor on the dates stated below:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
