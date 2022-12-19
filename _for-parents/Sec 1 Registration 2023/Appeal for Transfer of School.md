@@ -4,11 +4,9 @@ permalink: /for-parents/sec1-registration/appeal-for-transfer/
 description: ""
 third_nav_title: Sec 1 Registration 2023
 ---
-
-
 #### **A. Students with medical condition or severe physical impairments**
 
-**For students with serious medical conditions or severe physical impairments**, please submit your application to the General Office of Bendemeer Secondary School by **12pm on 23 December 2022**. All appeals must be accompanied by relevant supporting documents, such as medical reports and letters from doctors.
+**For students with serious medical conditions or severe physical impairments**, please submit your application to the General Office of Bendemeer Secondary School by **12pm on 22 December 2022**. All appeals must be accompanied by relevant supporting documents, such as medical reports and letters from doctors.
 
 The appeal results will be released in early January. Students seeking transfer should continue to report on the first day of school and attend lessons until the transfer is approved.
 
