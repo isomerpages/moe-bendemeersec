@@ -13,3 +13,5 @@ For more information on the MOE Financial Assistance Scheme (FAS), please refer 
 Downloads :
 
  [MOE FAS Application Form](/files/Forparents/moe-fas-application-form-oct2022ggas.pdf)
+ 
+ <a href="https://bendemeersec.moe.edu.sg/Forparents/moe-fas-application-form-oct2022ggas.pdf" target="_blank" >MOE FAS Application Form</a>
