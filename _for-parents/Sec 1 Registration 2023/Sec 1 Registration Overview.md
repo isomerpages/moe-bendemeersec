@@ -14,7 +14,7 @@ Please read the following information on instructions for online registration, p
 
   
 
-1.  E-Registration
+1.  [E-Registration](/for-parents/Sec-1-Registration-2023/s1-ereg/)
 2.  [First Day of School](/for-parents/sec1-registration/first-day/)
 3.  [Secondary One Meet-the-Parents](/for-parents/sec1-registration/sec1-mtp/)
 4.  [Sale of School Uniforms and Books](/for-parents/sec1-registration/sale-uniform-and-books/)
@@ -31,12 +31,3 @@ For more information on the 2023 Secondary One Posting, please refer to <a href
 If you have any questions, do drop us a note at [bendemeer_ss@moe.edu.sg](mailto:bendemeer_ss@moe.edu.sg).
 <br>
 
-### **1) E-Registration (22 Dec 2022, 9am to 26 Dec 2022, 11:59pm)**
-
-All newly posted students will need to register with the school.  The online registration will open from **Wednesday, 21st December 2022, 9am** to **Monday, 26th December 2022, 11:59pm**.
-
-  
-
-Please assist in filling up the following form <a href="https://go.gov.sg/bdms2023sec1reg" target="_blank" >https://go.gov.sg/bdms2023sec1reg</a> to complete the Secondary 1 registration process by **Monday, 26 December 2022, 11:59pm.**
-
-Students **do not** need to report to their posted secondary schools after receiving the posting results.  Information will be provided via the school website and parents who are on Parents Gateway (PG) will also receive instructions by the afternoon of 21st December 2022.
