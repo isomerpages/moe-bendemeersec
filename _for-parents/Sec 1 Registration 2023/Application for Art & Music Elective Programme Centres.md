@@ -17,9 +17,9 @@ In view of the extended Art/Music curriculum, AEP/MEP students will not be offer
 
 Do refer to important details in the web links and attachments provided below: 
 
-Art (AEP) - <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec" target="_blank" >https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec</a> 
+* Art (AEP) - <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec" target="_blank" >https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec</a> 
 
-Music (MEP) - <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec" target="_blank" >https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec</a>
+* Music (MEP) - <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec" target="_blank" >https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec</a>
 
 AEP/MEP attachments can be downloaded below:
 [AEP/MEP Briefing Slides](/files/Forparents/s1reg-AEP_MEP_Briefing_Slides.pdf)
