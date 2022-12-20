@@ -4,7 +4,6 @@ permalink: /for-parents/sec1-registration/sec1reg-overview/
 description: ""
 third_nav_title: Sec 1 Registration 2023
 ---
-
 Bendemeer Secondary School welcomes all Secondary One students and parents!
 
 Congratulations on receiving your posting to Bendemeer Secondary School! An exciting and enriching secondary school experience awaits you! Here, we believe in empowering you to find your purpose and passion, define your guiding principles in life and discover what fulfils you.
@@ -17,15 +16,15 @@ Please read the following information on instructions for online registration, p
 
   
 
-1.  E-Registration (See Below)
-2.  [Sale of School Uniforms and Books](/for-parents/sec1-registration/sale-uniform-and-books/)
-3.  [Information for Financial Assistance Scheme (FAS) Application](/for-parents/sec1-registration/moe-fas/)
-4.  [Subject-Based Banding](/for-parents/sec1-registration/subject-basedbanding/)
-5.  [Application for other Programmes](/for-parents/sec1-registration/app-for-oth-programmes/)
-6.  [Appeal for Transfer of School](/for-parents/sec1-registration/appeal-for-transfer/)
-7.  [Parents Gateway Mobile Application](/for-parents/sec1-registration/pg-mobileapp/)
-8.  [First Day of School](/for-parents/sec1-registration/first-day/)
-9.  [Sec 1 Meet-The-Parents](/for-parents/sec1-registration/sec1-mtp/)
+1.  E-Registration
+2.  [First Day of School](/for-parents/sec1-registration/first-day/)
+3.  [Secondary One Meet-the-Parents](/for-parents/sec1-registration/sec1-mtp/)
+4.  [Sale of School Uniforms and Books](/for-parents/sec1-registration/sale-uniform-and-books/)
+5.  [Information for Financial Assistance Scheme (FAS) Application](/for-parents/sec1-registration/moe-fas/)
+6.  [Full Subject-Based Banding](/for-parents/sec1-registration/subject-basedbanding/)
+7.  [Application for Art/Music Elective Programme (AEP/MEP) Centre](/for-parents/sec1-registration/app-for-oth-programmes/)
+8.  [Appeal for Transfer of School](/for-parents/sec1-registration/appeal-for-transfer/)
+9.  [Parents Gateway Mobile Application](/for-parents/sec1-registration/pg-mobileapp/)
 
 
 
@@ -41,6 +40,3 @@ All newly posted students will need to be registered with the school.  The onli
   
 
 Please assist in filling up the following form <a href="https://go.gov.sg/bdms2023sec1reg" target="_blank" >https://go.gov.sg/bdms2023sec1reg</a> to complete the Secondary 1 registration process by **Monday, 26 December 2022, 11:59pm.**
-
-
-
