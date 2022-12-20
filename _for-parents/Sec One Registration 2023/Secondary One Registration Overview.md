@@ -22,7 +22,7 @@ Please read the following information on instructions for online registration, p
 4.  [Sale of School Uniforms and Books](/for-parents/sec1-registration/sale-uniform-and-books/)
 5.  [MOE Financial Assistance Scheme (FAS) Application](/for-parents/sec1-registration/moe-fas/)
 6.  [Full Subject-Based Banding](/for-parents/sec1-registration/full-sbb/)
-7.  [Application for Art/Music Elective Programme (AEP/MEP) Centre](/for-parents/sec1-registration/aepmep-centres/)
+7.  [Application for Art/Music Elective Programme (AEP/MEP)](/for-parents/sec1-registration/aepmep-centres/)
 8.  [Appeal for Transfer to Bendemeer Secondary School](/for-parents/sec1-registration/appeal-for-transfer/)
 9.  [Parents Gateway Mobile Application](/for-parents/sec1-registration/pg-mobileapp/)
 
