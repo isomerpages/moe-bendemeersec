@@ -10,8 +10,6 @@ Congratulations on receiving your posting to Bendemeer Secondary School! An exci
 
 We are happy to welcome you to the Bendemeerian family and walk this journey with you to be Active Learners and Responsible Citizens.
 
-Students do **not** need to report to their posted secondary schools this year after receiving the posting results. Information will be provided via the school website and parents who are on Parents Gateway (PG) will also receive instructions by the afternoon of **22 December 2022**. 
-
 Please read the following information on instructions for online registration, purchase of books and uniforms, and the reporting details for the first day of school. 
 
   
@@ -28,14 +26,14 @@ Please read the following information on instructions for online registration, p
 
 
 
-For more information on the 2022 Secondary 1 Posting, please refer to <a href="https://pg.moe.edu.sg" target="_blank" >this</a> MOE webpage.
+For more information on the 2023 Secondary One Posting, please refer to <a href="https://pg.moe.edu.sg" target="_blank" >this</a> MOE webpage.
 
-If you have any questions, do drop us a note at [bendemeer_ss@moe.edu.sg](mailto:bendemeer_ss@moe.edu.sg), or contact us at 62927616.
+If you have any questions, do drop us a note at [bendemeer_ss@moe.edu.sg](mailto:bendemeer_ss@moe.edu.sg).
 <br>
 
 ### **1) E-Registration (22 Dec 2022, 9am to 26 Dec 2022, 11:59pm)**
 
-All newly posted students will need to be registered with the school.  The online registration will open from **Wednesday, 22 December 2022, 9am** to **Monday, 26 December 2022, 11:59pm**.
+All newly posted students will need to register with the school.  The online registration will open from **Wednesday, 21st December 2022, 9am** to **Monday, 26th December 2022, 11:59pm**.
 
   
 
