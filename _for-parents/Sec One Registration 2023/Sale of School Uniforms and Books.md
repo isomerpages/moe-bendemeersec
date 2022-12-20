@@ -4,7 +4,6 @@ permalink: /for-parents/sec1-registration/sale-uniform-and-books/
 description: ""
 third_nav_title: Sec One Registration 2023
 ---
-
 Online purchase of school uniforms and books are highly encouraged.  Home delivery options and self-collection options are available. Please refer to the respective websites for more information on how to make your purchases online.
 
 ##### **Online Purchase of School Uniforms**
@@ -32,8 +31,8 @@ Online purchase of school uniforms and books are highly encouraged.  Home delive
 | **Website for Sales:** | <a href="https://www.pacificbookstores.com" target="_blank" >https://www.pacificbookstores.com</a>   | 
 |  |  |
 
-Booklist can be downloaded below: 
-<br>[2023 Secondary 1 Booklist](/files/Forparents/sec1reg-sec1booklistfor2023.pdf)
+The Secondary One Booklist can be downloaded below: 
+<br>[2023 Secondary One Booklist](/files/Forparents/sec1reg-sec1booklistfor2023.pdf)
 
 
 ##### **Walk-in purchase of school uniforms and books**
