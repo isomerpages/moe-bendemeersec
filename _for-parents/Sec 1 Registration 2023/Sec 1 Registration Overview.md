@@ -38,3 +38,5 @@ All newly posted students will need to register with the school.  The online re
   
 
 Please assist in filling up the following form <a href="https://go.gov.sg/bdms2023sec1reg" target="_blank" >https://go.gov.sg/bdms2023sec1reg</a> to complete the Secondary 1 registration process by **Monday, 26 December 2022, 11:59pm.**
+
+Students **do not** need to report to their posted secondary schools after receiving the posting results.  Information will be provided via the school website and parents who are on Parents Gateway (PG) will also receive instructions by the afternoon of 21st December 2022.
