@@ -10,6 +10,6 @@ Students who require financial assistance are to download and fill in the applic
 
 For more information on the MOE Financial Assistance Scheme (FAS), please refer to the MOE website <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank" >here</a>.
 
-Downloads :
+MOE FAS Application Form can be downloaded below :
 
 [MOE FAS Application Form](/files/Forparents/s1reg-moe-fas-appform-oct22ggas.pdf)
