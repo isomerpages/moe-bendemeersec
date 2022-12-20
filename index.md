@@ -17,8 +17,8 @@ sections:
           description: Click here for details
           url: https://moe-bendemeersec-staging.netlify.app/for-parents/sec1-registration/sec1reg-overview/
   - infopic:
-      title: Sec 1 Registration
-      subtitle: 2023 Sec 1 Posting
+      title: Secondary One Registration
+      subtitle: 2023 Secondary One Posting
       description: "Please read the following information on instructions for online
         registration, sale of books and uniforms and more. "
       button: more info
