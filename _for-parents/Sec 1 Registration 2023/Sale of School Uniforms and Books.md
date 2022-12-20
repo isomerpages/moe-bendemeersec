@@ -4,7 +4,6 @@ permalink: /for-parents/sec1-registration/sale-uniform-and-books/
 description: ""
 third_nav_title: Sec 1 Registration 2023
 ---
-
 Online purchase of school uniforms and books are highly encouraged.  Home delivery options and self-collection options are available. Please refer to the respective websites for more information on how to make your purchases online.
 
 ##### **Online Purchase of School Uniforms**
@@ -12,7 +11,7 @@ Online purchase of school uniforms and books are highly encouraged.  Home delive
 
 |  |  | 
 | -------- | -------- | 
-| **Company:**     | Asencio Pte Ltd     |
+| **Company:**     | Asencio Pte Ltd (Uniform Vendor)    |
 | **Contact No.:** | 6764 3102 (9.00am – 6.00pm) | 
 |  | 8031 0502 (Text Message only) | 
 |**Email:**   | uniforms@asencio.com.sg | 
@@ -26,8 +25,8 @@ Online purchase of school uniforms and books are highly encouraged.  Home delive
 
 |  |  | 
 | -------- | -------- | 
-| **Company:**     | Pacific Bookstores Pte Ltd.     |
-| **Contact No.:** | 6291 8012 / 6559 2269 (9:00am – 3:00pm) | 
+| **Company:**     | Pacific Bookstores Pte Ltd. (Bookshop Vendor)    |
+| **Contact No.:** | 6291 3031 (9:00am – 3:00pm) | 
 |**Email:**   | sales@pacificbookstores.com | 
 | **Website for Sales:** | <a href="https://www.pacificbookstores.com" target="_blank" >https://www.pacificbookstores.com</a>   | 
 |  |  |
