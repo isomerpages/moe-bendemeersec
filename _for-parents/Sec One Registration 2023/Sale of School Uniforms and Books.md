@@ -31,13 +31,13 @@ Online purchase of school uniforms and books are highly encouraged.  Home delive
 | **Website for Sales:** | <a href="https://www.pacificbookstores.com" target="_blank" >https://www.pacificbookstores.com</a>   | 
 |  |  |
 
-The Secondary One Booklist can be downloaded below: 
-<br>[2023 Secondary One Booklist](/files/Forparents/sec1reg-sec1booklistfor2023.pdf)
+The Secondary One Book list can be downloaded below: 
+<br>[2023 Secondary One Book List](/files/Forparents/sec1reg-sec1booklistfor2023.pdf)
 
 
 ##### **Walk-in purchase of school uniforms and books**
 
-To reduce congestion at the bookshop, we recommend that each student to be accompanied by not more than 1 parent/guardian to enter the school premises. You may purchase the school uniforms and books from the classrooms on the ground floor on the dates stated below:
+To reduce congestion at the bookshop, we recommend that each student to be accompanied by not more than 1 parent/guardian to enter the school premise. You may purchase the school uniforms and books from the classrooms on the ground floor on the dates stated below:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -60,7 +60,7 @@ To reduce congestion at the bookshop, we recommend that each student to be accom
   <tr>
     <td class="tg-fxx4"><span style="color:#222">21st to 23rd Dec 2022</span></td>
     <td class="tg-fxx4"><span style="color:#222">9am to 3pm</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Secondary 1 Students</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Secondary One Students</span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">27th to 29th Dec 2022</span><br></td>
