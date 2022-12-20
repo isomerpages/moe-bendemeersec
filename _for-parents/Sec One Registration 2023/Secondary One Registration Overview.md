@@ -4,7 +4,7 @@ permalink: /for-parents/sec1-registration/sec1reg-overview/
 description: ""
 third_nav_title: Sec One Registration 2023
 ---
-### **Welcome to Bendemeer Secondary School **
+### **Welcome to Bendemeer Secondary School**
 
 Bendemeer Secondary School welcomes all Secondary One students and parents!
 
