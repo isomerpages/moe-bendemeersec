@@ -58,16 +58,16 @@ To reduce congestion at the bookshop, we recommend that each student to be accom
 </thead>
 <tbody>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">21 to 23 Dec 2022</span></td>
+    <td class="tg-fxx4"><span style="color:#222">21st to 23rd Dec 2022</span></td>
     <td class="tg-fxx4"><span style="color:#222">9am to 3pm</span></td>
     <td class="tg-fxx4"><span style="color:#222">Secondary 1 Students</span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">27 to 29 Dec 2022</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">27th to 29th Dec 2022</span><br></td>
     <td class="tg-fxx4"><span style="color:#222">9am to 3pm</span></td>
     <td class="tg-fxx4"><span style="color:#222">All Levels</span></td>
   </tr>
 </tbody>
 </table>
 
-Sec 1 students on the MOE or school-based Financial Assistance Scheme, please obtain the school approval letter from your primary school or proceed to the FAS counter outside the General Office of Bendemeer Secondary School before proceeding to collect your school uniforms and books.
+Secondary One students on the MOE Financial Assistance Scheme, please obtain the school approval letter from your primary school and proceed to the General Office of Bendemeer Secondary School before collecting your school uniforms and books.
