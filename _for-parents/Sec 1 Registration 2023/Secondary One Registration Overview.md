@@ -26,7 +26,7 @@ Please read the following information on instructions for online registration, p
 
 
 
-For more information on the 2023 Secondary One Posting, please refer to <a href="https://www.moe.gov.sg/secondary/s1-posting/results" target="_blank" >this</a> MOE webpage.
+For more information on the 2023 Secondary One Posting, please refer to this <a href="https://www.moe.gov.sg/secondary/s1-posting/results" target="_blank" >MOE webpage</a>.
 
 If you have any questions, do drop us a note at [bendemeer_ss@moe.edu.sg](mailto:bendemeer_ss@moe.edu.sg).
 <br>
