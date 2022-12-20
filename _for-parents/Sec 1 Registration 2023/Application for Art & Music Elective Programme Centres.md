@@ -4,8 +4,6 @@ permalink: /for-parents/sec1-registration/aepmep-centres/
 description: ""
 third_nav_title: Sec 1 Registration 2023
 ---
-
-
 If your child/ward exhibits interest, potential and passion for Art or Music, he/she can apply for Art Elective Programme (AEP) or Music Elective Programme (MEP) in the following Centres from Secondary One:
 
 * AEP: National Junior College
@@ -23,7 +21,7 @@ Art (AEP) - <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-s
 
 Music (MEP) - <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec" target="_blank" >https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec</a>
 
-
+AEP/MEP attachments can be downloaded below:
 [AEP/MEP Briefing Slides](/files/Forparents/s1reg-AEP_MEP_Briefing_Slides.pdf)
-[AEP Annex](/files/Forparents/s1reg-2_AEP_Annex.pdf)
-[MEP Annex](/files/Forparents/s1reg-3_MEP_Annex.pdf)
+<br>[AEP Annex](/files/Forparents/s1reg-2_AEP_Annex.pdf)
+<br>[MEP Annex](/files/Forparents/s1reg-3_MEP_Annex.pdf)
