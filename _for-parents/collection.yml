@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Sec 1 Registration 2023/Application for Other Programmes.md
       - Sec 1 Registration 2023/.keep
       - Sec 1 Registration 2023/Sec 1 Registration Overview.md
       - Sec 1 Registration 2023/First Day of School.md
