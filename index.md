@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Secondary One Registration
           description: Click here for details
-          url: https://moe-bendemeersec-staging.netlify.app/for-parents/sec1-registration/sec1reg-overview/
+          url: /for-parents/sec1-registration/sec1reg-overview/
   - infopic:
       title: Secondary One Registration
       subtitle: 2023 Secondary One Posting
