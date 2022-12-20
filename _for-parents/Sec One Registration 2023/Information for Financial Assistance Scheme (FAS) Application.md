@@ -14,4 +14,3 @@ Downloads :
 
  [MOE FAS Application Form](/files/Forparents/moe-fas-application-form-oct2022ggas.pdf)
  
- <a href="https://bendemeersec.moe.edu.sg/files/Forparents/moe-fas-application-form-oct2022ggas.pdf" target="_blank" >MOE FAS Application Form</a>
