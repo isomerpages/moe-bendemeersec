@@ -4,7 +4,6 @@ permalink: /for-parents/sec1-registration/first-day/
 description: ""
 third_nav_title: Sec One Registration 2023
 ---
-
 All students are to report to school on the first day of school which falls on Tuesday, 3rd January 2023.
 Details are as follows:
 
@@ -12,7 +11,7 @@ Details are as follows:
 
 |  |  | 
 | -------- | -------- | 
-| **Reporting Time:**     | 7.15 am     |
+| **Reporting Time:**     | 7.30 am     |
 | **Dismissal Time:** | 12:30 pm | 
 | **Attire:** | School uniform (If you are unable to purchase our school uniform in time, you may wear your Primary School Uniform for the time being) | 
 |**Things to bring**:   | Stationery, Notebook, Water Bottle, Personal Medication (if required) | 
