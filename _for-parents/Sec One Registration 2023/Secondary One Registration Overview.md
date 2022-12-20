@@ -16,7 +16,7 @@ Please read the following information on instructions for online registration, p
 
   
 
-1.  [E-Registration](/for-parents/Sec-1-Registration-2023/s1-ereg/)
+1.  [e-Registration](/for-parents/Sec-1-Registration-2023/s1-ereg/)
 2.  [First Day of School](/for-parents/sec1-registration/first-day/)
 3.  [Secondary One Meet-the-Parents](/for-parents/sec1-registration/sec1-mtp/)
 4.  [Sale of School Uniforms and Books](/for-parents/sec1-registration/sale-uniform-and-books/)
