@@ -13,7 +13,7 @@ sections:
   - hero:
       background: /images/hero-banner01s.jpg
       key_highlights:
-        - title: Secondary 1 Registration
+        - title: Secondary One Registration
           description: Click here for details
           url: https://moe-bendemeersec-staging.netlify.app/for-parents/sec1-registration/sec1reg-overview/
   - infopic:
