@@ -15,7 +15,7 @@ Details are as follows:
 | **Dismissal Time:** | 12:30 pm | 
 | **Attire:** | School uniform (If you are unable to purchase our school uniform in time, you may wear your Primary School Uniform for the time being) | 
 |**Things to bring**:   | Stationery, Notebook, Water Bottle, Personal Medication (if required) | 
-| **Reporting venue** | Respective classrooms.  (refer to map below). You may check your child's allocated class in Parents Gateway.  | 
+| **Reporting venue** | Respective classrooms.  (refer to map below)  | 
 | **Important:** |Students seeking transfer should report to their posted school on the first day and continue to attend lessons until the transfer is approved.  |
 | | |
 
