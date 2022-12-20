@@ -4,7 +4,7 @@ permalink: /for-parents/Sec-1-Registration-2023/s1-ereg/
 description: ""
 third_nav_title: Sec One Registration 2023
 ---
-### **1) E-Registration (21st Dec 2022, 9am to 26th Dec 2022, 11:59pm)**
+### **1) e-Registration (21st Dec 2022, 9am to 26th Dec 2022, 11:59pm)**
 
 All newly posted students will need to register with the school.  The online registration will open from **Wednesday, 21st December 2022, 9am** to **Monday, 26th December 2022, 11:59pm**.
 
