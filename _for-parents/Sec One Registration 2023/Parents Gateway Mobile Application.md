@@ -11,7 +11,8 @@ Access to Parents Gateway is granted to parents, legal guardians and authorised 
 Parents/Guardians who had onboarded Parents Gateway when your child/ward was in primary school do not have to download the Parents Gateway mobile app again when your child/ward progresses to secondary school.
 
 
-<!--To download the Parents Gateway mobile app:  
+<!---
+To download the Parents Gateway mobile app:  
 <br>1. Go to <a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" target="_blank" >App Store</a> (for iPhones) or <a href="https://play.google.com/store/apps/details?id=com.moe.pgp" target="_blank" >Play Store</a> (for Android phones).
 <br>2. Proceed to download and install the app.
 --!>
