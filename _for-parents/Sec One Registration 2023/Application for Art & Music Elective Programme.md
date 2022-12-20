@@ -1,15 +1,16 @@
 ---
-title: Application for Art & Music Elective Programme Centres
+title: Application for Art & Music Elective Programme
 permalink: /for-parents/sec1-registration/aepmep-centres/
 description: ""
 third_nav_title: Sec One Registration 2023
 ---
+
 If your child/ward exhibits interest, potential and passion for Art or Music, he/she can apply for Art Elective Programme (AEP) or Music Elective Programme (MEP) in the following Centres from Secondary One:
 
 * AEP: National Junior College
 * MEP: Anglo-Chinese School (Independent) or Dunman High School
 
-The online application is open from 3rd to 16th January 2023.
+The online application is open from **3rd to 16th January 2023**.
 
 Successful applicants will attend weekly lessons in the afternoon at the AEP/MEP Centre and are expected to commit to the programme for 4 years. Prior to application, interested students and their parents should work closely with us to ensure that your child/ward school timetable and commitments would allow him/her to participate fully in the AEP/MEP. 
 
