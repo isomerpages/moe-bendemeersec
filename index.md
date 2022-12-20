@@ -13,9 +13,18 @@ sections:
   - hero:
       background: /images/hero-banner01s.jpg
       key_highlights:
-        - title: Release of 'N' Levels results
+        - title: Secondary One Registration
           description: Click here for details
-          url: /announcements/n-level-results
+          url: https://moe-bendemeersec-staging.netlify.app/for-parents/sec1-registration/sec1reg-overview/
+  - infopic:
+      title: Secondary One Registration
+      subtitle: 2023 Secondary One Posting
+      description: "Please read the following information on instructions for online
+        registration, sale of books and uniforms and more. "
+      button: more info
+      url: /for-parents/sec1-registration/sec1reg-overview/
+      image: /images/Usefullinks/s1reg-infopic.jpg
+      alt: Image alt text
   - infopic:
       title: Release of N-Level Results
       button: Click here
