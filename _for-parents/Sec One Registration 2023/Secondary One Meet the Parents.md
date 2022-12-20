@@ -4,8 +4,7 @@ permalink: /for-parents/sec1-registration/sec1-mtp/
 description: ""
 third_nav_title: Sec One Registration 2023
 ---
-
-The Secondary One Meet-The-Parents Session cum CCA Orientation will be held on **Friday, 6 January 2023**, from 2:00 pm to 6:00 pm.
+The Secondary One Meet-the-Parents Session cum CCA Orientation will be held on **Friday, 6 January 2023**, from 2:00 pm to 6:00 pm.
 <br>Details are as follows:
 
 
