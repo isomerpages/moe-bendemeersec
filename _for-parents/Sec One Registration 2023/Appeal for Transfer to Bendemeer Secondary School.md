@@ -4,12 +4,10 @@ permalink: /for-parents/sec1-registration/appeal-for-transfer/
 description: ""
 third_nav_title: Sec One Registration 2023
 ---
-
-
-
 #### **Medical Appeal Exercise by MOE**
 
-For students **with serious medical conditions or severe physical impairments**, please submit your application to the General Office of Bendemeer Secondary School by **Thursday, 22nd December 2022, 12:00 pm**. 
+Requests for school transfer out of Bendemer Secondary School due to **serious medical conditions or severe physical impairments**, please submit your application to the General Office of Bendemeer Secondary School by **Thursday, 22nd December 2022, 12:00 pm**. 
+
 
 All appeals must be accompanied by relevant supporting documents, such as medical reports and letters from doctors.
 
@@ -21,4 +19,3 @@ For information on appeals for transfer for serious medical conditions, please g
 #### **Appeal for Transfer to Bendemeer Secondary School**
 
 Please complete the following form (<a href="https://go.gov.sg/transfertobdms" target="_blank" >https://go.gov.sg/transfertobdms</a>) by **Tuesday, 27th December 2022, 12:00 pm.**
-
