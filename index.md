@@ -25,10 +25,4 @@ sections:
       url: /for-parents/sec1-registration/sec1reg-overview/
       image: /images/Usefullinks/s1reg-infopic.jpg
       alt: Image alt text
-  - infopic:
-      title: Release of N-Level Results
-      button: Click here
-      url: /announcements/n-level-results
-      alt: Image alt text
-      image: /images/Announcements/announce-nlevel.png
 ---
