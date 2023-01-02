@@ -6,7 +6,7 @@ description: ""
 #### **Class timetables for Term 1  2023**
 |  |  | 
 | -------- | -------- | 
-| Secondary One |
+| Secondary One |  |
 |  [Sec 1 Care 1](/files/Forparents/Timetable/timetable-sec1care1.pdf) | [Sec 1 Care 2](/files/Forparents/Timetable/timetable-sec1care2.pdf)  |
 |  [Sec 1 Care 3](/files/Forparents/Timetable/timetable-sec1care3.pdf) | [Sec 1 Care 4](/files/Forparents/Timetable/timetable-sec1care4.pdf)  |
 |  [Sec 1 Care 5](/files/Forparents/Timetable/timetable-sec1care5.pdf) | [Sec 1 Care 6](/files/Forparents/Timetable/timetable-sec1care6.pdf)  |
@@ -18,7 +18,7 @@ description: ""
 | [Sec 2 Respect 5](/files/Forparents/Timetable/timetable-sec2respect5.pdf)| [Sec 2 Respect 6](/files/Forparents/Timetable/timetable-sec2respect6.pdf) |
 | [Sec 2 Respect 7](/files/Forparents/Timetable/timetable-sec2respect7.pdf)| [Sec 2 Respect 8](/files/Forparents/Timetable/timetable-sec2respect8.pdf) |
 | | |
-| Secondary Three
+| Secondary Three ||
 | [Sec 3 Resilience 1](/files/Forparents/Timetable/timetable-sec3resilience1.pdf) | [Sec 3 Resilience 2](/files/Forparents/Timetable/timetable-sec3resilience2.pdf) |
 | [Sec 3 Resilience 3](/files/Forparents/Timetable/timetable-sec3resilience3.pdf) | [Sec 3 Resilience 4](/files/Forparents/Timetable/timetable-sec3resilience4.pdf) |
 | [Sec 3 Resilience 5](/files/Forparents/Timetable/timetable-sec3resilience5.pdf) | [Sec 3 Resilience 6](/files/Forparents/Timetable/timetable-sec3resilience6.pdf) |
