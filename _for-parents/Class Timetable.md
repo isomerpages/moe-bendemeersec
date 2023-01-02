@@ -11,7 +11,7 @@ description: ""
 <details> 
 <summary style="color:#f8bf1c; font-size:25px;"><b>Sec 1 Timetable</b></summary>
 
-[Sec 1 Care 1](/files/Forparents/Timetable/timetable-sec1care1.pdf)
+<a href="https://bendemeersec.moe.edu.sg/files/Forparents/timetable/timetable-sec1care1.pdf">Sec 1 Care 1</a>
 
 
 
