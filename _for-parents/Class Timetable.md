@@ -12,11 +12,27 @@ description: ""
 <summary style="color:#f8bf1c; font-size:25px;"><b>Sec 1 Timetable</b></summary>
 
 <a href="https://bendemeersec.moe.edu.sg/files/Forparents/timetable/timetable-sec1care1.pdf">Sec 1 Care 1</a>
+<br>
+<a href="https://bendemeersec.moe.edu.sg/files/Forparents/timetable/timetable-sec1care2.pdf">Sec 1 Care 2</a>
+<br>
+<a href="https://bendemeersec.moe.edu.sg/files/Forparents/timetable/timetable-sec1care3.pdf">Sec 1 Care 3</a>
+<br>
+<a href="https://bendemeersec.moe.edu.sg/files/Forparents/timetable/timetable-sec1care4.pdf">Sec 1 Care 4</a>
+<br>
+<a href="https://bendemeersec.moe.edu.sg/files/Forparents/timetable/timetable-sec1care5.pdf">Sec 1 Care 5</a>
+<br>
+<br>
+
+<a href="https://bendemeersec.moe.edu.sg/files/Forparents/timetable/timetable-sec1care6.pdf">Sec 1 Care 6</a>
+<br>
 
 
+<a href="https://bendemeersec.moe.edu.sg/files/Forparents/timetable/timetable-sec1care7.pdf">Sec 1 Care 7</a>
+<br>
 
-<p>Here are some photos:<br>
-	<a href="https://issuu.com/bendemeersec/docs/try.pptx" target="_blank" >Drones Odyssey  2022</a></p>
+
+<a href="https://bendemeersec.moe.edu.sg/files/Forparents/timetable/timetable-sec1care8.pdf">Sec 1 Care 8</a>
+<br>
 
 
 </details>
