@@ -26,4 +26,8 @@ description: ""
 | [Sec 3 Resilience 9](/files/Forparents/Timetable/timetable-sec3resilience9.pdf) |  |
 |  | |
 | Secondary 4 and 5 |  |
-|  |  |
+| [Sec 4 Responsibility 1](/files/Forparents/Timetable/timetable-sec4responsibility1.pdf) | [Sec 4 Responsibility 2](/files/Forparents/Timetable/timetable-sec4responsibility2.pdf) |
+| [Sec 4 Responsibility 3](/files/Forparents/Timetable/timetable-sec4responsibility3.pdf) | [Sec 4 Responsibility 4](/files/Forparents/Timetable/timetable-sec4responsibility4.pdf) |
+| [Sec 4 Responsibility 5](/files/Forparents/Timetable/timetable-sec4responsibility5.pdf) | [Sec 4 Responsibility 6](/files/Forparents/Timetable/timetable-sec4responsibility6.pdf) |
+| [Sec 4 Responsibility 8](/files/Forparents/Timetable/timetable-sec4responsibility8.pdf) | |
+| [Sec 5 Responsibility 1](/files/Forparents/Timetable/timetable-sec5responsibility1.pdf) |  |
