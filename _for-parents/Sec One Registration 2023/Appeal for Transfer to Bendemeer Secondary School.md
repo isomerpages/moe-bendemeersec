@@ -18,4 +18,6 @@ For information on appeals for transfer for serious medical conditions, please g
 
 #### **Appeal for Transfer to Bendemeer Secondary School**
 
-Please complete the following form (<a href="https://go.gov.sg/transfertobdms" target="_blank" >https://go.gov.sg/transfertobdms</a>) by **Tuesday, 27th December 2022, 12:00 pm.**
+Please complete the following form (<a href="https://go.gov.sg/transfertobdms" target="_blank" >https://go.gov.sg/transfertobdms</a>) by **Tuesday, 27th December 2022, 12:00 pm.**    
+
+Please note that the application for appeal to Bendemeer Secondary School has closed.  
