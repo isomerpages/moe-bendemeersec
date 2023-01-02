@@ -4,6 +4,7 @@ permalink: /for-parents/class-timetable/
 description: ""
 ---
 #### **Class timetables for Term 1  2023**
+
 |  |  | 
 | -------- | -------- | 
 | Secondary One |  |
