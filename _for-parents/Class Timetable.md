@@ -21,15 +21,12 @@ description: ""
 <br>
 <a href="https://bendemeersec.moe.edu.sg/files/Forparents/timetable/timetable-sec1care5.pdf">Sec 1 Care 5</a>
 <br>
-<br>
 
 <a href="https://bendemeersec.moe.edu.sg/files/Forparents/timetable/timetable-sec1care6.pdf">Sec 1 Care 6</a>
 <br>
 
-
 <a href="https://bendemeersec.moe.edu.sg/files/Forparents/timetable/timetable-sec1care7.pdf">Sec 1 Care 7</a>
 <br>
-
 
 <a href="https://bendemeersec.moe.edu.sg/files/Forparents/timetable/timetable-sec1care8.pdf">Sec 1 Care 8</a>
 <br>
