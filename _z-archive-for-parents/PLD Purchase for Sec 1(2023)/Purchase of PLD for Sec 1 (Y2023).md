@@ -23,7 +23,8 @@ The URL to register for the online seminar is <a href="https://go.gov.sg/bdmsndl
 
  </p>
 
-<p><!----
+<!----
+
 ### Timeframe
 
 Please refer to the time frame below for the upcoming dates to note.
