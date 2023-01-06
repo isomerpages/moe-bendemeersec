@@ -96,4 +96,4 @@ Please refer to the time frame below for the upcoming dates to note.
 
 <p style="text-align:justify">The school will need to use your child’s/ward’s full name, Student MIMS account and class to set up user accounts. Schools may also choose to roll out applications other than those listed above.</p>
 
----!></p>
+-----!>
