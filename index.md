@@ -12,10 +12,15 @@ notification: ""
 sections:
   - hero:
       background: /images/hero-banner01s.jpg
-      key_highlights:
-        - title: Secondary One Registration
-          description: Click here for details
-          url: /for-parents/sec1-registration/sec1reg-overview/
+  - infopic:
+      title: Sec 1 Parent Teacher Meeting
+      subtitle: 6 January 2023
+      description: The presentation slides are available for viewing.  Please click
+        the URL for details.
+      button: View
+      url: /for-parents/sec1ptm/
+      image: /images/Home/home-sec1mtp.jpg
+      alt: Image alt text
   - infopic:
       title: Secondary One Registration
       subtitle: 2023 Secondary One Posting
