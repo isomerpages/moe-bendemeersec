@@ -19,7 +19,7 @@ sections:
         the URL for details.
       button: View
       url: /for-parents/sec1ptm/
-      image: /images/Home/home-sec1mtp.jpg
+      image: /images/Home/home-sec1ptm.png
       alt: Image alt text
   - infopic:
       title: Secondary One Registration
