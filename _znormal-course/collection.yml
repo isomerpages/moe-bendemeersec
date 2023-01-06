@@ -2,5 +2,6 @@ collections:
   znormal-course:
     output: true
     order:
+      - Purchase of PLD for Sec 1 (Y2022).md
       - Elective Modules.md
       - Normal Course.md
