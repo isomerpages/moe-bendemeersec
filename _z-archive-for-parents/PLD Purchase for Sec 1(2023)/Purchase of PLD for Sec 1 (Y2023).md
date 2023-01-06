@@ -6,7 +6,7 @@ third_nav_title: PLD Purchase for Sec 1(2023)
 ---
 ### Sec 1 Parent’s Engagement Session
 
-<p style="text-align:justify">In January (2022), Sec 1 parents/guardians will receive a letter from the school via Parents Gateway or hardcopy with details about the Personal Learning Device (PLD) initiative.  The letter will contain information about: </p>
+<p style="text-align:justify">Sec 1 parents/guardians would have received a letter from the school via Parents Gateway or hardcopy with details about the Personal Learning Device (PLD) initiative.  The letter will contain information about: </p>
 	
 * <p style="text-align:justify">PLD bundle and Financial assistance</p>
 * <p style="text-align:justify">Software IT Applications</p>
