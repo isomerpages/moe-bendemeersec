@@ -2,8 +2,8 @@
 title: Purchase of PLD for Sec 1 (Y2022)
 permalink: /key-programmes/ndlp/purchase1pld/
 description: ""
-third_nav_title: National Digital Literacy
 ---
+
 ### Sec 1 Parent’s Engagement Session
 
 <p style="text-align:justify">In January (2022), Sec 1 parents/guardians will receive a letter from the school via Parents Gateway or hardcopy with details about the PLD initiative.  The letter will contain information about: </p>

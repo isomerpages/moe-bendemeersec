@@ -4,32 +4,10 @@ permalink: /key-programmes/ndlp/dma/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-#### Selecting After-School DMA Options for PLDs
-
-<p style="text-align:justify">For parents/guardians who prefer alternative DMA settings after school hours, they can choose from the following options:</p>
-
-* <p style="text-align:justify">Option A: Parents can modify DMA settings after school hours</p>
-* <p style="text-align:justify">Option B: Parents can disable the DMA after school hours.</p>
-
-<p style="text-align:justify">Please submit your options using the online DMA option form below - <br></p>
- 
- <p style="text-align:center"><a href="https://go.gov.sg/bdms-dmaoptions">https://go.gov.sg/bdms-dmaoptions</a></p>
-
-  
-<p style="text-align:justify">Please note that the system will be updated on every 15th of the following month.   <br><br>
-More details of the Functions and DMA settings can be found below.  </p>
-
-
 #### Functions of the DMA
 
-<p style="text-align:justify">A Device Management Application (“DMA”) will come pre-installed on all PLDs purchased through the school, and will be installed on all student-owned devices subject to parental/guardian consent. The DMA has 3 main components which will support the use of the PLD in the classroom and safeguard students’ cyber wellness:  </p>
+<p style="text-align:justify">A Device Management Application (“DMA”) will come pre-installed on all PLDs purchased through the school, and will be installed on all student-owned devices subject to parental/guardian consent.   </p>
 
-
-<p style="text-align:justify">(a)  <b>Mobile Device Management Service.</b> This facilitates the updating and managing of the PLD, protects the PLD from malicious software, and protects students from objectionable internet content.  </p>
-  
-<p style="text-align:justify">(b) <b>Classroom Management Service.</b> This enables teachers to manage the students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning.  </p>
-  
-<p style="text-align:justify">(c) <b>Usage Management Service.</b> This enables the school and/or parents/guardians to better supervise and set helpful limits for students’ use of PLD after school.</p>
 
 <br>
 
@@ -132,3 +110,18 @@ More details of the Functions and DMA settings can be found below.  </p>
 </tbody>
 </table>
 <br>
+
+#### Selecting After-School DMA Options for PLDs
+
+<p style="text-align:justify">For parents/guardians who prefer alternative DMA settings after school hours, they can choose from the following options:</p>
+
+* <p style="text-align:justify">Option A: Parents can modify DMA settings after school hours</p>
+* <p style="text-align:justify">Option B: Parents can disable the DMA after school hours.</p>
+
+<p style="text-align:justify">Please submit your options using the online DMA option form below - <br></p>
+ 
+ <p style="text-align:center"><a href="https://go.gov.sg/bdms-dmaoptions">https://go.gov.sg/bdms-dmaoptions</a></p>
+
+  
+<p style="text-align:justify">Please note that the system will be updated on every 15th of the following month.   <br><br>
+More details of the Functions and DMA settings can be found below.  </p>
