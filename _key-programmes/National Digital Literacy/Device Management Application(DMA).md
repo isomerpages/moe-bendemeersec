@@ -4,22 +4,6 @@ permalink: /key-programmes/ndlp/dma/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-#### Selecting After-School DMA Options for PLDs
-
-<p style="text-align:justify">For parents/guardians who prefer alternative DMA settings after school hours, they can choose from the following options:</p>
-
-* <p style="text-align:justify">Option A: Parents can modify DMA settings after school hours</p>
-* <p style="text-align:justify">Option B: Parents can disable the DMA after school hours.</p>
-
-<p style="text-align:justify">Please submit your options using the online DMA option form below - <br></p>
- 
- <p style="text-align:center"><a href="https://go.gov.sg/bdms-dmaoptions">https://go.gov.sg/bdms-dmaoptions</a></p>
-
-  
-<p style="text-align:justify">Please note that the system will be updated on every 15th of the following month.   <br><br>
-More details of the Functions and DMA settings can be found below.  </p>
-
-
 #### Functions of the DMA
 
 <p style="text-align:justify">A Device Management Application (“DMA”) will come pre-installed on all PLDs purchased through the school, and will be installed on all student-owned devices subject to parental/guardian consent.   </p>
@@ -126,3 +110,18 @@ More details of the Functions and DMA settings can be found below.  </p>
 </tbody>
 </table>
 <br>
+
+#### Selecting After-School DMA Options for PLDs
+
+<p style="text-align:justify">For parents/guardians who prefer alternative DMA settings after school hours, they can choose from the following options:</p>
+
+* <p style="text-align:justify">Option A: Parents can modify DMA settings after school hours</p>
+* <p style="text-align:justify">Option B: Parents can disable the DMA after school hours.</p>
+
+<p style="text-align:justify">Please submit your options using the online DMA option form below - <br></p>
+ 
+ <p style="text-align:center"><a href="https://go.gov.sg/bdms-dmaoptions">https://go.gov.sg/bdms-dmaoptions</a></p>
+
+  
+<p style="text-align:justify">Please note that the system will be updated on every 15th of the following month.   <br><br>
+More details of the Functions and DMA settings can be found below.  </p>
