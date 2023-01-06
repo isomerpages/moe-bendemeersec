@@ -4,7 +4,6 @@ permalink: /key-programmes/ndlp/purchasepld/
 description: ""
 third_nav_title: PLD Purchase for Sec 1(2023)
 ---
-
 ### Sec 1 Parent’s Engagement Session
 
 <p style="text-align:justify">Sec 1 parents/guardians would have received a letter from the school via Parents Gateway or hardcopy with details about the Personal Learning Device (PLD) initiative.  The letter will contain information about: </p>
@@ -24,7 +23,7 @@ The URL to register for the online seminar is <a href="https://go.gov.sg/bdmsndl
 
  </p>
 
-<!----
+<p><!----
 ### Timeframe
 
 Please refer to the time frame below for the upcoming dates to note.
@@ -97,4 +96,4 @@ Please refer to the time frame below for the upcoming dates to note.
 
 <p style="text-align:justify">The school will need to use your child’s/ward’s full name, Student MIMS account and class to set up user accounts. Schools may also choose to roll out applications other than those listed above.</p>
 
----!>
+---!></p>
