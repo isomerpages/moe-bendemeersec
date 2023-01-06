@@ -4,32 +4,26 @@ permalink: /key-programmes/ndlp/purchasepld/
 description: ""
 third_nav_title: PLD Purchase for Sec 1(2023)
 ---
-
-
-
 ### Sec 1 Parent’s Engagement Session
 
-<p style="text-align:justify">In January (2022), Sec 1 parents/guardians will receive a letter from the school via Parents Gateway or hardcopy with details about the PLD initiative.  The letter will contain information about: </p>
+<p style="text-align:justify">In January (2022), Sec 1 parents/guardians will receive a letter from the school via Parents Gateway or hardcopy with details about the Personal Learning Device (PLD) initiative.  The letter will contain information about: </p>
 	
-* <p style="text-align:justify">Procurement details (e.g. Device bundle, Bulk Tender Terms and conditions)</p>
-* <p style="text-align:justify">Device Management Application</p>
-* <p style="text-align:justify">Finance Matters (Use of Edusave and Financial Assistance)</p>
-* <p style="text-align:justify">Roll out of IT Applications</p>
-* <p style="text-align:justify">Next Steps (Forms for Intent to Purchase, Edusave Form and Authorisation Form)</p>
+* <p style="text-align:justify">PLD bundle and Financial assistance</p>
+* <p style="text-align:justify">Software IT Applications</p>
+* <p style="text-align:justify">Device Management Application and Cyber wellness</p>
+* <p style="text-align:justify">Submission of Forms for Intent to Purchase</p>
 
-<p style="text-align:justify">We will be organising a briefing that will be conducted over the Internet to explain the details. explain the details of the upcoming NDLP and at the same time clarify any questions that parents might have.  Parents do not need to come to school for the briefing. </p>
+<p style="text-align:justify">We have organized 2 sessions of online seminar on Wednesday, 11 January 2023, via Zoom to explain the details of the upcoming programme and clarify any questions that parents might have. Each family should register for one of the online seminars. </p>
 
-<p style="text-align:justify">We have organised 3 sessions, each family only need to register for one of the following webinars: </p>
-Session 1: Thursday, 13 Jan 2022, 3.30pm - 5pm <br> 
-Session 2: Thursday, 13 Jan 2022, 5.30pm - 7pm  <br>
-Session 3: Friday, 14 Jan 2022, 3.30pm - 5pm 
+Session 1:  Wednesday, 11 January 2023, 12 noon to 1 pm <br>
+Session 2:  Wednesday, 11 January 2023, 4.30 pm to 5.30 pm <br>
 
-<p style="text-align:justify">By clicking on the following URL, you will be brought to the zoom.us (<a href="https://zoom.us/">https://zoom.us</a>) website. Please fill in the required information, choose the briefing you want to attend and provide a working email address. Details of the webinar will then be emailed to you. Your child may register on your behalf. </p>
+<p style="text-align:justify">
+The URL to register for the online seminar is <a href="https://go.gov.sg/bdmsndlpweb" target="_blank" > https://go.gov.sg/bdmsndlpweb</a>. Please fill in the required information. Details of the online seminar will be emailed to you upon successful registration. 
 
-Click on this URL [here](https://moe-singapore.zoom.us/webinar/register/WN_4k3jdrhUSoi_by8ZQJx5AA) or scan the QR Code below to register for the online seminar: 
+ </p>
 
-<img src="/images/Keyprogrammes/Ndlp/bdmsndlpweb-276x300.jpeg" alt="QR Code for NDLP" style="width:300px" />
-
+<!----
 ### Timeframe
 
 Please refer to the time frame below for the upcoming dates to note.
@@ -101,3 +95,5 @@ Please refer to the time frame below for the upcoming dates to note.
 * <p style="text-align:justify">(c)   <b>Zoom</b>: Every secondary school student will be given a Zoom free account with 40 min time limit for their video conferencing needs. </p>
 
 <p style="text-align:justify">The school will need to use your child’s/ward’s full name, Student MIMS account and class to set up user accounts. Schools may also choose to roll out applications other than those listed above.</p>
+
+---!>
