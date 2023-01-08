@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Sec One Registration 2023/Sec 1 Orientation and Meet The Parents.md
       - Sec One Registration 2023/.keep
       - Sec One Registration 2023/Secondary One Registration Overview.md
       - Sec One Registration 2023/eRegistration.md
