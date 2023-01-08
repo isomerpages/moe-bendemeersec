@@ -12,6 +12,10 @@ notification: ""
 sections:
   - hero:
       background: /images/hero-banner01s.jpg
+      key_highlights:
+        - title: Online seminary for PLD (Secondary One)
+          description: Click for details
+          url: /key-programmes/ndlp/purchasepld/
   - infopic:
       title: Sec 1 Parent Teacher Meeting
       subtitle: 6 January 2023
