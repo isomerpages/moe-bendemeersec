@@ -22,7 +22,7 @@ sections:
       description: The presentation slides are available for viewing.  Please click
         the URL for details.
       button: View
-      url: /for-parents/sec1ptm/
+      url: /for-parents/sec1-registration/sec1ptm/
       image: /images/Home/home-sec1ptm.png
       alt: Image alt text
   - infopic:
