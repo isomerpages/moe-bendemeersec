@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - National Digital Literacy/Purchase of PLD for Sec 1 (Y2023).md
       - National Digital Literacy/.keep
       - National Digital Literacy/NDLP Overview.md
       - National Digital Literacy/Device info Kit for Lenovo 500e.md
