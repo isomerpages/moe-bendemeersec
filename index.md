@@ -19,8 +19,7 @@ sections:
   - infopic:
       title: Sec 1 Parent Teacher Meeting
       subtitle: 6 January 2023
-      description: The presentation slides are available for viewing.  Please click
-        the URL for details.
+      description: The presentation slides will be available soon.  Please check back later.
       button: View
       url: /for-parents/sec1-registration/sec1ptm/
       image: /images/Home/home-sec1ptm.png
