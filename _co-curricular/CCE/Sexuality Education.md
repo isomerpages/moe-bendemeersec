@@ -24,15 +24,15 @@ third_nav_title: CCE
 <p style="text-align:justify">(iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 
 
-You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.
+You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
-### OVERVIEW OF BENDEMEER SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2022
+### OVERVIEW OF BENDEMEER SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023
 
 <!--
 4.   Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
 -->
 
-<p style="text-align:justify">4.   Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach">here</a> for more information on the scope of Sexuality Education in the school curriculum.</p>
+<p style="text-align:justify">4.   Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.</p>
 
 5.   The subjects that incorporate topics on sexuality include: <br>
 	a. Science <br>
@@ -44,19 +44,18 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 
 <p style="text-align:justify">7.   Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.</p>
 
-**At BENDEMEER Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2022:**
+**At BENDEMEER Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2023:**
 
-[Secondary 1](/files/Departments/cce-sep-lesson-sec1.pdf) – [Secondary 2](/files/Departments/cce-sep-lesson-sec2.pdf) – [Secondary 3](/files/Departments/cce-sep-lesson-sec3.pdf) – [Secondary 4](/files/Departments/cce-sep-lesson-sec4.pdf) – [Secondary 5](/files/Departments/cce-sep-lesson-sec5.pdf) 
-
+[Secondary 1](/files/Departments/cce-sexualityedu-lesson-sec1.pdf) – [Secondary 2](/files/Departments/cce-sexualityedu-lesson-sec2.pdf) – [Secondary 3](/files/Departments/cce-sexualityedu-lesson-sec3.pdf) – [Secondary 4](/files/Departments/cce-sexualityedu-lesson-sec4.pdf) – [Secondary 5](/files/Departments/cce-sexualityedu-lesson-sec5.pdf) 
 
 
 #### eTeens Programme:
 
-<p style="text-align:justify">8.   eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.</p>
+<p style="text-align:justify">8.   <i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective.  <i>eTeens</i> is conducted in two segments – a mass talk segment and a classroom-based programme.</p>
 
-<p style="text-align:justify">9.   Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</p>
+<p style="text-align:justify">9.   Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the <i>eTeens</i> programme is that students are empowered to make wise, informed and sensible decisions.</p>
 
-**At Bendemeer Secondary School, the eTeens programme will be implemented as follows in 2022:**
+**At Bendemeer Secondary School, the *eTeens* programme will be implemented as follows in 2023:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -82,34 +81,25 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
   <tr>
     <td class="tg-zr06">Mass Talk by HPB appointed vendor<br></td>
     <td class="tg-ktyi"><span style="background-color:initial">- Awareness of the different STIs and HIV/AIDS</span><br><span style="background-color:initial">- Modes of transmission</span><br><span style="background-color:initial">- Modes of protection, specifically on how the condom is used</span><br><span style="background-color:initial">- Consequences and impact of STIs/HIV</span></td>
-    <td class="tg-f4yw">Term 2 Week 4<br></td>
+    <td class="tg-f4yw">Term 2 Week 5<br></td>
   </tr>
   <tr>
     <td class="tg-zr06">Classroom-based Lesson<br></td>
     <td class="tg-ktyi">- Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
-    <td class="tg-f4yw">Term 3 Week 10</td>
+    <td class="tg-f4yw">Term 2 Week 7</td>
   </tr>
 </tbody>
 </table>
 
 ### INFORMATION FOR PARENTS
 
-<p style="text-align:justify">10.   Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
+<p style="text-align:justify">10.   Parents may opt their children out of the Sexuality Education lessons,  <i>eTeens</i> and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
 
-<!--
-11.   Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Departments/cce-sep-AnnexA-optout.pdf)). The completed form is to be submitted by 7 Feb 2022.
--->
+<p style="text-align:justify">11.   Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Departments/cce-sexualityedu-annexa-optout.pdf">here</a>. The completed form is to be submitted by 31 Jan 2023.</p>
 
-<p style="text-align:justify">11.   Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Departments/cce-sep-AnnexA-optout.pdf">here</a>. The completed form is to be submitted by 7 Feb 2022.</p>
-
-<!--
-12.   Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Departments/cce-sep-AnnexB-eTeen.pdf).  The completed form is to be submitted by 7 Feb 2022.
--->
-
-<p style="text-align:justify">12.   Parents who wish to opt their children out of the <b>eTeens programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable  <a href="/files/Departments/cce-sep-AnnexB-eTeen.pdf">here</a>.  The completed form is to be submitted by 7 Feb 2022.</p>
+<p style="text-align:justify">12.   Parents who wish to opt their children out of the <b><i>eTeens</i> programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable  <a href="/files/Departments/cce-sexualityedu-annexb-optout.pdf">here</a>.  The completed form is to be submitted by 31 Jan 2023.</p>
 
 <p style="text-align:justify">13.   Parents can contact the school at 62927616 for discussion or to seek clarification about the school’s sexuality education programme.</p>
 
-<p style="text-align:justify">14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
 
-![Letter](/images/Departments/cce-sep-p-letter.jpg)
+![Letter to Parents](/images/Departments/cce-sep-lettertoparents2.jpg)
