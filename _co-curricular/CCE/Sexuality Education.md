@@ -81,31 +81,23 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
   <tr>
     <td class="tg-zr06">Mass Talk by HPB appointed vendor<br></td>
     <td class="tg-ktyi"><span style="background-color:initial">- Awareness of the different STIs and HIV/AIDS</span><br><span style="background-color:initial">- Modes of transmission</span><br><span style="background-color:initial">- Modes of protection, specifically on how the condom is used</span><br><span style="background-color:initial">- Consequences and impact of STIs/HIV</span></td>
-    <td class="tg-f4yw">Term 2 Week 4<br></td>
+    <td class="tg-f4yw">Term 2 Week 5<br></td>
   </tr>
   <tr>
     <td class="tg-zr06">Classroom-based Lesson<br></td>
     <td class="tg-ktyi">- Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
-    <td class="tg-f4yw">Term 3 Week 10</td>
+    <td class="tg-f4yw">Term 2 Week 7</td>
   </tr>
 </tbody>
 </table>
 
 ### INFORMATION FOR PARENTS
 
-<p style="text-align:justify">10.   Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
-
-<!--
-11.   Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Departments/cce-sep-AnnexA-optout.pdf)). The completed form is to be submitted by 7 Feb 2022.
--->
+<p style="text-align:justify">10.   Parents may opt their children out of the Sexuality Education lessons,  <i>eTeens</i> and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
 
 <p style="text-align:justify">11.   Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Departments/cce-sexualityedu-annexa-optout.pdf">here</a>. The completed form is to be submitted by 7 Feb 2022.</p>
 
-<!--
-12.   Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Departments/cce-sep-AnnexB-eTeen.pdf).  The completed form is to be submitted by 7 Feb 2022.
--->
-
-<p style="text-align:justify">12.   Parents who wish to opt their children out of the <b>eTeens programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable  <a href="/files/Departments/cce-sexualityedu-annexb-optout.pdf">here</a>.  The completed form is to be submitted by 7 Feb 2022.</p>
+<p style="text-align:justify">12.   Parents who wish to opt their children out of the <b><i>eTeens</i> programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable  <a href="/files/Departments/cce-sexualityedu-annexb-optout.pdf">here</a>.  The completed form is to be submitted by 7 Feb 2022.</p>
 
 <p style="text-align:justify">13.   Parents can contact the school at 62927616 for discussion or to seek clarification about the school’s sexuality education programme.</p>
 
