@@ -95,12 +95,11 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 <p style="text-align:justify">10.   Parents may opt their children out of the Sexuality Education lessons,  <i>eTeens</i> and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
 
-<p style="text-align:justify">11.   Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Departments/cce-sexualityedu-annexa-optout.pdf">here</a>. The completed form is to be submitted by 7 Feb 2022.</p>
+<p style="text-align:justify">11.   Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Departments/cce-sexualityedu-annexa-optout.pdf">here</a>. The completed form is to be submitted by 31 Jan 2023.</p>
 
-<p style="text-align:justify">12.   Parents who wish to opt their children out of the <b><i>eTeens</i> programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable  <a href="/files/Departments/cce-sexualityedu-annexb-optout.pdf">here</a>.  The completed form is to be submitted by 7 Feb 2022.</p>
+<p style="text-align:justify">12.   Parents who wish to opt their children out of the <b><i>eTeens</i> programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable  <a href="/files/Departments/cce-sexualityedu-annexb-optout.pdf">here</a>.  The completed form is to be submitted by 31 Jan 2023.</p>
 
 <p style="text-align:justify">13.   Parents can contact the school at 62927616 for discussion or to seek clarification about the school’s sexuality education programme.</p>
 
-<p style="text-align:justify">14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
 
 ![Letter to Parents](/images/Departments/cce-sep-lettertoparents2.jpg)
