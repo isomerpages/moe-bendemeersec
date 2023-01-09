@@ -46,8 +46,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 
 **At BENDEMEER Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2022:**
 
-[Secondary 1](/files/Departments/cce-sep-lesson-sec1.pdf) – [Secondary 2](/files/Departments/cce-sep-lesson-sec2.pdf) – [Secondary 3](/files/Departments/cce-sep-lesson-sec3.pdf) – [Secondary 4](/files/Departments/cce-sep-lesson-sec4.pdf) – [Secondary 5](/files/Departments/cce-sep-lesson-sec5.pdf) 
-
+[Secondary 1](/files/Departments/cce-sexualityedu-lesson-sec1.pdf) – [Secondary 2](/files/Departments/cce-sexualityedu-lesson-sec2.pdf) – [Secondary 3](/files/Departments/cce-sexualityedu-lesson-sec3.pdf) – [Secondary 4](/files/Departments/cce-sexualityedu-lesson-sec4.pdf) – [Secondary 5](/files/Departments/cce-sexualityedu-lesson-sec5.pdf) 
 
 
 #### eTeens Programme:
@@ -100,16 +99,17 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 11.   Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Departments/cce-sep-AnnexA-optout.pdf)). The completed form is to be submitted by 7 Feb 2022.
 -->
 
-<p style="text-align:justify">11.   Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Departments/cce-sep-AnnexA-optout.pdf">here</a>. The completed form is to be submitted by 7 Feb 2022.</p>
+<p style="text-align:justify">11.   Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Departments/cce-sexualityedu-annexa-optout.pdf">here</a>. The completed form is to be submitted by 7 Feb 2022.</p>
 
 <!--
 12.   Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Departments/cce-sep-AnnexB-eTeen.pdf).  The completed form is to be submitted by 7 Feb 2022.
 -->
 
-<p style="text-align:justify">12.   Parents who wish to opt their children out of the <b>eTeens programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable  <a href="/files/Departments/cce-sep-AnnexB-eTeen.pdf">here</a>.  The completed form is to be submitted by 7 Feb 2022.</p>
+<p style="text-align:justify">12.   Parents who wish to opt their children out of the <b>eTeens programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable  <a href="/files/Departments/cce-sexualityedu-annexb-optout.pdf">here</a>.  The completed form is to be submitted by 7 Feb 2022.</p>
 
 <p style="text-align:justify">13.   Parents can contact the school at 62927616 for discussion or to seek clarification about the school’s sexuality education programme.</p>
 
 <p style="text-align:justify">14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
 
-![Letter](/images/Departments/cce-sep-p-letter.jpg)
+![page1](/images/Departments/cce-sep-lettertoparents-pg1.jpg)
+![page2](/images/Departments/cce-sep-lettertoparents-pg2.jpg)
