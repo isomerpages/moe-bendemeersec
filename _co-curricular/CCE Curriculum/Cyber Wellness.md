@@ -2,8 +2,9 @@
 title: Cyber Wellness
 permalink: /departments/cce/cyber-wellness/
 description: ""
-third_nav_title: CCE
+third_nav_title: CCE Curriculum
 ---
+
 
 
 <p style="text-align:justify">Our Cyber Wellness programme is guided by MOE’s Cyber Wellness Framework which focuses on the Sense-Think-Act Process.</p>

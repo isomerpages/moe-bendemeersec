@@ -2,8 +2,9 @@
 title: Career Guidance
 permalink: /departments/cce/career-guidance/
 description: ""
-third_nav_title: CCE
+third_nav_title: CCE Curriculum
 ---
+
 <style>
 .google-slides-container{ position: relative; width: 100%; padding-top: 72%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 </style>

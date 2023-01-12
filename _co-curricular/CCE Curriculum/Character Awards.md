@@ -2,8 +2,9 @@
 title: Character Awards
 permalink: /departments/cce/character-awards/
 description: ""
-third_nav_title: CCE
+third_nav_title: CCE Curriculum
 ---
+
 
 ### The Model Bendemeerian
 

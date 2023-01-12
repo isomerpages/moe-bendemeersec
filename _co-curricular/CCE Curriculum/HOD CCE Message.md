@@ -2,8 +2,9 @@
 title: HOD CCE Message
 permalink: /departments/cce/cce-hod-msg/
 description: ""
-third_nav_title: CCE
+third_nav_title: CCE Curriculum
 ---
+
 #### HOD's Message
 <p style="float:left; margin: 0 10px 0px 0">  
 <img src="/images/Departments/cce-hod.jpg" alt="HOD CCE" style="width:300px" /></p>  
