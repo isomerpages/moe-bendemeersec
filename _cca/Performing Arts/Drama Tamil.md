@@ -6,6 +6,7 @@ third_nav_title: Performing Arts
 ---
 |  **Teachers-in-Charge:** | Ms Achaiya Gunasekaran(I/C) | 
 | -------- | -------- |
+|  | Ms Ponmozhi D/O Sembian |
 | **Advisor:** | Mr G Murugan |
 |**Chairperson:** |  Balamurugan Vicknesh (3R2) |
 |**Vice-Chairpersons:** |  Jasrah D/O Abdul Rahim (3R3)  |
