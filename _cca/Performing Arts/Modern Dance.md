@@ -7,7 +7,7 @@ third_nav_title: Performing Arts
 |  **Teachers-in-Charge:** | Mdm Noor Aisyah(I/C) | 
 | -------- | -------- |
 |  | Ms Kelly Lee(2I/C) |
-|  |  Mr Tan Hai Seng|
+|  |  Mdm Waheeda Bte Mohammad|
 |**Instructor:** | Mr Khye Loh|
 |**President:** |  Tan Zhi Ning (4R6) |
 |**Vice-President:** |  Gurpal Singh Saini (4R5)    |
