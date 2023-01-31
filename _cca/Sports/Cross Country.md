@@ -7,6 +7,7 @@ third_nav_title: Sports
 |  **Teachers-in-Charge:** | Mrs Charmaine Tan (I/C) | 
 | -------- | -------- |
 |  | Mr Daryl Toy (2I/C) |
+|  |Mrs Yap BH |
 |**Coach:** | Mr S Pandian|
 |**Captains:** | Chua Yong Jin (4R2) |
 |**Vice-Captains:** |  Yeo Daxson (4R2)     |
