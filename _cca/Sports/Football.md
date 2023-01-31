@@ -4,9 +4,9 @@ permalink: /cca/sports/football/
 description: ""
 third_nav_title: Sports
 ---
-|  **Teachers-in-Charge:** | Mr Kenneth Goh(I/C) | 
+|  **Teachers-in-Charge:** | Mr Kenneth Goh (I/C) | 
 | -------- | -------- |
-|  | Ms Shamini Subramaniam(2I/C) |
+|  | Ms Shamini Subramaniam (2I/C) |
 |  | Ms Hu Wen-Tian Wendy |
 |  | Mr Fahmy Bin Sidek |
 |**Coach:** |Bah Mamadou |
