@@ -6,6 +6,7 @@ description: ""
 |  **Teachers-in-Charge:** | Mr Glenn Yeong Zhen Pang (I/C) | 
 | -------- | -------- |
 | |Miss Denise Fung Xin Hui (2I/C) |
+| |Mdm Nasyitah Binte Abu Bakar |
 |**President:** | Thirunesh Gandhi |
 |**Vice-Presidents:** |Ace Tan |
 | |Charmaine Ng Xuan Min |
@@ -60,5 +61,3 @@ description: ""
 ##### **Recap of events organised by the Student Council**
 
 The Student Council organised several events this year.  Click to see a recap of these events <a href="https://issuu.com/bendemeersec/docs/bdms_2022_e-o-y_recap?fr=sM2ZhMjU0MjE3MTM" target="\_blank" rel="noopener">here</a>.
-
-
