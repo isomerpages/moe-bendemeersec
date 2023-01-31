@@ -8,7 +8,7 @@ third_nav_title: Performing Arts
 | -------- | -------- |
 |  | Mdm Lim Ying Shung (2I/C) |
 |  | Ms Ng Qian Hui |
-|  | Ms Ivy Lim Gek Hoon |
+|  | Mrs Ivy Lim Gek Hoon |
 |**Instructors:** | Mr Joseph Teo|
 |  | Mr Alvin Quek |
 |**Band Majors:** |  Jesse Ng Ren Jie (4R3)  |
