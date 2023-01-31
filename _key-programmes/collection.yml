@@ -2,18 +2,18 @@ collections:
   key-programmes:
     output: true
     order:
-      - National Digital Literacy/Purchase of PLD for Sec 1 (Y2023).md
-      - National Digital Literacy/.keep
-      - National Digital Literacy/NDLP Overview.md
-      - National Digital Literacy/Device info Kit for Lenovo 500e.md
-      - National Digital Literacy/Device Info Kit for Acer R752TN.md
-      - National Digital Literacy/Cyber Security and Cyber wellness.md
-      - National Digital Literacy/Device Management Application(DMA).md
-      - National Digital Literacy/Resources for Parents.md
-      - National Digital Literacy/Use of PLD in school.md
-      - National Digital Literacy/Acceptable Use Policy.md
-      - National Digital Literacy/School based Help Desk.md
-      - National Digital Literacy/Frequently Asked Questions.md
+      - National Digital Literacy Prog/Purchase of PLD for Sec 1 (Y2023).md
+      - National Digital Literacy Prog/.keep
+      - National Digital Literacy Prog/NDLP Overview.md
+      - National Digital Literacy Prog/Device info Kit for Lenovo 500e.md
+      - National Digital Literacy Prog/Device Info Kit for Acer R752TN.md
+      - National Digital Literacy Prog/Cyber Security and Cyber wellness.md
+      - National Digital Literacy Prog/Device Management Application(DMA).md
+      - National Digital Literacy Prog/Resources for Parents.md
+      - National Digital Literacy Prog/Use of PLD in school.md
+      - National Digital Literacy Prog/Acceptable Use Policy.md
+      - National Digital Literacy Prog/School based Help Desk.md
+      - National Digital Literacy Prog/Frequently Asked Questions.md
       - Learning for Life Programme/.keep
       - Learning for Life Programme/LLP Overview.md
       - Learning for Life Programme/LLP  Secondary 1.md
