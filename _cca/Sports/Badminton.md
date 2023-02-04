@@ -4,9 +4,9 @@ permalink: /cca/sports/badminton/
 description: ""
 third_nav_title: Sports
 ---
-|  **Teachers-in-Charge:** | Mr Manoj Kumar Dave(I/C) | 
+|  **Teachers-in-Charge:** | Mr Manoj Kumar Dave (I/C) | 
 | -------- | -------- |
-|  | Mr Wong Chee Seng(2I/C) |
+|  | Mr Wong Chee Seng (2I/C) |
 |**Captain:** |  Tan Jing Ren, Mattias (4R2) |
 |**Vice-Captains:** |  Ng Choon Lin (3R3)   |
 |  |  |

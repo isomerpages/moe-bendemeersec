@@ -7,7 +7,6 @@ third_nav_title: Uniformed Groups
 |**Teachers-in-Charge:**| A/ASP (NPCC) Ms Sabrina Wee (OC)   |
 |---|---|
 |  |  ASP (NPCC) Mr Oh Tze Ming (2I/C)  |
-|  | ASP (NPCC) Mr Michael Lee   |
 | **SPF-NPCC Award Recipients 2021** | SARAH ZOE SUNG (4R1)  |
 |  |  JUNETTE ONG JING QING (4R2) |
 |**Best Unit Cadet**  |  CATHERINE LIM MEI NA (4R2) |

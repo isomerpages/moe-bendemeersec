@@ -2,8 +2,9 @@
 title: Device Management Application(DMA)
 permalink: /key-programmes/ndlp/dma/
 description: ""
-third_nav_title: National Digital Literacy
+third_nav_title: National Digital Literacy Prog
 ---
+
 #### Functions of the DMA
 
 <p style="text-align:justify">A Device Management Application (“DMA”) will come pre-installed on all PLDs purchased through the school, and will be installed on all student-owned devices subject to parental/guardian consent.   </p>

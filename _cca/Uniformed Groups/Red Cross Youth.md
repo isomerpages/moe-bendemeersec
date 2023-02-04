@@ -8,7 +8,6 @@ third_nav_title: Uniformed Groups
 | -------- | -------- |
 |  | Mr Ng Jan Ile (2I/C) |
 |  |  Ms Toh Yen Nee |
-|  | Ms Vimala Selvarasu|
 |  **Advisor:** | Ms Ramamdevi  |
 |**Volunteer Instructor:** | Ms Wang Yu Qing|
 |**RCY Chairpersons:** |  Neo Hui En Rachael (4R3) |

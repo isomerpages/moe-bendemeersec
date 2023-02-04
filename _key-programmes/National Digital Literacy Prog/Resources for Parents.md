@@ -2,8 +2,9 @@
 title: Resources for Parents
 permalink: /key-programmes/ndlp/parents-resource/
 description: ""
-third_nav_title: National Digital Literacy
+third_nav_title: National Digital Literacy Prog
 ---
+
 Resources for parents and students are available in the table below.
 
 

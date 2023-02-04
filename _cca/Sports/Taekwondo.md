@@ -6,7 +6,8 @@ third_nav_title: Sports
 ---
 |  **Teachers-in-Charge:** | Mrs Chin Chen Han (I/C) | 
 | -------- | -------- |
-| |Ms Shen May Ling (2I/C) |
+| |Mr Tan Hai Seng (2I/C) |
+| |Mdm Karamjit Kaur |
 |**Coach:** | Mrs Rosalind Chow|
 |**Captains:** |Evelyn Angelina (outgoing) |
 | |Kok Zi Ying (incoming) |

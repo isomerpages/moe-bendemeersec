@@ -2,8 +2,9 @@
 title: Device info Kit for Lenovo 500e
 permalink: /key-programmes/ndlp/dik-lenovo-500e/
 description: ""
-third_nav_title: National Digital Literacy
+third_nav_title: National Digital Literacy Prog
 ---
+
 ### School-Based Help Desk
 <p style="text-align:justify">The ICT Department will provide technical support to students.    This is part of our efforts to ensure that there is minimum disruption to students’ learning.  </p>
 

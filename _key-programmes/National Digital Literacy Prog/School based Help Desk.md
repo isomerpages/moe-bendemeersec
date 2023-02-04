@@ -2,8 +2,9 @@
 title: School based Help Desk
 permalink: /key-programmes/ndlp/ict-helpdesk/
 description: ""
-third_nav_title: National Digital Literacy
+third_nav_title: National Digital Literacy Prog
 ---
+
 
 
 <p style="text-align:justify">As part of our efforts to ensure minimum disruption to students’ learning,  The ICT Department will provide technical support (including password reset) to students. </p>

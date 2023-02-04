@@ -2,8 +2,9 @@
 title: Cyber Security and Cyber wellness
 permalink: /key-programmes/ndlp/cyberwellness/
 description: ""
-third_nav_title: National Digital Literacy
+third_nav_title: National Digital Literacy Prog
 ---
+
 
 
 ### Cyber Security

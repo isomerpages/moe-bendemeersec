@@ -2,23 +2,18 @@
 title: Purchase of PLD for Sec 1 (Y2023)
 permalink: /key-programmes/ndlp/purchasepld/
 description: ""
-third_nav_title: National Digital Literacy
+third_nav_title: National Digital Literacy Prog
 ---
-
-
-### Online Seminar for Purchase of Personal Learning Device (Chromebook)
+###  Purchase of Personal Learning Device (Chromebook)
 
 <p style="text-align:justify">At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (“NDLP”) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy.  One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (“PDLP”) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (“PLD”). This letter provides important information about how you can purchase the PLD for your child/ward as well as about the accompanying applications that the school may be rolling out as part of the NDLP.</p>
 
 <p>The school has made arrangements for parents/guardians to purchase the PLD from Acer Computer (Singapore) Pte Ltd for your child/ward’s use in school. The vendor has been identified based on the choice of device determined by the school from a panel of awarded suppliers established by MOE.</p>
 
-<p style="text-align:justify">We have organized 2 sessions of online seminar on Wednesday, 11 January 2023, via Zoom to explain the details of the upcoming programme and clarify any questions that parents might have. Each family should register for one of the online seminars. </p>
 
-Session 1:  Wednesday, 11 January 2023, 12 noon to 1 pm <br>
-Session 2:  Wednesday, 11 January 2023, 4.30 pm to 5.30 pm <br>
-
+##### How to Purchase PLD through the school
 <p style="text-align:justify">
-The URL to register for the online seminar is <a href="https://go.gov.sg/bdmsndlpweb" target="_blank" > https://go.gov.sg/bdmsndlpweb</a>. Please fill in the required information. Details of the online seminar will be emailed to you upon successful registration. 
+To proceed with the purchase of the PLD, please fill in the online form at this link -  <a href="https://go.gov.sg/pdlpadmin" target="_blank" > https://go.gov.sg/pdlpadmin</a>.  If you are unable to submit the form online, please contact the school for a hardcopy version. 
 
 Should you have additional enquiries, please submit this form - <a href="https://go.gov.sg/bdms-icthelp" target="_blank" > https://go.gov.sg/bdms-icthelp</a>.
 

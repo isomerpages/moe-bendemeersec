@@ -4,10 +4,10 @@ permalink: /cca/sports/sepak-takraw/
 description: ""
 third_nav_title: Sports
 ---
-|  **Teachers-in-Charge:** | Mr Han Hong Kwong(I/C) | 
+|  **Teachers-in-Charge:** | Mr Han Hong Kwong (I/C) | 
 | -------- | -------- |
-|  | Mr Zulkifli Bin Khamis(2I/C) |
-|  | Ms Nasyitah Bte Abu Bakar |
+|  | Mr Zulkifli Bin Khamis (2I/C) |
+|  | Ms Vimala D/O Selvarasu |
 |**Coach:** | Mr Juraime Bin Atan|
 |**Captain 'B' Boys:** | Tharunesh Sahadevan (4R8) |
 |**Vice-Captain 'B' Boys:** | Mohamed Zulazim Bin Zulkifli (3R8) |

@@ -6,8 +6,8 @@ third_nav_title: Performing Arts
 ---
 |  **Teachers-in-Charge:** | Mrs Lo May Ling (I/C) | 
 | -------- | -------- |
-|  | Ms Ivy Lim Chiew Sian(2I/C) |
-|  | Mdm Karamjit Kaur  |
+|  | Ms Ivy Lim Chiew Sian (2I/C) |
+|  | Ms Lin Lifen Colene |
 | **Advisor:** | Mr Glenn Tan |
 |**Instructor:** | Ms Aricia Ng |
 |**President:** | Neo Ting Hui Sherisse (4R1)|

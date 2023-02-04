@@ -1,9 +1,11 @@
 ---
-title: Device Info Kit for Acer R752TN
-permalink: /key-programmes/ndlp/dik-acer-r752tn/
+title: Device Info Kit for Acer R752TN & R753TN
+permalink: /key-programmes/ndlp/dik-acer-r752tn753tn/
 description: ""
-third_nav_title: National Digital Literacy
+third_nav_title: National Digital Literacy Prog
 ---
+
+
 
 
 ### School-based Helpdesk
