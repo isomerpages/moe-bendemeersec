@@ -15,7 +15,7 @@ Ms Tan Lay Pheng <br>
 Mr Roderick Tan <br>
 Mr Vincent Ling
 
-<b>Mr Chen Fook Pang</b> <br>
+<b>Ms Foo Sheue Feng</b> <br>
 Principal
 
 <b>Mr Azman</b> <br>
