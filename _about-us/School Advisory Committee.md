@@ -18,11 +18,11 @@ Mr Vincent Ling
 <b>Ms Foo Sheue Feng</b> <br>
 Principal
 
-<b>Mr Azman</b> <br>
+<b>Mr Mohd Azman B Mohd Sidek</b> <br>
 Vice-Principal
 
-<b>Mr Chrys Ho</b> <br>
+<b>Mr Chrys Ho Chi Cheng</b> <br>
 Vice-Principal
 
-<b>Ms Della Goh</b>  <br>
+<b>Ms Della Goh Mui Hoon</b>  <br>
 Member
