@@ -42,6 +42,6 @@ third_nav_title: English and Literature
 <p style="text-align:justify">Over the four or five years in the English Language and Literature curricula, the teachers often have to take on the mantle of facilitators of learning, in place of the traditional roles of information dispensers and opinion providers. This way, we get students to engage actively with the texts they are presented with, and open pathways for them to be empathetic communicators, discerning readers and creative inquirers.</p>
 
 
-**Mr Glenn Tan <br>
+**Mr Glenn Tan Cheng Hai<br>
 HOD English Language and Literature <br>
 Bendemeer Secondary School**
