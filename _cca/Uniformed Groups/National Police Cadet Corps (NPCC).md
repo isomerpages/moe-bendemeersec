@@ -4,7 +4,7 @@ permalink: /cca/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-|**Teachers-in-Charge:**| A/ASP (NPCC) Ms Sabrina Wee (OC)   |
+|**Teachers-in-Charge:**| A/ASP (NPCC) Ms Sabrina Wee Gui Fen (OC)   |
 |---|---|
 |  |  ASP (NPCC) Mr Oh Tze Ming (2I/C)  |
 | **SPF-NPCC Award Recipients 2021** | SARAH ZOE SUNG (4R1)  |
