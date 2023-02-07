@@ -22,4 +22,5 @@ third_nav_title: ICT
 <p style="text-align:justify">Given the strong solidarity in the Bendemeer family and ongoing support from various stakeholders, I am confident that our students will benefit from an ICT-supported holistic education and become responsible users of ICT.</p>
 
 **Mr Ng Wee Nghee**<br>
-**HOD Infomation Communications Technology (ICT)**
+**HOD Information Communications Technology (ICT)**<br>
+**Bendemeer Secondary School**
