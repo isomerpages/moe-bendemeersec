@@ -4,7 +4,7 @@ permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-|  **Teachers-in-Charge:** | Ms Dawn Lim Sing Liean(I/C) | 
+|  **Teachers-in-Charge:** | Ms Dawn Lim Sing Liean (I/C) | 
 | -------- | -------- |
 |  | Ms Lu Yueh Ju(2I/C) |
 |  | Ms Caroline Murty|
