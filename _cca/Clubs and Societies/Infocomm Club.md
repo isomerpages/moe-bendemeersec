@@ -4,10 +4,10 @@ permalink: /cca/clubs-and-societies/infocomm-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-|  **Teachers-in-Charge:** | Mdm Winnie Tang (I/C) | 
+|  **Teachers-in-Charge:** | Mdm Winnie Tang Cheok Lai (I/C) | 
 | -------- | -------- |
 |  |  Ms Foo Lee Wee |
-| | Mr Michael Lee|
+| | Mr Michael Lee Boon Wee|
 |**Advisor:** | Mr Eric Choo |
 |**Chairperson:** |Darren Loy (3R2) |
 |**Vice-Chairperson:** |Ong Chee Khee (3R2)    |
