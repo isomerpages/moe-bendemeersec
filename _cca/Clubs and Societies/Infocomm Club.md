@@ -8,7 +8,7 @@ third_nav_title: Clubs and Societies
 | -------- | -------- |
 |  |  Ms Foo Lee Wee |
 | | Mr Michael Lee Boon Wee|
-|**Advisor:** | Mr Eric Choo |
+|**Advisor:** | Mr Eric Choo Guan Kiat |
 |**Chairperson:** |Darren Loy (3R2) |
 |**Vice-Chairperson:** |Ong Chee Khee (3R2)    |
 |**Administrators:** | Tan Xing Yu (3R2) <br>Foo Zhixin (3R2)|
