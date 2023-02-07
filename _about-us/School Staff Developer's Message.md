@@ -15,5 +15,5 @@ Believing that staff well­being is also essential for a positive school culture
 <p style="text-align:justify">
 By taking care of our staff “PIES”, we hope to empower our staff to continue to strive for quality education and administrative excellence for our learners.</p>
 
-**Ms Mabel Kam** <br>
+**Ms Mabel Kam Eng Yee** <br>
 *School Staff Developer*
