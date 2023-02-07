@@ -38,4 +38,8 @@ third_nav_title: Physical Education
 
 <p style="text-align:justify">The school also recognises that participation through CCA fosters social integration as students build friendships that are not bound by their diverse backgrounds while they learn, play and grow together. It also deepens the students’ sense of belonging, commitment and responsibility to school, community and nation.</p>
 
+**Mr Lee Chen Siang<br>
+HOD PE & CCA<br>
+Bendemeer Secondary School**
+
 ![](/images/Departments/pe-02.jpg)

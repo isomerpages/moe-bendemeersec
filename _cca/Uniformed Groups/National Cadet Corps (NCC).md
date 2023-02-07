@@ -6,8 +6,8 @@ third_nav_title: Uniformed Groups
 ---
 |  **Teachers-in-Charge:** | CPT Tay Guangyu (Commanding Officer) | 
 | -------- | -------- |
-|  | CPT Lawrence Ng (2I/C) |
-|  | LTA Dennis Wong|
+|  | CPT Lawrence Ng Boon Kwang (2I/C) |
+|  | LTA Dennis Wong Wei Ming|
 |**Unit Sergeant Major:** |  3SG Loo Guo Hui (3R1) |
 |**Assistant Sergeant Major:** |  3SG Yeo Quan Wei (3R3)  |
 |  |  |

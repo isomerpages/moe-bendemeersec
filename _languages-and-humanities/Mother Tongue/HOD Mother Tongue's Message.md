@@ -8,7 +8,7 @@ third_nav_title: Mother Tongue
 
 <p style="float:left; margin: 0 10px 0px 0">
 <img src="/images/Departments/cl-hodmt.jpg" alt="HOD Mother Tongue" style="width:300px" /></p>
-<p style="text-align:justify">
+
 	
 <p style="text-align:justify">The Mother Department aims to develop a Bendemeerian who possess a commendable level of Mother Tongue Language (MTL) proficiency and competency that will enable him to excel in lifelong learning and to appreciate his cultural heritage while developing a global perspective at the same time. Hence, our sense of mission is to cultivate in our students the love of learning MTLs, and to develop their interest in the understanding and appreciation of our cultural heritage, as well as to promote ethical and civic behaviour.</p>
 
@@ -40,3 +40,8 @@ third_nav_title: Mother Tongue
 
 
 <p style="text-align:justify">To conclude, we will continue to enhance the supportive ecosystem for the learning of MTLs by strengthening the partnership between school and parents, so that our students can continue the daily use of MTLs and keep the language alive at home too.  </p>
+
+
+**Ms Angela Chan Kai Gek** <br>
+**HOD Mother Tongue** <br>
+**Bendemeer Secondary School**

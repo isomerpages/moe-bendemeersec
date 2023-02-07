@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 ---
 |**Teachers-in-Charge:**| Mrs Poon Chong Cheah (I/C)   |
 |---|---|
-|  |  Mrs Elaine Wong (2I/C)  |
+|  |  Mrs Elaine Wong Mei Yan (2I/C)  |
 |  | Mdm Wang Huilin  |
 | **Instructor** | Ms Angila Tan  |
 |**Chairperson**  |  Adeline Tan (3R4) |

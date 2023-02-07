@@ -4,9 +4,9 @@ permalink: /cca/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-|  **Teachers-in-Charge:** | Mdm Noor Aisyah(I/C) | 
+|  **Teachers-in-Charge:** | Mdm Noor Aisyah (I/C) | 
 | -------- | -------- |
-|  | Ms Kelly Lee(2I/C) |
+|  | Ms Kelly Lee Ai Ling (2I/C) |
 |  |  Mdm Waheeda Bte Mohammad|
 |**Instructor:** | Mr Khye Loh|
 |**President:** |  Tan Zhi Ning (4R6) |
