@@ -4,8 +4,6 @@ permalink: /departments/ict/ict-hod-msg/
 description: ""
 third_nav_title: ICT
 ---
-
-
 #### HOD's Message
 <p style="text-align:justify">The evolution of Information Communication and Technology (ICT) has transformed the way teaching and learning takes place in the classrooms. From the days of chalk and talk to the use of smart devices for learning trails, ICT has played an important role in shaping our education landscape.</p>
 
@@ -23,5 +21,5 @@ third_nav_title: ICT
 
 <p style="text-align:justify">Given the strong solidarity in the Bendemeer family and ongoing support from various stakeholders, I am confident that our students will benefit from an ICT-supported holistic education and become responsible users of ICT.</p>
 
-**Mr. Ng Wee Nghee**<br>
-**Head-of-Department (ICT)**
+**Mr Ng Wee Nghee**<br>
+**HOD Infomation Communications Technology (ICT)**
