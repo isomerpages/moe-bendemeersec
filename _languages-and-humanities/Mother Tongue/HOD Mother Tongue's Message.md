@@ -44,4 +44,4 @@ third_nav_title: Mother Tongue
 
 **Ms Angela Chan Kai Gek <br>
 HOD Mother Tongue <br>
-Bendemeer Secondary School**
+Bendemeer Secondary School**</P>
