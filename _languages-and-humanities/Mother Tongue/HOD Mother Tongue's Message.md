@@ -42,6 +42,6 @@ third_nav_title: Mother Tongue
 <p style="text-align:justify">To conclude, we will continue to enhance the supportive ecosystem for the learning of MTLs by strengthening the partnership between school and parents, so that our students can continue the daily use of MTLs and keep the language alive at home too.  </p>
 
 
-**Ms Angela Chan Kai Gek <br>
-HOD Mother Tongue <br>
-Bendemeer Secondary School**</P>
+**Ms Angela Chan Kai Gek** <br>
+**HOD Mother Tongue** <br>
+**Bendemeer Secondary School**</P>
