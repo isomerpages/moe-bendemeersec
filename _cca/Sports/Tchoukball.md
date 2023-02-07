@@ -6,8 +6,8 @@ third_nav_title: Sports
 ---
 |  **Teachers-in-Charge:** | Mr Seah Seng Chye (I/C) | 
 | -------- | -------- |
-| |Mrs Sharon Chin (2I/C)  |
-|  |  Mr Mark Sanjay |
+| |Mrs Sharon Chin Kah Gim (2I/C)  |
+|  |  Mr D'cruz Mark Sanjay |
 |**Coach:** | Mr Jeff Ang|
 |**B Div Boys Captains:** |Haomin (4R2) |
 | **B Div Boys Vice-Captain:**|Rayius (4R6)|
