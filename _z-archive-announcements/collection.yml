@@ -2,6 +2,7 @@ collections:
   z-archive-announcements:
     output: true
     order:
+      - 40th Anniversary Celebrations and Speech Day.md
       - Sec 1 Registration (Y2023)Arc/.keep
       - Open House.md
       - DSA Registration.md
