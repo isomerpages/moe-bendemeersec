@@ -4,14 +4,11 @@ permalink: /about-us/speechday/
 description: ""
 third_nav_title: Our History
 ---
-
-
-
 <style>
 .google-slides-container{ position: relative; width: 100%; padding-top: 72%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 </style>
 
-<p style="text-align:justify">Bendemeer Secondary School's Speech Day and Prize-giving Presentation was held on 14th April 2022. We celebrated the achievements of staff and students.</p>
+<p style="text-align:justify">2022 marked our school’s 45th anniversary.   We held our Speech Day and Prize-giving Presentation on 14th April 2022 and celebrated the achievements of staff and students.</p>
 
 <p style="text-align:justify">The CCA group also prepared and put up performance on stage for the audience and via Zoom for the students who are in their classrooms. </p>
 
