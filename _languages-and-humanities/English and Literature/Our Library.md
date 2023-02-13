@@ -23,9 +23,12 @@ Our school has the following services
 
 OPAC :  This portal allows you to ..
 
-OPAC: [https://schoolibrary.moe.edu.sg/bendemeersec](https://schoolibrary.moe.edu.sg/bendemeersec)
+
+OPAC: <a href="https://schoolibrary.moe.edu.sg/bendemeersec" target="_blank" >https://schoolibrary.moe.edu.sg/bendemeersec</a>
+
+
 
 
 SORA:  This portal will allow you to book. ..  
 
-SORA: [https://soraapp.com/library/bendemeersec](https://soraapp.com/library/bendemeersec)
+SORA: <a href="https://soraapp.com/library/bendemeersec" target="_blank" >https://soraapp.com/library/bendemeersec</a>
