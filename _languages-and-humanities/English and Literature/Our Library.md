@@ -23,7 +23,7 @@ SORA: <a href="https://soraapp.com/library/bendemeersec" target="_blank" ><b>htt
 #### **January's theme of curated reads**
 
 
-Please click <a href="https://www.canva.com/design/DAFX5cLrgYo/498x6iua4MZMjleaCc-wWA/view?utm\_content=DAFX5cLrgYo&utm\_campaign=designshare&utm\_medium=link2&utm\_source=sharebutton#2" target="_blank" >here</a> to view this month's curated reads.
+Please click <a href="https://www.canva.com/design/DAFX5cLrgYo/498x6iua4MZMjleaCc-wWA/view?utm_content=DAFX5cLrgYo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#2" target="_blank" >here</a> to view this month's curated reads.
 
 
 <br>
