@@ -17,7 +17,7 @@ OPAC: <a href="https://schoolibrary.moe.edu.sg/bendemeersec" target="_blank" >ht
 
 Alternatively, if you prefer to read digitally, **SORA** is the portal for you! Once you log in with your unique username and password, you’ll be able to read e-books from our digital library. You can also borrow books from National Library Board (NLB) through SORA. Simply log into your NLB account. 
 
-SORA: <a href="https://soraapp.com/library/bendemeersec" target="_blank" >https://soraapp.com/library/bendemeersec</a>
+SORA: <a href="https://soraapp.com/library/bendemeersec" target="_blank" ><b>https://soraapp.com/library/bendemeersec</b></a>
 
 
 #### **January's theme of curated reads**
