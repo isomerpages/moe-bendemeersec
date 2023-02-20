@@ -10,7 +10,7 @@ third_nav_title: Our History
 
 <p style="text-align:justify">2022 marked our school’s 45th anniversary.   We held our Speech Day and Prize-giving Presentation on 14th April 2022 and celebrated the achievements of staff and students.</p>
 
-<p style="text-align:justify">The CCA group also prepared and put up performance on stage for the audience and via Zoom for the students who are in their classrooms. </p>
+<p style="text-align:justify">The CCA group also prepared and put up performance on stage for the audience and via Zoom for the students who were in their classrooms. </p>
 
 <p style="text-align:justify">We also had an unveiling of our artwork - Precious in our Hands.  </p>
 
