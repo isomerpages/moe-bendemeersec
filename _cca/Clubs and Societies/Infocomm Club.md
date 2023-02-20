@@ -16,7 +16,7 @@ third_nav_title: Clubs and Societies
 
 | Training days: | Thursdays  |
 | - | -|
-| Duration: |  4.00pm - 6.00pm |
+| Duration: |  3.00pm - 5.30pm |
 
 <p style="text-align:justify">During Infocomm sessions, our students attend AV training and a variety of programming courses. They are in charge of setting up the AV system for daily morning assembly as well as a host of other important school events. </p>
 
