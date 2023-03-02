@@ -9,9 +9,7 @@ description: ""
 *   For post-secondary pathways available: <a href="https://www.schoolbag.edu.sg" target="_blank" >https://www.schoolbag.edu.sg</a>
 
 
-*   [https://www.schoolbag.edu.sg/](https://www.schoolbag.edu.sg/) 
+*   Schoolbag.sg - an online publication by the Ministry of Education:  [https://www.schoolbag.edu.sg/](https://www.schoolbag.edu.sg/) 
 
 
 *   **MOE social media (Facebook, Instagram) and**  are other sources of information.
-
-
