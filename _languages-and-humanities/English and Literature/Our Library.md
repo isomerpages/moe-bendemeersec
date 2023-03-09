@@ -1,6 +1,6 @@
 ---
 title: Our Library
-permalink: /languages-and-humanities/English-and-Literature/ourlibrary/
+permalink: /languages-and-humanities/english-and-literature/ourlibrary/
 description: ""
 third_nav_title: English and Literature
 ---

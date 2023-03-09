@@ -1,6 +1,6 @@
 ---
 title: eRegistration
-permalink: /for-parents/Sec-1-Registration-2023/s1-ereg/
+permalink: /for-parents/sec-1-registration-2023/s1-ereg/
 description: ""
 third_nav_title: Sec One Registration 2023
 ---
