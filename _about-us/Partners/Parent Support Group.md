@@ -10,7 +10,7 @@ third_nav_title: Partners
 <b>Chairman</b>:		Ms Crystal Cheng
 <br>
 <b>Vice-Chairman</b>:	Ms Chong Xin Xin
-
+<br>
 
 ![Parent Support Group photo](/images/Aboutus/PSG-group.jpg)
 
