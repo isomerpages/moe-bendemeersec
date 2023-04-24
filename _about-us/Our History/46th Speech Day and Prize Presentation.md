@@ -8,7 +8,7 @@ This year, we celebrated the achievements and staff and students during our 46th
 
 The CCA groups prepared and put up performance on stage for the audience.  
 
-We also had an unveiling of our school's official social media platforms on Facebook and <a target="\_blank" href="https://instagram.com/bendemeer_secondary_official?igshid=YjNmNGQ3MDY=">Instagram </a>.
+We also had an unveiling of our school's official social media platforms on Facebook and <a target="\_blank" href="https://instagram.com/bendemeer_secondary_official?igshid=YjNmNGQ3MDY=">Instagram</a> .
  
 
 
