@@ -14,11 +14,10 @@ We also had an unveiling of our school's official social media platforms on <a t
 
 The prize presentation for students who achieved academic excellence in their subjects was held during our school morning assembly.  You may click on the links below to view a recording of the presentation.  
 
+<p>
 Sec 1 Prize Recipients <br>
-
 Sec 2 Prize Recipients <br>
-
 Sec 3 Prize Recipients <br>
-
+</p>
 
 More photos will be posted soon.
