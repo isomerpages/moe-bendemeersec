@@ -16,8 +16,8 @@ The prize presentation for students who achieved academic excellence in their su
 
 <p>
 Sec 1 Prize rRecipients. <br>
-Sec 2 Prize Recipients <br>
-Sec 3 Prize Recipients <br>
+Sec 2 Prize rRecipients <br>
+Sec 3 Prize rRecipients <br>
 </p>
 
 More photos will be posted soon.
