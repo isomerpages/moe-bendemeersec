@@ -17,7 +17,7 @@ description: ""
 
 <p style="text-align:justify">Bendemeer Secondary School has strong and consistent programmes in Football (Boys) and Tchoukball, resulting in good outcomes at the annual National School Games for Football and the Inter School Championships for Tchoukball. Both CCAs seek to develop young athletes holistically through structured training programs.</p>
 
-<p style="text-align:justify">Students who are admitted to our school via the DSA-Sec scheme can look forward to training sessions led by experienced teachers with the assistance of highly qualified coaches. This is a close partnership with Football Association of Singapore (FAS), and Tchoukball Association of Singapore.</p>
+<p style="text-align:justify">Students who are admitted to our school via the DSA-Sec scheme can look forward to training sessions led by experienced teachers with the assistance of highly qualified coaches. This is a close partnership with <b>Football Association of Singapore (FAS)</b>, and <b>Tchoukball Association of Singapore</b>.</p>
 
 <p style="text-align:justify">Besides skills acquisition and physical development through the structured training programs, students will also benefit from the emphasis on character development by the teachers and coaches during the training sessions.</p>
 
