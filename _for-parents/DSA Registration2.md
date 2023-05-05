@@ -13,10 +13,11 @@ description: ""
 
 <p style="text-align:justify">With a strong focus on character building and sporting excellence, the school has always prioritized development programmes through robust curriculum and strong partnerships. </p>
 
+<p style="text-align:center">-----</p>
 
 #### Football CCA 
 
-We are proud to be one of ten secondary schools identified as a School Football Academy (SFA) since end 2022 under the Unleash the Roar! (UTR) national project led jointly by SportSG and Football Association of Singapore (FAS). 
+We are proud to be one of ten secondary schools identified as a **School Football Academy (SFA)** since end 2022 under the **Unleash the Roar! (UTR)** national project led jointly by **SportSG and Football Association of Singapore (FAS)**. 
 
 ![](/images/Usefullinks/dsa-football.jpg)
 
@@ -70,28 +71,21 @@ Join us and look forward to a journey of development!
 
 <p style="text-align:justify">For students from mainstream primary schools, application for DSA-Sec can be submitted through the online DSA-Sec Portal at <a href="https://go.gov.sg/apply-dsa-sec">https://go.gov.sg/apply-dsa-sec</a>. The application is free-of-charge and will be open from <b>4 May 2023, 11am till 31 May 2023, 3pm.</b></p>
 
-<p style="text-align:justify">Applicants studying in MOE mainstream primary schools will require the SingPass of one parent to log in to the DSA-Sec Portal. If parent/ guardian is unable to apply online, they can approach the child’s primary school for assistance. Applicants NOT studying in MOE mainstream primary schools need to obtain a Registration Number online via the MOE DSA website (online form) before they can apply through the DSA-Sec Portal.</p>
-
-
-For further details, please visit the MOE website at: <a href="https://www.moe.gov.sg/dsa-sec">http://www.moe.gov.sg/dsa-sec</a>.
-<p></p>
+<p style="text-align:justify">Applicants studying in MOE mainstream primary schools will require the SingPass of one parent to log in to the DSA-Sec Portal. If parent/ guardian is unable to apply online, they can approach the child’s primary school for assistance. </p>
+	
+<p style="text-align:justify">Applicants NOT studying in MOE mainstream primary schools need to obtain a Registration Number online via the MOE DSA website (online form) before they can apply through the DSA-Sec Portal.</p>
 
 <p style="text-align:justify">Application forms that are sent through fax or email will not be considered.</p>
 
-<p style="text-align:justify">Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
-
-<p style="text-align:justify">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.</p>
+<p style="text-align:justify">All applicants will be informed of their application outcome by <b>Monday, 11 September 2023</b>.</p>
 
 <p style="text-align:justify">Short-listed applicants will be required to attend an <b>in-person interview and/or trial</b> between  <b>26 June 2023</b> and <b>30 August 2023</b>.</p>
 
-<p style="text-align:justify">All applicants will be informed of their application outcome by <b>Monday, 11 September 2023</b>.</p>
+For further details, please visit the MOE website at: <a href="https://www.moe.gov.sg/dsa-sec">http://www.moe.gov.sg/dsa-sec</a>.
+<br>
 
 
 
-#### CONTACT DETAILS
+#### For Enquiries
 
-For further enquiries, please contact **Mr Balbinder Singh** at **6292 7616**. Alternatively, you can email your enquiries to bendemeer_ss@moe.edu.sg.
-
-<!-- (code doesn't seem to work)
-<p style="text-align:justify">For further enquiries, please contact <b>Mr Lee Chen Siang</b> at <b>6292 7616</b>. Alternatively, you can email your enquiries to <a href="mailto:bendemeer_ss@moe.edu.sg">bendemeer_ss@moe.edu.sg</a>.</p>
--->
+For further enquiries, please contact ***Mr Balbinder Singh*** at ***6292 7616***. Alternatively, you can email your enquiries to bendemeer_ss@moe.edu.sg.
