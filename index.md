@@ -13,12 +13,10 @@ sections:
   - hero:
       background: /images/hero-banner01s.jpg
   - infopic:
-      title: Secondary One Registration
-      subtitle: 2023 Secondary One Posting
-      description: "Please read the following information on instructions for online
-        registration, sale of books and uniforms and more. "
-      button: more info
-      url: /for-parents/sec1-registration/sec1reg-overview/
+      title: Secondary (DSA-Sec) Exercise 2023
+      subtitle: DIrect School Admission
+      button: more information
+      url: /for-parents/dsa-registration/
       image: /images/Usefullinks/s1reg-infopic.jpg
       alt: Image alt text
 ---
