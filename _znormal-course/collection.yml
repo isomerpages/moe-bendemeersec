@@ -1,5 +1,4 @@
 collections:
   znormal-course:
     output: true
-    order:
-      - Normal Course.md
+    order: []
