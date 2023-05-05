@@ -31,18 +31,18 @@ The Football CCA has excelled in the various schools’ zonal and national compe
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-f8tz{background-color:#409cff;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-riw3{background-color:#ebf5ff;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-3i1z{background-color:#ebf5ff;border-color:inherit;font-size:medium;text-align:left;vertical-align:top}
+.tg .tg-ts73{background-color:#409cff;border-color:inherit;font-size:medium;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-f8tz"><span style="font-weight:bold">Achievements</span></th>
+    <th class="tg-ts73"><span style="font-weight:bold">Achievements</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-riw3">National School Games 2023<br>B Division:  Top 8 (League 2)<br>C Division: League 1 (as of 4 May 2023)<br><br>National School Games 2019 <br>C Division: 3rd (League 2)<br><br>National School Games 2018<br>B Division: Top 8 (League 1), <br>C Division: 2nd in South Zone<br><br>National School Games 2017<br>B Division: Top 8 (League 1)<br>C Division: 3rd in South Zone<br><br>South Zone Inter-school Football Championships 2016<br>B Division: 2nd<br>C Division: 4th <br><br>South Zone Inter-school Football Championships 2015<br>B Division: 3rd, <br>C Division: 4th<br><br>South Zone Inter-school Football Championships 2014<br>B Division: 2nd<br>C Division: 1st</td>
+    <td class="tg-3i1z">National School Games 2023<br>B Division:  Top 8 (League 2)<br>C Division: League 1 (as of 4 May 2023)<br><br>National School Games 2019 <br>C Division: 3rd (League 2)<br><br>National School Games 2018<br>B Division: Top 8 (League 1), <br>C Division: 2nd in South Zone<br><br>National School Games 2017<br>B Division: Top 8 (League 1)<br>C Division: 3rd in South Zone<br><br>South Zone Inter-school Football Championships 2016<br>B Division: 2nd<br>C Division: 4th <br><br>South Zone Inter-school Football Championships 2015<br>B Division: 3rd, <br>C Division: 4th<br><br>South Zone Inter-school Football Championships 2014<br>B Division: 2nd<br>C Division: 1st</td>
   </tr>
 </tbody>
 </table>
