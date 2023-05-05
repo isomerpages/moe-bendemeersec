@@ -3,7 +3,7 @@ title: DSA Registration2
 permalink: /for-parents/dsa-registration/
 description: ""
 ---
-#### Direct School Admission (DSA-Sec) – For 2024 Secondary One Admission
+#### **Direct School Admission (DSA-Sec) – For 2024 Secondary One Admission**
 
 <p style="text-align:justify">As a part of the Direct School Admission – Secondary (DSA-Sec) Exercise 2023, we are pleased to share that we will be admitting current Primary 6 students who possess exceptional interest and talent in the following areas: .</p>
 
