@@ -20,8 +20,10 @@ links:
   - title: Life@BDMS
     collection: life-at-bdms
   - title: For Parents
-    url: /for-parents/sec1-registration/sec1reg-overview/
+    url: /for-parents/dsa-registration/
     sublinks:
+      - title: DSA Registration
+        url: /for-parents/dsa-registration/
       - title: Online Seminar Purchase of PLD
         url: /key-programmes/ndlp/purchasepld/
       - title: Secondary 1 Registration Y2023
