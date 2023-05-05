@@ -2,5 +2,4 @@ collections:
   znormal-course:
     output: true
     order:
-      - Elective Modules.md
       - Normal Course.md
