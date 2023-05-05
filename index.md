@@ -14,7 +14,7 @@ sections:
       background: /images/hero-banner01s.jpg
   - infopic:
       title: Secondary (DSA-Sec) Exercise 2023
-      subtitle: DIrect School Admission
+      subtitle: Direct School Admission
       button: more information
       url: /for-parents/dsa-registration/
       image: /images/Usefullinks/s1reg-infopic.jpg
