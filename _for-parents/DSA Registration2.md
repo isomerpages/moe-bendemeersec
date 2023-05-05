@@ -58,6 +58,14 @@ Join us and look forward to a journey of development!
 * <p style="text-align:justify">Are passionate about Football (Boys) or Tchoukball (Boys &amp; Girls), and</p>
 * <p style="text-align:justify">Have represented their schools, clubs or academies in Football (Boys) or Tchoukball (Boys &amp; Girls) or any other sporting competitions.</p>
 
+<p style="text-align:justify">Meeting all the criteria does not guarantee the student will be shortlisted/given an offer. The decision of the Interview Panel on the DSA-Sec application is final.  The school reserves the right not to release the reasons for non-selection of applicants and/or the results of the interview.</p>
+
+<p style="text-align:justify">Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
+
+
+<p style="text-align:justify">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.</p>
+
+
 #### APPLICATION PROCEDURE
 
 <p style="text-align:justify">For students from mainstream primary schools, application for DSA-Sec can be submitted through the online DSA-Sec Portal at <a href="https://go.gov.sg/apply-dsa-sec">https://go.gov.sg/apply-dsa-sec</a>. The application is free-of-charge and will be open from <b>4 May 2023, 11am till 31 May 2023, 3pm.</b></p>
@@ -78,7 +86,7 @@ For further details, please visit the MOE website at: <a href="https://www.moe.g
 
 <p style="text-align:justify">All applicants will be informed of their application outcome by <b>Monday, 11 September 2023</b>.</p>
 
-<p style="text-align:justify">Meeting all the criteria does not guarantee the student will be shortlisted/given an offer. The decision of the Interview Panel on the DSA-Sec application is final.  The school reserves the right not to release the reasons for non-selection of applicants and/or the results of the interview.</p>
+
 
 #### CONTACT DETAILS
 
