@@ -37,21 +37,11 @@ Join us and look forward to a journey of development!
 
 **Check out our CCA websites for more information!** 
 <br>
-* Football CCA 
-* Tchoukball CCA 
+* [Football CCA](/cca/sports/football/)
+* [Tchoukball CCA](/cca/sports/tchoukball/) 
 
-<!--
-<p style="text-align:justify">Bendemeer Secondary School has strong and consistent programmes in Football (Boys) and Tchoukball, resulting in good outcomes at the annual National School Games for Football and the Inter School Championships for Tchoukball. Both CCAs seek to develop young athletes holistically through structured training programs.</p>
 
-<p style="text-align:justify">Students who are admitted to our school via the DSA-Sec scheme can look forward to training sessions led by experienced teachers with the assistance of highly qualified coaches. This is a close partnership with <b>Football Association of Singapore (FAS)</b>, and <b>Tchoukball Association of Singapore</b>.</p>
-
-<p style="text-align:justify">Besides skills acquisition and physical development through the structured training programs, students will also benefit from the emphasis on character development by the teachers and coaches during the training sessions.</p>
-
-<p style="text-align:justify">Students from the Football (Boys) and Tchoukball CCA groups are also exposed to many competitions throughout the calendar year so that they can put into practice what they have learnt during the training sessions. They will learn to exhibit positive character traits through sporting excellence in a competitive setting.</p>
-
--->
-
-**Admission Criteria**
+#### Admission Criteria
 
 <p style="text-align:justify">In the selection of students, we are looking for those who :</p>
 
@@ -67,7 +57,7 @@ Join us and look forward to a journey of development!
 <p style="text-align:justify">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.</p>
 
 
-#### APPLICATION PROCEDURE
+#### Application Procedure
 
 <p style="text-align:justify">For students from mainstream primary schools, application for DSA-Sec can be submitted through the online DSA-Sec Portal at <a href="https://go.gov.sg/apply-dsa-sec">https://go.gov.sg/apply-dsa-sec</a>. The application is free-of-charge and will be open from <b>4 May 2023, 11am till 31 May 2023, 3pm.</b></p>
 
