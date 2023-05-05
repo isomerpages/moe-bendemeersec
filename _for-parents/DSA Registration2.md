@@ -15,21 +15,21 @@ description: ""
 
 <p style="text-align:center">-----</p>
 
-#### Football CCA 
+#### **Football CCA** 
 
 We are proud to be one of ten secondary schools identified as a **School Football Academy (SFA)** since end 2022 under the **Unleash the Roar! (UTR)** national project led jointly by **SportSG and Football Association of Singapore (FAS)**. 
 
 ![](/images/Usefullinks/dsa-football.jpg)
 
 
-#### Tchoukball CCA 
+#### **Tchoukball CCA** 
 
 While Tchoukball is relatively new in Singapore, it is an established sport in the school. We are known to have nurtured many national players, coaches and referees in the sport. Our own alumnus is also serving as the President of the <b>Tchoukball Association of Singapore (TBAS). </b>
 
 ![](/images/Usefullinks/dsa-tchoukball.jpg)
 
 
-#### Character and Sporting Excellence 
+#### **Character and Sporting Excellence** 
 
 Our focus in building both character and sporting excellence have resulted in nurturing outstanding results in various competitions throughout the academic year.  More importantly, we build character and a mindset of excellence. 
 
@@ -41,7 +41,7 @@ Join us and look forward to a journey of development!
 * [Tchoukball CCA](/cca/sports/tchoukball/) 
 
 
-#### Admission Criteria
+#### **Admission Criteria**
 
 <p style="text-align:justify">In the selection of students, we are looking for those who :</p>
 
@@ -57,7 +57,7 @@ Join us and look forward to a journey of development!
 <p style="text-align:justify">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.</p>
 
 
-#### Application Procedure
+#### **Application Procedure**
 
 <p style="text-align:justify">For students from mainstream primary schools, application for DSA-Sec can be submitted through the online DSA-Sec Portal at <a href="https://go.gov.sg/apply-dsa-sec">https://go.gov.sg/apply-dsa-sec</a>. The application is free-of-charge and will be open from <b>4 May 2023, 11am till 31 May 2023, 3pm.</b></p>
 
@@ -76,6 +76,6 @@ For further details, please visit the MOE website at: <a href="https://www.moe.g
 
 
 
-#### For Enquiries
+#### **For Enquiries**
 
 For further enquiries, please contact ***Mr Balbinder Singh*** at ***6292 7616***. Alternatively, you can email your enquiries to bendemeer_ss@moe.edu.sg.
