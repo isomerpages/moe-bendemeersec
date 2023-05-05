@@ -14,12 +14,32 @@ description: ""
 <p style="text-align:justify">With a strong focus on character building and sporting excellence, the school has always prioritized development programmes through robust curriculum and strong partnerships. </p>
 
 
+#### Football CCA 
+
+We are proud to be one of ten secondary schools identified as a School Football Academy (SFA) since end 2022 under the Unleash the Roar! (UTR) national project led jointly by SportSG and Football Association of Singapore (FAS). 
+
+![](/images/Usefullinks/dsa-football.jpg)
 
 
-#### TALENT DEVELOPMENT IN SPORTS AND GAMES: FOOTBALL (BOYS)/ TCHOUKBALL
+#### Tchoukball CCA 
 
-**1. Our Talent Development Programme For Successful DSA Students**
+While Tchoukball is relatively new in Singapore, it is an established sport in the school. We are known to have nurtured many national players, coaches and referees in the sport. Our own alumnus is also serving as the President of the <b>Tchoukball Association of Singapore (TBAS). </b>
 
+![](/images/Usefullinks/dsa-tchoukball.jpg)
+
+
+#### Character and Sporting Excellence 
+
+Our focus in building both character and sporting excellence have resulted in nurturing outstanding results in various competitions throughout the academic year.  More importantly, we build character and a mindset of excellence. 
+
+Join us and look forward to a journey of development!  
+
+**Check out our CCA websites for more information!** 
+<br>
+* Football CCA 
+* Tchoukball CCA 
+
+<!--
 <p style="text-align:justify">Bendemeer Secondary School has strong and consistent programmes in Football (Boys) and Tchoukball, resulting in good outcomes at the annual National School Games for Football and the Inter School Championships for Tchoukball. Both CCAs seek to develop young athletes holistically through structured training programs.</p>
 
 <p style="text-align:justify">Students who are admitted to our school via the DSA-Sec scheme can look forward to training sessions led by experienced teachers with the assistance of highly qualified coaches. This is a close partnership with <b>Football Association of Singapore (FAS)</b>, and <b>Tchoukball Association of Singapore</b>.</p>
@@ -28,14 +48,15 @@ description: ""
 
 <p style="text-align:justify">Students from the Football (Boys) and Tchoukball CCA groups are also exposed to many competitions throughout the calendar year so that they can put into practice what they have learnt during the training sessions. They will learn to exhibit positive character traits through sporting excellence in a competitive setting.</p>
 
+-->
 
-**2. Sports And Games Admission Criteria**
+**Admission Criteria**
 
-<p style="text-align:justify">In the selection of students, we are looking for students with one or more of the following attributes and experience:</p>
+<p style="text-align:justify">In the selection of students, we are looking for those who :</p>
 
-* <p style="text-align:justify">Students who are passionate about Football (Boys) or Tchoukball.</p>
-* <p style="text-align:justify">Students who have represented their schools, clubs or academies in Football (Boys) or Tchoukball competitions.</p>
-* <p style="text-align:justify">Students who are active in sports related CCAs in their primary schools.</p>
+* <p style="text-align:justify">Are active in sports-related CCAs in their primary schools,</p>
+* <p style="text-align:justify">Are passionate about Football (Boys) or Tchoukball (Boys &amp; Girls), and</p>
+* <p style="text-align:justify">Have represented their schools, clubs or academies in Football (Boys) or Tchoukball (Boys &amp; Girls) or any other sporting competitions.</p>
 
 #### APPLICATION PROCEDURE
 
@@ -66,4 +87,3 @@ For further enquiries, please contact **Mr Balbinder Singh** at **6292 7616**. A
 <!-- (code doesn't seem to work)
 <p style="text-align:justify">For further enquiries, please contact <b>Mr Lee Chen Siang</b> at <b>6292 7616</b>. Alternatively, you can email your enquiries to <a href="mailto:bendemeer_ss@moe.edu.sg">bendemeer_ss@moe.edu.sg</a>.</p>
 -->
-
