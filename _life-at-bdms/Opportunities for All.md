@@ -10,7 +10,7 @@ description: ""
 
 <p style="text-align:justify">The objective of the event aim to inculcate technical skillsets, critical thinking, and an appreciation of new and disruptive technologies relevant to the modern world.</p>
 
-<p style="text-align:justify">A series of workshops and live demonstrations have been specially developed for both students and mentors to complement their learning journeys leading up to the competition proper,. </p>
+<p style="text-align:justify">A series of workshops and live demonstrations have been specially developed for both students and mentors to complement their learning journeys leading up to the competition proper. </p>
 
 <p style="text-align:justify">Our students from the Infocomm Club did us proud by emerging champions and first-runners up!  Congratulations!  </p>
 
