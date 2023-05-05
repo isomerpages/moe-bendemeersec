@@ -1,5 +1,4 @@
 collections:
   z-archive-for-parents:
     output: true
-    order:
-      - Sec 1 CCA Orientation and Meet The Parents.md
+    order: []
