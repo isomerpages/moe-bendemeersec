@@ -53,7 +53,7 @@ Bendemeer Secondary School is well known to have nurtured many national players,
 |  |  |
 
 ![](/images/Cca/cca-tchouckball-43.jpg)
-***Mr Lee Chen Siang, HOD, PE &amp; CCA,  pictured here with Shah Rykal, current National Team member and M18 Boys coach from the Class of 2015, at the recent National Schools Active SG Cup.***
+<p style="text-align:justify; font-size:12px"><b><i>Mr Lee Chen Siang, HOD, PE &amp; CCA,  pictured here with Shah Rykal, current National Team member and M18 Boys coach from the Class of 2015, at the recent National Schools Active SG Cup.</i></b></p>
 
 In the spirit of sporting excellence, our Boys and Girls Tchoukball Teams train hard in order to compete well in the Tchoukball Inter Schools Tournament. They have achieved some excellent results over the past few years. 
 
