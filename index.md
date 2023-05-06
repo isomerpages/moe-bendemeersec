@@ -13,7 +13,7 @@ sections:
   - hero:
       background: /images/hero-banner01s.jpg
   - infopic:
-      title: Direct School Admission DSA-Sec 2023
+      title: DSA-Sec 2023
       subtitle: Direct School Admission
       button: more information
       url: /for-parents/dsa-registration/
