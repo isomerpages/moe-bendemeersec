@@ -42,7 +42,7 @@ The Football CCA has excelled in the various schools’ zonal and national compe
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3i1z">National School Games 2023<br>B Division:  Top 8 (League 2)<br>C Division: League 1 (as of 4 May 2023)<br><br>National School Games 2019 <br>C Division: 3rd (League 2)<br><br>National School Games 2018<br>B Division: Top 8 (League 1), <br>C Division: 2nd in South Zone<br><br>National School Games 2017<br>B Division: Top 8 (League 1)<br>C Division: 3rd in South Zone<br><br>South Zone Inter-school Football Championships 2016<br>B Division: 2nd<br>C Division: 4th <br><br>South Zone Inter-school Football Championships 2015<br>B Division: 3rd, <br>C Division: 4th<br><br>South Zone Inter-school Football Championships 2014<br>B Division: 2nd<br>C Division: 1st</td>
+    <td class="tg-3i1z">National School Games 2023<br>B Division:  Top 8 (League 2)<br>C Division: League 1 (as of 4 May 2023)<br><br>National School Games 2019 <br>C Division: 3rd (League 2)<br><br>National School Games 2018<br>B Division: Top 8 (League 1), <br>C Division: 2nd in South Zone<br><br>National School Games 2017<br>B Division: Top 8 (League 1)<br>C Division: 3rd in South Zone<br><br></td>
   </tr>
 </tbody>
 </table>
