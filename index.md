@@ -17,6 +17,6 @@ sections:
       subtitle: Direct School Admission
       button: more information
       url: /for-parents/dsa-registration/
-      image: /images/Announcements/annouce-dsa.jpg
+      image: /images/Usefullinks/s1reg-infopic.jpg
       alt: Image alt text
 ---
