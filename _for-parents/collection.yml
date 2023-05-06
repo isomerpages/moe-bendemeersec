@@ -3,6 +3,9 @@ collections:
     output: true
     order:
       - DSA Registration.md
+      - Online School Magazines.md
+      - School Bookshop.md
+      - Class Timetable.md
       - Sec One Registration 2023/.keep
       - Sec One Registration 2023/Secondary One Registration Overview.md
       - Sec One Registration 2023/eRegistration.md
@@ -17,7 +20,4 @@ collections:
       - Sec One Registration 2023/Appeal for Transfer to Bendemeer Secondary
         School.md
       - Sec One Registration 2023/Parents Gateway Mobile Application.md
-      - Online School Magazines.md
-      - School Bookshop.md
-      - Class Timetable.md
       - Useful Links.md
