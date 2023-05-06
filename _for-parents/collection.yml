@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - DSA Registration2.md
+      - DSA Registration.md
       - Sec One Registration 2023/.keep
       - Sec One Registration 2023/Secondary One Registration Overview.md
       - Sec One Registration 2023/eRegistration.md
