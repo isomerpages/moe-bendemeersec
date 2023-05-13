@@ -19,4 +19,11 @@ sections:
       url: /for-parents/dsa-registration/
       image: /images/Usefullinks/s1reg-infopic.jpg
       alt: Image alt text
+  - infopic:
+      title: Japanese/Korean/Thai/Vegetarian & Chinese Economy Rice Stall
+      subtitle: Canteen Stalls for Tender
+      description: Canteen Food
+      button: MORE INFORMATION
+      url: http://
+      alt: Image alt text
 ---
