@@ -23,7 +23,7 @@ sections:
       title: Japanese/Korean/Thai/Vegetarian & Chinese Economy Rice Stall
       subtitle: Canteen Stalls for Tender
       button: MORE INFORMATION
-      url: https://bendemeersec.moe.edu.sg/pages/canteen.md
+      url: pages/Canteen.md
       alt: Canteen Food
       image: /images/canteen_ad.jpg
 ---
