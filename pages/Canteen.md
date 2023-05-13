@@ -22,24 +22,24 @@ has vacancy for </p>
 <p style="text-align:justify">Applicants must also meet the following requirements</p>
 
 a.	Be a Singapore Citizen or Permanent Resident.
-b.	Preferably residing near the school. 
-c.	Previous experience operating a stall is a useful advantage but not an essential criterion.
-d.	Must be reasonably healthy to provide continuous reliable service to the school. 
-e.	Must be present at the stall during stall operating hours.
-f.	Each stall will only be allowed to employ 2 stall assistants. 
-g.	All canteen staff must attend and pass the Basic Food Hygiene Course. Successful applicants will arrange to attend this course on their own.
-h.	Stall must provide quality food and maintain a healthy variety of menu for students and staff at least from 0700 hrs to 1600 hrs
-i.	Stall must operate according to school’s timetable.
-j.	Successful applicant must be ready to accommodate to operational changes whenever necessary
+<br>b.	Preferably residing near the school. 
+<br>c.	Previous experience operating a stall is a useful advantage but not an essential criterion.
+<br>d.	Must be reasonably healthy to provide continuous reliable service to the school. 
+<br>e.	Must be present at the stall during stall operating hours.
+<br>f.	Each stall will only be allowed to employ 2 stall assistants. 
+<br>g.	All canteen staff must attend and pass the Basic Food Hygiene Course. Successful applicants will arrange to attend this course on their own.
+<br>h.	Stall must provide quality food and maintain a healthy variety of menu for students and staff at least from 0700 hrs to 1600 hrs
+<br>i.	Stall must operate according to school’s timetable.
+<br>j.	Successful applicant must be ready to accommodate to operational changes whenever necessary
 
 <p style="text-align:justify">3.	Selection Process</p>
 <p style="text-align:justify">a.	Applicants can obtain the application form directly from the school’s general office from 0800 hrs to 1700 hrs or downloaded from school website.</p>
 <p style="text-align:justify">b.	Completed application forms are to be submitted to the school’s General Office with the following supporting documents (before the closing date)</p>
 
-i.	Copy of NRIC front and back
-ii.	Proposed menu and price list
-iii.	Copy of Basic Food Hygiene Course Certificate (if already attended)
-iv.	Previous NEA licences, if any
+<br>i.	Copy of NRIC front and back
+<br>ii.	Proposed menu and price list
+<br>iii.	Copy of Basic Food Hygiene Course Certificate (if already attended)
+<br>iv.	Previous NEA licences, if any
 
 <p style="text-align:justify">c.	Shortlisted applicants may be invited for an interview with the school’s representatives. Details of this interview i.e. date and time will be made known to the shortlisted applicants.</p>
 <p style="text-align:justify">d.	Shortlisted applicants may be called to participate in a food sampling session conducted by the school. The date and time of the food sampling session will be made known to the shortlisted applicants.</p>
