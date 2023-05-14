@@ -20,7 +20,7 @@ sections:
       image: /images/Usefullinks/s1reg-infopic.jpg
       alt: Image alt text
   - infopic:
-      title: Japanese/Korean/Thai/Vegetarian & Chinese Economy Rice Stall
+      title: Japanese/Korean/ Thai/Vegetarian & Chinese Econ Rice Stall
       subtitle: Canteen Stalls for Tender
       button: MORE INFORMATION
       url: /pages/canteen/
