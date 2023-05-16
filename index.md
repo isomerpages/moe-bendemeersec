@@ -25,5 +25,5 @@ sections:
       button: MORE INFORMATION
       url: /pages/canteen/
       alt: Canteen Food
-      image: /images/canteen_ad.jpg
+      image: /images/canteen_ad.JPG
 ---
