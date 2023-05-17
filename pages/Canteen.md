@@ -16,7 +16,7 @@ Bendemeer Secondary School Canteen</b></p>
 * <p style="text-align:justify">Able to provide quality food that meet the health/nutritional standards set by the Health Promotion Board, Healthy Meals in School Programme (HMSP). Applicants may also visit <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme"> https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a> for more details.</p>
 * <p style="text-align:justify">Able to provide good service and keep food warm consistently.  Detailed proposed pricing and menu will be determined after consultation with the successful applicant and the School’s Canteen Committee.</p>
 * <p style="text-align:justify">Able to observe a high standard of food and personal hygiene as stipulated by Ministry of the Environment and Singapore Food Agency. </p>
-* <p style="text-align:justify">Applicants should preferably be able to start operating the stall on Monday, 26 June 2023. Starting date is negotiable</p>
+* <p style="text-align:justify">Applicants should preferably be able to start operating the stall on Monday, 26 June 2023. Starting date is negotiable.</p>
 
 <p style="text-align:justify"><b>2.	Additional Requirements</b></p>
 <p style="text-align:justify">Applicants must also meet the following requirements</p>
@@ -27,7 +27,7 @@ Bendemeer Secondary School Canteen</b></p>
 * All canteen staff must attend and pass the Basic Food Hygiene Course. Successful applicants will arrange to attend this course on their own.
 * Stall must provide quality food and maintain variety of menu for students and staff at least from 0700 hrs to 1600 hrs.
 * Stall must operate according to school’s schedule.
-* Successful applicant must be ready to accommodate to operational changes whenever necessary
+* Successful applicant must be ready to accommodate to operational changes whenever necessary.
 
 <p style="text-align:justify"><b>3.	Selection Process</b></p>
 
