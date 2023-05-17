@@ -25,5 +25,5 @@ sections:
       button: MORE INFORMATION
       url: /pages/canteen/
       alt: Canteen Food
-      image: /images/vegetables-g045c60d92_1920.jpg
+      image: /images/japanese-food-g34e1f8b50_1920.jpg
 ---
