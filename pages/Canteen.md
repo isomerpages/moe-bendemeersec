@@ -19,7 +19,7 @@ Bendemeer Secondary School Canteen</b></p>
 * <p style="text-align:justify">Applicants should preferably be able to start operating the stall on Monday, 26 June 2023. Starting date is negotiable.</p>
 
 <p style="text-align:justify"><b>2.	Additional Requirements</b></p>
-<p style="text-align:justify">Applicants must also meet the following requirements</p>
+<p style="text-align:justify">Applicants must also meet the following requirements:</p>
 
 * Be a Singapore Citizen or Permanent Resident.
 * Must be present at the stall during stall operating hours.
