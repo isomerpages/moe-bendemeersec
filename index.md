@@ -21,7 +21,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Japanese/Korean/ Thai/Vegetarian & Chinese Rice Stall
-      subtitle: Canteen Stalls for Tender
+      subtitle: Canteen Stalls Advertisement
       button: MORE INFORMATION
       url: /pages/canteen/
       alt: Canteen Food
