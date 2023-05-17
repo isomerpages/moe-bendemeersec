@@ -32,7 +32,7 @@ Bendemeer Secondary School Canteen</b></p>
 <p style="text-align:justify"><b>3.	Selection Process</b></p>
 
 * <p style="text-align:justify">Applicants can obtain the application form directly from the school’s General Office from 0800 hrs to 1700 hrs or downloaded from school website.</p>
-* <p style="text-align:justify">Completed application forms are to be submitted to the school’s General Office with the following supporting documents (before the closing date)</p>
+* <p style="text-align:justify">Completed application forms are to be submitted to the school’s General Office with the following supporting documents (before the closing date):</p>
 i.	Copy of NRIC front and back<br>
 ii.	Proposed menu and price list<br>
 iii.	Copy of Basic Food Hygiene Course Certificate (if already attended)<br>
