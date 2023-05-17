@@ -5,7 +5,7 @@ description: ""
 ---
 #### **Direct School Admission – Secondary (DSA-Sec) Exercise 2023 (For Secondary One Admission in 2024)**
 
-<p style="text-align:justify">As a part of the Direct School Admission – Secondary (DSA-Sec) Exercise 2023, we are pleased to share that we will be admitting current Primary 6 students who possess exceptional interest and talent in the following areas: .</p>
+<p style="text-align:justify">As a part of the Direct School Admission – Secondary (DSA-Sec) Exercise 2023, we are pleased to share that we will be admitting current Primary 6 students who possess exceptional interest and talent in the following areas: </p>
 
 1.	**Sports and Games – Football (Boys)**
 2.	**Sports and Games – Tchoukball (Boys)**
