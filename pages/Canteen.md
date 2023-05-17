@@ -7,11 +7,9 @@ description: ""
 Bendemeer Secondary School Canteen</b></p> 
 <p style="text-align:center"><b>has vacancy for </b></p>
 
-<p style="text-align:center"><b>Stall 1</b></p>
-<p style="text-align:center"><b>Japanese / Korean / Thai Cuisine / Vegetarian Food</b></p>
+<p style="text-align:center"><b>Stall 1 - Japanese / Korean / Thai Cuisine / Vegetarian Food</b></p>
 
-<p style="text-align:center"><b>Stall 4</b></p>
-<p style="text-align:center"><b>Chinese Economy Rice Stall</b></p>
+<p style="text-align:center"><b>Stall 4 - Chinese Economic Rice Stall</b></p>
 
 <p style="text-align:justify"><b>1. Requirements for Applicants</b></p>
 
