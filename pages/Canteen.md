@@ -16,7 +16,6 @@ Bendemeer Secondary School Canteen</b></p>
 * <p style="text-align:justify">Able to provide quality food that meet the health/nutritional standards set by the Health Promotion Board, Healthy Meals in School Programme (HMSP). Applicants may also visit <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme"> https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a> for more details.</p>
 * <p style="text-align:justify">Able to provide good service and keep food warm consistently.  Detailed proposed pricing and menu will be determined after consultation with the successful applicant and the School’s Canteen Committee.</p>
 * <p style="text-align:justify">Able to observe a high standard of food and personal hygiene as stipulated by Ministry of the Environment and Singapore Food Agency. </p>
-* <p style="text-align:justify">Applicants should preferably be able to start operating the stall on Monday, 26 June 2023. Starting date is negotiable.</p>
 
 <p style="text-align:justify"><b>2.	Additional Requirements</b></p>
 <p style="text-align:justify">Applicants must also meet the following requirements:</p>
@@ -43,7 +42,7 @@ iv.	Previous NEA licences, if any
 
 <p style="text-align:justify"><b>4.	Application Closing Date</b></p>
 
-* <u>Thursday, 1 June 2023</u> 
+* <u>Thursday, 31 August 2023</u> 
 
 * <p style="text-align:justify">Submit the completed application form and documents by closing date via email or to the school’s General Office:</p>
 Address: 1 St Wilfred Road S327919<br>
