@@ -36,4 +36,5 @@ Sec 3 Prize Recipients<br>
 
 <div class="google-slides-container">
 
-<iframe allowfullscreen="true" height="589" width="840" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6qs2a1Ejx-Ov\_cAL3vmkcLATnOY8tyIesUtn\_l0avGgVijne\_N1wTa9P4hvMAcVniFh6ZXheCoGoo/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div>
+
+<iframe allowfullscreen="true" height="589" width="840" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6qs2a1Ejx-Ov_cAL3vmkcLATnOY8tyIesUtn_l0avGgVijne_N1wTa9P4hvMAcVniFh6ZXheCoGoo/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe></div>
