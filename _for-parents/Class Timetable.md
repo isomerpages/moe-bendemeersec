@@ -3,7 +3,7 @@ title: Class Timetable
 permalink: /for-parents/class-timetable/
 description: ""
 ---
-#### **Class timetables for Term 2  2023**
+#### **Class timetables for Term 3  2023**
 
 |  |  | 
 | -------- | -------- | 
