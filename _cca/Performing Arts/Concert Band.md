@@ -54,7 +54,7 @@ LIMELIGHT 2018</td>
 </tbody>
 </table>
 
-About the Concert Band:
+#### About the Concert Band
 
 <p style="text-align:justify">The Bendemeer School Band meets twice a week, Mondays &amp;Thursdays, from 3 pm to 6 pm to train its band members. Besides learning the proper playing of the musical instruments, the band members were given the exposure and opportunity to lead their fellow bandmates too.  Roles such as drum majors, band majors, quarter masters and librarians which are essential roles in a school band have actually developed in the members, responsibility, resilience and most importantly harmony which relates to their healthy interactions amongst the members. </p>
 
@@ -72,4 +72,3 @@ About the Concert Band:
 **- Caton Hua Yuan Guan (3R2)**
 
 ![](/images/Cca/cca-concertband-04.jpg)
- 
