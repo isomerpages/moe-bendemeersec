@@ -4,16 +4,15 @@ permalink: /cca/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
 ---
-|  **Teachers-in-Charge:** | Mdm Noorlizah Osman(I/C) | 
+|  **Teachers-in-Charge:** | Mdm Lim Ying Shung (I/C)  | 
 | -------- | -------- |
-|  | Mdm Lim Ying Shung (2I/C) |
+|  | Mdm Noorlizah Osman(2I/C) |
 |  | Ms Ng Qian Hui |
 |  | Mrs Ivy Lim Gek Hoon |
-|**Instructors:** | Mr Joseph Teo|
-|  | Mr Alvin Quek |
-|**Band Majors:** |  Jesse Ng Ren Jie (4R3)  |
-|  |  Lim En Jie Janavia (4R2) |
-|**Drum Majors:** |  Kirthik Vnesh Naidu S/O Alwar Naidu (4R1)| 
+|**Instructors:** | Mr Teo Kin Hui, Joseph|
+|  | Mr Kow Kang Yue Don |
+|**Band Majors:** |  Cui Xinran (3R1)  |
+|**Drum Majors:** |  Caton Hua Yuan Guan (3R2)| 
 |  |  |
 
 | Training days: | Mondays and Thursdays  |
@@ -37,8 +36,20 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3jrd">SINGAPORE YOUTH FESTIVAL 2021 ARTS PRESENTATION<br>
-Concert Band (Certificate of Accomplishment)</td>
+    <td class="tg-3jrd">
+		SINGAPORE YOUTH FESTIVAL 2023 ARTS PRESENTATION<br>
+Concert Band (Certificate of Accomplishment)<br>
+			<br>
+SINGAPORE YOUTH FESTIVAL 2021 ARTS PRESENTATION<br>
+Concert Band (Certificate of Accomplishment)<br>
+			<br>
+SINGAPORE YOUTH FESTIVAL 2019 ARTS PRESENTATION<br>
+Concert Band (Certificate of Distinction)<br>
+			<br>
+SINGAPORE YOUTH FESTIVAL 2017 ARTS PRESENTATION<br>
+Concert Band (Certificate of Distinction)<br><br>
+LIMELIGHT 2023<br><br>
+LIMELIGHT 2018</td>
   </tr>
 </tbody>
 </table>
