@@ -7,10 +7,10 @@ third_nav_title: Performing Arts
 |  **Teachers-in-Charge:** | Mdm Noor Aisyah (I/C) | 
 | -------- | -------- |
 |  | Ms Kelly Lee Ai Ling (2I/C) |
-|  |  Mdm Waheeda Bte Mohammad|
-|**Instructor:** | Mr Khye Loh|
-|**President:** |  Tan Zhi Ning (4R6) |
-|**Vice-President:** |  Gurpal Singh Saini (4R5)    |
+|**Instructor:** | Mr M. Traveen|
+|**President:** |  Naila Najiba Binte Muhammad Nabil (3R1) |
+|**Vice-President:** |  Xiang Bingbin (3R2)   |
+|**Captain:**|Nur Diniy Insyirah Binte Azmi (3R8)  |
 |  |  |
 
 | Training days: | Tuesdays  | Thursdays |
@@ -34,22 +34,33 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3jrd">SINGAPORE YOUTH FESTIVAL 2021 ARTS PRESENTATION<br>Modern Dance (Certificate of Accomplishment)</td>
+    <td class="tg-3jrd">SINGAPORE YOUTH FESTIVAL 2023 ARTS PRESENTATION<br> 
+International Dance (Certificate of Distinction)<br>
+			<br>  
+SINGAPORE YOUTH FESTIVAL 2021 ARTS PRESENTATION
+<br> International Dance (Certificate of Accomplishment)
+<br> 
+			<br> 
+SINGAPORE YOUTH FESTIVAL 2019 ARTS PRESENTATION
+<br> International Dance (Certificate of Distinction)<br> 
+			<br> 
+SINGAPORE YOUTH FESTIVAL 2017 ARTS PRESENTATION
+<br> International Dance (Certificate of Distinction)</td>
   </tr>
 </tbody>
 </table>
 <br>
 
 
-<p style="text-align:justify">We faced 2021 with anticipation and enthusiasm even though we knew that Covid-19 was still prevalent in our society. News that training would resume delighted one and all. The dancer inside of us was itching to break free. No wonder they say that dance is a form of expression.</p>
+<p style="text-align:justify">The year 2023 has presented us with significant tests of patience, resilience, and adaptability. A significant portion of our club members joined during the Covid period, which not only required us to refine our skills and boost our confidence but also to learn how to effectively collaborate as a cohesive club.</p>
 
-<p style="text-align:justify">We started the year off with the Secondary One Orientation where the students would have a chance to show off some moves during the audition process. Our instructor, Mr Khye, single-handedly carried out the auditions to spot potential talents. This was no easy task but he managed to clinch us some hidden gems.</p>
+<p style="text-align:justify">We commenced the year by actively promoting our club at Bendemeer's CCA fair. This event had not been held for several years, making it a unique experience for both the juniors and the seniors. Subsequently, we conducted auditions to recruit new dance members into our team. We then dedicated ourselves to rigorous training sessions in preparation for the Singapore Youth Festival (SYF), all while simultaneously preparing for our Chinese New Year Celebration.</p>
 
-<p style="text-align:justify">After the auditions, the dance club moved full steam ahead. We had no time to rest as the Singapore Youth Festival (SYF) Arts Presentation was up ahead. This would be no easy feat with all the Safety Management Measures (SMM) that we had to ensure were in place. This was the time that our perseverance was really tested, we had to juggle between our numerous practices, school work and our family duties. There were times when we broke down but we pulled ourselves back up as a club by reflecting on our motto ‘Dance to express, not to impress’. This was our opportunity to express ourselves freely and to make our school proud. We succeeded as we were awarded a Certificate of Accomplishment in the SYF Central Judging for Dance (International).</p>
+<p style="text-align:justify">During the wait for the new members, our SYF performers diligently persevered, investing their time and effort into thorough preparation. With three practice sessions per week and additional self-practice sessions, we not only witnessed different facets of each other's talents but also fostered a stronger bond within the team. This journey resulted in us getting the highest level of achievement, the Certificate of Distinction.</p>
 
-<p style="text-align:justify">After SYF was over, we welcomed in the Secondary One students where Mr Khye taught them the proper techniques of doing warm ups so that they would not get hurt and also a choreography to test their memory. Sad to say, these physical sessions were cut short due to the implementation of Home-Based Learning (HBL). However, to keep their passion in dance burning, we carried on with CCA Zoom sessions. The students found it interesting and even asked when the next one would be held.</p>
+<p style="text-align:justify">Personally, I never considered myself an art student, as my interests lay outside the realm of performing arts. However, being a part of this CCA has not only provided me with new knowledge and skills but also a sense of belonging. Dance has become an integral part of my identity, and I am eternally grateful for the opportunities this CCA has afforded me.</p>
 
-<p style="text-align:justify">These past few months have really been challenging however we are looking forward to burn up the dance floor once the situation improves.</p>
+<p style="text-align:justify">Most recently, we showcased our talents during Bendemeer's 46th Speech Day. Additionally, we have begun integrating our training sessions to foster unity within the club, irrespective of our individual levels. This year has been marked by unwavering support from the school leaders, teachers, and instructors, for which we are immensely grateful. We eagerly anticipate the opportunity to present more remarkable performances in the future.</p>
 
 
 
