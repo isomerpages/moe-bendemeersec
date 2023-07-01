@@ -7,12 +7,13 @@ third_nav_title: Uniformed Groups
 |**Teachers-in-Charge:**| A/ASP (NPCC) Ms Sabrina Wee Gui Fen (OC)   |
 |---|---|
 |  |  ASP (NPCC) Mr Oh Tze Ming (2I/C)  |
-| **SPF-NPCC Award Recipients 2021** | SARAH ZOE SUNG (4R1)  |
-|  |  JUNETTE ONG JING QING (4R2) |
-|**Best Unit Cadet**  |  CATHERINE LIM MEI NA (4R2) |
-|  | KAMAL SYED YOUSUF (4R3)  |
-| **Station Inspectors** | CATHERINE LIM MEI NA (4R2)  |
-|  | JUNETTE ONG JING QING (4R2)  |
+||Mr Ong Pei Huat Brandon |
+| **SPF-NPCC Award Recipients 2021** | K SALEEMA D/O KUTHUBUDEEN (4R1)<br> |
+|  |  HRITHIC KESH DHARMENDIRAN (4R1) |
+|**Best Unit Cadet**  | HRITHIC KESH DHARMENDIRAN (4R1) |
+|  | SOH XIU YUN (4R6)|
+| **Station Inspectors** | K SALEEMA D/O KUTHUBUDEEN (4R1)|
+|  | NEO WEI QUAN RYAN (4R1) |
 |  |  |
 
 
@@ -39,7 +40,7 @@ third_nav_title: Uniformed Groups
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3jrd">UNIT OVERALL PROFICIENCY AWARD 2021
+    <td class="tg-3jrd">UNIT OVERALL PROFICIENCY AWARD 2017 - 2021
 <br>National Police Cadet Corps (Gold)</td>
   </tr>
 </tbody>
