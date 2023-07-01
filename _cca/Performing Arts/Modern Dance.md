@@ -58,8 +58,6 @@ SINGAPORE YOUTH FESTIVAL 2017 ARTS PRESENTATION
 
 <p style="text-align:justify">During the wait for the new members, our SYF performers diligently persevered, investing their time and effort into thorough preparation. With three practice sessions per week and additional self-practice sessions, we not only witnessed different facets of each other's talents but also fostered a stronger bond within the team. This journey resulted in us getting the highest level of achievement, the Certificate of Distinction.</p>
 
-<p style="text-align:justify">Personally, I never considered myself an art student, as my interests lay outside the realm of performing arts. However, being a part of this CCA has not only provided me with new knowledge and skills but also a sense of belonging. Dance has become an integral part of my identity, and I am eternally grateful for the opportunities this CCA has afforded me.</p>
-
 <p style="text-align:justify">Most recently, we showcased our talents during Bendemeer's 46th Speech Day. Additionally, we have begun integrating our training sessions to foster unity within the club, irrespective of our individual levels. This year has been marked by unwavering support from the school leaders, teachers, and instructors, for which we are immensely grateful. We eagerly anticipate the opportunity to present more remarkable performances in the future.</p>
 
 
@@ -107,3 +105,7 @@ On standby to perform our SYF Arts Performance piece to the Speech Day audience
 <p style="text-align:justify; font-style:italic">I joined the CCA because I have a keen interest in Dance. I also feel that dancing is one way for me to relieve my stress especially at times when I feel overwhelmed. Overall, being in the Dance CCA has taught me to be more confident in expressing my emotions. My fellow Dance Club members have been very friendly, helpful and welcoming. I feel very comfortable being in the club and I truly enjoy being a member of the Dance CCA. </p>
 
 **- Nur Diniy Insyirah (3R8)**
+
+<p style="text-align:justify; font-style:italic">Personally, I never considered myself an art student, as my interests lay outside the realm of performing arts. However, being a part of this CCA has not only provided me with new knowledge and skills but also a sense of belonging. Dance has become an integral part of my identity, and I am eternally grateful for the opportunities this CCA has afforded me. </p>
+
+**- Naila Najiba (3R1)**
