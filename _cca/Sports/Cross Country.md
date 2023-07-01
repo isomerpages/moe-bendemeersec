@@ -9,15 +9,15 @@ third_nav_title: Sports
 |  | Mr Daryl Toy Choy Teck(2I/C) |
 |  |Mrs Yap Bee Hong |
 |**Coach:** | Mr S Pandian|
-|**Captains:** | Chua Yong Jin (4R2) |
-|**Vice-Captains:** |  Yeo Daxson (4R2)     |
+|**Captains:** | Sudharsan Maithreayan (3R3) |
+|**Vice-Captains:** |  Siddharth Arunkumar (3R1)     |
 |  |  |
 
 | Training days: | Tuesdays and Thursdays  |
 | - | -|
 | Duration: |  4.00pm - 6.00pm |
 
-<img src="/images/Cca/cca-crosscountry-01n.jpg" alt="Training in school" style="width:400px" />
+![]()
 
 
 <p style="text-align:justify">Since the Circuit Breaker was declared last year, the school’s Cross Country team has been facing unprecedented challenges. The team has not been able to participate in competitions and even the regular team training sessions have also been disrupted.  Indeed, the strength and resilience of the team have never been tested and stretched to such extent before until now.</p>
@@ -27,7 +27,7 @@ Full steam ahead
 
 <p style="text-align:justify">However, in April 2021, the team was given the opportunity to participate in the Virtual Inter-School Challenge 2021.  Despite having a huge disadvantage of running on turf grass which provides little friction, the team put in their best and performed beyond expectations. Many of those who took part managed to attain their personal best timing, Koh Jin En (4R1) came in 14th  place for the B Girls Category while for the B Boys’ Category, both Rizyan Idzhar (3R8) and P Sakteeshwaren (4R3) emerged 69th place with the same exact timing.</p>
 
-<img src="/images/Cca/cca-crosscountry-03.jpg" alt="Pushing ahead" style="width:300px" />
+<img src="/images/Cca/cca-crosscountry-03.jpg" alt="Pushing ahead" style="width:300px">
 
 
 
