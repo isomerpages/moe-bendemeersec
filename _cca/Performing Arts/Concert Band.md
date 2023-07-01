@@ -71,12 +71,12 @@ LIMELIGHT 2018</td>
 
 **- Caton Hua Yuan Guan (3R2)**
 
-![](/images/Cca/cca-concertband-04.jpg)
+![](/images/Cca/cca-concertband-n01.jpg)2023 Sec 1 Orientation
 
-![](/images/Cca/cca-concertband-04.jpg)
+![](/images/Cca/cca-concertband-n02.jpg)2023 Band Exchange at Bedok South Secondary School
 
-![](/images/Cca/cca-concertband-04.jpg)
+![](/images/Cca/cca-concertband-n03.jpg)Practicing in the Band Room
 
-![](/images/Cca/cca-concertband-04.jpg)
+![](/images/Cca/cca-concertband-n04.jpg)Singapore Youth Festival 2023 AP
 
-![](/images/Cca/cca-concertband-04.jpg)
+![](/images/Cca/cca-concertband-n05.jpg)Singapore Youth Festival 2023 AP
