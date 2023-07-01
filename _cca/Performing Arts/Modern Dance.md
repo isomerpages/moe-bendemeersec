@@ -64,19 +64,19 @@ SINGAPORE YOUTH FESTIVAL 2017 ARTS PRESENTATION
 
 
 
-![Singapore Youth Festival presentation](/images/Cca/cca-dance-n01.jpg)
-###### Return to normalcy - our first ever CCA Orientation Day after a 2-year hiatus
+![CCA Orientation Day](/images/Cca/cca-dance-n01.jpg)
+Return to normalcy - our first ever CCA Orientation Day after a 2-year hiatus
 
-![Return from Singapore Youth Festival competition](/images/Cca/cca-dance-n02.jpg)
+![usher in the Year of the Rabbit](/images/Cca/cca-dance-n02.jpg)
 All decked in red to usher in the Year of the Rabbit
 
-![Singapore Youth Festival street dance team](/images/Cca/cca-dance-n03.jpg)
+![Singapore Youth Festival](/images/Cca/cca-dance-n03.jpg)
 Group shot before boarding the bus to University Cultural Centre for the SYF Arts Presentation
 
-![2022 CCA Group Photo](/images/Cca/cca-dance-n04.jpg)
+![post SYF Arts Performance](/images/Cca/cca-dance-n04.jpg)
 All smiles post SYF Arts Performance
 
-![2022 CCA Group Photo](/images/Cca/cca-dance-n05.jpg)
+![Speech Day Peformance](/images/Cca/cca-dance-n05.jpg)
 On standby to perform our SYF Arts Performance piece to the Speech Day audience
 
 <p style="text-align:justify; font-style:italic">I find Dance CCA fun but it takes a lot of patience and motivation. I also enjoy going to CCA as I get to meet other dancers and learn different tricks and tips from them.</p>
