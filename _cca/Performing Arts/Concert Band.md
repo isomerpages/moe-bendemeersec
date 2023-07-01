@@ -72,3 +72,11 @@ LIMELIGHT 2018</td>
 **- Caton Hua Yuan Guan (3R2)**
 
 ![](/images/Cca/cca-concertband-04.jpg)
+
+![](/images/Cca/cca-concertband-04.jpg)
+
+![](/images/Cca/cca-concertband-04.jpg)
+
+![](/images/Cca/cca-concertband-04.jpg)
+
+![](/images/Cca/cca-concertband-04.jpg)
