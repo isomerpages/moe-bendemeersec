@@ -82,8 +82,11 @@ Our lively Dance members!
 **-Syarizah (1C4)**
 
 
-<p style="text-align:justify; font-style:italic">I feel that dance is a good way to learn resilience as we have Physical Training and we have to push through it. Even when we do not get the dance moves at first, we have to keep practicing with the help of seniors and the instructor. - Kwok Wen Qi, Vanessa, 1C8
-CCA so far has been going well for me and I no longer feel tense during CCA. Instead, I feel happy to come for training. I would like to improve my performance in the CCA by pushing myself to the next level and work hard to become the best dancer I can be. </p>
+<p style="text-align:justify; font-style:italic">I feel that dance is a good way to learn resilience as we have Physical Training and we have to push through it. Even when we do not get the dance moves at first, we have to keep practicing with the help of seniors and the instructor. </p>
+	
+**- Kwok Wen Qi, Vanessa (1C8)**
+
+<p style="text-align:justify; font-style:italic">CCA so far has been going well for me and I no longer feel tense during CCA. Instead, I feel happy to come for training. I would like to improve my performance in the CCA by pushing myself to the next level and work hard to become the best dancer I can be. </p>
 
 **- Reeya (2R2)**
  
