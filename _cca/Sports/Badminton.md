@@ -18,15 +18,19 @@ third_nav_title: Sports
 <p style="text-align:justify">
 Badminton has been very popular among Bendemeerians for years. The training always gives members a good muscle stretching and strong mind stimulation after a long day. Teams  willingly allow more players to join in as there are only 4 Badminton courts at the Indoor Sports Hall and enjoy the camaraderie. After a 1 hour game, you can see the perseverance as they carry on the match all sweaty.  </p>
 
-![Basic Strokes](/images/Cca/cca-badmin-i-Basic-stroke-768x576.jpg)
-Basic Strokes
+![Our members having fun](/images/Cca/cca-badminton-n01.jpg)Our members having fun
+
 <p style="text-align:justify">
 Many of the members are from the Secondary 4 and 5 cohort, almost half being girls. They love how they could outwit each other in the matches, as they try to coax more girls to join them.   </p>
 
-![Hand-eye coordination](/images/Cca/cca-badmin-i-Hand-eye-coordination-768x576.jpg)
+![Serious match](/images/Cca/cca-badminton-n02.jpg)
 
 <p style="text-align:justify">
 Our outgoing Captain, Ng Choon Lin having a serious match with his classmates during one of the training days. When asked, CCA members agreed the fun and non-competitive aspects of the training was what they wanted most.</p>
+
+![](/images/Cca/cca-badminton-n03.jpg)
+
+![](/images/Cca/cca-badminton-n04.jpg)
 
 #### Student Reflections
 <p style="text-align:justify; font-style:italic">
