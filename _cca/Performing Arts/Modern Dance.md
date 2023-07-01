@@ -77,19 +77,28 @@ Singapore Youth Festival street dance team
 Our lively Dance members!
 
 
-<p style="text-align:justify; font-style:italic">These four years have been like a roller coaster to me. During this time, I have learnt to become a much stronger and a more confident person. I will never forget this amazing journey with such fabulous people. These past few years have been tough due to the ongoing pandemic, coping with both CCA and schoolwork. However, I am proud that as a team we have managed to pull through and emerged stronger dancers. I am proud of being a part of TSA and I want to thank everyone who has given me a helping hand along the way.</p>
+<p style="text-align:justify; font-style:italic">I find Dance CCA fun but it takes a lot of patience and motivation. I also enjoy going to CCA as I get to meet other dancers and learn different tricks and tips from them.</p>
 
-**- Tan Zhi Ning (President)**
+**-Syarizah (1C4)**
 
 
-<p style="text-align:justify; font-style:italic">My time in the dance club has been fantastic as I have made many friends and have finally fulfilled the dream of learning how to dance. I remember vividly when I was in Secondary One, I was so inspired by the dancers from the club that I made dance my number 1 choice. What moves me is that the dancers are all so nice and caring to one another. The stronger dancers even help the weaker ones without complaints. This is the main reason why I have improved tremendously over the years and I am very thankful to those who have helped me in my growth.</p>
+<p style="text-align:justify; font-style:italic">I feel that dance is a good way to learn resilience as we have Physical Training and we have to push through it. Even when we do not get the dance moves at first, we have to keep practicing with the help of seniors and the instructor. - Kwok Wen Qi, Vanessa, 1C8
+CCA so far has been going well for me and I no longer feel tense during CCA. Instead, I feel happy to come for training. I would like to improve my performance in the CCA by pushing myself to the next level and work hard to become the best dancer I can be. </p>
 
-**- Gurpal Singh Saini (Vice-President)**
-
-![](/images/Cca/cca-dance-05.jpg)
+**- Reeya (2R2)**
  
-<p style="text-align:justify; font-style:italic">My journey in dance has been a memorable and enjoyable experience. I was able to overcome challenges and gain confidence with the help of the people around me in the dance club. I have not only gained much skills and techniques in dance but am also able to build long-lasting friendships with my members. Through this journey that I have had with the dance club, I have realised the importance of teamwork, determination and perseverance. All these coupled with the positive environment from the club has made me achieve success.</p>
+<p style="text-align:justify; font-style:italic">My experience in the CCA has been very interesting . CCA is my place of comfort and yes it can be tiring most of the time. However, it is all worth it in the end. Having the opportunity to perform in the SYF has to be the best experience in my CCA journey. I learnt many valuable lessons and I am very sure that there will be more to come.</p>
 
-**- Nur Rafidah Binte Mohamed Rafi (4R4)**
+**- Nur Sarah Ellyana (2R3)**
 
-![](/images/Cca/cca-dance-06.jpg)
+<p style="text-align:justify; font-style:italic">I have learnt to never give up and to push myself when I am tired. I also realised that as a team, we can achieve whatever we aim for. We just have to have faith and trust one another.</p>
+
+**- Vishnavi (2R4)**
+
+<p style="text-align:justify; font-style:italic">I feel that being in the Dance CCA has allowed me to experience growth. I also feel that as a team, we are taking it up a notch higher and growing together. CCA has taught me important life lessons such as being resilient in the mind and in the heart. I have started to develop a mindset that is ready for any possibilities - failure or success. I am proud of where my team and I are at right now as we continue to push through and achieve greater heights. </p>
+
+**- Naw Eh Gay Su Lwin (3R5)**
+
+<p style="text-align:justify; font-style:italic">I joined the CCA because I have a keen interest in Dance. I also feel that dancing is one way for me to relieve my stress especially at times when I feel overwhelmed. Overall, being in the Dance CCA has taught me to be more confident in expressing my emotions. My fellow Dance Club members have been very friendly, helpful and welcoming. I feel very comfortable being in the club and I truly enjoy being a member of the Dance CCA. </p>
+
+**- Nur Diniy Insyirah (3R8)**
