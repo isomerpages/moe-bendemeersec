@@ -74,7 +74,7 @@ At the heart of our training principles is the 6A framework which provides direc
 
 <p style="text-align:justify">Cadets’ achievements are recognised through attaining skill proficiency badges and rank promotion. Outstanding cadets will be nominated for the pinnacle SPF-NPCC Badge and promotion to the rank of Station Inspector.</p>
 
-![](/images/Cca/cca-npcc-n03.jpg)
+![Henderson Wave](/images/Cca/cca-npcc-n03.jpg)Combined Uniformed Group Hike passing through Henderson Wave
 
 #### 4 year Programme Highlights
 Learning about Police work:
@@ -84,9 +84,9 @@ Learning about Police work:
 * Handling of .22 revolver
 * Police and Law establishment visits, eg K9 unit, Police Heritage Centre, Rochor Neighbourhood Police Centre visit, Fire Station visit
 
-![](/images/Cca/cca-npcc-n04.jpg)Combined Uniform Group Passing Out Parade
+![Passing Out Parade](/images/Cca/cca-npcc-n04.jpg)Combined Uniform Group Passing Out Parade
 
-![](/images/Cca/cca-npcc-n05.jpg)Visit to Central Fire Station
+![Visit to Central Fire Station](/images/Cca/cca-npcc-n05.jpg)Visit to Central Fire Station
 
 Outdoor activities:
 * Adventure Training camp at Pulau Ubin
@@ -102,6 +102,10 @@ Working with community:
 * Biscuit Distribution for elderly staying in 1 room flats (VIA)
 * National Day observance ceremony at Kolam Ayer community Club
 
+![Community Outreach Programme](/images/Cca/cca-npcc-n08.jpg)Community Outreach Programme @ Kolam Auer Community Club
+
+![Biscuit Distribution](/images/Cca/cca-npcc-n09.jpg)Biscuit Distribution for Elderly staying in 1 room flats (Values-In-Action)
+
 Inter-Unit Competitions:
 * Drills competition
 * Campcraft competition
@@ -110,6 +114,8 @@ Inter-Unit Competitions:
 
 
 For more information, visit [https://www.npcc.org.sg/index.html](https://www.npcc.org.sg/index.html)
+
+![Secondary 1 Camp ](/images/Cca/cca-npcc-n10.jpg)Secondary 1 Camp organised by the cadet leaders
 
 
 Cadet Reflections
@@ -127,3 +133,5 @@ Cadet Reflections
 <p style="text-align:justify; font-style:italic">NPCC has instilled many core values in me and developed me into a better person. Though training can be arduous at times, I still find NPCC enjoyable because of the fond memories I hold with my squadmates thus far.</p>
 
 **- LCP(NPCC) KOH YU EN EMELYN (3R1)**
+
+![Let's be part of the Bendemeer NPCC family!](/images/Cca/cca-npcc-n11.jpg)Let's be part of the Bendemeer NPCC family!
