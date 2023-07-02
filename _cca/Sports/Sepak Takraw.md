@@ -9,14 +9,14 @@ third_nav_title: Sports
 |  | Mr Zulkifli Bin Khamis (2I/C) |
 |  | Ms Vimala D/O Selvarasu |
 |**Coach:** | Mr Juraime Bin Atan|
-|**Captain 'B' Boys:** | Tharunesh Sahadevan (4R8) |
-|**Vice-Captain 'B' Boys:** | Mohamed Zulazim Bin Zulkifli (3R8) |
-|**Captain 'C' Boys:** |  Muhammad Firdaus Bin Repin (2R6)  |
+|**Captain 'B' Boys:** | Mohamed Zulazim Bin Zulkifli (3R8) |
+|**Vice-Captain 'B' Boys:** | Muhd Izzan Bin Mohd Azlan (3R6) |
+|**Captain 'C' Boys:** |  Surya S/O Sikkander (2R8)  |
 |  |  |
 
 | Training days: | Mondays and Wednesday  |
 | - | -|
-| Duration: |  3.00pm - 5.00pm |
+| Duration: |  3.00pm - 6.00pm |
  
 **Objectives** <br>
 To uphold the five school values when participating in CCA activities.
@@ -62,7 +62,7 @@ To uphold the five school values when participating in CCA activities.
 
 <p style="text-align:justify">The CCA comprises Secondary 1 to Secondary 4 students who are enthusiastic and motivated to learn the skills of the sport. The students play the game at recreational and competitive level. They are trained, guided and supervised by 3 dedicated teachers and a coach.</p> 
 
-<p style="text-align:justify">Bendemeer Sepak Takraw kicked start the year by recruiting new members from Secondary One through skill testing sessions during the orientation week. After several sessions of intensive trainings, we had our friendly matches between the ‘B’ and ‘C’ division boys to assess our players’ readiness and competiveness.  These matches and trainings provide us with a great opportunity to build good and strong friendship with others. It also gives the new members a good platform for team bonding.</p> 
+<p style="text-align:justify">Bendemeer Sepak Takraw kicked start the year by recruiting new members from Secondary One through skill testing sessions during the orientation week. After several sessions of intensive trainings, we had our friendly matches between the ‘B’ and ‘C’ division boys to assess our players’ readiness and competitiveness.  These matches and trainings provide us with a great opportunity to build good and strong friendship with others. It also gives the new members a good platform for team bonding.</p> 
 
 ![](/images/Cca/cca-takraw-n-01.jpg)
 
@@ -74,32 +74,25 @@ To uphold the five school values when participating in CCA activities.
 
 <p style="text-align:justify; font-style:italic">This year is an unforgettable moment for me as it is my first time taking part in a competition and getting to know more about Sepak Takraw. I learnt a lot and will continue to improve my skills in Sepak Takraw. I am not shy to seek help from my team mates to be a better player.</p>
 
-**- Mohamed Zulazim Bin Zulkifli - (3R8)**
+**- Mohamed Zulazim Bin Zulkifli - (4R8)**
 
 <p style="text-align:justify; font-style:italic">I train hard in Sepak Takraw and has improved basic juggling skills and communication skills too . Without these skills, we will not be able to play well during the competitive matches . My advice to anybody reading this, never give up or lose hope . Just enjoy your CCA and even if you lose, just train harder next time.</p>
 
-**- Muhammad Firdaus Bin Repin – (2R6)**
+**- Muhammad Firdaus Bin Repin – (3R5)**
 
 <p style="text-align:justify; font-style:italic">The training for Sepak Takraw this year was hard and tiring but it was also rewarding as we were able to hone our basic skills. Even though occasionally I was a reserve player during the national school games competitions, I can see that my team mates used the skills they have learnt from training, resulting in some wins for our team.</p>
 
-**- Muhammad Riyan Rifqi Bin Rahman – (2R5)**
+**- Muhammad Riyan Rifqi Bin Rahman – (3R5)**
 
 <p style="text-align:justify; font-style:italic">This is my first time playing Sepak Takraw as a CCA. It was a great experience as I have learnt a lot from my coach and team mates. Although the training was tiring, it was also fun. We played matches against our own team mates. In this way, we practised how to upgrade our skills and be ready for the coming competitions.</p>
 
-**- Ilham Aidan Bin Mohammad Hariyanto – (1C5)**
+**- Ilham Aidan Bin Mohammad Hariyanto – (2R5)**
 
-![](/images/Cca/cca-takraw-n-03.jpg)
 
-<p style="text-align:justify; font-style:italic">I am happy that despite the pandemic situation, I manage to play Sepak takraw to represent the school as this will be my last year with the school. We were not able to train much due to the occasional school closure for students, however we gave our best during the available training sessions and the competition. As the Team Captain, I can say that we  have forged stronger ties and hope our friendships will last beyond the secondary school years.</p>
+<p style="text-align:justify; font-style:italic">I have no chance to join Sepak Takraw in primary school due to my other commitments.I instantly fell in love with it the day i came in for the first training. I enjoy the training very much. i learn new skills and techniques in every training session and practise hard  under he supervision of the strict but kind coach. </p>
 
-**- Ayob Bin Mohd Jaaffar , Team Captain – B Division (4R8)**
+**- Muhd Danish Nur Fahim Bin Muhdf Yazid Fahmi ()**
 
-<p style="text-align:justify; font-style:italic">I love playing Sepak takraw. It teaches me skills and the importance of teamwork. It also teaches me to be more self-disciplined and a motivator to my teammates especially during a game. Communication is an important aspect as we need to work together to win. Since I have started playing Sepak takraw, I have become a better player and a more importantly, a better student.</p>
+<p style="text-align:justify; font-style:italic"> I enjoy the training a lot and experience new things in every training session. I hope to learn more new skills and represent the school team in the competition.</p>
 
-**- Mohamed Zu’eirmanshah Bin Mohamed Nesani (4R5)**
-
-<p style="text-align:justify; font-style:italic">I like Sepak Takraw because there are many ‘cool’ tricks that you can learn to be a better player. The teachers and coach are friendly. If you need help to better yourself, the coach will be there to advise and provide guidance for you. I can say that my skills have improved over the years under his guidance and with constant practice.</p>
-
-**- Muhammad Rahul bin Mohamed Raffi (4R8)**
-
-![](/images/Cca/cca-takraw-n-04.jpg)
+**- Syakir Riyan Putera Ramli (1C6)**
