@@ -46,12 +46,16 @@ third_nav_title: Uniformed Groups
 </tbody>
 </table>
 
-<p style="text-align:justify">The National Police Cadet Corps (NPCC) was formed in 1959 and is one of the longest standing uniformed youth organisations in Singapore today with a proud heritage. 
-The mission of the National Police Cadet Corps is to develop our members to be active citizens and community leaders, by working in partnership with Singapore Police Force to fight crime and keep Singapore safe. </p>
+<p style="text-align:justify">The National Police Cadet Corps (NPCC) was formed in 1959 and is one of the longest standing uniformed youth organisations in Singapore today with a proud heritage. </p>
+
+<p style="text-align:justify">The mission of the National Police Cadet Corps is to develop our members to be active citizens and community leaders, by working in partnership with Singapore Police Force to fight crime and keep Singapore safe. </p>
+
+![Police Heritage Centre Visit](/images/Cca/cca-npcc-n01.jpg)Police Heritage Centre Visit
 
 <p style="text-align:justify">Through a variety of activities, the values of resilience, integrity, service, and excellence are inculcated in our youth. These values will enable them to develop into caring and responsible citizens with a sense of purpose to serve the community.
 </p>
 
+![Visit to Rochor Neighbourhood Police Post](/images/Cca/cca-npcc-n02.jpg)Visit to Rochor Neighbourhood Police Post
 
 <p style="text-align:justify">
 
@@ -70,7 +74,7 @@ At the heart of our training principles is the 6A framework which provides direc
 
 <p style="text-align:justify">Cadets’ achievements are recognised through attaining skill proficiency badges and rank promotion. Outstanding cadets will be nominated for the pinnacle SPF-NPCC Badge and promotion to the rank of Station Inspector.</p>
 
-
+![](/images/Cca/cca-npcc-n03.jpg)
 
 #### 4 year Programme Highlights
 Learning about Police work:
@@ -80,10 +84,18 @@ Learning about Police work:
 * Handling of .22 revolver
 * Police and Law establishment visits, eg K9 unit, Police Heritage Centre, Rochor Neighbourhood Police Centre visit, Fire Station visit
 
+![](/images/Cca/cca-npcc-n04.jpg)Combined Uniform Group Passing Out Parade
+
+![](/images/Cca/cca-npcc-n05.jpg)Visit to Central Fire Station
+
 Outdoor activities:
 * Adventure Training camp at Pulau Ubin
 * Combined UG hike
 * 1 star Kayaking certification
+
+![](/images/Cca/cca-npcc-n06.jpg)School based Adventure Training Camp. Cadets learnt about outdoor survival skills
+
+![](/images/Cca/cca-npcc-n07.jpg)Combined Uniformed Group Dragon Boat activity
 
 Working with community:
 * Outreach programmes with Rochor Neighbourhood Police Centre
