@@ -118,7 +118,7 @@ For more information, visit [https://www.npcc.org.sg/index.html](https://www.npc
 ![Secondary 1 Camp ](/images/Cca/cca-npcc-n10.jpg)Secondary 1 Camp organised by the cadet leaders
 
 
-Cadet Reflections
+#### Cadet Reflections
 
 <p style="text-align:justify; font-style:italic">I joined NPCC since Sec 1 and I have had a very fun experience in the CCA. Being in NPCC taught me qualities such as perseverance, resilience, respect, integrity, responsibility, team work, care and trust. As a cadet leader, we have a lot more responsibilities such as planning for weekly training and sec 1 camp, all the while ensuring that our own drills and skills are up to standard.</p>
 
