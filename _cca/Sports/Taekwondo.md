@@ -76,18 +76,20 @@ Kyrogi Events: 1 Gold, 1 Silver and 3 Bronze
 </tbody>
 </table>
 
-![](/images/Cca/cca-taekd-01.jpg)
+![](/images/Cca/cca-taekwondo-n01.jpg)
+National Schools Games 2023
 
-<p style="text-align:justify">Our members trained hard to perfect their routines, especially in synchronising with team members for the team events. We managed to obtain one silver and three bronze medals for the National Schools Games and we were also the Overall Champion for the Kallang Community Club Taekwondo Competition. </p>
+![](/images/Cca/cca-taekwondo-n02.jpg)
+Kallang Community Club Taekwondo Championships 2022
 
-<img src="/images/Cca/cca-taekd-03.jpg" alt="taekwondo" style="width:400px">
+![](/images/Cca/cca-taekwondo-n03.jpg)
 
+![](/images/Cca/cca-taekwondo-n04.jpg)
 
-![](/images/Cca/cca-taekd-02.jpg)
+<p style="text-align:justify">Through our weekly training programme, our members could gain the valuable qualities of discipline, sportsmanship and teamwork, which will develop them holistically. </p>
 
-<p style="text-align:justify">We bid farewell to the graduating members who are preparing for their GCE O and N level examinations. We have appointed the new Captain and Vice-Captains to take over the leadership of the CCA.  </p>
+![](/images/Cca/cca-taekwondo-n05.jpg)
 
-<p style="text-align:justify">We are extremely proud of our members as they adapt to the disruptions for the last two years and their continued enthusiasm in training and the desire to improve their skills in Taekwondo. </p>
 
 
 
@@ -95,20 +97,15 @@ Kyrogi Events: 1 Gold, 1 Silver and 3 Bronze
 
 ***Personal Reflections***
 <p style="text-align:justify; font-style:italic">
-My experience in Taekwondo has been one of the most enjoyable experience of my secondary school life. I am proud to say that making Taekwondo my first choice was correct. Taekwondo is not merely a form of martial arts, but rather, an opportunity for me to gain leadership skills and to acquire values of discipline and resilience. My skills as a CCA leader would be challenged whenever there was an upcoming competition. Besides overcoming my own difficulties in memorising the Poomsae pattern routine, I have to teach my juniors and motivate them to persevere and be determined to win the competition. All in all, Taekwondo is a CCA that has challenged me, both physically and mentally. </p>
+Looking back, I’ve progressed a lot from that timid ‘White Belter’ way back in Secondary one to be the CCA captain today. One of the best things about the Taekwondo club is that you're never alone. You will always have someone there to encourage you, to push you to perform to the very best of your ability. Seeing the other members train is also an inspiration to me to train harder. In addition, it motivates me to become a better leader to guide my fellow members throughout their journey.
+In my four years of Taekwondo training, it has provided me with sporting and self-defence abilities and has given me an edge in my daily life, with its merits as a martial art sport of self-discipline, perseverance, and resilience. All in all, my experience in Taekwondo has been one of the most enjoyable experiences of my secondary school life. I’m proud to say that I’m part of the Taekwondo family! </p>
 
 <p style="text-align:justify; font-style:italic">
 </p>
 
-**- Evelyn Angelina The (4R1)**
-
-![](/images/Cca/cca-taekwondo-03.jpg)
+**- Kok Zi Ying, Captain (4R1)**
  
 <p style="text-align:justify; font-style:italic">
-In my four years of Taekwondo training, besides learning self-defense, I have learnt values like teamwork, perseverance, and responsibility. As a vice captain, I was tasked to co-ordinate the designing and the production of the CCA T-shirts, administrative work and preparing for the secondary one orientation programme. </p>
+Taekwondo is a very dynamic CCA and many of us trained very hard to be disciplined. I was chosen to be the Vice-Captain in Taekwondo, assisting my coach in training the junior members. This responsibility has made me more patient and well mannered. Moreover, it has helped boost my confidence in interacting with people and has made me more enthusiastic in learning Taekwondo. </p>
 
-<p style="text-align:justify; font-style:italic">Covid-19 has affected us in many ways. We couldn't train much because of the restrictions. We were so excited when we learned that we could participate in the National Schools Games. Everyone persevered and worked very hard. The team bonded very well and supported each other. Since this was my last competition, I gave my best at every training and motivated my teammates so that we were all able to go through this competition and finish Taekwondo CCA on a high note. All in all, my time spent in Taekwondo CCA has been worthwhile and I am grateful for this learning opportunity. </p>
-
-![](/images/Cca/cca-taekwondo-05.jpg)
-
-**- Chermaine Pang (5R1)**
+**- Helen Ng Hui Yu, Vice-Captain (4R8)**
