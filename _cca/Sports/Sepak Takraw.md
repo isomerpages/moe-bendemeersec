@@ -66,6 +66,10 @@ To uphold the five school values when participating in CCA activities.
 
 ![](/images/Cca/cca-takraw-n-01.jpg)
 
+![](/images/Cca/cca-takraw-n-01.jpg)
+
+![](/images/Cca/cca-takraw-n-01.jpg)
+
 <p style="text-align:justify">Trainings are conducted two times a week. They are held on Mondays and Wednesdays.  During training, the team not only focuses on the athletic aspects critical to the sport but also on character bulding and leadership. School values such as resilience, respect and integrity are instilled in every player throughout the training sessions. Very often, the boys looked forward to these trainings and turned up even earlier before training started. Trainings may be exhausting and gruelling but the boys enjoyed themselves and persevered throughout the training sessions.</p>
 
 <p style="text-align:justify">The teachers and coaches have built a very strong rapport with these boys and often motivated and encouraged them not only in terms of having good sportsmanship but also on character-building.</p>
@@ -96,3 +100,5 @@ To uphold the five school values when participating in CCA activities.
 <p style="text-align:justify; font-style:italic"> I enjoy the training a lot and experience new things in every training session. I hope to learn more new skills and represent the school team in the competition.</p>
 
 **- Syakir Riyan Putera Ramli (1C6)**
+
+![](/images/Cca/cca-takraw-n-01.jpg)
