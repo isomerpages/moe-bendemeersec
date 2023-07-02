@@ -3,8 +3,6 @@ title: CCA Excellence
 permalink: /achievements/cca-excellence/
 description: ""
 ---
-
-
 ![Sustained Achievement Awards](/images/Achievements/img_substain_achievement_v2.png)
 
 ### UNIFORMED GROUPS
@@ -29,19 +27,19 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-17nh"><span style="font-weight:400;color:#000">National Cadet Corps - Land (NCC)</span></td>
-    <td class="tg-17nh">2021 Unit Proficiency Award (Gold)<BR><span style="font-weight:400;color:#000">2019 Unit Proficiency Award (Gold)</span><br><span style="font-weight:400;color:#000">2018 Unit Proficiency Award (Gold)</span></td>
+    <td class="tg-17nh">2022 Unit Proficiency Award (Distinction)<br><span style="font-weight:400;color:#000">2021 Unit Proficiency Award (Distinction)<br><span style="font-weight:400;color:#000">2019 Unit Proficiency Award (Distinction)</span><br><span style="font-weight:400;color:#000">2018 Unit Proficiency Award (Distinction)</span></span></td>
   </tr>
   <tr>
     <td class="tg-f45a"><span style="font-weight:400;color:#000">National Police Cadet Corps (NPCC)</span></td>
-    <td class="tg-f45a">2021 Unit Proficiency Award (Gold)<BR><span style="font-weight:400;color:#000">2019 Unit Proficiency Award (Gold)</span><br><span style="font-weight:400;color:#000">2018 Unit Proficiency Award (Silver)</span><br><span style="font-weight:400;color:#000">SPF–NPCC Badge Recipient 2021:</span><br><span style="font-weight:400;color:#000">SSGT (NPCC) Mohamed Yasir</span><br><span style="font-weight:400;color:#000">SI (NPCC) Liu Xiang</span></td>
+    <td class="tg-f45a">2022 Unit Proficiency Award (Gold)<br><span style="font-weight:400;color:#000">2021 Unit Proficiency Award (Gold)<br><span style="font-weight:400;color:#000">2019 Unit Proficiency Award (Gold)</span><br><span style="font-weight:400;color:#000">2018 Unit Proficiency Award (Silver)</span><br><span style="font-weight:400;color:#000">SPF–NPCC Badge Recipient 2021:</span><br><span style="font-weight:400;color:#000">SSGT (NPCC) Mohamed Yasir</span><br><span style="font-weight:400;color:#000">SI (NPCC) Liu Xiang</span></span></td>
   </tr>
   <tr>
     <td class="tg-17nh"><span style="font-weight:400;color:#000">Red Cross Youth</span></td>
-    <td class="tg-17nh">2021 Unit Proficiency Award (Gold)<BR><span style="font-weight:400;color:#000">2019 Unit Proficiency Award (Gold)</span><br><span style="font-weight:400;color:#000">2018 Unit Proficiency Award (Gold)</span></td>
+    <td class="tg-17nh">202 Unit Proficiency Award (Gold)<br><span style="font-weight:400;color:#000">2021 Unit Proficiency Award (Gold)<br><span style="font-weight:400;color:#000">2019 Unit Proficiency Award (Gold)</span><br><span style="font-weight:400;color:#000">2018 Unit Proficiency Award (Gold)</span></span></td>
   </tr>
   <tr>
     <td class="tg-f45a"><span style="font-weight:400;color:#000">Girl Guides</span></td>
-    <td class="tg-f45a">2021 Unit Proficiency Award (Gold)<BR>Puan Noor Aishah Award 2021 BRONZE Award<BR><span style="font-weight:400;color:#000">2019 Unit Proficiency Award (Gold)</span><br><span style="font-weight:400;color:#000">Puan Noor Aishah Award 2019 GOLD Award</span><br><span style="font-weight:400;color:#000">2018 Unit Proficiency Award (Gold)</span><br><span style="font-weight:400;color:#000">Puan Noor Aishah Award 2018 GOLD Award</span><br><span style="font-weight:400;color:#000">South Division Day- Mason Terrarium</span><br><span style="font-weight:400;color:#000">South Division Day- World of Colours</span><br><span style="font-weight:400;color:#000">South Division Day - Scarf Design</span><br><span style="font-weight:400;color:#000">South Division Day - Guides Challenge</span></td>
+    <td class="tg-f45a">2022 Unit Proficiency Award (Gold)<br>Puan Noor Aishah Award 2022 BRONZE Award<br><span style="font-weight:400;color:#000">2021 Unit Proficiency Award (Gold)<br>Puan Noor Aishah Award 2021 BRONZE Award<br><span style="font-weight:400;color:#000">2019 Unit Proficiency Award (Gold)</span><br><span style="font-weight:400;color:#000">Puan Noor Aishah Award 2019 GOLD Award</span><br><span style="font-weight:400;color:#000">2018 Unit Proficiency Award (Gold)</span><br><span style="font-weight:400;color:#000">Puan Noor Aishah Award 2018 GOLD Award</span><br><span style="font-weight:400;color:#000">South Division Day- Mason Terrarium</span><br><span style="font-weight:400;color:#000">South Division Day- World of Colours</span><br><span style="font-weight:400;color:#000">South Division Day - Scarf Design</span><br><span style="font-weight:400;color:#000">South Division Day - Guides Challenge</span></span></td>
   </tr>
 </tbody>
 </table>
@@ -71,7 +69,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-17nh"><span style="font-weight:400;color:#000">Tchoukball</span></td>
-    <td class="tg-17nh">2022 B Div National Inter-Schools Tchoukbal Tournament (Girls)<BR>
+    <td class="tg-17nh">2022 B Div National Inter-Schools Tchoukbal Tournament (Girls)<br>
 Cup Category : 3rd<br>
 2022 B Div National Inter-Schools Tchoukbal Tournament (Boys)<br>
 Bowl Category: 1st<br>
@@ -84,11 +82,11 @@ Cup Category: 3rd<br><span style="font-weight:400;color:#000">2019 B Div Nationa
   </tr>
   <tr>
     <td class="tg-17nh"><span style="font-weight:400;color:#000">Taekwondo</span></td>
-    <td class="tg-17nh"><span style="font-weight:400;color:#000">2021 National School Games Taekwondo Championships B Div</span><br><span style="font-weight:400;color:#000">2 Gold 1 Silver 5 Bronze</span><br><span style="font-weight:400;color:#000">2019 National School Games Taekwondo Championships</span><br><span style="font-weight:400;color:#000">3 Gold, 6 Bronze medals.</span><br><span style="font-weight:400;color:#000">Overall Champion for the Whampoa Community Club Taekwondo Competition.</span><br><span style="font-weight:400;color:#000">2018 National School Games Taekwondo Championships</span><br><span style="font-weight:400;color:#000">2 Gold, 1 Silver and 6 Bronze medals</span><br><span style="font-weight:400;color:#000">Overall Champion Whampoa Community Club Taekwondo Competition</span></td>
+    <td class="tg-17nh"><span style="font-weight:400;color:#000">2022 National School Games Taekwondo Championships</span><br><span style="font-weight:400;color:#000">2021 National School Games Taekwondo Championships B Div</span><br><span style="font-weight:400;color:#000">2 Gold 1 Silver 5 Bronze</span><br><span style="font-weight:400;color:#000">2019 National School Games Taekwondo Championships</span><br><span style="font-weight:400;color:#000">3 Gold, 6 Bronze medals.</span><br><span style="font-weight:400;color:#000">Overall Champion for the Whampoa Community Club Taekwondo Competition.</span><br><span style="font-weight:400;color:#000">2018 National School Games Taekwondo Championships</span><br><span style="font-weight:400;color:#000">2 Gold, 1 Silver and 6 Bronze medals</span><br><span style="font-weight:400;color:#000">Overall Champion Whampoa Community Club Taekwondo Competition</span></td>
   </tr>
   <tr>
     <td class="tg-f45a"><span style="font-weight:400;color:#000">Football</span></td>
-    <td class="tg-f45a"><span style="font-weight:400;color:#000">2020 B Div SPL Round of 16</span><br><span style="font-weight:400;color:#000">2019 B Div SPL Round of 16</span><br><span style="font-weight:400;color:#000">2019 C Div SPL 2 - 3rd</span><br><span style="font-weight:400;color:#000">2018 B Div SPL 1 Quarters</span><br><span style="font-weight:400;color:#000">2018 C Div South Zone Football Championship - 2nd</span></td>
+    <td class="tg-f45a"><span style="font-weight:400;color:#000">2023 B Div SPL Top 8 (League 2)</span><br><span style="font-weight:400;color:#000">2020 B Div SPL Round of 16</span><br><span style="font-weight:400;color:#000">2019 B Div SPL Round of 16</span><br><span style="font-weight:400;color:#000">2019 C Div SPL 2 - 3rd</span><br><span style="font-weight:400;color:#000">2018 B Div SPL 1 Quarters</span><br><span style="font-weight:400;color:#000">2018 C Div South Zone Football Championship - 2nd</span></td>
   </tr>
 </tbody>
 </table>
@@ -118,7 +116,7 @@ Cup Category: 3rd<br><span style="font-weight:400;color:#000">2019 B Div Nationa
 <tbody>
   <tr>
     <td class="tg-17nh"><span style="font-weight:400;color:#000">Concert Band</span></td>
-    <td class="tg-17nh"><span style="font-weight:400;color:#000">2021 SYF Arts Presentation (Accomplishment)</span><br><span style="font-weight:400;color:#000">2019 SYF Arts Presentation (Distinction)</span><br><span style="font-weight:400;color:#000">2017 SYF Arts Presentation (Distinction)</span></td>
+    <td class="tg-17nh"><span style="font-weight:400;color:#000">2023 SYF Arts Presentation (Accomplishment)</span><br><span style="font-weight:400;color:#000">2021 SYF Arts Presentation (Accomplishment)</span><br><span style="font-weight:400;color:#000">2019 SYF Arts Presentation (Distinction)</span><br><span style="font-weight:400;color:#000">2017 SYF Arts Presentation (Distinction)</span></td>
   </tr>
   <tr>
     <td class="tg-f45a"><span style="font-weight:400;color:#000">Choir</span></td>
@@ -126,15 +124,15 @@ Cup Category: 3rd<br><span style="font-weight:400;color:#000">2019 B Div Nationa
   </tr>
   <tr>
     <td class="tg-17nh"><span style="font-weight:400;color:#000">International Dance</span></td>
-    <td class="tg-17nh"><span style="font-weight:400;color:#000">2021 SYF Arts Presentation (Accomplishment)</span><br><span style="font-weight:400;color:#000">2019 SYF Arts Presentation (Distinction)</span><br><span style="font-weight:400;color:#000">2017 SYF Arts Presentation (Distinction)</span></td>
+    <td class="tg-17nh"><span style="font-weight:400;color:#000">2023 SYF Arts Presentation (Distinction)</span><br><span style="font-weight:400;color:#000">2021 SYF Arts Presentation (Accomplishment)</span><br><span style="font-weight:400;color:#000">2019 SYF Arts Presentation (Distinction)</span><br><span style="font-weight:400;color:#000">2017 SYF Arts Presentation (Distinction)</span></td>
   </tr>
   <tr>
     <td class="tg-f45a"><span style="font-weight:400;color:#000">Indian Dance</span></td>
-    <td class="tg-f45a"><span style="font-weight:400;color:#000">2021 SYF Arts Presentation (Distinction)</span><br><span style="font-weight:400;color:#000">2019 SYF Arts Presentation (Accomplishment)</span><br><span style="font-weight:400;color:#000">2017 SYF Arts Presentation (Accomplishment)</span><br><span style="font-weight:400;color:#000">2020 Poetry Writing Kavimaalai Singapore (2nd runner up)</span><br><span style="font-weight:400;color:#000">2020 Word for Word Translation Contest (Association of Singapore Tamil Writers)</span><br><span style="font-weight:400;color:#000">2020 Navarasa Thiruvizha 2nd place [Skit, Creative Tok Tok, Poetry Recital, Singing]</span><br><span style="font-weight:400;color:#000">2020 Composition Writing &amp; Makkal Kavingnar Mandram</span></td>
+    <td class="tg-f45a"><span style="font-weight:400;color:#000">2023 SYF Arts Presentation (Accomplishment)</span><br><span style="font-weight:400;color:#000">2021 SYF Arts Presentation (Distinction)</span><br><span style="font-weight:400;color:#000">2019 SYF Arts Presentation (Accomplishment)</span><br><span style="font-weight:400;color:#000">2017 SYF Arts Presentation (Accomplishment)</span><br><span style="font-weight:400;color:#000">2020 Poetry Writing Kavimaalai Singapore (2nd runner up)</span><br><span style="font-weight:400;color:#000">2020 Word for Word Translation Contest (Association of Singapore Tamil Writers)</span><br><span style="font-weight:400;color:#000">2020 Navarasa Thiruvizha 2nd place [Skit, Creative Tok Tok, Poetry Recital, Singing]</span><br><span style="font-weight:400;color:#000">2020 Composition Writing &amp; Makkal Kavingnar Mandram</span></td>
   </tr>
   <tr>
     <td class="tg-17nh"><span style="font-weight:400;color:#000">Drama English</span></td>
-    <td class="tg-17nh"><span style="font-weight:400;color:#000">2021 SYF Arts Presentation (Commendation)</span><br><span style="font-weight:400;color:#000">2019 SYF Arts Presentation (Commendation)</span><br><span style="font-weight:400;color:#000">2017 SYF Arts Presentation (Accomplishment)</span></td>
+    <td class="tg-17nh"><span style="font-weight:400;color:#000">2023 SYF Arts Presentation (Accomplishment)</span><br><span style="font-weight:400;color:#000">2023 Best Production (Radio Drama Category)</span><br><span style="font-weight:400;color:#000">2021 SYF Arts Presentation (Commendation)</span><br><span style="font-weight:400;color:#000">2019 SYF Arts Presentation (Commendation)</span><br><span style="font-weight:400;color:#000">2017 SYF Arts Presentation (Accomplishment)</span></td>
   </tr>
 </tbody>
 </table>
