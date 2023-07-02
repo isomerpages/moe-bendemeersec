@@ -57,7 +57,9 @@ The mission of the National Police Cadet Corps is to develop our members to be a
 
 At the heart of our training principles is the 6A framework which provides direction for the training and development of all NPCC members. The 6As (AWARE, ACQUIRE, ACTUATE, ASPIRE, ACHIEVE and AIM) shows the focus for members at each level and the spiral development.</p>
 
+
 | Level | 6A Focus | Training Outcome  |
+| -------- | -------- | -------- |
 | Sec 1 | AWARE of Self, Others, SPF and NPCC | Knowing oneself  |
 | Sec 2 | ACQUIRE skills and knowledge | Stepping out and interacting |
 | Sec 3 | ACTUATE as leader | First taste of taking charge |
