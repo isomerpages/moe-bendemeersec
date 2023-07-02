@@ -9,11 +9,12 @@ third_nav_title: Sports
 | |Mr Tan Hai Seng (2I/C) |
 | |Mdm Karamjit Kaur |
 |**Coach:** | Mrs Rosalind Chow|
-|**Captains:** |Evelyn Angelina (outgoing) |
-| |Kok Zi Ying (incoming) |
-|**Vice-Captains:** |Tan Yin Ying and Laopakdee Yanist (outgoing)    |
-| |Helen Ng Hui Yu and Li Kexin (incoming) |
-| | |
+|**Captains:** |Kok Zi Ying (4R1) |
+| | Kith Suria Raingsey (3R1) |
+|**Vice-Captains:** |Helen Ng Hui Yu (4R8) |
+|   |Li Kexin (4R8)  |
+| | Tricia Tan Xin Hui (3R2) |
+| |Toh Hui Ning Xanice (3R7) |
 
 | Training days: | Tuesday and Wednesdays  |
 | - | -|
@@ -21,21 +22,65 @@ third_nav_title: Sports
 | | |
 
 
-|**Participation** | 
+|**Participation in 2023** | 
 | --|
-|  National Schools Games Taekwondo Championship 2022|  
-| Kallang Community Club Taekwondo Championship 2022 |  
+|  National Schools Games Taekwondo Championships |  
+| Kallang Community Club Taekwondo Championships |  
 | |
 
-<p style="text-align:justify">With relaxed safety measures, training has returned to normalcy. We started the year with the recruitment of seventeen secondary one students through a video that was prepared by our members.</p>
+<p style="text-align:justify">The Taekwondo CCA has been participating in the National Schools Games and the Whampoa and Kallang Community Club Taekwondo Championships for many years. The members undergo rigorous training to improve their accuracy in executing the Poomsae routines as well as team coordination in the team events. </p>
 
-<p style="text-align:justify">Members were excited when the National School Games and the Kallang Community Club Taekwondo Competition resumed albeit with some Safe Management Measures.  Through participation in these competitions, our members could gain the valuable lessons of discipline, sportsmanship and teamwork, which develop them holistically. </p>
+<p style="text-align:justify">Our members were able to do well and have achieved many medals. But for those who have not done so, they have gained much experience through their participation and they would be motivated to further improve themselves in order to compete at a higher level. </p>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3i1z{background-color:#ebf5ff;border-color:inherit;font-size:medium;text-align:left;vertical-align:top}
+.tg .tg-ts73{background-color:#409cff;border-color:inherit;font-size:medium;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ts73"><span style="font-weight:bold">Achievements - Boys Team</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3i1z">National School Games 2023<br>Poomsae Team Events: 2 Bronze<br>
+Kyrogi Events: 1 Silver and 1 Bronze
+			<br><br>
+National School Games 2022 <br>
+Poomsae Individual Events: 1 Silver and 3 Bronze
+			<br><br>
+National School Games 2021<br>
+			Poomsae Individual Events: 1 Silver and 3 Bronze<br>
+Poomsae Team Events: 2 Gold and 2 Bronze
+			<br><br>
+			National School Games 2019<br>
+Poomsae Individual Events: 1 Gold and 1 Bronze<br>
+Poomsae Team Events: 2 Bronze <br>
+Kyrogi Events: 2 Gold and 3 Bronze
+			<br><br>
+National School Games 2018<br>
+Poomsae Team Events: 1 Bronze<br>
+Kyrogi Events: 2 Gold, 1 Silver and 3 Bronze
+			<br><br>
+National School Games 2017<br>
+Kyrogi Events: 1 Gold, 1 Silver and 3 Bronze
+			<br></td>
+  </tr>
+</tbody>
+</table>
 
 ![](/images/Cca/cca-taekd-01.jpg)
 
 <p style="text-align:justify">Our members trained hard to perfect their routines, especially in synchronising with team members for the team events. We managed to obtain one silver and three bronze medals for the National Schools Games and we were also the Overall Champion for the Kallang Community Club Taekwondo Competition. </p>
 
-<img src="/images/Cca/cca-taekd-03.jpg" alt="taekwondo" style="width:400px" />
+<img src="/images/Cca/cca-taekd-03.jpg" alt="taekwondo" style="width:400px">
 
 
 ![](/images/Cca/cca-taekd-02.jpg)
