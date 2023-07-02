@@ -46,36 +46,20 @@ third_nav_title: Uniformed Groups
 </tbody>
 </table>
 
-<p style="text-align:justify">The National Police Cadet Corps (NPCC) was formed in 1959 and has become one of the popular youth uniformed organisations in Singapore.</p>
+<p style="text-align:justify">The National Police Cadet Corps (NPCC) was formed in 1959 and is one of the longest standing uniformed youth organisations in Singapore today with a proud heritage. 
+The mission of the National Police Cadet Corps is to develop our members to be active citizens and community leaders, by working in partnership with Singapore Police Force to fight crime and keep Singapore safe. </p>
 
-<p style="text-align:justify">The mission of the National Police Cadet Corps is to develop our members to be active citizens and community leaders, by working in partnership with Singapore Police Force to fight crime and keep Singapore safe.</p>
+<p style="text-align:justify">Through a variety of activities, the values of resilience, integrity, service, and excellence are inculcated in our youth. These values will enable them to develop into caring and responsible citizens with a sense of purpose to serve the community.
+</p>
 
-![Passing out parade](/images/Cca/cca-npcc-01.jpg)
-Passing out parade
 
-<p style="text-align:justify">NPCC cadets undergo various training in their 4-year stint, which include physical fitness training, foot-drills, camp-craft skills, camps, police knowledge courses and visits. Through challenging situations, our cadets hone their leadership qualities and are groomed to become leaders with strong character and positive social, moral and civic values.</p>
+<p style="text-align:justify">
+
+At the heart of our training principles is the 6A framework which provides direction for the training and development of all NPCC members. The 6As (AWARE, ACQUIRE, ACTUATE, ASPIRE, ACHIEVE and AIM) shows the focus for members at each level and the spiral development.</p>
 
 <p style="text-align:justify">Cadets’ achievements are recognised through attaining skill proficiency badges and rank promotion. Outstanding cadets will be nominated for the pinnacle SPF-NPCC Badge and promotion to the rank of Station Inspector.</p>
 
-<p style="text-align:justify">The National Police Cadet Corps is a fulfilling and enriching co-curricular activity, one in which cadets learn and grow significantly in personal competencies and leadership.</p>
 
-
-
-|  |  | 
-| - |-  | 
-| ![High rope courses on Pulau Ubin](/images/Cca/cca-npcc-03.jpg)    | ![Pinning on badges for juniors](/images/Cca/cca-npcc-04.jpg)  |
-
-
-#### NPCC Outing to Marina Barrage 2022
-
-
-<p style="text-align:justify">This year, NPCC organised an outing to Marina Barrage, to foster stronger bonds among the cadets. It also serves as a reward for their hard work put in throughout the year. The cadets thoroughly enjoyed kite-flying as well as the team-bonding games planned by the UG Leaders.</p>
-
-![](/images/Cca/cca-npcc-11.jpg)
-
-![](/images/Cca/cca-npcc-12.jpg)
-
-![](/images/Cca/cca-npcc-13.jpg)
 
 #### 4 year Programme Highlights
 Learning about Police work:
@@ -83,7 +67,7 @@ Learning about Police work:
 * Police Procedure, Basic Law, Anti-Narcotics, Crime Scene Investigation courses
 * Unarmed tactics training
 * Handling of .22 revolver
-* Police and Law establishment visits, eg K9 unit, Police Heritage Centre, Rochor Neighbourhood Police Centre visit
+* Police and Law establishment visits, eg K9 unit, Police Heritage Centre, Rochor Neighbourhood Police Centre visit, Fire Station visit
 
 Outdoor activities:
 * Adventure Training camp at Pulau Ubin
@@ -104,30 +88,19 @@ Inter-Unit Competitions:
 
 For more information, visit [https://www.npcc.org.sg/index.html](https://www.npcc.org.sg/index.html)
 
-![](/images/Cca/cca-npcc-02.jpg)
 
-![Combined uniformed group hike](/images/Cca/cca-npcc-05.jpg)
-Combined uniformed group hike
+Cadet Reflections
 
-<p style="text-align:justify; font-style:italic">Being in NPCC for three years has taught me a lot of values and has nurtured me into a better person and a better leader. It has shown me the importance of leadership, teamwork, communication and responsibility. The most memorable experience has to be being in charge of the Secondary Two cadets. It was challenging to come up with lessons that the cadets would understand. It was a rocky road but I had my squadmates who were very helpful and it was an overall happy experience. Through tough times I have bonded with my squadmates, I had to step out of my comfort zone and this made me into a stronger person.</p>
+<p style="text-align:justify; font-style:italic">I joined NPCC since Sec 1 and I have had a very fun experience in the CCA. Being in NPCC taught me qualities such as perseverance, resilience, respect, integrity, responsibility, team work, care and trust. As a cadet leader, we have a lot more responsibilities such as planning for weekly training and sec 1 camp, all the while ensuring that our own drills and skills are up to standard.</p>
 
-**- CPL (NPCC) KAMAL SYED YOUSUF (3R3)**
+**- CPL (NPCC) MOHAMED AMZATH MOHAMED SALEEM (4R6)**
 
  
-<p style="text-align:justify; font-style:italic">During the four years in NPCC I’ve learnt lots of things, skills and also have met new friends. When I first joined NPCC in Sec 1, I was really shy and did not really want to volunteer for anything. As the time passed, I got used to the environment. My seniors always had high expectations of us and I tried my very best to meet their expectations.</p>
+<p style="text-align:justify; font-style:italic">As a cadet leader, one of the main challenges I encountered was the lack of communication within my squad. So I learned to communicate with my squadmates whenever I needed help. I also learned to take responsibility when leading a team and to keep a lookout for each other. </p>
 
-<p style="text-align:justify; font-style:italic">One of the memorable experiences I had was the Sec 2 Adventure training Camp at Pulau Ubin. It was challenging to build a tent as a group and we failed countless times while trying to do so. But we had to complete the tent, otherwise we would have no place to sleep at night.  Another memorable moment during the camp was the campfire, where we sang campfire songs at the top of our lungs and laughed our heads off at other groups’ performances.  The camp bonded everyone together and I learnt the value of resilience.</p>
-
-<p style="text-align:justify; font-style:italic">Taking over training as a sec 4 cadet leader was a daunting task. It was a huge responsibility having to train the juniors in their drills, setting expectations for them and learning how to build rapport with the juniors, earning their trust in me as a leader.  But taking over a squad forced me to grow and pushed my boundaries. I overcame my shyness in front of a squad and learnt how to manage conflicts with my peers. Along the way, I received a lot of invaluable advice from teachers and Cadet Inspectors. I am glad that I joined NPCC as I think that it is really a life changing experience for me.</p>
-
-**- SI (NPCC) Liu Xiang (4R5)**
+**- SSGT (NPCC) SOH XIU YUN (4R5)**
 
 
-<p style="text-align:justify; font-style:italic">Through NPCC, I have learnt to be more disciplined in my tasks given and became more confident in taking over my juniors. Communication is a very important skill especially when we have to resolve conflicts. As a Cadet Leader when I was in Sec 4, I had to break out of my comfort zone, and became more vocal and forthcoming during discussions with my squadmates and in leading my juniors. When I returned to NPCC as a Secondary 5 cadet, it gave me the opportunity to mentor the Sec 4 cadet leaders. The Sec 4 cadet leaders would often come to me for advice and I was able to build strong rapport with them even though I have not trained them personally in previous years. NPCC is an important aspect of my secondary school life. Apart from building strong friendships with my squadmates and juniors, I have evolved into a much more resilient, responsible and confident person.</p>
+<p style="text-align:justify; font-style:italic">NPCC has instilled many core values in me and developed me into a better person. Though training can be arduous at times, I still find NPCC enjoyable because of the fond memories I hold with my squadmates thus far.</p>
 
-**- SSGT (NPCC) Subbiah (5R1)**
-
-
-<p style="text-align:justify; font-style:italic">Being in NPCC for 4 years has instilled values in me, nurtured me to be a better person and most importantly, a leader. It has taught me many crucial life skills which I did not know about before joining NPCC.  It has also improved my communication skills as cadets will be asked to work with other CCA’s and organise events. Through this journey, friendships were fostered and I met people from all walks of life. Despite tough trainings every week, I could see myself growing and gaining confidence in whatever I did. NPCC has given me the opportunity to be a leader and has become an essential part of my secondary school journey. I have had many enjoyable and unforgettable memories in this journey and sometimes I wish to go back to Secondary 1 to re-live these moments.</p>
-
-**- SSGT (NPCC) Yasir (4R3)**
+**- LCP(NPCC) KOH YU EN EMELYN (3R1)**
