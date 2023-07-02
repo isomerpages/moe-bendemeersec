@@ -64,17 +64,17 @@ To uphold the five school values when participating in CCA activities.
 
 <p style="text-align:justify">Bendemeer Sepak Takraw kicked start the year by recruiting new members from Secondary One through skill testing sessions during the orientation week. After several sessions of intensive trainings, we had our friendly matches between the ‘B’ and ‘C’ division boys to assess our players’ readiness and competitiveness.  These matches and trainings provide us with a great opportunity to build good and strong friendship with others. It also gives the new members a good platform for team bonding.</p> 
 
-![](/images/Cca/cca-takraw-n-01.jpg)
+![](/images/Cca/cca-takraw-n05.jpg)
 
-![](/images/Cca/cca-takraw-n-01.jpg)
+![](/images/Cca/cca-takraw-n03.jpg)
 
-![](/images/Cca/cca-takraw-n-01.jpg)
+![](/images/Cca/cca-takraw-n01.jpg)
 
 <p style="text-align:justify">Trainings are conducted two times a week. They are held on Mondays and Wednesdays.  During training, the team not only focuses on the athletic aspects critical to the sport but also on character bulding and leadership. School values such as resilience, respect and integrity are instilled in every player throughout the training sessions. Very often, the boys looked forward to these trainings and turned up even earlier before training started. Trainings may be exhausting and gruelling but the boys enjoyed themselves and persevered throughout the training sessions.</p>
 
 <p style="text-align:justify">The teachers and coaches have built a very strong rapport with these boys and often motivated and encouraged them not only in terms of having good sportsmanship but also on character-building.</p>
 
-![](/images/Cca/cca-takraw-n-02.jpg)
+![](/images/Cca/cca-takraw-n02.jpg)
 
 <p style="text-align:justify; font-style:italic">This year is an unforgettable moment for me as it is my first time taking part in a competition and getting to know more about Sepak Takraw. I learnt a lot and will continue to improve my skills in Sepak Takraw. I am not shy to seek help from my team mates to be a better player.</p>
 
@@ -101,4 +101,4 @@ To uphold the five school values when participating in CCA activities.
 
 **- Syakir Riyan Putera Ramli (1C6)**
 
-![](/images/Cca/cca-takraw-n-01.jpg)
+![](/images/Cca/cca-takraw-n04.jpg)
