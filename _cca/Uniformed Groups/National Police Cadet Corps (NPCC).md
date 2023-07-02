@@ -40,7 +40,7 @@ third_nav_title: Uniformed Groups
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3jrd">UNIT OVERALL PROFICIENCY AWARD 2017 - 2021
+    <td class="tg-3jrd">UNIT OVERALL PROFICIENCY AWARD 2017 - 2022
 <br>National Police Cadet Corps (Gold)</td>
   </tr>
 </tbody>
