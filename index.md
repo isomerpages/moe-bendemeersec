@@ -26,4 +26,10 @@ sections:
       url: /pages/canteen/
       alt: Canteen Food
       image: /images/japanese-food-g34e1f8b50_1920.jpg
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: Have A question?
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV
+      url: https://ask.gov.sg/bss
+      image: /images/bss-askgov.png
 ---
