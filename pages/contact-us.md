@@ -20,6 +20,8 @@ contacts:
       - email: ""
       - other: <br><strong>Have a question?</strong><br> <a
           href="https://ask.gov.sg/bss">https://ask.gov.sg/bss</a><p></p>
+          Powered By:<br><img src="/images/logo-askgov.png"
+          style="width:10%;float:left">
     title: General Enquiries & Feedback
   - content:
       - phone: ""
