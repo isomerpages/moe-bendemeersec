@@ -78,8 +78,6 @@ Kyrogi Events: 1 Gold, 1 Silver and 3 Bronze
 </table>
 
 <img style="width:600px" alt="taekwondo" src="/images/Cca/cca-taekwondo-n01.jpg">
-
-![](/images/Cca/cca-taekwondo-n01.jpg)
 National Schools Games 2023
 
 ![](/images/Cca/cca-taekwondo-n02.jpg)
