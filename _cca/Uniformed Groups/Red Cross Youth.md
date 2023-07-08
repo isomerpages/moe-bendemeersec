@@ -8,11 +8,10 @@ third_nav_title: Uniformed Groups
 | -------- | -------- |
 |  | Mr Ng Jan Ile (2I/C) |
 |  |  Ms Toh Yen Nee |
-|  **Advisor:** | Ms Ramamdevi  |
-|**Volunteer Instructor:** | Ms Wang Yu Qing|
-|**RCY Chairpersons:** |  Neo Hui En Rachael (4R3) |
-|**RCY Vice-Chairpersons:** | Ethan Lee Jie (4R1)   |
-|  | Hazel Tay Yu Xin (4R2) |
+|**Volunteer Instructor:** | Ms Narmatha |
+|**RCY Chairpersons:** |  Manivannan Kavya (3R4) |
+|**RCY Vice-Chairpersons:** | Chen Shi Tian  (3R1) |
+|  |  Khan Sabeil Alli (3R1) |
 |  |  |
 
 
