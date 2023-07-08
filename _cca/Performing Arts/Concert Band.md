@@ -56,9 +56,9 @@ LIMELIGHT 2018</td>
 
 #### About the Concert Band
 
-<p style="text-align:justify">The Bendemeer School Band meets twice a week, Mondays &amp;Thursdays, from 3 pm to 6 pm to train its band members. Besides learning the proper playing of the musical instruments, the band members were given the exposure and opportunity to lead their fellow bandmates too.  Roles such as drum majors, band majors, quarter masters and librarians which are essential roles in a school band have actually developed in the members, responsibility, resilience and most importantly harmony which relates to their healthy interactions amongst the members. </p>
+<p style="text-align:justify">The Bendemeer School Band meets twice a week, Mondays &amp; Thursdays, from 3 pm to 6 pm to train its band members. Besides learning the proper playing of the musical instruments, the band members are given exposure and opportunity to lead their fellow bandmates too. Roles such as drum majors, band majors, quarter masters and librarians, essential roles in a school band, develops responsibility, resilience and most importantly harmony in our members. </p>
 
-<p style="text-align:justify">The Bendemeer School Band has also performed in school concerts and public performances such as the Limelight Series Concert organised by Esplanade. Performing for a live audience also teaches the band members to be confident, self-reliant and quick-thinking. Above all, playing for the school band has motivated them to cherish moments when they get to work as a team - playing together, growing together.</p>
+<p style="text-align:justify">The Bendemeer School Band has also performed in school concerts and public performances such as the Limelight Series Concert organised by Esplanade. Performing for a live audience also teaches the band members to be confident, self-reliant, and quick-thinking. Above all, playing for the school band has motivated them to cherish moments when they get to work as a team - playing together, growing together.</p>
 
 
 #### Reflection
