@@ -53,5 +53,20 @@ third_nav_title: Uniformed Groups
 
 <p style="text-align:justify">Our cadets also trained hard and entered the First Aid Championship 2023. It is an annual platform for Red Cross Youth members to hone and showcase their readiness for First Aid emergencies. Thus, FAC 2023 aims to increase preparedness level so that first aid can be effectively rendered in real-life situations. We aim to nurture care and humanity in our youths by engaging them in real-life simulations to reinforce the role that our youths play as first aiders in our community. Cadets are trained to apply the knowledge that cadets have learnt in the First Aid and Disaster management syllabus and have it assessed by judges with real-life experience. The theme for FAC 2023 is “Humanity in Our Hands” with the aim of improving the quality of First Aid provided, by focusing on the amount of care that our cadets render to casualties both during and after treatment, such that the casualties will feel at ease.</p>
 
+![](/images/Cca/cca-redcross-n01.jpg)
+Red Cross Unit
 
+![](/images/Cca/cca-redcross-n02.jpg)
+Footdrill Training
 
+![](/images/Cca/cca-redcross-n03.jpg)
+Ambassador of Blood Championship
+
+![](/images/Cca/cca-redcross-n04.jpg)
+World Red Cross Day Carnival
+
+![](/images/Cca/cca-redcross-n05.jpg)
+World Red Cross Day Carnival
+
+![](/images/Cca/cca-redcross-n06.jpg)
+World Red Cross Day Carnival &amp; Initiation of Sec 1 Cadets
