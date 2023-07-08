@@ -8,8 +8,8 @@ third_nav_title: Uniformed Groups
 | -------- | -------- |
 |  | CPT Lawrence Ng Boon Kwang (2I/C) |
 |  | LTA Dennis Wong Wei Ming|
-|**Unit Sergeant Major:** |  3SG Loo Guo Hui (3R1) |
-|**Assistant Sergeant Major:** |  3SG Yeo Quan Wei (3R3)  |
+|**Unit Sergeant Major:** | 3SG Jayden Chen (3R1) |
+|**Assistant Sergeant Major:** |  3SG Santhana Karuppan Kaushik (3R3)  |
 |  |  |
 
 | Training days: | Thursdays  |
@@ -35,15 +35,15 @@ third_nav_title: Uniformed Groups
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3jrd">BEST UNIT ASSESSMENT 2021
-<br>National Cadet Corps (Gold)</td>
+    <td class="tg-3jrd">NCC UNIT RECOGNITION<br>DISTINCTION (2022)<br>DISTINCTION (2021)<br>WAIVED (2020)<br>DISTINCTION (2019)<br>DISTINCTION (2018)<br>
+BEST UNIT COMPETITION<br>GOLD (2017)<br><br>2021 NCC 120TH ANNIVERSARY VIRTUAL RACE<br>TOP UNIT IN DISTANCE (EAST DISTRICT)<br></td>
   </tr>
 </tbody>
 </table>
 
 <p style="text-align:justify">The National Cadet Corps is a military cadet corps youth organisation supported by the Singapore Ministry of Defence and the Ministry of Education. Its aim is to mould cadets into one with a resilient mind, fit body and committed heart. Our key programmes include orienteering, urban operations training, live firing using SAR21 rifle and overseas hikes at Mt Ophir.</p>
 
-![](/images/Cca/cca-ncc-01.jpg)
+![](/images/Cca/cca-ncc-n01.jpg)
 
 <p style="text-align:justify">Bendemeer Secondary School’s NCC unit was awarded Gold in the Best Unit Competition 2018 and Distinction at the annual Unit Recognition 2019. The annual Unit Recognition 2020 was waived due to Covid-19.</p>
 
