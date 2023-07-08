@@ -37,40 +37,21 @@ third_nav_title: Uniformed Groups
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3jrd">BEST UNIT ASSESSMENT 2021
+    <td class="tg-3jrd">BEST UNIT ASSESSMENT 2022
 <br>Red Cross Youth (Gold)</td>
   </tr>
 </tbody>
 </table>
 
 
-<p style="text-align:justify">As we bid farewell to our graduating cohort during the World Red Cross Day ceremony, we celebrated the successes and contributions of the seniors who took pains to plan an enriching curriculum  and fun activities for their juniors. It was also especially meaningful to see the graduating seniors welcome the new Sec 1 cadets by pinning enrolment badges on their new uniforms as they start on their Red Cross journey.</p>
+<p style="text-align:justify">This year, cadets went on a learning journey to HSA Blood Bank to understand more about the blood donation process. Blood is needed to save lives in times of emergencies and to sustain the lives of those with medical conditions, like leukemia, thalassaemia and bleeding disorders, as well as patients who are undergoing major surgeries. Cadets learnt about the dire shortage of blood we face as every hour of the day, 15 units of blood are used in Singapore. 400 units of blood is required daily to meet the blood needs of patients in Singapore. One of the tasks cadets are required to complete on the learning journey is to learn about each station of the blood donation process and how to address queries of potential blood donors as well as dispel any myths about blood donation.</p>
 
-![Reacting to an emergency](/images/Cca/cca-redcross-02.jpeg)
 
-<p style="text-align:justify">Despite the pandemic, our cadets looked forward to participate in meaningful projects and masterclasses. This year our lower secondary cadets participated in a VIA project called Project #AOK Campaign which is a social media campaign aimed at encouraging our cadets to display acts of kindness to others in trying times, such as COVID-19. They completed the acts of kindness through an activity game similar to Bingo.</p>
+<p style="text-align:justify">Cadets also enjoyed going on a combined UG hike to Mount Faber where they challenged their physical limits and enjoyed bonding as a unit as they hiked together. They enjoyed chatting with one another and enjoying the lush greenery hiking along the park connector. It was a truly refreshing and rejuvenating hike for all and cadets enjoyed themselves immensely. They also provided first aid to other unit members along the hike.</p>
 
-![Warming up](/images/Cca/cca-redcross-03.jpeg)
-Warming up
 
-![CCA Orientation](/images/Cca/cca-redcross-04.jpeg)
-CCA Orientation
 
-<p style="text-align:justify">Our Upper Secondary cadets also participated in a Dengue Awareness campaign which is a Digital Awareness Campaign aimed to spread dengue awareness and also allow cadets to understand the importance of dengue prevention in our community. The students had plenty of fun designing board games.</p>
+<p style="text-align:justify">Our cadets also trained hard and entered the First Aid Championship 2023. It is an annual platform for Red Cross Youth members to hone and showcase their readiness for First Aid emergencies. Thus, FAC 2023 aims to increase preparedness level so that first aid can be effectively rendered in real-life situations. We aim to nurture care and humanity in our youths by engaging them in real-life simulations to reinforce the role that our youths play as first aiders in our community. Cadets are trained to apply the knowledge that cadets have learnt in the First Aid and Disaster management syllabus and have it assessed by judges with real-life experience. The theme for FAC 2023 is “Humanity in Our Hands” with the aim of improving the quality of First Aid provided, by focusing on the amount of care that our cadets render to casualties both during and after treatment, such that the casualties will feel at ease.</p>
 
-<p style="text-align:justify">Even though the pandemic disrupted the physical masterclasses, our cadets still learnt a lot through the masterclasses conducted online. Through the Youth Ambassador Blood Programme, cadets learnt how to dispel the myths of blood donation and made a pitch to encourage their friends and family to donate blood to save lives as Singapore is currently facing a severe shortage of blood donors. Through the First Aid masterclasses, our cadets brushed up on their theoretical knowledge on how to provide basic first aid in times of an emergency.</p>
 
-<p style="text-align:justify">We continue to look forward to another year of exciting activities where cadets pick up useful knowledge of first aid, blood donation advocacy, community service and disaster risk management. We hope our cadets live up to the Red Cross motto of serving humanity and saving lives as they grow to become humanitarian leaders of tomorrow.</p>
 
-![Blood donation drive](/images/Cca/cca-redcross-05.jpeg)
-Blood donation drive
-
-<p style="text-align:justify; font-style:italic">“I have learnt a lot over the years in Red CrossYouth, from life-saving skills to soft skills such as problem-solving, communication and leadership skills. These skills have aided me in being a more caring and confident leader. Having the role as Chairperson entrusted to me has pushed me out of my comfort zone to lead the unit. I am pleased that I chose Red Cross Youth CCA because it has helped me grow into the person I am today.”</p>
-
-**- Neo Hui En Rachael (Chairperson)**
-
- 
-
-<p style="text-align:justify; font-style:italic">“Red Cross Youth CCA has given me new experiences and opportunities that are unforgettable which has allowed me to grow and moulded me to become a better person. Throughout my leadership journey, I have faced many challenges and I am thankful for my batchmates who have supported me with their encouraging words and helped me overcome these difficulties.”</p>
-
-**- Hazel Tay Yu Xin (Vice-Chairperson)**
