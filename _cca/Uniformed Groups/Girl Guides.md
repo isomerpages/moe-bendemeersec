@@ -8,9 +8,9 @@ third_nav_title: Uniformed Groups
 | -------- | -------- |
 |  | Ms Lu Yueh Ju(2I/C) |
 |  | Ms Caroline Murty|
-|**Company Leader:** | Yee Zi Hui (3R3) |
-|**Assistant Company Leaders:** |  Areefa Begum (3R7)  |
-|  |  Nur Azyza Binte Mohamad Azman (3R6) |
+|**Company Leader:** | Sayma Sanjana Promethee (3R1)|
+|**Assistant Company Leaders:** | He Ruiyi (3R1)  |
+|  |  Nur Humaira Binte Gudubadsha Malik John (3R3) |
 |  |  |
 
 | Training days: | Thursdays  |
@@ -35,7 +35,9 @@ third_nav_title: Uniformed Groups
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3jrd">Puan Noor Aishah (PNA) Award 2021<br>
+    <td class="tg-3jrd">Puan Noor Aishah (PNA) Award 2022<br>
+Girl Guides (Gold)<br><br>
+			Puan Noor Aishah (PNA) Award 2021<br>
 Girl Guides (Bronze)</td>
   </tr>
 	<tr>

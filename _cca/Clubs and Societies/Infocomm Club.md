@@ -9,10 +9,10 @@ third_nav_title: Clubs and Societies
 |  |  Ms Foo Lee Wee |
 | | Mr Michael Lee Boon Wee|
 |**Advisor:** | Mr Eric Choo Guan Kiat |
-|**Chairperson:** |Darren Loy (3R2) |
-|**Vice-Chairperson:** |Ong Chee Khee (3R2)    |
-|**Administrators:** | Tan Xing Yu (3R2) <br>Foo Zhixin (3R2)|
+|**Chairperson:** |Cheah Shi Shiun (3R1) |
+|**Vice-Chairperson:** |Thirugnanam Priya (3R2) (PA)<br>Belle Quek (3R5) (Admin)   |
 |  |  |
+
 
 | Training days: | Thursdays  |
 | - | -|
@@ -31,7 +31,7 @@ Sound and lighting crew
 Sound and Lighting crew
 
 
-<p style="text-align:justify">This year, our Secondary One students took part in the Drones Odyssey Challenge, a culmination of weeks of intense practice in programming drones. Two of our teams clinched the first and second place in the B1 Category. </p>
+<p style="text-align:justify">This year, our Secondary One and Two students are going to part in the Drones Odyssey Challenge, a culmination of weeks of intense practice in programming drones.</p>
 
 ![Drones Odyssey](/images/Cca/cca-infocomm-06.jpg)
 Learning Drones Programming

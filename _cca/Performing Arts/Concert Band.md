@@ -4,16 +4,15 @@ permalink: /cca/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
 ---
-|  **Teachers-in-Charge:** | Mdm Noorlizah Osman(I/C) | 
+|  **Teachers-in-Charge:** | Mdm Lim Ying Shung (I/C)  | 
 | -------- | -------- |
-|  | Mdm Lim Ying Shung (2I/C) |
+|  | Mdm Noorlizah Osman(2I/C) |
 |  | Ms Ng Qian Hui |
 |  | Mrs Ivy Lim Gek Hoon |
-|**Instructors:** | Mr Joseph Teo|
-|  | Mr Alvin Quek |
-|**Band Majors:** |  Jesse Ng Ren Jie (4R3)  |
-|  |  Lim En Jie Janavia (4R2) |
-|**Drum Majors:** |  Kirthik Vnesh Naidu S/O Alwar Naidu (4R1)| 
+|**Instructors:** | Mr Teo Kin Hui, Joseph|
+|  | Mr Kow Kang Yue Don |
+|**Band Majors:** |  Cui Xinran (3R1)  |
+|**Drum Majors:** |  Caton Hua Yuan Guan (3R2)| 
 |  |  |
 
 | Training days: | Mondays and Thursdays  |
@@ -37,44 +36,47 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3jrd">SINGAPORE YOUTH FESTIVAL 2021 ARTS PRESENTATION<br>
-Concert Band (Certificate of Accomplishment)</td>
+    <td class="tg-3jrd">
+		SINGAPORE YOUTH FESTIVAL 2023 ARTS PRESENTATION<br>
+Concert Band (Certificate of Accomplishment)<br>
+			<br>
+SINGAPORE YOUTH FESTIVAL 2021 ARTS PRESENTATION<br>
+Concert Band (Certificate of Accomplishment)<br>
+			<br>
+SINGAPORE YOUTH FESTIVAL 2019 ARTS PRESENTATION<br>
+Concert Band (Certificate of Distinction)<br>
+			<br>
+SINGAPORE YOUTH FESTIVAL 2017 ARTS PRESENTATION<br>
+Concert Band (Certificate of Distinction)<br><br>
+LIMELIGHT 2023<br><br>
+LIMELIGHT 2018</td>
   </tr>
 </tbody>
 </table>
 
+#### About the Concert Band
 
-<p style="text-align:justify">2021 has indeed been a unique year for the Concert Band, amidst the global pandemic. We started the year with the Secondary One orientation, through a class-by-class presentation rather than the typical trying out of instruments. We were pleasantly surprised by the number of enthusiastic Secondary Ones joining Band this year.</p>
+<p style="text-align:justify">The Bendemeer School Band meets twice a week, Mondays &amp; Thursdays, from 3 pm to 6 pm to train its band members. Besides learning the proper playing of the musical instruments, the band members are given exposure and opportunity to lead their fellow bandmates too. Roles such as drum majors, band majors, quarter masters and librarians, essential roles in a school band, develops responsibility, resilience and most importantly harmony in our members. </p>
 
-![Concert Band at the Singapore Youth Festival 2021](/images/Cca/cca-concertband-02.jpeg)
-Concert Band at the Singapore Youth Festival 2021
+<p style="text-align:justify">The Bendemeer School Band has also performed in school concerts and public performances such as the Limelight Series Concert organised by Esplanade. Performing for a live audience also teaches the band members to be confident, self-reliant, and quick-thinking. Above all, playing for the school band has motivated them to cherish moments when they get to work as a team - playing together, growing together.</p>
 
-<p style="text-align:justify">However, our usual Band practices were disrupted by the Covid-19 restrictions and hence the focus in the first half of the year laid heavily on our senior Band members, who were focused on the biennial 2021 Singapore Youth Festival Presentation. Training intensified as the competition drew nearer in April. Despite the uncertainties of the new measures and restrictions in place for the performance, our students pulled through with their heartfelt rendition of Acclamations by Ed Huckeby, eventually clinching an Accomplishment award. The school is very proud of their efforts and achievements.</p>
 
-<p style="text-align:justify">After the SYF season, we sincerely bade farewell to our graduating Band members who have to focus on their national examinations. Following the loosening of restrictions for CCA to resume, our lower secondary students started band practice again in the middle of Term 2. The Secondary Ones, in particular, were ecstatic to finally learn to play their allocated instruments. Under the guidance of our instructors and more experienced players, we are positive that Concert Band can flourish through the adversities and continue to excel in the coming years.</p>
+#### Reflection
 
-![Singapore Youth Festival competition day](/images/Cca/cca-concertband-03.jpeg)
+<p style="text-align:justify; font-style:italic">My band life has been a very memorable one and it would definitely be something that I’ll treasure a lot. To me, Band was one of the few things that I always looked forward to when I go to school, music really helps to calm me down and I really enjoy what I am doing in band. My experience in Band has been very fun, I enjoyed the times when my friends and I would come together to play music together. </p>
 
-<p style="text-align:justify; font-style:italic">The most memorable event that I have participated in is the Singapore Youth Festival in 2021. Even though we did not achieve the Certificate of Distinction, we really tried our best and for this year’s SYF, we did not really get any help from our seniors due to the pandemic and strict rules about intermingling But we were lucky enough to have our tutors, instructor and teachers supporting us. I would like to say to the current and future Band members that they should always support one another, always work together as one and have respect for each other.</p>
+<p style="text-align:justify; font-style:italic">Being in Band has taught me the value of teamwork and harmony very strongly. This is because when one of my counterparts is not doing well, the band would sound drastically different. Even though only one person was off-tune, it could really affect how we sound, and if we are not getting along together, we would not get anything done. </p>
 
-**- Lim En Jie, Janavia (Band Major, 4R2)**
+<p style="text-align:justify; font-style:italic">Getting the results of our SYF was important to us, however, what I found more important is the journey and experience that we all went through as one united Band. The journey for the competition was truly a most memorable one.</p>
 
-![](/images/Cca/cca-concertband-04.jpg)
- 
-<p style="text-align:justify; font-style:italic">The most memorable time in Band was the 2019 SYF. It was an honour to represent my school at the competition and I truly enjoyed the experience shared with my juniors, friends and seniors. All our hard work paid off – the best part was when we achieved the SYF Distinction Award. Being appointed as Band Major helped me to develop my leadership and communication skills through managing the band. I have become more responsible and mature over the last 4 years with Band. I am very thankful to be able to work with all my amazing bandmates, who made band practices fun and enjoyable.</p>
+**- Caton Hua Yuan Guan (3R2)**
 
-**- Jesse Ng Ren Jie (Band Major, 4R3)**
+![](/images/Cca/cca-concertband-n01.jpg)2023 Sec 1 Orientation
 
- ![](/images/Cca/cca-concertband-05.jpg)
- 
-<p style="text-align:justify; font-style:italic">So far during my time in band, I have had a very enriching experience. I got to meet many people with common interests and saw each other grow as individuals. I think that Band is not only about playing the instrument, but also developing core values. Through the many practice sessions, I have learnt the true meaning of companionship as I spent time with my fellow CCA mates practising. I also realised that one need not only have talent for something, but more importantly the passion and eagerness to learn. One memorable moment was right before we went onstage for the SYF competition, I saw members reassuring each other that they were going to do well, despite being equally nervous themselves. I think that shows a lot about how being in Band allows students to develop compassion, along with close relationships, that continue to blossom outside of the CCA.</p>
+![](/images/Cca/cca-concertband-n02.jpg)2023 Band Exchange at Bedok South Secondary School
 
-**- En Teo (3R1)**
+![](/images/Cca/cca-concertband-n03.jpg)Practicing in the Band Room
 
-  ![](/images/Cca/cca-concertband-06.jpg)
-	
-<p style="text-align:justify; font-style:italic">My most memorable experience in band is when I attended the 2021 Singapore Youth Festival. I got to experience it with my seniors and friends. It was my first SYF in Secondary School and with the help from my bandmates and teachers, I was able to catch up and do my best. I learnt new skills and new things about music. I would like to thank my seniors for guiding me and helping me to improve. I would also like to thank my teachers and instructors for their support.</p>
+![](/images/Cca/cca-concertband-n04.jpg)Singapore Youth Festival 2023 AP
 
-**- Nur Natasha Binte Abdul Latif (2R6)**
-
- ![](/images/Cca/cca-concertband-07.jpg)
+![](/images/Cca/cca-concertband-n05.jpg)Singapore Youth Festival 2023 AP

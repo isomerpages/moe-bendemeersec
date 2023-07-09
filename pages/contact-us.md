@@ -17,12 +17,14 @@ locations:
 contacts:
   - content:
       - phone: +65 6292 7616
-      - email: bendemeer_ss@moe.edu.sg
-      - other: ""
+      - email: ""
+      - other: '<br><strong>Have a question?</strong><br> <a
+          href="https://ask.gov.sg/bss">https://ask.gov.sg/bss</a><p></p> '
     title: General Enquiries & Feedback
   - content:
       - phone: ""
       - email: ""
       - other: https://go.gov.sg/bdms-icthelp
     title: School-Based ICT Helpdesk
+feedback: https://go.gov.sg/bdms-icthelp
 ---

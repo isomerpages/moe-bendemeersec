@@ -9,6 +9,8 @@ description: ""
 
 <p style="text-align:justify">You may view the latest School Magazine by clicking on the external URL below.</p>
 
+<a href="https://issuu.com/bendemeersec/docs/bendemeer_secondary_school_e-magazine_2022?fr=xKAE9_zU1NQ" target="_blank" rel="noopener">Bendemeer Secondary School e-Magazine 2022</a>
+
 <a href="https://issuu.com/bendemeersec/docs/bendemeer_sec_e-magazine_2021?fr=sY2FhYTU0MjE3MTM" target="_blank" rel="noopener">Bendemeer Secondary School e-Magazine 2021</a>
 
 <a href="https://issuu.com/bendemeersec/docs/2020_bdms_newsletter?fr=sOGI5NDU0MjE3MTM" target="_blank" rel="noopener">Bendemeer Secondary School e-Magazine 2020</a>

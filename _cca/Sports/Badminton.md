@@ -7,8 +7,8 @@ third_nav_title: Sports
 |  **Teachers-in-Charge:** | Mr Manoj Kumar Dave (I/C) | 
 | -------- | -------- |
 |  | Mr Wong Chee Seng (2I/C) |
-|**Captain:** |  Tan Jing Ren, Mattias (4R2) |
-|**Vice-Captains:** |  Ng Choon Lin (3R3)   |
+|**Captain:** |  Ng Choon Lin  (4R3) |
+|**Vice-Captains:** |  Ihsan Aziz (3R1)  |
 |  |  |
 
 | Training days: | Tuesdays  |
@@ -16,24 +16,28 @@ third_nav_title: Sports
 | Duration: |  4.00pm - 6.00pm |
 
 <p style="text-align:justify">
-Badminton gives our students good flexibility and a good joint work-out. In addition, fast hand and eye coordination is key in predicting and delivering accurate shots. No badminton player will succeed without building up their stamina, for long bouts lasting 2-3 hours. This year’s CCA sessions started with that aim in mind, at the same time keeping it fun, relaxing and challenging for the members.</p>
+Badminton has been very popular among Bendemeerians for years. The training always gives members a good muscle stretching and strong mind stimulation after a long day. Teams  willingly allow more players to join in as there are only 4 Badminton courts at the Indoor Sports Hall and enjoy the camaraderie. After a 1 hour game, you can see the perseverance as they carry on the match all sweaty.  </p>
 
-![Basic Strokes](/images/Cca/cca-badmin-i-Basic-stroke-768x576.jpg)
-Basic Strokes
-<p style="text-align:justify">
-Training sessions were held every Tuesday with all of our upper secondary students training from 4-6pm. This year also saw a very large cohort from the graduating students. They played enthusiastically and kept attending CCA sessions even after CCA stood down. </p>
-
-![Hand-eye coordination](/images/Cca/cca-badmin-i-Hand-eye-coordination-768x576.jpg)
+![Our members having fun](/images/Cca/cca-badminton-n01.jpg)Our members having fun
 
 <p style="text-align:justify">
-All our members thoroughly enjoyed the sessions and used it to relieve some stress from their studies. CCA members agreed the fun and non-competitive aspects of the training was what they cherished most.</p>
+Many of the members are from the Secondary 4 and 5 cohort, almost half being girls. They love how they could outwit each other in the matches, as they try to coax more girls to join them.   </p>
+
+![Serious match](/images/Cca/cca-badminton-n02.jpg)
+
+<p style="text-align:justify">
+Our outgoing Captain, Ng Choon Lin having a serious match with his classmates during one of the training days. When asked, CCA members agreed the fun and non-competitive aspects of the training was what they wanted most.</p>
+
+![](/images/Cca/cca-badminton-n03.jpg)
+
+![](/images/Cca/cca-badminton-n04.jpg)
 
 #### Student Reflections
 <p style="text-align:justify; font-style:italic">
-From my experiences as being captain of Badminton, its is delightful to compete against fellow CCA mates and friends. Being able to come together for badminton practice is what I look forward to each week. </p>
+From my experiences as being captain of Badminton, reminding members to be on time is an important duty. As for the training, I play hard and laugh hard, that is a big benefit.</p>
 
-**- Ng Choon Lin 3R3 (Incoming Captain)**
+**- Ihsan (3R1)**
 
-<p style="text-align:justify; font-style:italic">Badminton CCA is a time to come together with friends to play and relieve any stress after long hours of lessons. Badminton also gives the opportunity to create new bonds and potentially learn from others and have fun. </p>
+<p style="text-align:justify; font-style:italic">Badminton CCA was not my choice but seeing how much we can play and goof around in a safe environment is definitely something I like. </p>
 
-**-Mohammad Azhar 5R1**
+**- Joy Lian Yi Xuan (5R1)**
