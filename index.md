@@ -30,7 +30,7 @@ sections:
       title: Get official answers from our Q&A Platform
       subtitle: Have A question?
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
-      url: https://ask.gov.sg/bss
+      url: https://ask.gov.sg/bdms
       image: /images/bss-askgov.png
       alt: AskGov
 ---
