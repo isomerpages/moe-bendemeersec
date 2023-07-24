@@ -18,8 +18,8 @@ contacts:
   - content:
       - phone: +65 6292 7616
       - email: ""
-      - other: '<br><strong>Have a question?</strong><br> <a
-          href="https://ask.gov.sg/bss">https://ask.gov.sg/bss</a><p></p> '
+      - other: <br><strong>Have a question?</strong><br> <a
+          href="https://ask.gov.sg/bdms">https://ask.gov.sg/bdms</a><p></p>
     title: General Enquiries & Feedback
   - content:
       - phone: ""
