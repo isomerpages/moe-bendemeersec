@@ -24,3 +24,10 @@ Quick Links
 * <a href="https://bendemeersecondary.padlet.org" target="_blank">Padlet</a>
 * <a href="https://nearpod.com/" target="_blank">Nearpod</a>
 
+#### Helpdesk
+
+* <a href="https://go.gov.sg/bdms-icthelp" target="_blank">Bendemeer Secondary ICT Helpline</a>
+* <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-student" target="_blank">SLS Password Reset Guide</a>
+* <a href="https://www.learning.moe.edu.sg/teacher-user-guide/index)" target="_blank">Student Learning Space Teacher User Guide</a>
+
+
