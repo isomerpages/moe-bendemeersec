@@ -24,6 +24,17 @@ Quick Links
 * <a href="https://bendemeersecondary.padlet.org" target="_blank">Padlet</a>
 * <a href="https://nearpod.com/" target="_blank">Nearpod</a>
 
+
+MOE Intranet
+<a href="" target="_blank"></a>
+<a href="" target="_blank"></a>
+<a href="" target="_blank"></a>
+<a href="" target="_blank"></a>
+<a href="" target="_blank"></a>
+
+
+Others
+
 #### Helpdesk
 
 * <a href="https://go.gov.sg/bdms-icthelp" target="_blank">Bendemeer Secondary ICT Helpline</a>
