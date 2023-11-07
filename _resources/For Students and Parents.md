@@ -42,5 +42,14 @@ description: ""
 * [School Finder](https://www.moe.gov.sg/schoolfinder)
 
 
+#### Official Social Media Pages
+
+* [Bendemeer Secondary Official Instagram](https://www.instagram.com/bendemeer_secondary_official)
+* [Bendemeer Seocndary Official Facebook](https://www.facebook.com/BendemeerSecondaryOfficial)
+* [Craft and Technology (Art Unit](https://www.instagram.com/bendemeer_art)
+* [English Language and Literature](https://www.instagram.com/bdmseldept)
+* [School Magazines](https://www.bendemeersec.moe.edu.sg/for-parents/sch-magazines)
+* [School Tour](https://www.bendemeersec.moe.edu.sg/about-us/bendemeer-school-tour)
+
 
 
