@@ -9,7 +9,7 @@ description: ""
 * [Class Timetable](https://www.bendemeersec.moe.edu.sg/for-parents/class-timetable/)
 
 
-Quick Links
+#### Quick Links
 * <a href="https://forms.moe.edu.sg" target="_blank">All Ears Form Builder</a>
 * <a href="https://form.gov.sg" target="_blank">Form.SG</a>
 * <a href="https://academyofsingaporeteachers.moe.edu.sg" target="_blank">Academy of Singapore Teachers</a>
@@ -25,15 +25,16 @@ Quick Links
 * <a href="https://nearpod.com/" target="_blank">Nearpod</a>
 
 
-MOE Intranet
+#### MOE Intranet
+
 <a href="https://opal2.moe.edu.sg" target="_blank">OPAL 2.0</a>
-<a href="" target="_blank"></a>
-<a href="" target="_blank"></a>
-<a href="" target="_blank"></a>
-<a href="" target="_blank"></a>
+<a href="" target="_blank">School Cockpit (Results Entry)</a>
+<a href="" target="_blank">Admin and Reports</a>
+<a href="" target="_blank">HRP</a>
+<a href="" target="_blank">Exam Personal Portal</a>
+<a href="" target="_blank">iEXAMS2</a>
+<a href="https://ssoe.moe.edu.sg" target="_blank">SSOE Portal</a>
 
-
-Others
 
 #### Helpdesk
 
