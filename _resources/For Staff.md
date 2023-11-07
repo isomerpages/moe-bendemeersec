@@ -27,13 +27,13 @@ description: ""
 
 #### MOE Intranet
 
-<a href="https://opal2.moe.edu.sg" target="_blank">OPAL 2.0</a>
-<a href="https://schoolcockpit.moe.gov.sg/academic" target="_blank">School Cockpit (Results Entry)</a>
-<a href="https://schoolcockpit.moe.gov.sg" target="_blank">Admin and Reports</a>
-<a href="https://www.hrp.gov.sg" target="_blank">HRP</a>
-<a href="https://myexamduty.seab.gov.sg" target="_blank">Exam Personal Portal</a>
-<a href="https://iexams.seab.gov.sg/login" target="_blank">iEXAMS2</a>
-<a href="https://ssoe.moe.edu.sg" target="_blank">SSOE Portal</a>
+* <a href="https://opal2.moe.edu.sg" target="_blank">OPAL 2.0</a>
+* <a href="https://schoolcockpit.moe.gov.sg/academic" target="_blank">School Cockpit (Results Entry)</a>
+* <a href="https://schoolcockpit.moe.gov.sg" target="_blank">Admin and Reports</a>
+* <a href="https://www.hrp.gov.sg" target="_blank">HRP</a>
+* <a href="https://myexamduty.seab.gov.sg" target="_blank">Exam Personal Portal</a>
+* <a href="https://iexams.seab.gov.sg/login" target="_blank">iEXAMS2</a>
+* <a href="https://ssoe.moe.edu.sg" target="_blank">SSOE Portal</a>
 
 
 #### Helpdesk
@@ -41,5 +41,3 @@ description: ""
 * <a href="https://go.gov.sg/bdms-icthelp" target="_blank">Bendemeer Secondary ICT Helpline</a>
 * <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-student" target="_blank">SLS Password Reset Guide</a>
 * <a href="https://www.learning.moe.edu.sg/teacher-user-guide/index)" target="_blank">Student Learning Space Teacher User Guide</a>
-
-
