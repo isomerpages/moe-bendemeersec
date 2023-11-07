@@ -28,11 +28,11 @@ description: ""
 #### MOE Intranet
 
 <a href="https://opal2.moe.edu.sg" target="_blank">OPAL 2.0</a>
-<a href="" target="_blank">School Cockpit (Results Entry)</a>
-<a href="" target="_blank">Admin and Reports</a>
-<a href="" target="_blank">HRP</a>
-<a href="" target="_blank">Exam Personal Portal</a>
-<a href="" target="_blank">iEXAMS2</a>
+<a href="https://schoolcockpit.moe.gov.sg/academic" target="_blank">School Cockpit (Results Entry)</a>
+<a href="https://schoolcockpit.moe.gov.sg" target="_blank">Admin and Reports</a>
+<a href="https://www.hrp.gov.sg" target="_blank">HRP</a>
+<a href="https://myexamduty.seab.gov.sg" target="_blank">Exam Personal Portal</a>
+<a href="https://iexams.seab.gov.sg/login" target="_blank">iEXAMS2</a>
 <a href="https://ssoe.moe.edu.sg" target="_blank">SSOE Portal</a>
 
 
