@@ -23,6 +23,11 @@ description: ""
 * [Student iCON](https://workspace.google.com/dashboard)
 * [Google Classroom](https://classroom.google.com)
 * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
-* [Student Learning Space Student User Guide](https://www.learning.moe.edu.sg/student-user-guide/index)
 * [Padlet](https://bendemeersecondary.padlet.org)
 * [Nearpod](https://nearpod.com/)
+
+#### Helpdesk
+
+* [Bendemeer Secondary ICT Helpline](https://go.gov.sg/bdms-icthelp)
+* [SLS Password Reset Guide](https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-student/)
+* [Student Learning Space Student User Guide](https://www.learning.moe.edu.sg/student-user-guide/index)
