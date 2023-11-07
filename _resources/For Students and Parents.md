@@ -17,3 +17,12 @@ description: ""
 * [National Digital Literacy Programme](https://www.bendemeersec.moe.edu.sg/key-programmes/ndlp/purchasepld/)
 * [LEAPS 2.0](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0)
 * [Edusave](https://www.moe.gov.sg/financial-matters/edusave-account)
+
+#### Quick Links
+
+* [Student iCON](https://workspace.google.com/dashboard)
+* [Google Classroom](https://classroom.google.com)
+* [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
+* [Student Learning Space Student User Guide](https://www.learning.moe.edu.sg/student-user-guide/index)
+* [Padlet](https://bendemeersecondary.padlet.org)
+* [Nearpod](https://nearpod.com/)
