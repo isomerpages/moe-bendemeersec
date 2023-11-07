@@ -26,7 +26,7 @@ Quick Links
 
 
 MOE Intranet
-<a href="" target="_blank"></a>
+<a href="https://opal2.moe.edu.sg" target="_blank">OPAL 2.0</a>
 <a href="" target="_blank"></a>
 <a href="" target="_blank"></a>
 <a href="" target="_blank"></a>
