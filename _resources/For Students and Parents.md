@@ -31,3 +31,16 @@ description: ""
 * [Bendemeer Secondary ICT Helpline](https://go.gov.sg/bdms-icthelp)
 * [SLS Password Reset Guide](https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-student/)
 * [Student Learning Space Student User Guide](https://www.learning.moe.edu.sg/student-user-guide/index)
+
+#### Admissions
+
+* [Direct School Admissions (DSA)](https://www.moe.gov.sg/secondary/dsa)
+* [Secondary 1 Posting Process](https://www.moe.gov.sg/secondary/s1-posting)
+* [MOE Financial Assistance Scheme](https://www.moe.gov.sg/financial-matters/financial-assistance)
+* [Returning Singaporean Admission](https://www.moe.gov.sg/returning-singaporeans)
+* [International School Admission](https://www.moe.gov.sg/international-students)
+* [School Finder](https://www.moe.gov.sg/schoolfinder)
+
+
+
+
