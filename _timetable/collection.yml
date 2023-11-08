@@ -1,4 +1,5 @@
 collections:
   timetable:
     output: true
-    order: []
+    order:
+      - Class Timetable.md
