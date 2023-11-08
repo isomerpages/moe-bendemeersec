@@ -35,6 +35,12 @@ description: ""
 * <a href="https://iexams.seab.gov.sg/login" target="_blank">iEXAMS2</a>
 * <a href="https://ssoe.moe.edu.sg" target="_blank">SSOE Portal</a>
 
+#### Others
+
+* <a href="https://olive.moe.edu.sg/olive/icare" target="_blank">iCARE</a>
+* <a href="https://www.mesrc.net" target="_blank">MOE Sports and Recreation Club MESRC</a>
+
+
 
 #### Helpdesk
 
