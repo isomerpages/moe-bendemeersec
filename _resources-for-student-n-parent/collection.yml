@@ -1,4 +1,4 @@
 collections:
-  resource-for-student-n-parent:
+  resources-for-student-n-parent:
     output: true
     order: []
