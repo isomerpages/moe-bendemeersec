@@ -1,5 +1,5 @@
 collections:
-  resources:
+  useful-information:
     output: true
     order:
       - For Students and Parents.md
