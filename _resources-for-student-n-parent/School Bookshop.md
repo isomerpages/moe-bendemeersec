@@ -33,7 +33,6 @@ Operating hours:  Mon-Fri: 9.00am - 3.00pm,  Sat: 9.00am - 11.30am.
 | 27/12/2022 | Wed | All Levels |
 | 28/12/2022 | Thu | AIl Levels |
 
-[sss](sss)
 <br>
 
 **Home Delivery** (Subject to slot availability)<br>
