@@ -12,11 +12,11 @@ For more information on the MOE Financial Assistance Scheme (FAS), please refer 
 
 MOE FAS Application Form can be downloaded below :
 
-[MOE FAS Application Form](/files/Forparents/2024-MOE-FAS-ApplicationForm.pdf)
+[MOE FAS Application Form](/files/Forparents/Moefas/2024-MOE-FAS-ApplicationForm.pdf)
 
 
 Parents may view the MOE FAS Pamhplets below:
-* [MOE FAS Phamplets in Chinese](/files/Forparents/moefas/MOE-FASpamphet-CL.pdf)
-* [MOE FAS Phamplets in English](/files/Forparents/moefas/MOE-FASpamphet-EL.pdf)
-* [MOE FAS Phamplets in Malay Language](/files/Forparents/moefas/MOE-FASpamphet-ML.pdf)
-* [MOE FAS Phamplets in Tamil Language](/files/Forparents/moefas/MOE-FASpamphet-TL.pdf)
+* [MOE FAS Phamplets in Chinese](/files/Forparents/Moefas/MOE-FASpamphet-CL.pdf)
+* [MOE FAS Phamplets in English](/files/Forparents/Moefas/MOE-FASpamphet-EL.pdf)
+* [MOE FAS Phamplets in Malay Language](/files/Forparents/Moefas/MOE-FASpamphet-ML.pdf)
+* [MOE FAS Phamplets in Tamil Language](/files/Forparents/Moefas/MOE-FASpamphet-TL.pdf)
