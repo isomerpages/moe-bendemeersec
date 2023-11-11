@@ -8,7 +8,7 @@ description: ""
 
 Parents and students may download the book lists for 2024 from the links below:
 
-**Booklists for 2024**
+#### **Booklists for 2024**
 
 |[Sec 1](/files/Forparents/Booklists/booklist_2024_sec1.pdf) |  |  |
 |-|-|-|
