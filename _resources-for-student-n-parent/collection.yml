@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Book Lists.md
-      - Online School Magazines.md
       - School Bookshop.md
+      - Online School Magazines.md
