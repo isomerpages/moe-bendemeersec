@@ -52,5 +52,5 @@ description: ""
 * <a href="https://www.facebook.com/BendemeerSecondaryOfficial" target="_blank">Bendemeer Secondary Official Facebook</a>
 * <a href="https://www.instagram.com/bendemeer_art" target="_blank">Craft and Technology (Art Unit)</a>
 * <a href="https://www.instagram.com/bdmseldept" target="_blank">English Language and Literature</a>
-* <a href="https://www.bendemeersec.moe.edu.sg/for-parents/sch-magazines" target="_blank">School Magazines</a>
+* <a href="/resources-for-student-n-parent/sch-magazine/" target="_blank">School Magazines</a>
 * <a href="https://www.bendemeersec.moe.edu.sg/about-us/bendemeer-school-tour" target="_blank">School Tour</a>
