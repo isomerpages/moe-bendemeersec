@@ -21,11 +21,12 @@ description: ""
 
 #### Quick Links
 
-* [Student iCON](https://workspace.google.com/dashboard)
-* [Google Classroom](https://classroom.google.com)
-* [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
-* [Padlet](https://bendemeersecondary.padlet.org)
-* [Nearpod](https://nearpod.com/)
+* <a href="https://workspace.google.com/dashboard" target="_blank">Student iCON</a>
+* <a href="https://classroom.google.com" target="_blank">Google Classroom</a>
+* <a href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space (SLS)</a>
+* <a href="https://bendemeersecondary.padlet.org" target="_blank">Padlet</a>
+* <a href="https://nearpod.com/" target="_blank">Nearpod</a>
+
 
 #### Helpdesk
 
