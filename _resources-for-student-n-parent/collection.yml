@@ -2,7 +2,7 @@ collections:
   resources-for-student-n-parent:
     output: true
     order:
-      - MOE FAS Application.md
       - Book Lists.md
       - Sale of Books and Uniform.md
       - Online School Magazines.md
+      - MOE FAS Application.md
