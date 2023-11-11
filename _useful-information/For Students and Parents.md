@@ -6,17 +6,18 @@ description: ""
 ---
 #### Timetables
 
-* [Class Timetable](https://www.bendemeersec.moe.edu.sg/for-parents/class-timetable/)
+* [Class Timetable](/timetable/class-timetable/)
 
 #### Bookshop and Uniform Supplier
-* [Bookshop and Uniform Supplier](https://www.bendemeersec.moe.edu.sg/for-parents/sec1-registration/sale-uniform-and-books/)
+* [Bookshop and Uniform Supplier](/resources-for-student-n-parent/booksuniform/)
 
 #### Others
 
 * [Sexuality Education](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)
 * [National Digital Literacy Programme](https://www.bendemeersec.moe.edu.sg/key-programmes/ndlp/purchasepld/)
-* [LEAPS 2.0](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0)
-* [Edusave](https://www.moe.gov.sg/financial-matters/edusave-account)
+* <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" target="_blank">LEAPS 2.0</a>
+* <a href="https://www.moe.gov.sg/financial-matters/edusave-account" target="_blank">Edusave</a>
+* []()
 
 #### Quick Links
 
@@ -34,12 +35,16 @@ description: ""
 
 #### Admissions
 
-* [Direct School Admissions (DSA)](https://www.moe.gov.sg/secondary/dsa)
-* [Secondary 1 Posting Process](https://www.moe.gov.sg/secondary/s1-posting)
-* [MOE Financial Assistance Scheme](https://www.moe.gov.sg/financial-matters/financial-assistance)
-* [Returning Singaporean Admission](https://www.moe.gov.sg/returning-singaporeans)
-* [International School Admission](https://www.moe.gov.sg/international-students)
-* [School Finder](https://www.moe.gov.sg/schoolfinder)
+* []()
+* []()
+* []()
+* <a href="https://www.moe.gov.sg/secondary/dsa" target="_blank">Direct School Admissions (DSA)</a>
+* <a href="https://www.moe.gov.sg/secondary/s1-posting" target="_blank">Secondary 1 Posting Process</a>
+* <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank">MOE Financial Assistance Scheme</a>
+* <a href="/resources-for-student-n-parent/moefas/" target="_blank">Application for MOE FAS</a>
+* <a href="https://www.moe.gov.sg/returning-singaporeans" target="_blank">Returning Singaporean Admission</a>
+* <a href="https://www.moe.gov.sg/international-students" target="_blank">International School Admission</a>
+* <a href="https://www.moe.gov.sg/schoolfinder" target="_blank">School Finder</a>
 
 
 #### Official Social Media Pages
