@@ -29,14 +29,12 @@ description: ""
 
 #### Helpdesk
 
-* [Bendemeer Secondary ICT Helpline](https://go.gov.sg/bdms-icthelp)
-* [SLS Password Reset Guide](https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-student/)
-* [Student Learning Space Student User Guide](https://www.learning.moe.edu.sg/student-user-guide/index)
+* <a href="https://go.gov.sg/bdms-icthelp" target="_blank">Bendemeer Secondary ICT Helpline</a>
+* <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-student/" target="_blank">SLS Password Reset Guide</a>
+* <a href="https://www.learning.moe.edu.sg/student-user-guide/index" target="_blank">Student Learning Space Student User Guide</a>
+
 
 #### Admissions
-
-* []()
-* []()
 
 * <a href="https://www.moe.gov.sg/secondary/dsa" target="_blank">Direct School Admissions (DSA)</a>
 * <a href="https://www.moe.gov.sg/secondary/s1-posting" target="_blank">Secondary 1 Posting Process</a>
