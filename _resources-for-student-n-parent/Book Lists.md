@@ -4,9 +4,9 @@ permalink: /resources-for-student-n-parent/booklists/
 variant: markdown
 description: ""
 ---
-The booklists for 2024 has been emailed to all students via their student iCON.  They have also been sent out to all parents via PG. 
 
-Parents and students may also download the booklist from the links below:
+
+Parents and students may download the book lists for 2024 from the links below:
 
 Booklists for 2024
 
