@@ -2,5 +2,6 @@ collections:
   useful-information:
     output: true
     order:
+      - Canteen.md
       - For Students and Parents.md
       - For Staff.md
