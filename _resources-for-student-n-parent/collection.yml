@@ -2,5 +2,6 @@ collections:
   resources-for-student-n-parent:
     output: true
     order:
+      - Book Lists.md
       - Online School Magazines.md
       - School Bookshop.md
