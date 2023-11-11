@@ -37,11 +37,11 @@ description: ""
 
 * []()
 * []()
-* []()
+
 * <a href="https://www.moe.gov.sg/secondary/dsa" target="_blank">Direct School Admissions (DSA)</a>
 * <a href="https://www.moe.gov.sg/secondary/s1-posting" target="_blank">Secondary 1 Posting Process</a>
 * <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank">MOE Financial Assistance Scheme</a>
-* <a href="/resources-for-student-n-parent/moefas/" target="_blank">Application for MOE FAS</a>
+* [Application for MOE FAS](/resources-for-student-n-parent/moefas/)
 * <a href="https://www.moe.gov.sg/returning-singaporeans" target="_blank">Returning Singaporean Admission</a>
 * <a href="https://www.moe.gov.sg/international-students" target="_blank">International School Admission</a>
 * <a href="https://www.moe.gov.sg/schoolfinder" target="_blank">School Finder</a>
