@@ -4,12 +4,12 @@ permalink: /usefulinfo/forstaff/
 variant: markdown
 description: ""
 ---
-#### Timetables
+#### **Timetables**
 
 * [Class Timetable](https://www.bendemeersec.moe.edu.sg/for-parents/class-timetable/)
 
 
-#### Quick Links
+#### **Quick Links**
 
 * <a href="https://workspace.google.com/dashboard" target="_blank">Staff iCON</a>
 * <a href="https://classroom.google.com" target="_blank">Google Classroom</a>
@@ -26,7 +26,7 @@ description: ""
 * <a href="https://form.gov.sg" target="_blank">Form.SG</a>
 * <a href="https://academyofsingaporeteachers.moe.edu.sg" target="_blank">Academy of Singapore Teachers</a>
 
-#### MOE Intranet
+#### **MOE Intranet**
 
 * <a href="https://opal2.moe.edu.sg" target="_blank">OPAL 2.0</a>
 * <a href="https://schoolcockpit.moe.gov.sg/academic" target="_blank">School Cockpit (Results Entry)</a>
@@ -35,14 +35,14 @@ description: ""
 * <a href="https://iexams.seab.gov.sg/login" target="_blank">iEXAMS2</a>
 * <a href="https://ssoe.moe.edu.sg" target="_blank">SSOE Portal</a>
 
-#### Others
+#### **Others**
 
 * <a href="https://olive.moe.edu.sg/olive/icare" target="_blank">iCARE</a>
 * <a href="https://www.mesrc.net" target="_blank">MOE Sports and Recreation Club MESRC</a>
 
 
 
-#### Helpdesk
+#### **Helpdesk**
 
 * <a href="https://go.gov.sg/bdms-icthelp" target="_blank">Bendemeer Secondary ICT Helpline</a>
 * <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-student" target="_blank">SLS Password Reset Guide</a>
