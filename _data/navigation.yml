@@ -19,16 +19,12 @@ links:
     collection: achievements
   - title: Life@BDMS
     collection: life-at-bdms
-  - title: For Parents
-    url: /for-parents/dsa-registration/
+  - title: Useful Information
+    url: /usefulinfo/forstudentparents/
     sublinks:
-      - title: DSA Registration
-        url: /for-parents/dsa-registration/
-      - title: Online School Magazine
-        url: /for-parents/sch-magazines
-      - title: School Bookshop
-        url: /for-parents/bookshop/
-      - title: Class Timetable
-        url: /for-parents/class-timetable
-      - title: Useful Links
-        url: /for-parents/useful-links
+      - title: For Students and Parents
+        url: /usefulinfo/forstudentparents/
+      - title: For Staff
+        url: /usefulinfo/forstaff/
+      - title: School Canteen Advertisement
+        url: /usefulinfo/schoolcanteen/
