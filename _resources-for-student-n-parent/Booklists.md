@@ -4,7 +4,7 @@ permalink: /resources-for-student-n-parent/booklists/
 variant: markdown
 description: ""
 ---
-Parents and students may download the book lists for 2024 from the links below:
+Parents and students may download the booklists for 2024 from the links below:
 
 #### **Booklists for 2024**
 
