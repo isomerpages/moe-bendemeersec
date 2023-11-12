@@ -1,4 +1,5 @@
 collections:
   school-tour:
     output: true
-    order: []
+    order:
+      - Bendemeer School Tour.md
