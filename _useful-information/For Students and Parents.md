@@ -9,6 +9,7 @@ description: ""
 * [Class Timetable](/timetable/class-timetable/)
 
 #### **Bookshop and Uniform Supplier**
+* [Booklists 2024](/resources-for-student-n-parent/booklists/)
 * [Bookshop and Uniform Supplier](/resources-for-student-n-parent/booksuniform/)
 
 #### **Others**
