@@ -2,9 +2,9 @@
 title: Online School Magazines
 permalink: /resources-for-student-n-parent/sch-magazine/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-<p style="text-align:justify">The school produces a school magazine at the end of each year to celebrate the achievements of the students.  It is also a record of activities and work done by the stag and students during the year.  It is an invaluable testimony to work done by everyone.</p>
+<p style="text-align:justify">The school produces a school magazine at the end of each year to celebrate the achievements of the students.  It is also a record of activities and work done by the staff and students during the year.  It is an invaluable testimony to work done by everyone.</p>
 
 ### Online School Magazines
 
