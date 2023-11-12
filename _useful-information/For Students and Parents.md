@@ -15,7 +15,6 @@ description: ""
 #### **Others**
 
 * <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" target="_blank">Sexuality Education</a>
-* [National Digital Literacy Programme](https://www.bendemeersec.moe.edu.sg/key-programmes/ndlp/purchasepld/)
 * <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" target="_blank">LEAPS 2.0</a>
 * <a href="https://www.moe.gov.sg/financial-matters/edusave-account" target="_blank">Edusave</a>
 
@@ -27,6 +26,7 @@ description: ""
 * <a href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space (SLS)</a>
 * <a href="https://bendemeersecondary.padlet.org" target="_blank">Padlet</a>
 * <a href="https://nearpod.com/" target="_blank">Nearpod</a>
+* [Personal Digital Literacy Programme](/key-programmes/ndlp/ndlp-overview/)
 
 
 #### **Helpdesk**
