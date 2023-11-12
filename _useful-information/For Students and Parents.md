@@ -53,4 +53,4 @@ description: ""
 * <a href="https://www.instagram.com/bendemeer_art" target="_blank">Craft and Technology (Art Unit)</a>
 * <a href="https://www.instagram.com/bdmseldept" target="_blank">English Language and Literature</a>
 * <a href="/resources-for-student-n-parent/sch-magazine/" target="_blank">School Magazines</a>
-* <a href="/bendemeer-school-tour/" target="_blank">School Tour</a>
+* <a href="/bendemeer-school-tour/" target="_blank">Bendemeer School Tour</a>
