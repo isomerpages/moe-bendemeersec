@@ -2,7 +2,6 @@ collections:
   resources-for-student-n-parent:
     output: true
     order:
-      - Bendemeer School Tour.md
       - Booklists.md
       - Sale of Books and Uniform.md
       - Online School Magazines.md
