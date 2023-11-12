@@ -23,7 +23,7 @@ sections:
       title: Japanese/Korean/ Thai/Vegetarian & Chinese Rice Stall
       subtitle: Canteen Stalls Advertisement
       button: MORE INFORMATION
-      url: /canteen/
+      url: /schoolcanteen/
       alt: Canteen Food
       image: /images/japanese-food-g34e1f8b50_1920.jpg
   - infopic:
