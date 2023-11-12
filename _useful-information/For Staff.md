@@ -20,9 +20,9 @@ description: ""
 * <a href="https://rbs.avero-tech.com" target="_blank">Resource Booking System (RBS)</a>
 * <a href="https://scmobile.moe.edu.sg" target="_blank">SCMobile</a>
 * <a href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space (SLS)</a>
-* <a href="https://www.learning.moe.edu.sg/teacher-user-guide/index/)" target="_blank">SLS Teacher User Guide</a>
+* <a href="https://www.learning.moe.edu.sg/teacher-user-guide/index" target="_blank">SLS Teacher User Guide</a>
 * <a href="https://bendemeersecondary.padlet.org" target="_blank">Padlet</a>
-* <a href="https://nearpod.com/" target="_blank">Nearpod</a>
+* <a href="https://nearpod.com" target="_blank">Nearpod</a>
 
 
 #### MOE Intranet
