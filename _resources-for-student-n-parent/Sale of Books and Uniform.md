@@ -17,21 +17,21 @@ Operating hours:  Mon-Fri: 9.00am - 3.00pm,  Sat: 9.00am - 11.30am.
 | 27/11/2023 | Mon | All Levels |
 | 28/11/2023 | Tue | All Levels |
 | 01/12/2023 | Wed | All Levels |
-| 02/12/2022 | Sat | All Levels |
-| 06/12/2022 | Wed | All Levels |
-| 07/12/2022 | Thu | All Levels |
-| 08/12/2022 | Fri | All Levels |
-| 09/12/2022 | Sat | All Levels |
-| 12/12/2022 | Mon | All Levels |
-| 13/12/2022 | Wed | All Levels |
-| 14/12/2022 | Thu | All Levels |
-| 15/12/2022 | Fri | All Levels |
-| 21/12/2022 | Thu | **Sec 1 Only** |
-| 22/12/2022 | Fri | **Sec 1 Only** |
-| 23/12/2022 | Sat | **Sec 1 Only** |
-| 26/12/2022 | Tue | All Levels |
-| 27/12/2022 | Wed | All Levels |
-| 28/12/2022 | Thu | AIl Levels |
+| 02/12/2023 | Sat | All Levels |
+| 06/12/2023 | Wed | All Levels |
+| 07/12/2023 | Thu | All Levels |
+| 08/12/2023 | Fri | All Levels |
+| 09/12/2023 | Sat | All Levels |
+| 11/12/2023 | Mon | All Levels |
+| 13/12/2023 | Wed | All Levels |
+| 14/12/2023 | Thu | All Levels |
+| 15/12/2023 | Fri | All Levels |
+| 21/12/2023 | Thu | **Sec 1 Only** |
+| 22/12/2023 | Fri | **Sec 1 Only** |
+| 23/12/2023 | Sat | **Sec 1 Only** |
+| 26/12/2023 | Tue | All Levels |
+| 27/12/2023 | Wed | All Levels |
+| 28/12/2023 | Thu | AIl Levels |
 
 <br>
 
