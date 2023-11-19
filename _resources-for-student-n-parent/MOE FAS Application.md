@@ -17,7 +17,7 @@ MOE FAS Application Form can be downloaded below :
 [Sec 1](/files/Forparents/Booklists/booklist_2024_sec1.pdf)
 
 Parents may view the MOE FAS Pamhplets below:
-* [MOE FAS Pamphlet in Chinese](/files/Forparents/Moefas/MOE-FASpamphet-CL.pdf)
-* [MOE FAS Pamphlet in English](/files/Forparents/Moefas/MOE-FASpamphet-EL.pdf)
-* [MOE FAS Pamphlet in Malay Language](/files/Forparents/Moefas/MOE-FASpamphet-ML.pdf)
-* [MOE FAS Pamphlet in Tamil Language](/files/Forparents/Moefas/MOE-FASpamphet-TL.pdf)
+* [MOE FAS Pamphlet in Chinese](/files/Forparents/Moefas/MOE_FASpamphlet_CL.pdf)
+* [MOE FAS Pamphlet in English](/files/Forparents/Moefas/MOE_FASpamphlet_EL.pdf)
+* [MOE FAS Pamphlet in Malay Language](/files/Forparents/Moefas/MOE_FASpamphlet_ML.pdf)
+* [MOE FAS Pamphlet in Tamil Language](/files/Forparents/Moefas/MOE_FASpamphlet_TL.pdf)
