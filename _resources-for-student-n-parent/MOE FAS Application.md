@@ -12,7 +12,7 @@ For more information on the MOE Financial Assistance Scheme (FAS), please refer 
 
 MOE FAS Application Form can be downloaded below :
 
-[MOE FAS Application Form](/files/Forparents/Moefas/2024-MOE-FAS-ApplicationForm.pdf)
+[MOE FAS Application Form](/files/Forparents/Moefas/2024_MOE_FAS_ApplicationForm.pdf)
 
 
 Parents may view the MOE FAS Pamhplets below:
