@@ -14,6 +14,7 @@ MOE FAS Application Form can be downloaded below :
 
 [MOE FAS Application Form](/files/Forparents/Moefas/2024_MOE_FAS_ApplicationForm.pdf)
 
+[Sec 1](/files/Forparents/Booklists/booklist_2024_sec1.pdf)
 
 Parents may view the MOE FAS Pamhplets below:
 * [MOE FAS Phamplets in Chinese](/files/Forparents/Moefas/MOE-FASpamphet-CL.pdf)
