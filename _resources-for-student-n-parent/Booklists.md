@@ -4,11 +4,11 @@ permalink: /resources-for-student-n-parent/booklists/
 variant: markdown
 description: ""
 ---
-Parents and students may download the booklists for 2024 from the links below:
-
 During this school holiday, the bookshop will be operating at Level 1 Classroom.  
 
 Operating Hours: Mon-Fri: 9.00am - 3.00pm, Sat: 9.00am - 11.30am.
+
+Parents and students may download the booklists for 2024 from the links below:
 
 #### **Booklists for 2024**
 
