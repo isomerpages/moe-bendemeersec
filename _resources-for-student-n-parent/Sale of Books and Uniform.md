@@ -4,6 +4,7 @@ permalink: /resources-for-student-n-parent/booksuniform/
 description: ""
 variant: markdown
 ---
+### **Sale of Books**
 During school holiday, the bookshop will be operating at Level 1 Classroom. 
 
 The bookshop is opened on the following days with the operating hours as follows:  
@@ -51,13 +52,20 @@ waiting time may be expected.
 Payment modes accepted: Cash, Paynow (Scan QR Code), NTUC Care Fund (e-voucher) &amp; CDAC (e-voucher).
 Please note that cheque payments are not accepted.
 
-Sale of Textbooks is ONLY available in schools. 
-Sales of Uniforms will only start on **15 December 2023**
 Books supplied by :  
 <br>
-<br>
-
 |Company name:  | Pacific Bookstores Pte Ltd.|
 | - |-|
 |  Phone number: | 6929 8012 / 6559 2269 |
 |  Email : | sales@pacificbookstores.com |
+
+### **Sale of School Uniform**
+
+School uniforms are supplied by :  
+<br>
+|Company name:  | iNTrend Uniforms|
+| - |-|
+| Address| #01-31 Enterprise One, Singapore 415934|
+|  Phone number: | 6741 0930 / 6744 7689|
+|  Email : | sales@itu.com.sg |
+
