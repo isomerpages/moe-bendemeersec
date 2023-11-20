@@ -14,6 +14,8 @@ To help us process your applications promptly, please submit the completed 2024 
 
 To access MOE FAS e-application Form (e-FAS), please click on the link <a target="_blank" href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a>
 
+You may also log in to Parents Gateway &gt; Services &gt; Financial Assistance to access the eFAS application. 
+
 Resources: 
 
 * [2024 MOE FAS Application Form](/files/Forparents/Moefas/2024_MOE_FAS_ApplicationForm.pdf)
