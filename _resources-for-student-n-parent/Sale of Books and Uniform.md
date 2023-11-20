@@ -6,8 +6,6 @@ variant: markdown
 ---
 During school holiday, the bookshop will be operating at Level 1 Classroom. 
 
-Besides books and stationery, students can also buy school uniforms.  
-
 The bookshop is opened on the following days with the operating hours as follows:  
 Mon-Fri: 9.00am - 3.00pm,  Sat: 9.00am - 11.30am.
 
