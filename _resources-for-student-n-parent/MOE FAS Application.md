@@ -6,7 +6,8 @@ description: ""
 ---
 #### MOE Financial Assistance Scheme (FAS) 
 
-Students who require financial assistance are to download and fill in the application form.  Please call the school at 62927616 or email us at bendemeer_ss@moe.edu.sg if you have any enquiries.
+Students who require financial assistance are to download and fill in the application form.  Please call the school at 62927616 or email us at 
+<a href="mailto:bendemeer_ss@moe.edu.sg">bendemeer_ss@moe.edu.sg</a> if you have any enquiries.
 
 For more information on the MOE Financial Assistance Scheme (FAS), please refer to the MOE website <a target="_blank" href="https://www.moe.gov.sg/financial-matters/financial-assistance">here</a>.
 
