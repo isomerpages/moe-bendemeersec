@@ -66,6 +66,7 @@ Sale of school uniforms will only start from 15 December 2023 at Level 1 classro
 
 School uniforms are supplied by :  
 <br>
+
 |Company name:  | iNTrend Uniforms|
 | - |-|
 | Address| #01-31 Enterprise One, Singapore 415934|
