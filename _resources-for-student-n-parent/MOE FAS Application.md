@@ -11,6 +11,12 @@ Students who require financial assistance are to download and fill in the applic
 
 For more information on the MOE Financial Assistance Scheme (FAS), please refer to the MOE website <a target="_blank" href="https://www.moe.gov.sg/financial-matters/financial-assistance">here</a>.
 
+Please take note that only the latest version of the form may be used for the application. 
+To help us process your applications promptly, please submit the completed 2024 MOE FAS application forms with the required documents to the school’s General Office by 15 December 2023.
+
+To access MOE FAS e-application Form (e-FAS), please click on the link https://go.gov.sg/moe-efas
+
+
 MOE FAS Application Form can be downloaded below :
 
 [MOE FAS Application Form](/files/Forparents/Moefas/2024_MOE_FAS_ApplicationForm.pdf)
