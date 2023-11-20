@@ -54,6 +54,7 @@ Please note that cheque payments are not accepted.
 
 Books supplied by :  
 <br>
+
 |Company name:  | Pacific Bookstores Pte Ltd.|
 | - |-|
 |  Phone number: | 6929 8012 / 6559 2269 |
