@@ -5,9 +5,8 @@ description: ""
 variant: markdown
 ---
 ### **Sale of Books**
-During school holiday, the bookshop will be operating at Level 1 Classroom. 
 
-The bookshop is opened on the following days with the operating hours as follows:  
+During school holiday, the bookshop is opened on the following days with the operating hours as follows:  
 Mon-Fri: 9.00am - 3.00pm,  Sat: 9.00am - 11.30am.
 
 |Date | Day |  |
@@ -72,4 +71,3 @@ School uniforms are supplied by :
 | Address| #01-31 Enterprise One, Singapore 415934|
 |  Phone number: | 6741 0930 / 6744 7689|
 |  Email : | sales@itu.com.sg |
-
