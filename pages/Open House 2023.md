@@ -13,6 +13,6 @@ description: ""
 
 Our Saturday morning was indeed well-spent, as BDMS Open House 2023 welcomed more visitors than expected! 
 
-The Bendemeerian family, staff and students alike, making so many meaningful connections with Primary 6 students and their parents. Our student performers wowed everyone with their energetic presentations, adding on to the vibrant atmosphere, while our Zone and Booth Ambassadors shared valuable information about the school. 
+The Bendemeerian family, staff and students alike, made so many meaningful connections with Primary 6 students and their parents. Our student performers wowed everyone with their energetic presentations, adding on to the vibrant atmosphere, while our Zone and Booth Ambassadors shared valuable information about the school. 
 
 We are very heartened by all these interactions, and we hope everyone would have a wonderful December vacation, before we meet one another again! See you in 2024!
