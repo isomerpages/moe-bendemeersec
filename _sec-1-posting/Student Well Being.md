@@ -4,7 +4,7 @@ permalink: /sec-1-posting/wellbeing/
 variant: markdown
 description: ""
 ---
-#### MOE Financial Assistance Scheme (FAS) 
+#### **MOE Financial Assistance Scheme (FAS)**
 
 Students who require financial assistance can download and fill in the application form below.  
 <br>
