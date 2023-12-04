@@ -2,5 +2,6 @@ collections:
   sec-1-posting:
     output: true
     order:
+      - Books and Uniform.md
       - Student Well Being.md
       - Welcome and Registration.md
