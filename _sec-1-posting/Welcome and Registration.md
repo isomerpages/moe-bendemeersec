@@ -4,7 +4,7 @@ permalink: /sec-1-posting/welcomereg/
 variant: markdown
 description: ""
 ---
-<ins>Bendemeer Secondary School welcomes all Secondary One students and parents!<ins>
+<b><u>Bendemeer Secondary School welcomes all Secondary One students and parents!</u></b>
 
 Welcome, Sec 1s, to an incredible journey that is waiting to unfold before you in Bendemeer School.
 
@@ -32,4 +32,4 @@ Please assist in filling up the following form <a target="_blank" href="https://
 
 Students **do not** need to report to their posted secondary schools after receiving the posting results. 
 
-Information will be provided via the school website and parents who are onboard Parents Gateway (PG) will also receive instructions by the afternoon of the release of the posting results.</ins></ins>
+Information will be provided via the school website and parents who are onboard Parents Gateway (PG) will also receive instructions by the afternoon of the release of the posting results.
