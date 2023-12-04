@@ -4,7 +4,7 @@ permalink: /resources-for-student-n-parent/booklists/
 variant: markdown
 description: ""
 ---
-During this school holiday, the bookshop will be operating at Level 1 Classroom.  
+During school holiday, the bookshop is opened on the following days with the operating hours as follows:  
 
 Operating Hours: Mon-Fri: 9.00am - 3.00pm, Sat: 9.00am - 11.30am.
 
