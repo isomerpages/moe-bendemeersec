@@ -2,9 +2,9 @@ collections:
   sec-1-posting:
     output: true
     order:
-      - First week of School.md
-      - Full Subject Based Banding.md
-      - Art and Music Electives.md
-      - Books and Uniform.md
-      - Student Well Being.md
       - Welcome and Registration.md
+      - Student Well Being.md
+      - Books and Uniform.md
+      - Art and Music Electives.md
+      - Full Subject Based Banding.md
+      - First week of School.md
