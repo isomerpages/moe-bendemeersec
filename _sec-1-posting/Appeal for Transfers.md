@@ -27,6 +27,5 @@ Students seeking transfer should continue to report on the first day of school a
 Please complete the following form 
 
 <a target="_blank" href="https://go.gov.sg/transfertobdms">https://go.gov.sg/transfertobdms</a>
-https://go.gov.sg/transfertobdms
 
 by **Tue, 26th Dec 2023, 11:59 pm.**
