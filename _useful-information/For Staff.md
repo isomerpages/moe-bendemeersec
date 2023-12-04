@@ -6,7 +6,7 @@ description: ""
 ---
 #### **Timetables**
 
-* [Class Timetable](https://www.bendemeersec.moe.edu.sg/for-parents/class-timetable/)
+* [Class Timetable](/timetable/class-timetable/)
 
 
 #### **Quick Links**
