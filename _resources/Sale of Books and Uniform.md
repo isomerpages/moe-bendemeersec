@@ -60,9 +60,9 @@ Books supplied by :
 
 ### **Sale of School Uniforms**
 
-Sale of school uniforms will only start from 15 December 2023 at Level 1 classrooms.  
+Sale of school uniforms will only start from 15 December 2023 at the Level 1 classrooms.  
 
-School uniforms are supplied by :  
+Our school uniforms are supplied by:  
 <br>
 
 |Company name:  | iNTrend Uniforms|
