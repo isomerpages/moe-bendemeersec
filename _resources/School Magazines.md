@@ -4,9 +4,9 @@ permalink: /resources-for-student-n-parent/sch-magazine/
 description: ""
 variant: markdown
 ---
-<p style="text-align:justify">The school produces a school magazine at the end of each year to celebrate the achievements of the students.  It is also a record of activities and work done by the staff and students during the year.  It is an invaluable testimony to work done by everyone.</p>
+<p style="text-align:justify">The school creates an annual magazine as a tribute to the students' accomplishments, documenting both the staff and students' endeavors throughout the year. It stands as an invaluable testament to the collective efforts of everyone involved.</p>
 
-### Online School Magazines
+### School Magazines
 
 <p style="text-align:justify">You may view the latest School Magazine by clicking on the external URL below.</p>
 
