@@ -15,6 +15,7 @@ description: ""
 
 #### **Quick Links**
 * [Application for MOE FAS](/resources-for-student-n-parent/moefas/)
+* <a target="_blank" href="https://www.moe.gov.sg/financial-matters/financial-assistance">MOE Financial Assistance Scheme</a>
 * <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" target="_blank">Sexuality Education</a>
 * <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" target="_blank">LEAPS 2.0</a>
 * <a href="https://www.moe.gov.sg/financial-matters/edusave-account" target="_blank">Edusave</a>
