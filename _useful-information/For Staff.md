@@ -6,7 +6,7 @@ description: ""
 ---
 #### **Timetables**
 
-* [Class Timetable](/timetable/class-timetable/)
+* [Class Timetables](/timetable/class-timetable/)
 
 
 #### **Teaching and Learning**
