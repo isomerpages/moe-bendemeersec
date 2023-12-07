@@ -1,5 +1,5 @@
 collections:
-  resources-for-student-n-parent:
+  resources:
     output: true
     order:
       - Booklists.md
