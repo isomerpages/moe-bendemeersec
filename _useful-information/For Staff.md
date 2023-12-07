@@ -11,7 +11,7 @@ description: ""
 
 #### **Teaching and Learning**
 
-* <a href="https://idp.mims.moe.gov.sg" target="_blank">MIMS Portal</a>
+
 * <a href="https://classroom.google.com" target="_blank">Google Classroom</a>
 * <a target="_blank" href="https://vle.learning.moe.edu.sg/login">Student Learning Space (SLS)</a>
 
@@ -24,7 +24,7 @@ description: ""
 
 
 #### **Admin and Reports**
-
+* <a href="https://idp.mims.moe.gov.sg" target="_blank">MIMS Portal</a>
 * <a href="https://pg.moe.edu.sg" target="_blank">Parents Gateway</a>
 * <a href="https://myexamduty.seab.gov.sg" target="_blank">Exam Personal Portal</a>
 * <a href="https://rbs.avero-tech.com" target="_blank">Resource Booking System (RBS)</a>
