@@ -9,7 +9,7 @@ description: ""
 * [Class Timetable](/timetable/class-timetable/)
 
 
-#### **Quick Links**
+#### **Teaching and Learning**
 
 * <a href="https://idp.mims.moe.gov.sg" target="_blank">MIMS Portal</a>
 * <a href="https://classroom.google.com" target="_blank">Google Classroom</a>
