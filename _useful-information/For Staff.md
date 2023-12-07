@@ -26,15 +26,15 @@ description: ""
 
 #### **MOE Intranet**
 
-* <a href="https://opal2.moe.edu.sg" target="_blank">OPAL 2.0</a>
+
 * <a href="https://schoolcockpit.moe.gov.sg/academic" target="_blank">School Cockpit (Results Entry)</a>
 * <a href="https://schoolcockpit.moe.gov.sg" target="_blank">Admin and Reports</a>
 * <a href="https://www.hrp.gov.sg" target="_blank">HRP</a>
 * <a href="https://iexams.seab.gov.sg/login" target="_blank">iEXAMS2</a>
 * <a href="https://ssoe.moe.edu.sg" target="_blank">SSOE Portal</a>
 
-#### **Personal Well-Being**
-
+#### **Personal Well-Being and Development**
+* <a href="https://opal2.moe.edu.sg" target="_blank">OPAL 2.0</a>
 * <a href="https://olive.moe.edu.sg/olive/icare" target="_blank">iCARE</a>
 * <a href="https://www.mesrc.net" target="_blank">MOE Sports and Recreation Club MESRC</a>
 * <a href="https://academyofsingaporeteachers.moe.edu.sg" target="_blank">Academy of Singapore Teachers</a>
