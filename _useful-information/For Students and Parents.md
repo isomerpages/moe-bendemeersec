@@ -20,7 +20,7 @@ description: ""
 * <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" target="_blank">LEAPS 2.0</a>
 * <a href="https://www.moe.gov.sg/financial-matters/edusave-account" target="_blank">Edusave</a>
 
-#### **Quick Links for Students**
+#### **Learning platforms**
 * <a href="https://workspace.google.com/dashboard" target="_blank">Student iCON</a>
 * <a href="https://classroom.google.com" target="_blank">Google Classroom</a>
 * <a href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space (SLS)</a>
