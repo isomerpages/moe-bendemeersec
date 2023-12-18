@@ -2,11 +2,11 @@ collections:
   secondary-1-posting:
     output: true
     order:
-      - Full Subject Based Banding.md
       - Welcome.md
       - eRegistration.md
       - First Week of School.md
       - Student Well Being.md
       - School Books and Uniform.md
       - MOE FAS.md
+      - Full Subject Based Banding.md
       - Appeals.md
