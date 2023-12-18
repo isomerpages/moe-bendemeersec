@@ -28,7 +28,7 @@ Please click on this link to view: [2024 Sec 1 Week One Programme](/files/Forpar
 
 #### **2024 Secondary 1 Meet-the-Parents Session cum CCA Showcase**
 
-The Secondary One Meet-the-Parents Session cum CCA Showcase will be held on **Friday, 5th Jan 2024**, from 2:30 pm to 6:00 pm. All Sec 1 parents and guardians are encouraged to attend. 
+The Secondary One Meet-the-Parents Session cum CCA Showcase will be held on **Friday, 5th January 2024**, from 2:30 pm to 6:00 pm. All Sec 1 parents and guardians are encouraged to attend. 
 
 Details are as follows:
 
