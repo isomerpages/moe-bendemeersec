@@ -4,7 +4,7 @@ permalink: /resources-for-student-n-parent/sch-magazine/
 description: ""
 variant: markdown
 ---
-<p style="text-align:justify">The school creates an annual magazine as a tribute to the students' accomplishments, documenting both the staff and students' endeavors throughout the year. It stands as an invaluable testament to the collective efforts of everyone involved.</p>
+<p style="text-align:justify">Our school creates an annual magazine as a tribute to the students' accomplishments, documenting both the staff and students' endeavors throughout the year. It stands as an invaluable testament to the collective efforts of everyone involved.</p>
 
 ### School Magazines
 
