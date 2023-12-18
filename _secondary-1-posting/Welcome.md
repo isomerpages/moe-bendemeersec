@@ -4,7 +4,7 @@ permalink: /sec1posting/welcome/
 variant: markdown
 description: ""
 ---
-<b><u>Bendemeer Secondary School welcomes all Secondary One students and parents!</u></b>
+#### **Bendemeer Secondary School welcomes all Secondary One students and parents!**
 
 Welcome, Sec 1s, to an incredible journey that is waiting to unfold before you in Bendemeer School.
 
