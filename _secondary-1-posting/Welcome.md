@@ -22,7 +22,7 @@ We are happy to welcome you to the Bendemeer family and walk this journey with y
 
 ---
 
-Please click the links on the left for online registration, reporting details for first day of school and other relevant information.
+Click the links on the left for online registration, important first day of school information, and additional resources.
 
 For more information on the 2024 Secondary One Posting, please refer to this MOE <a target="_blank" href="https://www.moe.gov.sg/secondary/s1-posting/results">webpage</a>.
 
