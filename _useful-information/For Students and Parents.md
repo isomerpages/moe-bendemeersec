@@ -20,11 +20,12 @@ description: ""
 * <a href="https://www.moe.gov.sg/financial-matters/edusave-account" target="_blank">Edusave</a>
 
 #### **Digital Learning Platforms**
-* <a href="https://workspace.google.com/dashboard" target="_blank">Student iCON</a>
+
 * <a href="https://classroom.google.com" target="_blank">Google Classroom</a>
-* <a href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space (SLS)</a>
-* <a href="https://bendemeersecondary.padlet.org" target="_blank">Padlet</a>
 * <a href="https://nearpod.com/" target="_blank">Nearpod</a>
+* <a href="https://bendemeersecondary.padlet.org" target="_blank">Padlet</a>
+* <a href="https://workspace.google.com/dashboard" target="_blank">Student iCON</a>
+* <a href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space (SLS)</a>
 * [Personal Digital Literacy Programme](/key-programmes/ndlp/ndlp-overview/)
 
 
