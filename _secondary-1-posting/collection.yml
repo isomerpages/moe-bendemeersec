@@ -2,6 +2,7 @@ collections:
   secondary-1-posting:
     output: true
     order:
+      - Full Subject Based Banding.md
       - Welcome.md
       - eRegistration.md
       - First Week of School.md
