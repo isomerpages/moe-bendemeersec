@@ -22,7 +22,7 @@ Details are as follows:
 | **Important:** |Students seeking transfer should report to their posted school on the first day and continue to attend lessons until the transfer is approved.  |
 | | |
 
-
+![](/images/Usefullinks/s1firstdayreportvenue.png)
 
 Please click on this link to view: [2024 Sec 1 Week One Programme](/files/Forparents/2024sec1wk1prog.pdf)
 
