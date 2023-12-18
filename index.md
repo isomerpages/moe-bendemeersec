@@ -12,6 +12,13 @@ notification: ""
 sections:
   - hero:
       background: /images/hero-banner01s.jpg
+      key_highlights:
+        - title: " Secondary 1 posting"
+          description: Click to Register
+          url: /sec1posting/welcome/
+      variant: image
+      title: www
+      subtitle: www
   - infopic:
       title: WELCOME!
       id: infopic
