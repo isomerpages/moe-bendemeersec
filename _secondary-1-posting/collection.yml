@@ -2,5 +2,6 @@ collections:
   secondary-1-posting:
     output: true
     order:
+      - School Books and Uniform.md
       - Student Well Being.md
       - Welcome and Registration.md
