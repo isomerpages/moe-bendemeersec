@@ -8,6 +8,7 @@ description: ""
 
 Welcome, Sec 1s, to an incredible journey that is waiting to unfold before you in Bendemeer School.
 
+
 Congratulations on receiving your posting to Bendemeer Secondary School! An exciting and enriching secondary school experience awaits you! Here, we believe in empowering you to find your purpose and passion while providing you with the support, resources and experiences you need to unlock your full potential.  We are here to help you 
 <center><b>B</b>e Anchored in Values
 	<br>
@@ -15,6 +16,7 @@ Congratulations on receiving your posting to Bendemeer Secondary School! An exci
 	<b>M</b>otivate One Another<br>
 	<b>S</b>trengthen Our Strengths</center>
 
+![](/images/Usefullinks/sec1post_welcome_01.jpg)
 We are happy to welcome you to the Bendemeer family and walk this journey with you to be Active Learners and Responsible Citizens.
 
 ---
