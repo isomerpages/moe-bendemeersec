@@ -8,8 +8,9 @@ description: ""
 
 
 * <a href="https://classroom.google.com" target="_blank">Google Classroom</a>
-* <a target="_blank" href="https://vle.learning.moe.edu.sg/login">Student Learning Space (SLS)</a>
 * <a href="https://bendemeersecondary.padlet.org" target="_blank">Padlet</a>
+* <a target="_blank" href="https://vle.learning.moe.edu.sg/login">Student Learning Space (SLS)</a>
+
 
 
 #### **Administration and Reports**
