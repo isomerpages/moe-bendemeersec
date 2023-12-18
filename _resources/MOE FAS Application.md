@@ -9,7 +9,7 @@ description: ""
 The 2024 MOE Financial Assistance Scheme (FAS) is now accepting applications. 
 
 Parents have the option to apply for the MOE Financial Assistance Scheme in either paper or electronic format: 
-* **Paper application:**&nbsp;Obtain the latest form from the school's General Office or download it [here](/files/Forparents/Moefas/2024_MOE_FAS_ApplicationForm.pdf).
+* **Paper application:**&nbsp;Obtain the latest form from the school's General Office or download it <a target="_blank" href="https://go.gov.sg/bdms-fasform">here</a>.
 * **Electronic application:**&nbsp;Submit your application through the MOE FAS e-application form (<a target="_blank" href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a>) or access it via Parents Gateway &gt; Services &gt; Financial Assistance.
 
 For more information on the MOE Financial Assistance Scheme (FAS), please refer to the MOE website <a target="_blank" href="https://www.moe.gov.sg/financial-matters/financial-assistance">here</a>.
