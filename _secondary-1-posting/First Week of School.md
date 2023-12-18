@@ -24,7 +24,6 @@ Details are as follows:
 
 ![](/images/Usefullinks/s1firstdayreportvenue.png)
 
-Please click on this link to view: 
 
 #### **2024 Secondary 1 Meet-the-Parents Session cum CCA Showcase**
 
