@@ -8,7 +8,7 @@ variant: markdown
 
 ### School Magazines
 
-<p style="text-align:justify">You may view the latest School Magazine by clicking on the external URL below.</p>
+<p style="text-align:justify">You may view the latest School Magazine by clicking on the external URLs below.</p>
 
 <a href="https://issuu.com/bendemeersec/docs/bendemeer_secondary_school_e-magazine_2022?fr=xKAE9_zU1NQ" target="_blank" rel="noopener">Bendemeer Secondary School e-Magazine 2022</a>
 
