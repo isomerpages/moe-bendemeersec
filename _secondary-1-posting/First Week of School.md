@@ -20,11 +20,11 @@ Details are as follows:
 |**Things to bring:**   | Stationery, Notebook, Water Bottle, Personal Medication (if required) | 
 | **Reporting venue:** | Respective classrooms.  (refer to map below)  | 
 | **Important:** |Students seeking transfer should report to their posted school on the first day and continue to attend lessons until the transfer is approved.  |
-| | |
+| **Programme:**|[2024 Sec 1 Week One Programme](/files/Forparents/2024sec1wk1prog.pdf)|
 
 ![](/images/Usefullinks/s1firstdayreportvenue.png)
 
-Please click on this link to view: [2024 Sec 1 Week One Programme](/files/Forparents/2024sec1wk1prog.pdf)
+Please click on this link to view: 
 
 #### **2024 Secondary 1 Meet-the-Parents Session cum CCA Showcase**
 
