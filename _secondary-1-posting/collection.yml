@@ -2,4 +2,5 @@ collections:
   secondary-1-posting:
     output: true
     order:
+      - Example Title.md
       - Welcome and Registration.md
