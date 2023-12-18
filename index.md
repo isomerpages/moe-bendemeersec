@@ -13,7 +13,7 @@ sections:
   - hero:
       background: /images/hero-banner01s.jpg
   - infopic:
-      title: " WELCOME!"
+      title: WELCOME!
       id: infopic
       description: We welcome all Sec 1 (2024 Batch) to   our Bendemeer
         Family!  Please register using the link provided.
