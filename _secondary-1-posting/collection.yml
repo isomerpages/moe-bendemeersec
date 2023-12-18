@@ -1,4 +1,5 @@
 collections:
   secondary-1-posting:
     output: true
-    order: []
+    order:
+      - Welcome and Registration.md
