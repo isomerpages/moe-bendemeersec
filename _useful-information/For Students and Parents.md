@@ -49,4 +49,3 @@ description: ""
 * <a href="https://www.instagram.com/bendemeer_secondary_official" target="_blank">Bendemeer Secondary School Official Instagram</a>
 * <a href="https://www.facebook.com/BendemeerSecondaryOfficial" target="_blank">Bendemeer Secondary School Official Facebook</a>
 * [School Magazines](/resources/sch-magazine/)
-* [Bendemeer School Tour](/bendemeer-school-tour/)
