@@ -12,9 +12,7 @@ With Full SBB, we are moving towards a secondary school education where students
 
 Subjects such as Art, Design and Technology, Food and Consumer Education, Music will be offered as an accompanying set of Common Curriculum subjects at lower secondary.
 
-Under Full SBB, MOE will expand Subject-Based Banding (SBB) beyond the four PSLE subjects, to allow eligible students to offer Humanities subjects at a more demanding level from Secondary 2.
-
-Starting from the 2024 Secondary One cohort, Full SBB will be implemented in our secondary education system. Secondary One students in 120 secondary schools will benefit from the Full SBB experience, which provides greater customisation and flexibility for each student’s learning.
+Starting from the 2024 Secondary 1 cohort, Full SBB will be implemented in our secondary education system. We are excited to share we had piloted Full SBB and will continue to provide greater customisation and flexibilty for all our students' learning.
 
 So, with Full SBB, what will a secondary school student's experience be like? Click on the links below to find out more.
 
