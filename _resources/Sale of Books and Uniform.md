@@ -25,8 +25,8 @@ Please purchase online at [www.pacificbookstores.com](www.pacificbookstores.com)
 Payment via VISA / MASTERCARD / Debit Cards / Paynow. Delivery charges of $14.60 applies.
 
 **Self-Collection**<br>
-You are welcome to place your order online via the website: [www.pacificbookstores.com](www.pacificbookstores.com). Collection can be done at the school on the stipulated dates given on the website.
-You are strongly encouraged to pre-order to avoid long queues and enjoy shorter waiting time. Payment is required upon ordering
+You are welcome to place your order online via the website: [www.pacificbookstores.com](www.pacificbookstores.com). Collection can be done at the school bookshop on the stipulated dates given on the website.
+You are strongly encouraged to pre-order to avoid long queues to avoid long queues. Payment is required upon ordering
 online via VISA / MASTERCARD / Debit Cards / Paynow.
 
 
