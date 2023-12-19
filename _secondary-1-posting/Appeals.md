@@ -6,10 +6,9 @@ description: ""
 ---
 #### **Appealing for Transfer due to Serious Medical Conditions**
 
-To request for transfer out of our school due to serious medical conditions or severe physical impairments, please do so in person at the General Office by 12:00 pm, 21 December 2023, Thursday.
+To request for transfer out of our school due to serious medical conditions or severe physical impairments, please do so in person at our General Office by 12:00 pm, 21 December 2023, Thursday.
 
 All appeals must be accompanied by relevant supporting documents, such as medical reports and letters from doctors. 
-
 
 For information on appealing for a transfer due to serious medical conditions, please go to this <a target="_blank" href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer/">MOE website</a>.
 
