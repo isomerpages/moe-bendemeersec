@@ -4,28 +4,13 @@ permalink: /resources-for-student-n-parent/booksuniform/
 description: ""
 variant: markdown
 ---
-### **Sale of Books**
+### **Sale of School Books**
 
 During school holiday, the bookshop is opened on the following days with the operating hours as follows:  
 Mon-Fri: 9.00am - 3.00pm,  Sat: 9.00am - 11.30am.
 
 |Date | Day |  |
 | - | - | - |
-| 20/11/2023 | Mon | All Levels |
-| 21/11/2023 | Tue | All Levels |
-| 24/11/2023 | Fri | All Levels |
-| 27/11/2023 | Mon | All Levels |
-| 28/11/2023 | Tue | All Levels |
-| 01/12/2023 | Wed | All Levels |
-| 02/12/2023 | Sat | All Levels |
-| 06/12/2023 | Wed | All Levels |
-| 07/12/2023 | Thu | All Levels |
-| 08/12/2023 | Fri | All Levels |
-| 09/12/2023 | Sat | All Levels |
-| 11/12/2023 | Mon | All Levels |
-| 13/12/2023 | Wed | All Levels |
-| 14/12/2023 | Thu | All Levels |
-| 15/12/2023 | Fri | All Levels |
 | 21/12/2023 | Thu | **Sec 1 Only** |
 | 22/12/2023 | Fri | **Sec 1 Only** |
 | 23/12/2023 | Sat | **Sec 1 Only** |
@@ -35,7 +20,7 @@ Mon-Fri: 9.00am - 3.00pm,  Sat: 9.00am - 11.30am.
 
 <br>
 
-**Home Delivery** (Subject to slot availability)<br>
+**Home Delivery** (Subject to availability)<br>
 Please purchase online at [www.pacificbookstores.com](www.pacificbookstores.com).
 Payment via VISA / MASTERCARD / Debit Cards / Paynow. Delivery charges of $14.60 applies.
 
