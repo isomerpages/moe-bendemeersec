@@ -26,7 +26,7 @@ sections:
         Family!  Please register using the link provided.
       button: Click to Register
       url: /sec1posting/welcome/
-      image: /images/Usefullinks/sec1post_welcome_02.jpg
+      image: /images/Sec1posting/sec1post_welcome_02.jpg
       alt: Image alt text
   - infopic:
       title: Japanese/Korean/ Thai/Vegetarian & Chinese Rice Stall
