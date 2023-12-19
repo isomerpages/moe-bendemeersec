@@ -16,16 +16,8 @@ All students are welcomed to speak with our teachers and school counsellors shou
 
 #### **Support for Students with Special Educational Needs(SEN)**
 
-Our school seeks to develop an inclusive community that promotes a culture of openness, understanding and mutual support for students with SEN to access a positive and holistic education experience, and attain greater independence. 
+We seek to promote an inclusive community of understanding and mutual support for students with SEN to access a positive and holistic education experience, and attain greater independence. 
 
-We provide a range of support to students with SEN include those with learning and behavioural needs (e.g. dyslexia, Attention Deficit Hyperactivity Disorder and autism spectrum), sensory needs like hearing loss and vision impairment, and physical and motor needs.  Some of these students are given access to assistive technology to support their learning. 
+We provide a range of support for students with with learning and behavioural needs (e.g. dyslexia, Attention-Deficit Hyperactivity Disorder and autism spectrum), sensory needs like hearing loss and vision impairment, and physical and motor needs, including access to assistive technology to support their learning. 
 
-Parents of child with SEN may contact the school for pre-admission advisement and transition support for incoming students.
-
-Other resources:
-
-|Organisation | Website |
-|-|-|
-| Dyslexia Assiocation of Singapore| <a target="_blank" href="https://www.das.org.sg/">https://www.das.org.sg</a> |
-| Spark - Society for the Promotion of Attention-Deficit Hyperactivity Disorder Research &amp; Knowledge| <a target="_blank" href="https://www.spark.org.sg/">https://www.spark.org.sg</a> |
-| Autism Resource Centre (Singapore) | <a target="_blank" href="https://www.autism.org.sg/">https://www.autism.org.sg</a> |
+Parents/Guardians who would like to seek counselling services or support for their child/ward with special needs can contact the school for pre-admission advisement and transition 
