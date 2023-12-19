@@ -35,7 +35,7 @@ You may purchase from the school bookshop on the dates stated above. Please note
 Payment modes accepted: Cash, Paynow (Scan QR Code), NTUC Care Fund (e-voucher) &amp; CDAC (e-voucher).
 Please note that cheque payments are not accepted.
 
-Books supplied by :  
+Supplier details:  
 
 |Company name:  | Pacific Bookstores Pte Ltd.|
 | - |-|
@@ -46,8 +46,7 @@ Books supplied by :
 
 Sale of school uniforms will only start from 15 December 2023 at the Level 1 classrooms.  
 
-Our school uniforms are supplied by:  
-<br>
+Supplier details:  
 
 |Company name:  | iNTrend Uniforms|
 | - |-|
