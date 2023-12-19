@@ -14,7 +14,7 @@ Subjects such as Art, Design and Technology, Food and Consumer Education, Music 
 
 Starting from the 2024 Secondary 1 cohort, Full SBB will be implemented in our secondary education system. We are excited to share we had piloted Full SBB and will continue to provide greater customisation and flexibilty for all our students' learning.
 
-So, with Full SBB, what will a secondary school student's experience be like? Click on the links below to find out more.
+Click on the links below to find out more.
 
 * <a href="https://go.gov.sg/moe-fsbb" target="_blank">MOE Full SBB microsite</a>
 * <a href="https://go.gov.sg/my-fsbb-path" target="_blank">Full SBB interactive webpage</a>
