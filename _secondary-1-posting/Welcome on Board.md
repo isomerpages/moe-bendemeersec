@@ -4,7 +4,7 @@ permalink: /sec1posting/welcome/
 variant: markdown
 description: ""
 ---
-#### **Bendemeer Secondary School welcomes all Secondary One students and parents!**
+#### **Bendemeer Secondary School welcomes all Secondary 1 Students and Parents!**
 
 Welcome, Sec 1s, to an incredible journey that is waiting to unfold before you in Bendemeer School.
 
@@ -22,6 +22,6 @@ We are happy to welcome you to the Bendemeer family and walk this journey with y
 
 ---
 
-For more information on the 2024 Secondary One Posting, please refer to this MOE <a target="_blank" href="https://www.moe.gov.sg/secondary/s1-posting/results">webpage</a>.
+For more information on the 2024 Secondary 1 Posting, please refer to this MOE <a target="_blank" href="https://www.moe.gov.sg/secondary/s1-posting/results">webpage</a>.
 
 If you have any questions, do drop us a note at bendemeer_ss@moe.edu.sg.
