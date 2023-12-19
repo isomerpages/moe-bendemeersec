@@ -6,7 +6,7 @@ description: ""
 ---
 Full Subject-Based Banding (Full SBB) is part of MOE's ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.
 
-![](/images/Sec1posting/sec1post_fsbb_01.jpg)
+![](/images/Sec1posting/sec1post_fsbb_02.jpg)
 
 With Full SBB, we are moving towards a secondary school education where students learn each subject at the level that best caters to their overall strengths, interests and learning needs. Under Full SBB, there will no longer be separate Express, N(A), and N(T) streams, and students will be in mixed form classes where they can interact with peers of different strengths and interests.
 
