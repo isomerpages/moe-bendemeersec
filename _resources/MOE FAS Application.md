@@ -4,7 +4,7 @@ permalink: /resources-for-student-n-parent/moefas/
 variant: markdown
 description: ""
 ---
-#### **MOE Financial Assistance Scheme (FAS) **
+#### **MOE Financial Assistance Scheme (FAS)**
 
 The 2024 MOE Financial Assistance Scheme (FAS) is now accepting applications. 
 
