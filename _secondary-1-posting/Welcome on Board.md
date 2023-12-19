@@ -4,13 +4,13 @@ permalink: /sec1posting/welcome/
 variant: markdown
 description: ""
 ---
-#### **Bendemeer Secondary School welcomes all Secondary 1 Students and Parents!**
+#### **Bendemeer Secondary School welcomes all Secondary 1 Students and Parents/Guardians!**
 
-Welcome, Sec 1s, to an incredible journey that is waiting to unfold before you in Bendemeer School.
+Congratulations on receiving your posting to Bendemeer Secondary School!
 
 <center><iframe height="366" width="650" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4Eaq3Gzq3EE"></iframe></center>
 
-Congratulations on receiving your posting to Bendemeer Secondary School! An exciting and enriching secondary school experience awaits you! Here, we believe in empowering you to find your purpose and passion while providing you with the support, resources and experiences you need to unlock your full potential.  We are here to help you 
+ An exciting and enriching secondary school experience awaits you! Here, we believe in empowering you to find your purpose and passion while providing you with the support, resources and experiences you need to unlock your full potential.  We are here to help you 
 <center><b>B</b>e Anchored in Values
 	<br>
 	<b>D</b>are to Aspire<br>
