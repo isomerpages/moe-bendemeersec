@@ -8,7 +8,6 @@ description: ""
 
 To request for transfer out of Bendemeer Secondary School due to serious medical conditions or severe physical impairments, please do so in person at the General Office of Bendemeer Secondary School by Thursday, 21st December 2023, 12:00 pm.
 
-
 All appeals must be accompanied by relevant supporting documents, such as medical reports and letters from doctors. 
 **Students seeking transfer should continue to report on the first day of school and attend lessons until the transfer is approved.**
 The appeal results will be released in early January. 
