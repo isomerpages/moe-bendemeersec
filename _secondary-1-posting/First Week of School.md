@@ -6,23 +6,21 @@ description: ""
 ---
 #### **2024 First Week of School**
 
-All students are to report to school on the **first day of school** which falls on **Tuesday, 2nd January 2024**.
+All students are to report to school on the **first day of school** which falls on **2nd January 2024, Tuesday**.
 Details are as follows:
 
 
 
 |  |  | 
 | -------- | -------- | 
-| **Reporting Date and Time:**     | Tuesday, 2nd January 2024, 7.30 am     |
+| **Reporting Time and Date:**     | Tuesday, 2nd January 2024, 7.30 am     |
 | **Dismissal Time:** | 1.00 pm | 
 | **Reporting Venue:** | School Hall Level 2 | 
 | **Attire:** | BDMS School uniform - BDMS Polo T-shirt and BDMS shorts/skirt. <br>(If you are unable to purchase our school uniform in time, you may wear your Primary School Uniform for the time being) | 
 |**Things to bring:**   | Stationery, Notebook, Water Bottle, Personal Medication (if required) | 
-| **Reporting venue:** | Respective classrooms.  (refer to map below)  | 
 | **Important:** |Students seeking transfer should report to their posted school on the first day and continue to attend lessons until the transfer is approved.  |
 | **Programme:**|[2024 Sec 1 Week One Programme](/files/Forparents/2024sec1wk1prog.pdf)|
 
-![](/images/Usefullinks/s1firstdayreportvenue.png)
 
 
 #### **2024 Secondary 1 Meet-the-Parents Session cum CCA Showcase**
