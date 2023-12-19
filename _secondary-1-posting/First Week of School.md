@@ -34,4 +34,4 @@ Details are as follows:
 | -------- | -------- | -------- | 
 | **2:30 - 3:30 pm:**     | CCA Showcase (Parent and Child Self-Exploration)    | Parade Square |
 | **3:30 - 4:30 pm:** | School Leaders Opening Address <br>Year Head Introduction|Hall   |
-| **4:30 - 6:00 pm:** |  Form Teachers’  Engagement Time  with Parents | Respective Venues  |
+| **4:30 - 5:30 pm:** |  Form Teachers’  Engagement Time  with Parents | Respective Venues  |
