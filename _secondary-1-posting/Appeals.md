@@ -18,8 +18,8 @@ For information on appealing for a transfer due to serious medical conditions, p
 To request for transfer out of our school due to non-medical reasons, please see the important information at the <a target="_blank" href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer/">MOE website</a>.
 
 
-#### **Appeal for Transfer to Bendemeer Secondary School**
+#### **Appeal for Transfer in Bendemeer Secondary School**
 Please complete this <a target="_blank" href="https://go.gov.sg/transfertobdms">form (https://go.gov.sg/transfertobdms)</a> by **Sunday, 24th Dec 2023, 11:59 pm.**
 
-**Students seeking transfer should continue to report on the first day of school and attend lessons until the transfer is approved.**
+**Students seeking transfer should continue to report to the posted school and attend lessons until the transfer is approved.**
 The appeal results will be released in early January. 
