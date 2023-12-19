@@ -4,10 +4,12 @@ permalink: /sec1posting/eregistration/
 variant: markdown
 description: ""
 ---
-#### **Online Registration (23rd Dec 2023, 9am to 26th Dec 2022, 11:59pm)**
+#### **Online Registration**
 
-Online Registration is for all newly posted students. <br>
-The online registration will open from **Wednesday, 20th Dec 2023, 9am to Sunday, 24th Dec 2023, 11:59pm**. <br>
+Online Registration is for all newly posted students. 
+
+The online registration will open from **9 am, 20th Dec 2023, Wednesday to 11.59 pm, 24th Dec 2023, Sunday**. 
+
 
 
 
