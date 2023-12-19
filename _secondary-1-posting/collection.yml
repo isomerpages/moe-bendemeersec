@@ -2,7 +2,7 @@ collections:
   secondary-1-posting:
     output: true
     order:
-      - Welcome.md
+      - Welcome on Board.md
       - Online Registration.md
       - First Week of School.md
       - Student Well Being.md
