@@ -12,7 +12,7 @@ All appeals must be accompanied by relevant supporting documents, such as medica
 **Students seeking transfer should continue to report on the first day of school and attend lessons until the transfer is approved.**
 The appeal results will be released in early January. 
 
-For information on appealing for a transfer for serious medical conditions, please go to this <a target="_blank" href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer/">MOE website</a>.
+For information on appealing for a transfer due to serious medical conditions, please go to this <a target="_blank" href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer/">MOE website</a>.
 
 
 #### **Appealing for Transfer due to Non-Medical Reasons**
