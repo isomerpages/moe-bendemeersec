@@ -6,7 +6,6 @@ description: ""
 ---
 #### **Bendemeer Secondary School welcomes all Secondary 1 Students and Parents!**
 
-Welcome, Sec 1s, to an incredible journey that is waiting to unfold before you in Bendemeer School.
 
 <center><iframe height="338" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4Eaq3Gzq3EE"></iframe></center>
 
