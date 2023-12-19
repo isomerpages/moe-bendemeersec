@@ -10,7 +10,7 @@ Students who require financial assistance can download and fill in the applicati
 
 Parents/Guardians have the option to apply for the MOE FAS in either paper or electronic format: 
 * **Paper application:**&nbsp;Obtain the latest form from the school's General Office or download it <a target="_blank" href="https://go.gov.sg/bdms-fasform">here</a>.
-* **Electronic application:**&nbsp;Submit your application through the MOE FAS e-application form (<a target="_blank" href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a>) or access it via Parents Gateway &gt; Services &gt; Financial Assistance.  Please note that soft copies of supporting documents are required to be attached for eFAS application.
+* **Electronic application:**&nbsp;Submit your application through the MOE FAS e-application form (<a target="_blank" href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a>) or access it via Parents Gateway &gt; Services &gt; Financial Assistance.  Please note that softcopies of supporting documents are required to be attached for eFAS application.
 
 Please submit the completed form together with your supporting documents to the General Office by Friday, 29th Dec 2023. 
 
