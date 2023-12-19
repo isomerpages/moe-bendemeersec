@@ -13,7 +13,7 @@ sections:
   - hero:
       background: /images/hero-banner01s.jpg
       key_highlights:
-        - title: " Secondary 1 posting"
+        - title: Secondary 1 posting
           description: Click to Register
           url: /sec1posting/welcome/
       variant: image
@@ -28,15 +28,6 @@ sections:
       url: /sec1posting/welcome/
       image: /images/Usefullinks/sec1post_welcome_02.jpg
       alt: Image alt text
-  - infopic:
-      title: OPEN HOUSE 2023
-      subtitle: Bendemeer secondary school
-      button: Click for details!
-      url: /openhouse2023
-      image: /images/openhouse2023.jpg
-      alt: Image alt text
-      description: Our Open House welcomed more visitors than expected!  Click to see
-        our enjoyable event!
   - infopic:
       title: Japanese/Korean/ Thai/Vegetarian & Chinese Rice Stall
       subtitle: Canteen Stalls Advertisement
