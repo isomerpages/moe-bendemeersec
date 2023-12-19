@@ -1,0 +1,8 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Booklists.md
+      - Sale of School Books and Uniforms.md
+      - School Magazines.md
+      - MOE FAS Application.md
