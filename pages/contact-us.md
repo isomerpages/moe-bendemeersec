@@ -17,7 +17,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6292 7616
-      - email: ""
+      - email: bendemeer_ss@moe.edu.sg
       - other: <br><strong>Have a question?</strong><br> <a
           href="https://ask.gov.sg/bdms">https://ask.gov.sg/bdms</a><p></p>
     title: General Enquiries & Feedback
