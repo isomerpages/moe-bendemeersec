@@ -21,3 +21,5 @@ We seek to promote an inclusive community of understanding and mutual support fo
 We provide a range of support for students with with learning and behavioural needs (e.g. dyslexia, Attention-Deficit Hyperactivity Disorder and autism spectrum), sensory needs like hearing loss and vision impairment, and physical and motor needs, including access to assistive technology to support their learning. 
 
 Parents/Guardians who would like to seek counselling services or support for their child/ward with special needs can contact the school for pre-admission advisement and transition 
+
+If you have any questions, do drop us a note at bendemeer_ss@moe.edu.sg.
