@@ -25,7 +25,7 @@ Details are as follows:
 
 #### **2024 Secondary 1 Meet-the-Parents(MTP) Session cum CCA Showcase**
 
-The Secondary 1 MTP Session cum CCA Showcase will be held from 2:30 pm to 5:30 pm on **5th January 2024, Friday**. All Secondary 1 parents/guardians are encouraged to attend. 
+The Secondary 1 MTP Session cum CCA Showcase will be held from 2:30 pm to 5:30 pm on **5 January 2024, Friday**. All Secondary 1 parents/guardians are encouraged to attend. 
 
 Details are as follows:
 
