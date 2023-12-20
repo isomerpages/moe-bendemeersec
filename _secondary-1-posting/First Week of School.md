@@ -16,10 +16,10 @@ Details are as follows:
 | **Reporting Time and Date:**     | 7.30 am, 2 January 2024, Tuesday   |
 | **Dismissal Time:** | 1.00 pm | 
 | **Reporting Venue:** | School Hall, Level 2 | 
-| **Attire:** | BDMS School Uniform - BDMS Polo T-shirt and BDMS Shorts/Skirt. <br>(If you are unable to purchase our school uniform in time, you may wear your Primary School Uniform for the time being) | 
+| **Attire:** | BDMS School Uniform - BDMS Polo T-shirt and BDMS Shorts/Skirt. <br>(If you are unable to purchase our school uniform in time, you may wear your Primary School Uniform for the time being.) | 
 |**Things to bring:**   | Stationery, Notebook, Water Bottle | 
 | **Important:** |Students seeking transfer should report to their posted school on the first day and continue to attend lessons until the transfer is approved.  |
-| **Programme:**|Programme details will be shared on the first day of school|
+| **Programme:**|Programme details will be shared on the first day of school.|
 
 
 
