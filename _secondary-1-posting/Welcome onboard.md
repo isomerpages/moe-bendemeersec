@@ -5,10 +5,14 @@ variant: markdown
 description: ""
 ---
 #### **Bendemeer Secondary School welcomes all Secondary 1 Students and Parents/Guardians!**
-
+<style>
+.google-slides-container{ position: relative; width: 100%; padding-top: 72%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+</style>
 Congratulations on receiving your posting to Bendemeer Secondary School!
 
-<center><iframe height="366" width="650" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4Eaq3Gzq3EE"></iframe></center>
+<div class="google-slides-container">
+<center>
+<iframe height="366" width="650" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4Eaq3Gzq3EE"></iframe></center></div>
 
  An exciting and enriching secondary school experience awaits you! Here, we believe in empowering you to find your purpose and passion while providing you with the support, resources and experiences you need to unlock your full potential.  We are here to help you 
 <center><b>B</b>e Anchored in Values
@@ -18,7 +22,10 @@ Congratulations on receiving your posting to Bendemeer Secondary School!
 	<b>S</b>trengthen Our Strengths</center>
 
 ![](/images/Sec1posting/sec1post_welcome_05.jpg)
-We are happy to welcome you to the Bendemeer family and walk this journey with you to be Active Learners and Responsible Citizens.
+
+We are looking forward to welcome you to the Bendemeer family and walk this journey with you.
+
+See you on 2 January 2024!
 
 ---
 

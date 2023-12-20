@@ -16,10 +16,10 @@ Details are as follows:
 | **Reporting Time and Date:**     | 7.30 am, 2 January 2024, Tuesday   |
 | **Dismissal Time:** | 1.00 pm | 
 | **Reporting Venue:** | School Hall, Level 2 | 
-| **Attire:** | BDMS School Uniform - BDMS Polo T-shirt and BDMS Shorts/Skirt. <br>(If you are unable to purchase our school uniform in time, you may wear your Primary School Uniform for the time being) | 
+| **Attire:** | BDMS School Uniform - BDMS Polo T-shirt and BDMS Shorts/Skirt. <br>(If you are unable to purchase our school uniform in time, you may wear your Primary School Uniform for the time being.) | 
 |**Things to bring:**   | Stationery, Notebook, Water Bottle | 
 | **Important:** |Students seeking transfer should report to their posted school on the first day and continue to attend lessons until the transfer is approved.  |
-| **Programme:**|Programme details will be shared on the first day of school|
+| **Programme:**|Programme details will be shared on the first day of school.|
 
 
 
@@ -32,6 +32,6 @@ Details are as follows:
 
 | Time |Event  | Venue  |  
 | -------- | -------- | -------- | 
-| **2:30 - 3:30 pm:**     | CCA Showcase (Parent and Child Self-Exploration)    | Parade Square |
-| **3:30 - 4:30 pm:** | School Leaders Opening Address <br>Year Head Introduction|Hall   |
-| **4:30 - 5:30 pm:** |  Form Teachers’  Engagement Time  with Parents | Respective Venues  |
+| **2:30 - 3:30 pm:**     | CCA Showcase     | Parade Square |
+| **3:30 - 4:30 pm:** | School Engagement Session|Hall   |
+| **4:30 - 5:30 pm:** |  Form Teacher Engagement Session | Respective Venues  |

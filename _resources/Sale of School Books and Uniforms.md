@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### **Sale of School Books**
 
-During school holiday, the bookshop is opened on the following days with the operating hours as follows:  
+During school holiday, the bookshop is opened on the following days with the operating hours:  
 Mon-Fri: 9.00am - 3.00pm,  Sat: 9.00am - 11.30am.
 
 |Date | Day |  |
