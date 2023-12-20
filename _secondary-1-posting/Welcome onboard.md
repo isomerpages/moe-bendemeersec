@@ -23,7 +23,9 @@ Congratulations on receiving your posting to Bendemeer Secondary School!
 
 ![](/images/Sec1posting/sec1post_welcome_05.jpg)
 
-We are happy to welcome you to the Bendemeer family and walk this journey with you to be Active Learners and Responsible Citizens.
+We are looking forward to welcome you to the Bendemeer family and walk this journey with you.
+
+See you on 2 January 2024!
 
 ---
 
