@@ -22,8 +22,8 @@ sections:
   - infopic:
       title: WELCOME!
       id: infopic
-      description: We welcome all Sec 1 (2024 Batch) to   our Bendemeer
-        Family!  Please register using the link provided.
+      description: We welcome all 2024 Secondary 1 to   our Bendemeer Family!  Please
+        register using the link provided.
       button: Click to Register
       url: /sec1posting/welcome/
       image: /images/Sec1posting/sec1post_welcome_02.jpg
