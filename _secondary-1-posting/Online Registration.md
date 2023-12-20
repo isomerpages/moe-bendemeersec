@@ -14,4 +14,4 @@ Information will be provided via the school website and parents who are onboard 
 
 The online registration will open from **9.00 am, 20 December 2023, Wednesday to 11.59 pm, 24 December 2023, Sunday**. 
 
-Please assist in filling up the following form <a target="_blank" href="https://go.gov.sg/sec1registration">https://go.gov.sg/sec1registration</a> to complete the Secondary 1 registration process within the time allocated.
+Please assist in filling in the following form <a target="_blank" href="https://go.gov.sg/sec1registration">https://go.gov.sg/sec1registration</a> to complete the Secondary 1 registration process within the time allocated.
