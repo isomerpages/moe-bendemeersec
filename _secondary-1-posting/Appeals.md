@@ -25,5 +25,3 @@ To request for transfer out of our school due to non-medical reasons, please see
 
 ---
 **Students seeking transfer should continue to report to the posted school and attend lessons until the transfer is approved.**
-
-The appeal results will be released in early January.
