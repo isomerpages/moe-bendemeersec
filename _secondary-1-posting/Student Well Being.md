@@ -8,9 +8,9 @@ Our student well-being is our top priority.  We provide the following services t
 
 #### **School Counselling Service**
 
-Our school counsellors provide a safe environment for students to share their social, emotional, behavioural and mental health concerns. They support students by helping them learn and use strategies to manage and cope with their emotions or situation and enable them to make choices for positive change and development.
+Our school counsellors provide a safe environment for students to share their social, emotional, behavioural and mental health concerns. They support students by helping them learn and use strategies to manage and cope with their emotions, and empower them to make choices for positive change and development.
 
-All students are welcomed to speak with our teachers and school counsellors should they need someone to speak with.  
+All students are welcomed to speak with our teachers and school counsellors.
 
 
 
