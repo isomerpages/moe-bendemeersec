@@ -22,4 +22,4 @@ We provide a range of support for students with with learning and behavioural ne
 
 Parents/Guardians who would like to seek counselling services or support for their child/ward with special needs can contact the school for pre-admission advisement and transition 
 
-If you have any questions, do drop us a note at bendemeer_ss@moe.edu.sg.
+If you have any questions, do drop us a note at <a href="mailto:bendemeer_ss@moe.edu.sg">bendemeer_ss@moe.edu.sg</a>.
