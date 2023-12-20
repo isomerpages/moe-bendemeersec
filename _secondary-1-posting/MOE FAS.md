@@ -9,7 +9,7 @@ description: ""
 Parents/Guardians may apply for MOE FAS through the following modes: 
 
 * You can apply <a target="_blank" href="https://go.gov.sg/moe-efas">online</a>.
-* Alternatively, you can download the <a target="_blank" href="https://go.gov.sg/bdms-fasform">MOE FAS Application form</a>  or collect a copy from our General Office.  Submit the completed form with the supporting document to our General Office by 29 Dec 2023, Friday. 
+* Alternatively, you can download the <a target="_blank" href="https://go.gov.sg/bdms-fasform">MOE FAS Application form</a>  or collect a copy from our General Office.  Submit the completed form with the supporting documents to our General Office by 29 Dec 2023, Friday. 
 
 For Secondary 1 students on the MOE Financial Assistance Scheme, please obtain the school approval letter from your primary school and proceed to the General Officebefore collecting your school books and uniforms.
 
