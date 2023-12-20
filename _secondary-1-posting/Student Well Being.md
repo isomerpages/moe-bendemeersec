@@ -18,7 +18,7 @@ All students are welcomed to speak with our teachers and school counsellors.
 
 We promote an inclusive community of understanding and mutual support for students with SEN to access a positive and holistic education experience, and attain greater independence. 
 
-We provide a range of support for students with with learning and behavioural needs (e.g. dyslexia, Attention-Deficit Hyperactivity Disorder and autism spectrum), sensory needs like hearing loss and vision impairment, and physical and motor needs, including access to assistive technology to support their learning. 
+We provide a range of support for students with with learning and behavioural needs (e.g. dyslexia, Attention-Deficit Hyperactivity Disorder and Autism Spectrum Disorder), sensory needs like hearing loss and vision impairment, and physical and motor needs, including access to assistive technology to support their learning. 
 
 Parents/Guardians who would like to seek counselling services or support for their child/ward with special needs can contact the school for pre-admission advisement and transition 
 
