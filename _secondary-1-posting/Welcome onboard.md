@@ -1,5 +1,5 @@
 ---
-title: Welcome on Board
+title: Welcome onboard
 permalink: /sec1posting/welcome/
 variant: markdown
 description: ""
