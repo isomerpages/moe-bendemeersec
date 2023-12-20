@@ -4,10 +4,10 @@ permalink: /sec1posting/booksuniform/
 variant: markdown
 description: ""
 ---
-#### **Sales of School Books and Uniforms**
+#### **Sale of School Books and Uniforms**
 
 
-Please refer to the following links for more information about the sales of school books and uniforms and the booklist:
+Please refer to the following links for more information about the sale of school books and uniforms and the booklist:
 
 
 * [Bookshop and Uniform Supplier](/resources/booksuniform/)
