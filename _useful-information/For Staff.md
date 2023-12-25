@@ -15,7 +15,7 @@ description: ""
 
 #### **Administration and Reports**
 * <a href="https://forms.moe.edu.sg" target="_blank">All Ears Form Builder</a>
-* <a href="https://myexamduty.seab.gov.sg" target="_blank">Exam Personal Portal</a>
+* <a href="https://myexamduty.seab.gov.sg" target="_blank">Exam Personnel Portal</a>
 * <a href="https://form.gov.sg" target="_blank">Form.SG</a>
 * <a href="https://iexams.seab.gov.sg/login" target="_blank">iEXAMS 2.0</a>
 * <a href="https://idp.mims.moe.gov.sg" target="_blank">MIMS Portal</a>
