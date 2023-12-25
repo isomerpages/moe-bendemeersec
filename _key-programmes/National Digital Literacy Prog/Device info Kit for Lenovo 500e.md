@@ -3,8 +3,8 @@ title: Device info Kit for Lenovo 500e
 permalink: /key-programmes/ndlp/dik-lenovo-500e/
 description: ""
 third_nav_title: National Digital Literacy Prog
+variant: markdown
 ---
-
 ### School-Based Help Desk
 <p style="text-align:justify">The ICT Department will provide technical support to students.    This is part of our efforts to ensure that there is minimum disruption to students’ learning.  </p>
 
@@ -20,7 +20,7 @@ Students can also reach us by filling up a form at [go.gov.sg/bdms-icthelp](http
 
 ![Device Contractor Information](/images/Keyprogrammes/Ndlp/32-device-support-02.jpeg)
 
-![Service Centre](/images/Keyprogrammes/Ndlp/33-device-support-03.jpeg)
+![Service Centre](/images/Keyprogrammes/Ndlp/33-device-support-03.jpg)
 
 ### Insurance and Warranty
 
@@ -68,4 +68,4 @@ Students can also reach us by filling up a form at [go.gov.sg/bdms-icthelp](http
 <br>
 *  <p style="text-align:justify">This is to facilitate the installation of the DMA into the new device.</p>
 
-*  School DMA administrator will enrol the new device to their school’s DMA.</p>
+*  School DMA administrator will enrol the new device to their school’s DMA.<p></p>
