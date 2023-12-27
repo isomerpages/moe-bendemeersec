@@ -25,4 +25,4 @@ AEP/MEP attachments can be downloaded below:
 * [Annex MEP](/files/Forparents/Annex_MEP.pdf)
 
 
-For further enquiries, please email Ms Sharon Neo, HOD (Craft &amp; Tech) at neo_sharon@moe.edu.sg
+For further enquiries, please email Ms Sharon Neo, HOD (Craft &amp; Tech) at <a href="mailto:neo_sharon@moe.edu.sg">neo_sharon@moe.edu.sg</a>.
