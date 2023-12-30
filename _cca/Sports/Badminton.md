@@ -3,10 +3,10 @@ title: Badminton
 permalink: /cca/sports/badminton/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-|  **Teachers-in-Charge:** | Mr Manoj Kumar Dave (I/C) | 
+|  **Teachers-in-Charge:** | Mr Wong Chee Seng (I/C) | 
 | -------- | -------- |
-|  | Mr Wong Chee Seng (2I/C) |
 |**Captain:** |  Ng Choon Lin  (4R3) |
 |**Vice-Captains:** |  Ihsan Aziz (3R1)  |
 |  |  |
