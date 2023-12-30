@@ -3,11 +3,11 @@ title: Infocomm Club
 permalink: /cca/clubs-and-societies/infocomm-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
-|  **Teachers-in-Charge:** | Mdm Winnie Tang Cheok Lai (I/C) | 
+|  **Teachers-in-Charge:** | Mr Michael Lee Boon Wee (I/C) | 
 | -------- | -------- |
-|  |  Ms Foo Lee Wee |
-| | Mr Michael Lee Boon Wee|
+|  |  Mr Manoj Kumar Dave |
 |**Advisor:** | Mr Eric Choo Guan Kiat |
 |**Chairperson:** |Cheah Shi Shiun (3R1) |
 |**Vice-Chairperson:** |Thirugnanam Priya (3R2) (PA)<br>Belle Quek (3R5) (Admin)   |
