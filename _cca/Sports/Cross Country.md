@@ -3,11 +3,11 @@ title: Cross Country
 permalink: /cca/sports/cross-country/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-|  **Teachers-in-Charge:** | Mrs Charmaine Tan (I/C) | 
+|  **Teachers-in-Charge:** | Mr Daryl Toy Choy Teck (I/C) | 
 | -------- | -------- |
-|  | Mr Daryl Toy Choy Teck (2I/C) |
-|  |Mrs Yap Bee Hong |
+|  | Mrs Yap Bee Hong (2I/C) |
 |**Coach:** | Mr S Pandian|
 |**Captains:** | Sudharsan Maithreayan (3R3) |
 |**Vice-Captains:** |  Siddharth Arunkumar (3R1)     |
