@@ -31,7 +31,7 @@ variant: markdown
 | [Sec 4 Responsibility 1](/files/Timetable/timetable_sec4responsibility1.pdf) | [Sec 4 Responsibility 2](/files/Timetable/timetable_sec4responsibility2.pdf) |
 | [Sec 4 Responsibility 3](/files/Timetable/timetable_sec4responsibility3.pdf) | [Sec 4 Responsibility 4](/files/Timetable/timetable_sec4responsibility4.pdf) |
 | [Sec 4 Responsibility 5](/files/Timetable/timetable_sec4responsibility5.pdf) | [Sec 4 Responsibility 6](/files/Timetable/timetable_sec4responsibility6.pdf) |
-| [Sec 4 Responsibility 8](/files/Timetable/timetable_sec4responsibility8.pdf) | |
+| [Sec 4 Responsibility 7](/files/Timetable/timetable_sec4responsibility7.pdf) |[Sec 4 Responsibility 8](/files/Timetable/timetable_sec4responsibility8.pdf)  |
 | [Sec 4 Responsibility 9](/files/Timetable/timetable_sec4responsibility9.pdf) | |
 | [Sec 5 Responsibility 1](/files/Timetable/timetable_sec5responsibility1.pdf) |  |
 | | |
