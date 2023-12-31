@@ -9,7 +9,7 @@ description: ""
 
 * [Booklists 2024](/resources/booklists/)
 * [Bookshop and Uniform Supplier](/resources/booksuniform/)
-* [Class Timetable](/timetable/class-timetable/)
+* [Class Timetable](/resources/class-timetable/)
 * <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" target="_blank">LEAPS 2.0</a>
 * <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" target="_blank">Sexuality Education</a>
 
