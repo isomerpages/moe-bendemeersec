@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our CCA Philosophy.md
-      - Student Council.md
       - Sports/.keep
       - Sports/Badminton.md
       - Sports/Cross Country.md
@@ -19,8 +18,8 @@ collections:
       - Performing Arts/.keep
       - Performing Arts/Choir.md
       - Performing Arts/Concert Band.md
-      - Performing Arts/Drama English.md
-      - Performing Arts/Drama Tamil.md
+      - Performing Arts/English Drama.md
       - Performing Arts/Modern Dance.md
+      - Performing Arts/Tamil Drama.md
       - Clubs and Societies/.keep
       - Clubs and Societies/Infocomm Club.md

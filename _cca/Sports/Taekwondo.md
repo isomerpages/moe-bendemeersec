@@ -3,11 +3,12 @@ title: Taekwondo
 permalink: /cca/sports/taekwondo/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-|  **Teachers-in-Charge:** | Mrs Chin Chen Han (I/C) | 
+|  **Teachers-in-Charge:** | Mr Tan Hai Seng (I/C) | 
 | -------- | -------- |
-| |Mr Tan Hai Seng (2I/C) |
-| |Mdm Karamjit Kaur |
+| |Mdm Karamjit Kaur (2I/C) |
+| | Mrs Chin Chen Han |
 |**Coach:** | Mrs Rosalind Chow|
 |**Captains:** |Kok Zi Ying (4R1) |
 | | Kith Suria Raingsey (3R1) |

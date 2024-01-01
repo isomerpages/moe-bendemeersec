@@ -3,11 +3,13 @@ title: Girl Guides
 permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 |  **Teachers-in-Charge:** | Ms Dawn Lim Sing Liean (I/C) | 
 | -------- | -------- |
 |  | Ms Lu Yueh Ju(2I/C) |
 |  | Ms Caroline Murty|
+|  | Mdm Nasyitah Binte Abu Bakar |
 |**Company Leader:** | Sayma Sanjana Promethee (3R1)|
 |**Assistant Company Leaders:** | He Ruiyi (3R1)  |
 |  |  Nur Humaira Binte Gudubadsha Malik John (3R3) |

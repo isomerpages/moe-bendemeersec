@@ -3,10 +3,12 @@ title: Modern Dance
 permalink: /cca/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-|  **Teachers-in-Charge:** | Mdm Noor Aisyah (I/C) | 
+|  **Teachers-in-Charge:** | Ms Lin Lifen Colene (I/C) | 
 | -------- | -------- |
-|  | Ms Kelly Lee Ai Ling (2I/C) |
+|  | Ms Lily Tan |
+|  | Mrs Cynthia Ho |
 |**Instructor:** | Mr M. Traveen|
 |**President:** |  Naila Najiba Binte Muhammad Nabil (3R1) |
 |**Vice-President:** |  Xiang Bingbin (3R2)   |
