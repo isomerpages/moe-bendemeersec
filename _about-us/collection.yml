@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Staff Information.md
       - Our Mission, Vision and Values.md
       - Principal's Message.md
       - Vice Principal Mr Ho's Message.md
@@ -14,6 +13,7 @@ collections:
       - Our History/46th Speech Day and Prize Presentation.md
       - School Song and Bendemeerian Code.md
       - School Management Committee.md
+      - Staff Information.md
       - School Advisory Committee.md
       - Partners/.keep
       - Partners/Parent Support Group.md
