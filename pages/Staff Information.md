@@ -17,7 +17,7 @@ description: ""
 | | Mr Ong Pei Huat Brandon| ong_pei_huat_brandon@moe.edu.sg|
 |Sec 1 Care 5 Form Teacher | Mr Zulkifli B Khamis| zulkifli_b_khamis@moe.edu.sg|
 | | Ms Caroline R Murty| caroline_r_murty@moe.edu.sg|
-|Sec 1 Care 6 Form Teacher | Mdm Noorlizah Osman| noorlizah_osman@moe.edu.sg|
+|Sec 1 Care 6 Form Teacher | Mdm Noorlizah Binte Osman| noorlizah_osman@moe.edu.sg|
 |Sec 1 Care 7 Form Teacher | Ms Kelly Lee Ai Ling| kelly_lee_ai_ling@moe.edu.sg|
 | | Mdm Nasyitah Abu Bakar| nasyitah_abu_bakar@moe.edu.sg|
 |Sec 1 Care 8 Form Teacher | Ms Tan Eng Lee Lily| tan_eng_lee_lily@moe.edu.sg|
