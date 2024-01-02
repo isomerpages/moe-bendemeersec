@@ -49,15 +49,14 @@ description: ""
 | Year Head | Ms Loke Pui San | loke_pui_san@moe.edu.sg |
 | - | -| - |
 |Sec 3 Resilience 1 Form Teacher | Ms Wee Gui Fen Sabrina| wee_gui_fen_sabrina@moe.edu.sg|
-| | | |
+| |Mrs Lim Pei Lin |ngoh_pei_lin@moe.edu.sg |
 |Sec 3 Resilience 2 Form Teacher | Ms Charmaine Wong Hoy Mun | wong_hoy_mun_charmaine@moe.edu.sg|
-| | | |
+| |Ms Huang Hailun | huang_hailun_a@moe.edu.sg|
 |Sec 3 Resilience 3 Form Teacher | Mrs Yap Bee Hong| chua_bee_hong@moe.edu.sg|
 |Sec 3 Resilience 4 Form Teacher | Mr Fahmy Sidik| fahmy_sidik@moe.edu.sg|
 |Sec 3 Resilience 5 Form Teacher | Mr Toy Chor Teck| toy_chor_teck@moe.edu.sg|
 | | Mr Ng Jan Ile| ng_jan_ile@moe.edu.sg|
 |Sec 3 Resilience 6 Form Teacher | Mr Lee Kian Wei Jelvin| jelvin_lee@moe.edu.sg|
-| | | |
 |Sec 3 Resilience 7 Form Teacher | Mrs Elaine Wong Mei Yen| tan_mei_yen_elaine@moe.edu.sg|
 | | Ms Lu Yueh Ju| lu_yueh_ju@moe.edu.sg|
 |Sec 3 Resilience 8 Form Teacher | Ms R Ramadevi| r_ramadevi@moe.edu.sg|
