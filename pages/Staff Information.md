@@ -76,7 +76,7 @@ description: ""
 | | Mr Goh Kun Huang Kenneth| kenneth_goh_kun_huang@moe.edu.sg|
 |Sec 4 Responsibility 4 Form Teacher | Ms Ng Qian Hui| ng_qian_hui@moe.edu.sg|
 | | Ms Dawn Lim Sing Liean| lim_sing_liean@moe.edu.sg|
-|Sec 4 Responsibility 5 Form Teacher | Ms Wendy Hu| hu_wen-tian_wendy@moe.edu.sg|
+|Sec 4 Responsibility 5 Form Teacher | Ms Wendy Hu Wen-Tian| hu_wen-tian_wendy@moe.edu.sg|
 |Sec 4 Responsibility 6 Form Teacher | Mr Lawrence Ng Boon Kwang| lawrence_ng_boon_kwang@moe.edu.sg|
 |Sec 4 Responsibility 7 Form Teacher | Mr Dennis Wong Wei Ming| dennis_wong_wei_ming@moe.edu.sg|
 |Sec 4 Responsibility 8 Form Teacher | Mr Gary Chua Chiang Leong| chua_chiang_leong_gary@moe.edu.sg|
