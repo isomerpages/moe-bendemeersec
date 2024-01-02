@@ -4,15 +4,11 @@ permalink: /staffinfo/
 variant: markdown
 description: ""
 ---
----
-title: Staff Information
-permalink: /about-us/staff-information/
-description: ""
----
+# Staff Information
 
 
 
-####*Secondary 1*
+#### Secondary 1
 
 | Yead Head | Mr Roger Lim Meng Kwan | roger_lim_meng_kwan@moe.edu.sg  |
 | - | -| - |
@@ -31,7 +27,7 @@ description: ""
 |Sec 1 Care 8 Form Teacher | Tan Eng Lee Lily| tan_eng_lee_lily@moe.edu.sg|
 
 
-####*Secondary 2*
+#### Secondary 2
 
 | Asst Year Head | Mr Chin Jie | chin_jie@moe.edu.sg |
 | - | -| - |
@@ -52,7 +48,7 @@ description: ""
 
 
 
-####*Secondary 3*
+#### Secondary 3
 
 | Year Head | Ms Loke Pui San | loke_pui_san@moe.edu.sg |
 | - | -| - |
@@ -73,7 +69,7 @@ description: ""
 
 
 
-####*Secondary 4 and 5*
+#### Secondary 4 and 5
 
 | Asst Year Head | Ms Lee Vwen Ying Mavis | LEE_Vwen_Ying_Mavis@moe.edu.sg |
 | - | -| - |
