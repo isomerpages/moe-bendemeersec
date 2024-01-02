@@ -13,7 +13,7 @@ description: ""
 |Sec 1 Care 2 Form Teacher | Mr Oh Tze Ming| oh_tze_ming@moe.edu.sg|
 |Sec 1 Care 3 Form Teacher |Ms Shamini Subramaniam| shamini_subramaniam@moe.edu.sg|
 | | Mdm Lim Ying Shung| lim_ying_shung@moe.edu.sg|
-|Sec 1 Care 4 Form Teacher |  Mr Eric Choo | choo_guan_kiat@moe.edu.sg|
+|Sec 1 Care 4 Form Teacher |  Mr Eric Choo Guan Kiat | choo_guan_kiat@moe.edu.sg|
 | | Mr Ong Pei Huat Brandon| ong_pei_huat_brandon@moe.edu.sg|
 |Sec 1 Care 5 Form Teacher | Mr Zulkifli B Khamis| zulkifli_b_khamis@moe.edu.sg|
 | | Ms Caroline R Murty| caroline_r_murty@moe.edu.sg|
