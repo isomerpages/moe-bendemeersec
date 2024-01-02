@@ -32,7 +32,7 @@ description: ""
 |Sec 2 Respect 2 Form Teacher | Mrs Poon Chong Cheah| poon_chong_cheah@moe.edu.sg|
 | |Mr Wong Chee Seng|wong_chee_seng@moe.edu.sg |
 |Sec 2 Respect 3 Form Teacher | Mr Manoj Kumar Dave | manoj_kumar_dave@moe.edu.sg|
-|Sec 2 Respect 4 Form Teacher | Ms Vimala Selvarasu| vimala_selvarasu@moe.edu.sg|
+|Sec 2 Respect 4 Form Teacher | Ms Vimala D/O Selvarasu| vimala_selvarasu@moe.edu.sg|
 |Sec 2 Respect 5 Form Teacher | Mr Tay Guangyu| tay_guangyu@moe.edu.sg|
 | | Mr Wilson Lai|lai_fook_shuen@moe.edu.sg |
 |Sec 2 Respect 6  Form Teacher | Ms Ponmozhi D/O Sembian| ponmozhi_sembian@moe.edu.sg|
