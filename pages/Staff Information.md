@@ -23,7 +23,7 @@ description: ""
 |Sec 1 Care 8 Form Teacher | Ms Tan Eng Lee Lily| tan_eng_lee_lily@moe.edu.sg|
 
 
-#### Secondary 2
+#### **Secondary 2**
 
 | Asst Year Head | Mr Chin Jie | chin_jie@moe.edu.sg |
 | - | -| - |
@@ -44,7 +44,7 @@ description: ""
 
 
 
-#### Secondary 3
+#### **Secondary 3**
 
 | Year Head | Ms Loke Pui San | loke_pui_san@moe.edu.sg |
 | - | -| - |
@@ -64,7 +64,7 @@ description: ""
 
 
 
-#### Secondary 4 and 5
+#### **Secondary 4 and 5**
 
 | Asst Year Head | Ms Lee Vwen Ying Mavis | lee_vwen_ying_mavis@moe.edu.sg |
 | - | -| - |
