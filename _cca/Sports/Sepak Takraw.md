@@ -14,7 +14,7 @@ variant: markdown
 |**Captain 'C' Boys:** |  Surya S/O Sikkander (2R8)  |
 |  |  |
 
-| Training days: | Mondays and Wednesday  |
+| Training days: | Mondays and Wednesdays  |
 | - | -|
 | Duration: |  3.30pm - 5.30pm |
  
