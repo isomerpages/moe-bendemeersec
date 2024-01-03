@@ -1,0 +1,9 @@
+collections:
+  life-at-bdms:
+    output: true
+    order:
+      - Opportunities for All.md
+      - Milestone Walk.md
+      - Teacher's Day Celebration.md
+      - Racial Harmony Day.md
+      - Chinese New Year Celebrations.md

@@ -1,0 +1,32 @@
+logo: /images/logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Departments
+    url: /departments/english/el-overview
+    sublinks:
+      - title: Language and Humanities
+        url: /departments/english/el-overview
+      - title: S.T.E.M.
+        url: /departments/cnt/cnt-overview
+      - title: Co-Curricular
+        url: /departments/physical-education/pe-overview
+  - title: CCA
+    collection: cca
+  - title: Key Programmes
+    collection: key-programmes
+  - title: Achievements
+    collection: achievements
+  - title: Life@BDMS
+    collection: life-at-bdms
+  - title: Useful Information
+    url: /usefulinfo/forstudentparents/
+    sublinks:
+      - title: For Students and Parents
+        url: /usefulinfo/forstudentparents/
+      - title: For Staff
+        url: /usefulinfo/forstaff/
+      - title: Student Handbook
+        url: /student-handbook/intro/
+      - title: School Canteen Advertisement
+        url: /schoolcanteen/

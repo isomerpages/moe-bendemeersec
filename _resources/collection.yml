@@ -1,0 +1,9 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Class Timetable.md
+      - Sale of School Books and Uniforms.md
+      - Booklists.md
+      - School Magazines.md
+      - MOE FAS Application.md
