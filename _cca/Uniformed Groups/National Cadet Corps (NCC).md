@@ -3,11 +3,12 @@ title: National Cadet Corps (NCC)
 permalink: /cca/uniformed-groups/ncc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
-|  **Teachers-in-Charge:** | CPT Tay Guangyu (Commanding Officer) | 
+|  **Teachers-in-Charge:** | MAJ Tay Guangyu (Commanding Officer) | 
 | -------- | -------- |
 |  | CPT Lawrence Ng Boon Kwang (2I/C) |
-|  | LTA Dennis Wong Wei Ming|
+|  | CPT Dennis Wong Wei Ming|
 |**Unit Sergeant Major:** | 3SG Jayden Chen (3R1) |
 |**Assistant Sergeant Major:** |  3SG Santhana Karuppan Kaushik (3R3)  |
 |  |  |
@@ -82,5 +83,3 @@ NCC Affirmation Ceremony
 <p style="text-align:justify; font-style:italic">My experience with NCC so far has been wonderful. NCC has taught me a lot of things like how to be a leader as well as values such as responsibility, respect and resilience which shaped me into who I am today. Another reason why I like NCC is because of my platoon mates. At the beginning of sec 1, I did not know most of them but we bonded over time. Soon they made me look forward to coming for cca every week as it was very fun to be with them and we made a lot of great memories together. Before I joined NCC I was very unfit as I could not even finish my 2.4 km runs. But after all the encouragement from my platoon sergeants, it gave me the confidence to participate in all of the physical activities and now I am able to finish my 2.4 km in under 13 minutes. I can also do more than 30 push-ups all thanks to NCC. I plan to encourage all of my juniors to participate in physical activities like how my seniors used to encourage me.</p>
 
 **- 3SG Santhana Karuppan Kaushik (Assistant Sergeant Major)**
-
- 
