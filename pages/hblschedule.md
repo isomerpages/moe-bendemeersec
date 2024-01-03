@@ -20,6 +20,7 @@ description: ""
 <p>See Above.</p>
     </div>
 	</div></li>  
+	
    <li>
     <input id="accordion1" type="checkbox">
     <label for="accordion1">Sec 2 HBL Schedule</label>
@@ -28,7 +29,7 @@ description: ""
 
 
 <p>See Above.</p>
-    </div>
+	</div>
 	</div></li>  
 
 
