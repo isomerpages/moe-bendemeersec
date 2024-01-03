@@ -21,12 +21,15 @@ variant: markdown
 | **C Div Girls Vice-Captain:** |TBC for 2023 |
 |  |  |
 
-| Training days: | Mondays, Wednesdays and Thursdays|
-| - | -| 
-| Duration (B Boys): |  3.00pm - 5.00pm  |
-| Duration (C Boys): |  3.00pm - 5.00pm  |
-| Duration (B Girls): |  3.00pm - 5.00pm  |
-| Duration (C Boys): |  3.00pm - 5.00pm  |
+| Training days (Boys): | Wednesdays | Thursdays|
+| - | -| -|
+| Duration (B Boys): |  3.30pm - 5.30pm  | 5.00pm - 6.30pm |
+| Duration (C Boys): |  3.30pm - 5.30pm  | 3.30pm - 5.30pm  |
+
+| Training days (Girls): | Mondays | Wednesdays|
+| - | -| -|
+| Duration (B Girls): |  5.00pm - 6.30pm  | 3.30pm - 5.30pm |
+| Duration (C Girls): |  3.30pm - 5.30pm  | 3.30pm - 5.30pm  |
 |  | |
 
 ![](/images/Cca/cca-tchouckball-41.jpg)
