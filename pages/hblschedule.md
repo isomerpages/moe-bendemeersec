@@ -12,7 +12,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion1" type="checkbox">
-    <label for="accordion1">Sec 1 HBL Schedule</label>
+    <label for="accordion1">HBL Schedule</label>
     <div>
 			<p></p><div class="google-slides-container"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRxNy2lHWDEjSi2ucMVkq-hrnCBj7_NeA9kzL8Hetr_fZDEx6rpquIjaAD87K1vKMg_DXrFuFNit6LN/pubhtml?widget=true&amp;headers=false"></iframe><p></p>
 
@@ -20,15 +20,18 @@ description: ""
 <p>See Above.</p>
     </div>
 	</div></li>  
-  <li>
-    <input id="accordion2" type="checkbox">
-    <label for="accordion2">Have you enabled the function? </label>
+   <li>
+    <input id="accordion1" type="checkbox">
+    <label for="accordion1">Sec 2 HBL Schedule</label>
     <div>
-		<p>	You should be able to see this if you enabled the function.</p>
+			<p></p><div class="google-slides-container"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRxNy2lHWDEjSi2ucMVkq-hrnCBj7_NeA9kzL8Hetr_fZDEx6rpquIjaAD87K1vKMg_DXrFuFNit6LN/pubhtml?widget=true&amp;headers=false"></iframe><p></p>
 
-<p>More details.</p>
+
+<p>See Above.</p>
+    </div>
+	</div></li>  
 
 
 
 	
-	</div></li></ul>
+	</ul>
