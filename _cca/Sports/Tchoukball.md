@@ -3,6 +3,7 @@ title: Tchoukball
 permalink: /cca/sports/tchoukball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 |  **Teachers-in-Charge:** | Mr Seah Seng Chye (I/C) | 
 | -------- | -------- |
@@ -20,9 +21,12 @@ third_nav_title: Sports
 | **C Div Girls Vice-Captain:** |TBC for 2023 |
 |  |  |
 
-| Training days: | Mondays  | Wednesdays and Thursdays|
-| - | -| -|
-| Duration: |  3.00pm - 5.00pm | 4.00pm - 6.00pm |
+| Training days: | Mondays, Wednesdays and Thursdays|
+| - | -| 
+| Duration (B Boys): |  3.00pm - 5.00pm  |
+| Duration (C Boys): |  3.00pm - 5.00pm  |
+| Duration (B Girls): |  3.00pm - 5.00pm  |
+| Duration (C Boys): |  3.00pm - 5.00pm  |
 |  | |
 
 ![](/images/Cca/cca-tchouckball-41.jpg)
