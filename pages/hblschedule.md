@@ -22,8 +22,8 @@ description: ""
 	</div></li>  
 	
    <li>
-    <input id="accordion1" type="checkbox">
-    <label for="accordion1">Sec 2 HBL Schedule</label>
+    <input id="accordion2" type="checkbox">
+    <label for="accordion2">Sec 2 HBL Schedule</label>
     <div>
 			<p></p><div class="google-slides-container"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRxNy2lHWDEjSi2ucMVkq-hrnCBj7_NeA9kzL8Hetr_fZDEx6rpquIjaAD87K1vKMg_DXrFuFNit6LN/pubhtml?gid=1660749283&amp;single=true&amp;widget=true&amp;headers=false"></iframe><p></p>
 
