@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /cca/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 |  **Teachers-in-Charge:** | Mdm Lim Ying Shung (I/C)  | 
 | -------- | -------- |
@@ -17,7 +18,7 @@ third_nav_title: Performing Arts
 
 | Training days: | Mondays and Thursdays  |
 | - | -|
-| Duration: |  3.00pm - 6.00pm |
+| Duration: |  3.30pm - 6.30pm |
 
 <br><style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
