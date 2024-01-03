@@ -3,6 +3,7 @@ title: Football
 permalink: /cca/sports/football/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 |  **Teachers-in-Charge:** | Mr Kenneth Goh Kun Huang (I/C) | 
 | -------- | -------- |
@@ -20,7 +21,8 @@ third_nav_title: Sports
 
 | Training days: | Mondays, Wednesday and Thursdays  |
 | - | -|
-| Duration: |  3.00pm - 5.30pm |
+| Duration (C Div): |  3.30pm - 5.00pm |
+| Duration (B Div): |  5.00pm - 6.30pm |
 | | |
 
 The Football CCA has excelled in the various schools’ zonal and national competitions over the last few years. A spirit of sporting excellence has been imbued in the boys through the training sessions planned by the coaches and teachers.
