@@ -2,8 +2,8 @@ collections:
   cca:
     output: true
     order:
-      - Student Council.md
       - Our CCA Philosophy.md
+      - Student Council.md
       - Sports/.keep
       - Sports/Badminton.md
       - Sports/Cross Country.md
