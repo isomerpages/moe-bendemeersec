@@ -20,7 +20,6 @@ description: ""
 <p>See Above.</p>
     </div>
 	</div></li>  
-
 	<li>
     <input id="accordion2" type="checkbox">
     <label for="accordion2">Sec 2 HBL Schedule</label>
@@ -31,17 +30,16 @@ description: ""
 <p>See Above.</p>
 	</div>
 	</div></li>  
-
 <li>
     <input id="accordion3" type="checkbox">
     <label for="accordion3">Image of Sec 2 HBL Schedule</label>
     <div>
-			<p></p><div class="google-slides-container">![](/images/hbl_sec2hblschedule.png)<p></p>
+			<p><img src="/images/hbl_sec2hblschedule.png"></p>
 
 
 <p>See Above.</p>
 	</div>
-	</div></li>  
+	</li>  
 
 
 	
