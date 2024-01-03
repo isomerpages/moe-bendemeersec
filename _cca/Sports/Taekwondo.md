@@ -18,9 +18,9 @@ variant: markdown
 | |Toh Hui Ning Xanice (3R7) |
 
 
-| Training days: | Tuesday and Wednesdays  |
+| Training days: | Tuesdays and Wednesdays  |
 | - | -|
-| Duration: |  4.00pm - 6.00pm |
+| Duration: |  3.30pm - 5.30pm |
 | | |
 
 
