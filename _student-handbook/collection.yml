@@ -1,0 +1,4 @@
+collections:
+  student-handbook:
+    output: true
+    order: []
