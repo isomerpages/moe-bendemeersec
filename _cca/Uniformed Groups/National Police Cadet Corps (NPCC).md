@@ -3,6 +3,7 @@ title: National Police Cadet Corps (NPCC)
 permalink: /cca/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 |**Teachers-in-Charge:**| A/ASP (NPCC) Ms Sabrina Wee Gui Fen (OC)   |
 |---|---|
@@ -19,7 +20,7 @@ third_nav_title: Uniformed Groups
 
 | Training days: | Thursdays  |
 | - | -|
-| Duration: |  3.00pm - 5.30pm |
+| Duration: |  3.30pm - 6.30pm |
 
 
 <br>
