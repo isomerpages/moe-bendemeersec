@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /about-us/school-advisory-committee/
 description: ""
+variant: markdown
 ---
 <b>Chairperson</b> <br>
 Mr Chiang Heng Liang
@@ -24,5 +25,3 @@ Vice-Principal
 <b>Mr Chrys Ho Chi Cheng</b> <br>
 Vice-Principal
 
-<b>Ms Della Goh Mui Hoon</b>  <br>
-Member
