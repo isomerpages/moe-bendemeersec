@@ -38,13 +38,32 @@ You may click <a href="https://go.gov.sg/bdms-hblschedule" target="_blank">here<
 	</div></li>  
 <li>
     <input id="accordion3" type="checkbox">
-    <label for="accordion3">Image of Sec 2 HBL Schedule</label>
+    <label for="accordion3">Sec 3 HBL Schedule</label>
+    <div>
+			<p></p>
+			
+<p>See Above.</p>
+	</div>
+</li>  
+
+<li>
+    <input id="accordion4" type="checkbox">
+    <label for="accordion4">Sec 4 HBL Schedule</label>
+    <div>
+			<p></p>
+			
+<p>See Above.</p>
+	</div>
+</li>  
+<li>
+    <input id="accordion5" type="checkbox">
+    <label for="accordion5">Image of Sec 2 HBL Schedule</label>
     <div>
 			<p><img src="/images/hbl_sec2hblschedule.png"></p>
 
 
 <p>See Above.</p>
 	</div>
-	</li>  
+</li>  
 
 </ul>
