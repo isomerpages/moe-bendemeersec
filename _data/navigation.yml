@@ -15,6 +15,8 @@ links:
     collection: cca
   - title: Key Programmes
     collection: key-programmes
+  - title: Achievements
+    collection: achievements
   - title: Life@BDMS
     collection: life-at-bdms
   - title: Useful Information
@@ -24,5 +26,9 @@ links:
         url: /usefulinfo/forstudentparents/
       - title: For Staff
         url: /usefulinfo/forstaff/
+      - title: School Calendar
+        url: https://go.gov.sg/bdms-schcalendar
+      - title: Student Handbook
+        url: /student-handbook/intro/
       - title: School Canteen Advertisement
         url: /schoolcanteen/

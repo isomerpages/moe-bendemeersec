@@ -3,6 +3,7 @@ title: Red Cross Youth
 permalink: /cca/uniformed-groups/red-cross-youth/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 |  **Youth Officers:** | Ms Ling Kai Xin Shauna(I/C) | 
 | -------- | -------- |
@@ -17,7 +18,7 @@ third_nav_title: Uniformed Groups
 
 | Training days: | Thursdays  |
 | - | -|
-| Duration: |  3.00pm - 5.30pm |
+| Duration: |  3.30pm - 6.30pm |
 
 <br>
 <style type="text/css">

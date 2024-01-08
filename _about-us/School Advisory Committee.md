@@ -2,18 +2,21 @@
 title: School Advisory Committee
 permalink: /about-us/school-advisory-committee/
 description: ""
+variant: markdown
 ---
 <b>Chairperson</b> <br>
 Mr Chiang Heng Liang
 
 <b>Members</b> <br>
-Mr S K Selva <br>
-Mr Tan Guo Wei <br>
-Mr Ang Kian Seng <br>
-Ms Monique Heah <br>
-Ms Tan Lay Pheng <br>
-Mr Roderick Tan <br>
-Mr Vincent Ling
+Mr Ang Kian Seng<br>
+Ms Monique Heah<br>
+Mr Roderick Tan<br>
+Mr S K Selva<br>
+Mr Tan Guo Wei<br>
+Ms Tan Lay Pheng<br>
+Mr Vincent Ling<br>
+
+
 
 <b>Ms Foo Sheue Feng</b> <br>
 Principal
@@ -23,6 +26,3 @@ Vice-Principal
 
 <b>Mr Chrys Ho Chi Cheng</b> <br>
 Vice-Principal
-
-<b>Ms Della Goh Mui Hoon</b>  <br>
-Member

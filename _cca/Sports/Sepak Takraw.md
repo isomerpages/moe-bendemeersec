@@ -14,9 +14,9 @@ variant: markdown
 |**Captain 'C' Boys:** |  Surya S/O Sikkander (2R8)  |
 |  |  |
 
-| Training days: | Mondays and Wednesday  |
+| Training days: | Mondays and Wednesdays  |
 | - | -|
-| Duration: |  3.00pm - 6.00pm |
+| Duration: |  3.30pm - 5.30pm |
  
 **Objectives** <br>
 To uphold the five school values when participating in CCA activities.

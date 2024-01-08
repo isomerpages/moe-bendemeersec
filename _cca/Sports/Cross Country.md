@@ -15,7 +15,7 @@ variant: markdown
 
 | Training days: | Tuesdays and Thursdays  |
 | - | -|
-| Duration: |  4.00pm - 6.00pm |
+| Duration: |  3.30pm - 5.30pm |
 
 ![](/images/Cca/cca-crosscountry-n03.jpg)Full Team
 

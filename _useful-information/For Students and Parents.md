@@ -10,6 +10,9 @@ description: ""
 * [Booklists 2024](/resources/booklists/)
 * [Bookshop and Uniform Supplier](/resources/booksuniform/)
 * [Class Timetable](/resources/class-timetable/)
+* <a href="https://go.gov.sg/bdms-schcalendar" target="_blank">School Calendar</a>
+* [Home-Based Learning Schedule](/hbl/)
+* [Student Handbook](/student-handbook/intro/)
 * <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" target="_blank">LEAPS 2.0</a>
 * <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" target="_blank">Sexuality Education</a>
 

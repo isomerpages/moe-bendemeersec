@@ -17,7 +17,7 @@ variant: markdown
 
 | Training days: | Thursdays  |
 | - | -|
-| Duration: |  3.00pm - 5.30pm |
+| Duration: |  3.30pm - 6.30pm |
 |  |  |
 
 <style type="text/css">
