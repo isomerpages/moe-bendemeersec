@@ -18,7 +18,6 @@ To contact the Principal and Vice-Principals via email, please send to bendemeer
 | HOD / English |Mr Tan Cheng Hai  | tan_cheng_hai@moe.edu.sg | 
 | HOD / Humanities | Mrs Agnes Tan Siew Kheng | teo_siew_kheng@moe.edu.sg |
 | HOD / Mathematics | Mrs Loh Choy Fong | hoy_choy_fong@moe.edu.sg |
-| HOD / Mother Tongue (Covering)  | -  | - |
 | HOD / Physical Education & CCA| Mr Lee Chen Siang | lee_chen_siang@moe.edu.sg |
 | HOD / Science  | Ms Lee Xuefen  | lee_xuefen@moe.edu.sg |
 | HOD / Character and Citizenship Education | Mrs Eileen Ho Geok Lay | ang_geok_lay_eileen@moe.edu.sg |
@@ -40,5 +39,3 @@ To contact the Principal and Vice-Principals via email, please send to bendemeer
 | SH / Student Well Being | Ms Ang Wei May | Ang_wei_may@moe.edu.sg |
 | SH / Information and Communications Technology | Mr Eric Choo Guan Kiat | choo_guan_kiat@moe.edu.sg |
 | SH / Craft and Technology | Ms Dawn Lim Sing Liean | LIM_Sing_Liean@moe.edu.sg |
-
-
