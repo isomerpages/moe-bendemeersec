@@ -6,7 +6,7 @@ description: ""
 ---
 |  Designation | Name| 
 | -------- | -------- |
-| Principal | Ms Foo Sheue Fen |
+| Principal | Ms Foo Sheue Feng |
 |Vice-Principal |Mr Chrys Ho Chi Cheng|
 |Vice-Principal | Mr Mohd Azman bin Mohd Sidek   |
 
