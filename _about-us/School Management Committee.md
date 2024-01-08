@@ -29,7 +29,7 @@ To contact the Principal and Vice-Principals via email, please send to bendemeer
 | Year Head / Upper Sec | Ms Loke Pui San | loke_pui_san@moe.edu.sg |
 | Asst Year Head / Lower Sec  | Mr Chin Jie | chin_jie@moe.edu.sg |
 | Asst Year Head / Upper Sec | Ms Lee Vwen Ying Mavis | LEE_Vwen_Ying_Mavis@moe.edu.sg |
-| LH Mathematics | Mrs Lim Pei Lin | ngoh_pei_lin@moe.edu.sg |
+| LH / Mathematics | Mrs Lim Pei Lin | ngoh_pei_lin@moe.edu.sg |
 | LH / English  | Mrs Anuisyah Thiru | anusiyah_varadarajan@moe.edu.sg |
 | SH / Chemistry | Mr Chua Chiang Long Gary | chua_chiang_leong_gary@moe.edu.sg |
 | SH / Physics | Mr Jelvin Lee Kian Wei | jelvin_lee@moe.edu.sg |
