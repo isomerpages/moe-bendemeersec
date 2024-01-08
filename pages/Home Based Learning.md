@@ -11,14 +11,14 @@ Blended Learning is part of MOE’s efforts to further develop our students’ a
 
 Students will also be engaged in Student-Initiated Learning (SIL) where they can explore their interests beyond the curriculum. 
 
-You may click <a href="https://go.gov.sg/bdms-hblschedule" target="_blank">here</a> for an overview of the HBL schedule.
+You may click and view the HBL Schedule below
 
 
 
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion1" type="checkbox">
-    <label for="accordion1">HBL Schedule</label>
+    <label for="accordion1">2024 Term 1 HBL Schedule</label>
     <div>
 			<p></p><div class="google-slides-container"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRxNy2lHWDEjSi2ucMVkq-hrnCBj7_NeA9kzL8Hetr_fZDEx6rpquIjaAD87K1vKMg_DXrFuFNit6LN/pubhtml?widget=true&amp;headers=false"></iframe><p></p>
 
@@ -26,44 +26,6 @@ You may click <a href="https://go.gov.sg/bdms-hblschedule" target="_blank">here<
 <p>See Above.</p>
     </div>
 	</div></li>  
-	<li>
-    <input id="accordion2" type="checkbox">
-    <label for="accordion2">Sec 2 HBL Schedule</label>
-    <div>
-			<p></p><div class="google-slides-container"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRxNy2lHWDEjSi2ucMVkq-hrnCBj7_NeA9kzL8Hetr_fZDEx6rpquIjaAD87K1vKMg_DXrFuFNit6LN/pubhtml?gid=1660749283&amp;single=true&amp;widget=true&amp;headers=false"></iframe><p></p>
-
-
-<p>See Above.</p>
-	</div>
-	</div></li>  
-<li>
-    <input id="accordion3" type="checkbox">
-    <label for="accordion3">Sec 3 HBL Schedule</label>
-    <div>
-			<p></p>
-			
-<p>See Above.</p>
-	</div>
-</li>  
-
-<li>
-    <input id="accordion4" type="checkbox">
-    <label for="accordion4">Sec 4 HBL Schedule</label>
-    <div>
-			<p></p>
-			
-<p>See Above.</p>
-	</div>
-</li>  
-<li>
-    <input id="accordion5" type="checkbox">
-    <label for="accordion5">Image of Sec 2 HBL Schedule</label>
-    <div>
-			<p><img src="/images/hbl_sec2hblschedule.png"></p>
-
-
-<p>See Above.</p>
-	</div>
-</li>  
+	
 
 </ul>
