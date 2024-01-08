@@ -4,4 +4,4 @@ permalink: /student-handbook/intro/
 variant: tiptap
 description: ""
 ---
-<p>The Student Handbook will published soon. </p>
+<p>The Student Handbook will published at a later date.</p>
