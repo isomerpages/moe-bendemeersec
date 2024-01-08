@@ -14,6 +14,7 @@ To contact the Principal and Vice-Principals via email, please send to bendemeer
 
 |  Designation | Name| Email  |
 | - | -| - |
+| Master Teacher | Dr Leong Swee Ling | leong_swee_ling@moe.edu.sg |
 | HOD / Craft and Technology  | Mrs Sharon Wee | neo_sharon@moe.edu.sg |
 | HOD / English |Mr Tan Cheng Hai  | tan_cheng_hai@moe.edu.sg | 
 | HOD / Humanities | Mrs Agnes Tan Siew Kheng | teo_siew_kheng@moe.edu.sg |
@@ -24,18 +25,16 @@ To contact the Principal and Vice-Principals via email, please send to bendemeer
 | HOD / Disicpline | Mr Zuhri B Wahab |zuhri_wahab@moe.edu.sg |
 | HOD / Information and Communications Technology | Mr Ng Wee Nghee | ng_wee_nghee@moe.edu.sg |
 | HOD / School Staff Developer | Ms Mabel Kam Eng Yee | kam_eng_yee@moe.edu.sg |
-| Master Teacher | Dr Leong Swee Ling | leong_swee_ling@moe.edu.sg |
 | Year Head / Lower Sec  | Mr Roger Lim Meng Kwan | roger_lim_meng_kwan@moe.edu.sg |
 | Year Head / Upper Sec | Ms Loke Pui San | loke_pui_san@moe.edu.sg |
 | Asst Year Head / Lower Sec  | Mr Chin Jie | chin_jie@moe.edu.sg |
 | Asst Year Head / Upper Sec | Ms Lee Vwen Ying Mavis | LEE_Vwen_Ying_Mavis@moe.edu.sg |
-| Ag HOD / Data Management | Mrs Lim Pei Lin | ngoh_pei_lin@moe.edu.sg |
+| LH Mathematics | Mrs Lim Pei Lin | ngoh_pei_lin@moe.edu.sg |
 | LH / English  | Mrs Anuisyah Thiru | anusiyah_varadarajan@moe.edu.sg |
 | SH / Chemistry | Mr Chua Chiang Long Gary | chua_chiang_leong_gary@moe.edu.sg |
 | SH / Physics | Mr Jelvin Lee Kian Wei | jelvin_lee@moe.edu.sg |
 | LH / Science | Ms Jasmine Kaur | jasmine_kaur_dhaliwal@moe.edu.sg |
-| SH / Principles of Accounts  | Mdm Soh Bee Keow | soh_bee_keow@moe.edu.sg |
 | Assistant Discipline Master | Ms Erin Tan Puay Mui | tan_puay_mui@moe.edu.sg |
 | SH / Student Well Being | Ms Ang Wei May | Ang_wei_may@moe.edu.sg |
 | SH / Information and Communications Technology | Mr Eric Choo Guan Kiat | choo_guan_kiat@moe.edu.sg |
-| SH / Craft and Technology | Ms Dawn Lim Sing Liean | LIM_Sing_Liean@moe.edu.sg |
+| SH / Design and Technology | Ms Dawn Lim Sing Liean | LIM_Sing_Liean@moe.edu.sg |
