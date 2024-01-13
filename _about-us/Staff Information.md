@@ -84,7 +84,7 @@ description: ""
 |Sec 5 Responsibility 1 Form Teacher | Mrs Anusiyah Thiruchelvan| anusiyah_varadarajan@moe.edu.sg|
 | | | |
 
-### **Co-Curriculum Activities Teachers**
+### **Co-Curriculum Activities**
 
 #### **Uniformed Groups**
 
