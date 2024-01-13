@@ -84,13 +84,12 @@ description: ""
 |Sec 5 Responsibility 1 Form Teacher | Mrs Anusiyah Thiruchelvan| anusiyah_varadarajan@moe.edu.sg|
 | | | |
 
-### **Co-Curriculum Teachers**
+### **Co-Curriculum Activities Teachers**
 
 #### Uniformed Groups
 
-| Uniformed Groups |  |  |
-| - | -| - |
 |Girl Guides | Ms Lu Yueh Ju	I/C | lu_yueh_ju@moe.edu.sg|
+| - | -| - |
 | | Ms Caroline R Murty, 2I/C | caroline_r_murty@moe.edu.sg|
 | | Mdm Nasyitah Binte Abu Baker | nasyitah_abu_bakar@moe.edu.sg|
 | | Ms Lim Sing Liean, Advisor	| LIM_Sing_Liean@moe.edu.sg |
@@ -108,14 +107,10 @@ description: ""
 | | Mdm Toh Yen Nee | toh_yen_nee@moe.edu.sg|
 | | | |
 
-
-<br>
-
 #### Performing Arts
 
-| Performing Arts |  |  |
-| - | -| - |
 |Choir | Mrs Poon Chong Cheah, I/C| poon_chong_cheah@moe.edu.sg|
+| - | -| - |
 | | Mrs Elaine Wong, 2I/C	|tan_mei_yen_elaine@moe.edu.sg |
 | | Mdm Wang Huilin| wang_huilin@moe.edu.sg|
 | | | |
@@ -135,15 +130,10 @@ description: ""
 | Tamil Drama| Ms Achaiya Gunasekaran, I/C  | achaiya_gunasekaran@moe.edu.sg|
 | |Ms Ponmozhi D/O Sembian, 2I/C | ponmozhi_sembian@moe.edu.sg|
 | | | |
-| | | |
-
-<br>
 
 #### Sports and Games
-
-| Sports and Games |  |  |
-| - | -| - |
 |Badminton | Mr Wong Chee Seng, 2I/C|wong_chee_seng@moe.edu.sg |
+| - | -| - |
 | | | |
 |Cross Country | Mr Daryl Toy Chor Teck, 2I/C| toy_chor_teck@moe.edu.sg|
 | | Mrs Yap Bee Hong | chua_bee_hong@moe.edu.sg|
