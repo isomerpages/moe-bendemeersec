@@ -86,6 +86,7 @@ description: ""
 
 ### **Co-Curriculum Teachers**
 
+#### Uniformed Groups
 
 | Uniformed Groups |  |  |
 | - | -| - |
@@ -109,6 +110,8 @@ description: ""
 
 
 <br>
+
+#### Performing Arts
 
 | Performing Arts |  |  |
 | - | -| - |
@@ -136,6 +139,8 @@ description: ""
 
 <br>
 
+#### Sports and Games
+
 | Sports and Games |  |  |
 | - | -| - |
 |Badminton | Mr Wong Chee Seng, 2I/C|wong_chee_seng@moe.edu.sg |
@@ -162,6 +167,7 @@ description: ""
 
 <br>
 
+#### Clubs and Societies
 
 | Clubs and Societies | | |
 | - | -| - |
