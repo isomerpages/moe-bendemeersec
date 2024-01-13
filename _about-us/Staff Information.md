@@ -89,9 +89,9 @@ description: ""
 
 | Uniformed Groups |  |  |
 | - | -| - |
-|Girl Guides | | Ms Lu Yueh Ju	I/C | lu_yueh_ju@moe.edu.sg|
+|Girl Guides | Ms Lu Yueh Ju	I/C | lu_yueh_ju@moe.edu.sg|
 | | Ms Caroline R Murty, 2I/C | caroline_r_murty@moe.edu.sg|
-| | Mdm Nasyitah Binte Abu Baker | @moe.edu.sg|
+| | Mdm Nasyitah Binte Abu Baker | nasyitah_abu_bakar@moe.edu.sg|
 | | Ms Lim Sing Liean, Advisor	| LIM_Sing_Liean@moe.edu.sg |
 | | | |
 |National Cadet Corps |Maj Tay Guangyu, CO| tay_guangyu@moe.edu.sg|
@@ -100,7 +100,7 @@ description: ""
 | | | |
 |National Police Cadet Corps| Ms Wee Gui Fen Sabrina, I/C | wee_gui_fen_sabrina@moe.edu.sg|
 | |Mr Oh Tze Ming, 2I/C	| oh_tze_ming@moe.edu.sg|
-| |Mr Ong Pei Huat Brandon | @moe.edu.sg|
+| |Mr Ong Pei Huat Brandon | ong_pei_huat_brandon@moe.edu.sg|
 | | | |
 |Red Cross Youth | Ms Shauna Ling, I/C| ling_kai_xin_shauna@moe.edu.sg|
 | | Ng Jan Ile, 2I/C| ng_jan_ile@moe.edu.sg| 
@@ -121,13 +121,13 @@ description: ""
 | | Mrs Lim Gek Hoon Ivy|lim_gek_hoon_ivy@moe.edu.sg |
 | |Ms Ng Qian Hui| ng_qian_hui@moe.edu.sg|
 | | | |
-|Dance| Ms Colene Lin Lifen| @moe.edu.sg|
-| | Ms Lily Tan Eng Lee| @moe.edu.sg |
-| | Mrs Cynthia Ho | @moe.edu.sg|
+|Dance| Ms Colene Lin Lifen| lin_lifen_colene@moe.edu.sg|
+| | Ms Lily Tan Eng Lee| tan_eng_lee_lily@moe.edu.sg |
+| | Mrs Cynthia Ho | lim_soh_pyng@moe.edu.sg|
 | | | |
 | English Drama|Mrs Lo May Ling, I/C |yap_may_ling@moe.edu.sg |
 | | Ms Ivy Lim Chiew Sian, 2I/C| lim_chiew_sian_ivy@moe.edu.sg|
-| | Ms Joycelyn Tan | @moe.edu.sg|
+| | Ms Joycelyn Tan | tan_siew_ee_jocelyn@moe.edu.sg|
 | | | |
 | Tamil Drama| Ms Achaiya Gunasekaran, I/C  | achaiya_gunasekaran@moe.edu.sg|
 | |Ms Ponmozhi D/O Sembian, 2I/C | ponmozhi_sembian@moe.edu.sg|
@@ -138,7 +138,7 @@ description: ""
 
 | Sports and Games |  |  |
 | - | -| - |
-|Badminton | Mr Wong Chee Seng, 2I/C|wong_chee_seng@moe.edu.sg 
+|Badminton | Mr Wong Chee Seng, 2I/C|wong_chee_seng@moe.edu.sg |
 | | | |
 |Cross Country | Mr Daryl Toy Chor Teck, 2I/C| toy_chor_teck@moe.edu.sg|
 | | Mrs Yap Bee Hong | chua_bee_hong@moe.edu.sg|
