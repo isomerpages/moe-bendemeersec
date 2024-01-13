@@ -106,6 +106,7 @@ description: ""
 | | Ng Jan Ile, 2I/C| ng_jan_ile@moe.edu.sg| 
 | | Mdm Toh Yen Nee | toh_yen_nee@moe.edu.sg|
 | | | |
+
 #### **Performing Arts**
 
 |Choir | Mrs Poon Chong Cheah, I/C| poon_chong_cheah@moe.edu.sg|
