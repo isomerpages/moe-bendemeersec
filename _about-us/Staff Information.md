@@ -121,7 +121,7 @@ description: ""
 | | Mrs Lim Gek Hoon Ivy|lim_gek_hoon_ivy@moe.edu.sg |
 | |Ms Ng Qian Hui| ng_qian_hui@moe.edu.sg|
 | | | |
-|Dance| Ms Colene Lin Lifen| lin_lifen_colene@moe.edu.sg|
+|Dance| Ms Colene Lin Lifen, I/C| lin_lifen_colene@moe.edu.sg|
 | | Ms Lily Tan Eng Lee| tan_eng_lee_lily@moe.edu.sg |
 | | Mrs Cynthia Ho | lim_soh_pyng@moe.edu.sg|
 | | | |
