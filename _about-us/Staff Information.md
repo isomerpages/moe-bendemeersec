@@ -151,7 +151,7 @@ description: ""
 |Sepak Takraw | Ms Vimala Selvarasu | vimala_selvarasu@moe.edu.sg|
 | | Mr Zulkifli B Khamis, 2I/C	| zulkifli_b_khamis@moe.edu.sg|
 | | | |
-| TaeKwonDo| Tan Hai Seng, I/C | tan_hai_seng@moe.edu.sg|
+| TaeKwonDo| Mr Tan Hai Seng, I/C | tan_hai_seng@moe.edu.sg|
 | | Mdm Karamjit Kaur |karamjit_kaur@moe.edu.sg|
 | | Mrs Chin Chen Han | au_chen_han@moe.edu.sg |
 | | | |
