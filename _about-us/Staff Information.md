@@ -155,12 +155,9 @@ description: ""
 | | Mr Dcruz Mark Sanjay | dcruz_mark_sanjay@moe.edu.sg|
 | | | |
 
-<br>
-
 #### Clubs and Societies
 
-| Clubs and Societies | | |
-| - | -| - |
 | Infocomm Club |Mr Michael Lee, I/C| michael_lee@moe.edu.sg|
+| - | -| - |
 | | Mr Manoj Kumar Dave	| manoj_kumar_dave@moe.edu.sg |
 | | Mr Eric Choo Guan Kiat, Advisor| choo_guan_kiat@moe.edu.sg|
