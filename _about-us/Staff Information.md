@@ -131,6 +131,7 @@ description: ""
 | | | |
 
 #### **Sports and Games**
+
 |Badminton | Mr Wong Chee Seng, 2I/C|wong_chee_seng@moe.edu.sg |
 | - | -| - |
 |Cross Country | Mr Daryl Toy Chor Teck, 2I/C| toy_chor_teck@moe.edu.sg|
