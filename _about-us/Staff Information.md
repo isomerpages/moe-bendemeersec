@@ -166,5 +166,5 @@ description: ""
 | Clubs and Societies | | |
 | - | -| - |
 | Infocomm Club |Mr Michael Lee| michael_lee@moe.edu.sg|
-| | Mr Manoj Kumar Dave	| |
+| | Mr Manoj Kumar Dave	| manoj_kumar_dave@moe.edu.sg |
 | | | |
