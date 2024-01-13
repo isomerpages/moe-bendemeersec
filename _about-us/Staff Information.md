@@ -86,7 +86,7 @@ description: ""
 
 ### **Co-Curriculum Activities Teachers**
 
-#### Uniformed Groups
+#### **Uniformed Groups**
 
 |Girl Guides | Ms Lu Yueh Ju	I/C | lu_yueh_ju@moe.edu.sg|
 | - | -| - |
@@ -107,7 +107,7 @@ description: ""
 | | Mdm Toh Yen Nee | toh_yen_nee@moe.edu.sg|
 | | | |
 
-#### Performing Arts
+#### **Performing Arts**
 
 |Choir | Mrs Poon Chong Cheah, I/C| poon_chong_cheah@moe.edu.sg|
 | - | -| - |
@@ -131,7 +131,7 @@ description: ""
 | |Ms Ponmozhi D/O Sembian, 2I/C | ponmozhi_sembian@moe.edu.sg|
 | | | |
 
-#### Sports and Games
+#### **Sports and Games**
 |Badminton | Mr Wong Chee Seng, 2I/C|wong_chee_seng@moe.edu.sg |
 | - | -| - |
 | | | |
@@ -155,7 +155,7 @@ description: ""
 | | Mr Dcruz Mark Sanjay | dcruz_mark_sanjay@moe.edu.sg|
 | | | |
 
-#### Clubs and Societies
+#### **Clubs and Societies**
 
 | Infocomm Club |Mr Michael Lee, I/C| michael_lee@moe.edu.sg|
 | - | -| - |
