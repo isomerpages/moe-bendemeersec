@@ -24,7 +24,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: https://go.gov.sg/bdms-icthelp
+      - other: <a href="https://ask.gov.sg/bdms">https://go.gov.sg/bdms-icthelp</a>
     title: School-Based ICT Helpdesk
 feedback: https://go.gov.sg/bdms-icthelp
 ---
