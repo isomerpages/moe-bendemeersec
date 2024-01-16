@@ -40,11 +40,11 @@ You may click here (<a href="https://go.gov.sg/moe-sexuality-education" target="
 <br>
 At Bendemeer Secondary School, the following Sexuality Education lessons will be taught in 2024  (Please click to view the lessons in detail):
 
-* [Secondary 1](/files/sexuality-edu/se-sec1.pdf) 
-* [Secondary 2](/files/sexuality-edu/se-sec2.pdf) 
-* [Secondary 3](/files/sexuality-edu/se-sec3.pdf)
-* [Secondary 4](/files/sexuality-edu/se-sec4.pdf)
-* [Secondary 5](/files/sexuality-edu/se-sec5.pdf) 
+* [Secondary 1](/files/Sexualityedu/se_sec1.pdf)
+* [Secondary 2](/files/Sexualityedu/se_sec2.pdf) 
+* [Secondary 3](/files/Sexualityedu/se_sec3.pdf)
+* [Secondary 4](/files/Sexualityedu/se_sec4.pdf)
+* [Secondary 5](/files/Sexualityedu/se_sec5.pdf) 
 
 
 #### **eTeens Programme:**
