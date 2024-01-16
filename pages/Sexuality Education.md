@@ -47,7 +47,7 @@ At Bendemeer Secondary School, the following Sexuality Education lessons will be
 * [Secondary 5](/files/Sexualityedu/se_sec5.pdf) 
 
 
-#### **eTeens Programme:**
+#### **eTeens Programme**
 
 eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
