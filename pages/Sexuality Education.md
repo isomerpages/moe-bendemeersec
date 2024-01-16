@@ -53,7 +53,7 @@ eTeens is a programme developed by Health Promotion Board, in collaboration with
 
 Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.
 
-**At Bendemeer Secondary School, the eTeens programme will be implemented as follows in 2024:**
+At Bendemeer Secondary School, the eTeens programme will be implemented as follows in 2024:
 
 ![](/images/Sexualityedu/eteensprog.png)
 
