@@ -6,15 +6,15 @@ description: ""
 ---
 #### **MOE Sexuality Education in Schools**
 
-1. Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+1.  Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
-2.	The **Goals** of Sexuality Education are to:
+2. The **Goals** of Sexuality Education are to:
 
 * Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships. 
 * Guide students to make wise, informed and responsible decisions on sexuality matters. 
 * Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. 
 
-3.	The **Key Messages** of Sexuality Education are:
+3. The **Key Messages** of Sexuality Education are:
 
 * Love and respect yourself as you love and respect others;
 * Build positive relationships based on love and respect (which are the foundation for strong families);
@@ -40,9 +40,11 @@ You may click here (<a href="https://go.gov.sg/moe-sexuality-education" target="
 <br>
 At Bendemeer Secondary School, the following Sexuality Education lessons will be taught in 2024  (Please click to view the lessons in detail):
 
-||||||
-|-|-|-|-|-|
-|[Sec 1](/files/sexuality-edu/se-sec1.pdf) |[Sec 2](/files/sexuality-edu/se-sec2.pdf) |[Sec 3](/files/sexuality-edu/se-sec3.pdf) |[Sec 4](/files/sexuality-edu/se-sec4.pdf) |[Sec 5](/files/sexuality-edu/se-sec5.pdf) | 
+* [Secondary 1](/files/sexuality-edu/se-sec1.pdf) 
+* [Secondary 2](/files/sexuality-edu/se-sec2.pdf) 
+* [Secondary 3](/files/sexuality-edu/se-sec3.pdf)
+* [Secondary 4](/files/sexuality-edu/se-sec4.pdf)
+* [Secondary 5](/files/sexuality-edu/se-sec5.pdf) 
 
 
 #### **eTeens Programme:**
@@ -55,9 +57,9 @@ At Bendemeer Secondary School, the following Sexuality Education lessons will be
 
 |Topics/Lessons| Programme Learning Objectives |  Time Period (e.g., Term 3 Week 9)|
 | :-:| :-| :-:|
-| Mass Talk by HPB appointed vendor | Raise awareness and provide knowledge on:  a)	Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).  b)	Managing relationships and risky situations in a healthy way. | Term 2 Week 2| 
+| Mass Talk by HPB appointed vendor | Raise awareness and provide knowledge on:  a)	**Infectious diseases** (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).   | Term 2 Week 2| 
+||b)	Managing relationships and risky situations in a healthy way.||
 |Classroom-based Lesson |Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making.|Term 2 Week 3| 
-| | | | 
 | | | | 
 
 
