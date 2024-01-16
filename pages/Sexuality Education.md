@@ -42,23 +42,20 @@ At Bendemeer Secondary School, the following Sexuality Education lessons will be
 
 ||||||
 |-|-|-|-|-|
-|[Sec 1](/files/sexuality-edu/se-sec1.pdf) |[Sec 2](/files/sexuality-edu/se-sec2.pdf) |[Sec 3](/files/sexuality-edu/se-sec3.pdf) |[Sec 4](/files/sexuality-edu/se-sec4.pdf) |[Sec 5](/files/sexuality-edu/se-sec5.pdf) |
-||||||
+|[Sec 1](/files/sexuality-edu/se-sec1.pdf) |[Sec 2](/files/sexuality-edu/se-sec2.pdf) |[Sec 3](/files/sexuality-edu/se-sec3.pdf) |[Sec 4](/files/sexuality-edu/se-sec4.pdf) |[Sec 5](/files/sexuality-edu/se-sec5.pdf) | 
+
 
 #### **eTeens Programme:**
 
 8.	eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
-9.	Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
+9.	Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.
 
 **At Bendemeer Secondary School, the eTeens programme will be implemented as follows in 2024:**
 
-|Topics/Lessons| Programme Learning Objectives |  Time Period
-(e.g., Term 3 Week 9)|
+|Topics/Lessons| Programme Learning Objectives |  Time Period (e.g., Term 3 Week 9)|
 | :-:| :-| :-:|
-| Mass Talk by HPB appointed vendor | Raise awareness and provide knowledge on:
-a)	Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).<br>
-b)	Managing relationships and risky situations in a healthy way. | Term 2 Week 2| 
+| Mass Talk by HPB appointed vendor | Raise awareness and provide knowledge on:  a)	Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).  b)	Managing relationships and risky situations in a healthy way. | Term 2 Week 2| 
 |Classroom-based Lesson |Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making.|Term 2 Week 3| 
 | | | | 
 | | | | 
