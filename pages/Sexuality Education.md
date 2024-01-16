@@ -6,7 +6,7 @@ description: ""
 ---
 #### **MOE Sexuality Education in Schools**
 
-1.  Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+1. Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
 2. The **Goals** of Sexuality Education are to:
 
@@ -14,7 +14,7 @@ description: ""
 * Guide students to make wise, informed and responsible decisions on sexuality matters. 
 * Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. 
 
-3. The **Key Messages** of Sexuality Education are:
+<p>3.  The <b>Key Messages</b> of Sexuality Education are:
 
 * Love and respect yourself as you love and respect others;
 * Build positive relationships based on love and respect (which are the foundation for strong families);
@@ -22,7 +22,7 @@ description: ""
 * Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 You may click here (<a href="https://go.gov.sg/moe-sexuality-education" target="_blank">https://go.gov.sg/moe-sexuality-education</a>) for more information on MOE Sexuality Education.
-
+</p>
 
 #### **Overview of Bendemeer Secondary School's Sexuality Education Programme for 2024**
 
@@ -57,7 +57,7 @@ At Bendemeer Secondary School, the following Sexuality Education lessons will be
 ![](/images/Sexualityedu/eteensprog.png)
 
 
-#### **INFORMATION FOR PARENTS**
+#### **Information for Parents**
 10.	Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
 11.	Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/Sexualityedu/se_optoutform.pdf) . The completed form is to be submitted by 06/02/2024. 
