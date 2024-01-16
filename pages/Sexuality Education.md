@@ -64,8 +64,8 @@ At Bendemeer Secondary School, the following Sexuality Education lessons will be
 #### **INFORMATION FOR PARENTS**
 10.	Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
-11.	Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/sexuality-edu/se-optoutform.pdf) . The completed form is to be submitted by 06/02/2024. 
+11.	Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/Sexualityedu/se_optoutform.pdf) . The completed form is to be submitted by 06/02/2024. 
 
-12.	Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/sexuality-edu/se-eteensoptoutform.pdf).  The completed form is to be submitted by 06/02/2024.
+12.	Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/Sexualityedu/se-eteensoptoutform.pdf).  The completed form is to be submitted by 06/02/2024.
 
 13.	Parents can contact the school at 62927616 for discussion or to seek clarification about the school’s Sexuality Education programme.
