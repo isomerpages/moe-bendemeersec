@@ -55,12 +55,7 @@ At Bendemeer Secondary School, the following Sexuality Education lessons will be
 
 **At Bendemeer Secondary School, the eTeens programme will be implemented as follows in 2024:**
 
-|Topics/Lessons| Programme Learning Objectives |  Time Period (e.g., Term 3 Week 9)|
-| :-:| :-| :-:|
-| Mass Talk by HPB appointed vendor | Raise awareness and provide knowledge on:  a)	**Infectious diseases** (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).   | Term 2 Week 2| 
-||b)	Managing relationships and risky situations in a healthy way.||
-|Classroom-based Lesson |Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making.|Term 2 Week 3| 
-| | | | 
+![](/images/Sexualityedu/eteensprog.png)
 
 
 #### **INFORMATION FOR PARENTS**
@@ -68,6 +63,6 @@ At Bendemeer Secondary School, the following Sexuality Education lessons will be
 
 11.	Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/Sexualityedu/se_optoutform.pdf) . The completed form is to be submitted by 06/02/2024. 
 
-12.	Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/Sexualityedu/se-eteensoptoutform.pdf).  The completed form is to be submitted by 06/02/2024.
+12.	Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/Sexualityedu/se_eteensoptoutform.pdf).  The completed form is to be submitted by 06/02/2024.
 
 13.	Parents can contact the school at 62927616 for discussion or to seek clarification about the school’s Sexuality Education programme.
