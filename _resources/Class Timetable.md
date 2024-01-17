@@ -24,7 +24,7 @@ variant: markdown
 | Secondary Three ||
 | [Sec 3 Resilience 1](/files/Timetable/timetable_sec3resilience1.pdf) | [Sec 3 Resilience 2](/files/Timetable/timetable_sec3resilience2.pdf) |
 | [Sec 3 Resilience 3](/files/Timetable/timetable_sec3resilience3.pdf) | [Sec 3 Resilience 4](/files/Timetable/timetable_sec3resilience4.pdf) |
-| [Sec 3 Resilience 5](/files/Timetable/timetable_sec3resilience5.pdf) | [Sec 3 Resilience 6](/files/Timetable/timetable-sec3resilience6.pdf) |
+| [Sec 3 Resilience 5](/files/Timetable/timetable_sec3resilience5.pdf) | [Sec 3 Resilience 6](/files/Timetable/timetable_sec3resilience6.pdf) |
 | [Sec 3 Resilience 7](/files/Timetable/timetable_sec3resilience7.pdf) | [Sec 3 Resilience 8](/files/Timetable/timetable_sec3resilience8.pdf) |
 |  | |
 | Secondary 4 and 5 |  |
