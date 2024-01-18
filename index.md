@@ -51,4 +51,5 @@ sections:
       button: Click for more details
       url: /sexualityedu/
       alt: Image alt text
+      image: /images/Departments/cce_frame.png
 ---
