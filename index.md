@@ -28,6 +28,17 @@ sections:
       image: /images/Sec1posting/sec1post_welcome_02.jpg
       alt: Image alt text
   - infopic:
+      title: BDMS Sexuality Education Programme for 2024
+      subtitle: Overview of
+      id: infopic
+      description: Sexuality Education (SEd) in schools aims to enable students to
+        understand and make wise, informed and responsible decisions on
+        sexuality matters.
+      button: Click for more details
+      url: /sexualityedu/
+      alt: Image alt text
+      image: /images/Departments/cce_frame.png
+  - infopic:
       title: Japanese/Korean/ Thai/Vegetarian & Chinese Rice Stall
       subtitle: Canteen Stalls Advertisement
       button: MORE INFORMATION
@@ -41,15 +52,4 @@ sections:
       url: https://ask.gov.sg/bdms
       image: /images/bss-askgov.png
       alt: AskGov
-  - infopic:
-      title: BDMS Sexuality Education Programme for 2024
-      subtitle: Overview of
-      id: infopic
-      description: Sexuality Education (SEd) in schools aims to enable students to
-        understand and make wise, informed and responsible decisions on
-        sexuality matters.
-      button: Click for more details
-      url: /sexualityedu/
-      alt: Image alt text
-      image: /images/Departments/cce_frame.png
 ---
