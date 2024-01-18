@@ -22,7 +22,7 @@ sections:
   - infopic:
       title: WELCOME!
       id: infopic
-      description: "We welcome all 2024 Secondary 1 to   our Bendemeer Family! "
+      description: We welcome all 2024 Secondary 1 to   our Bendemeer Family!
       button: Click for more details
       url: /sec1posting/welcome/
       image: /images/Sec1posting/sec1post_welcome_02.jpg
@@ -41,4 +41,14 @@ sections:
       url: https://ask.gov.sg/bdms
       image: /images/bss-askgov.png
       alt: AskGov
+  - infopic:
+      title: BDMS Sexuality Education Programme for 2024
+      subtitle: Overview of
+      id: infopic
+      description: Sexuality Education (SEd) in schools aims to enable students to
+        understand and make wise, informed and responsible decisions on
+        sexuality matters.
+      button: Click for more details
+      url: /sexualityedu/
+      alt: Image alt text
 ---
