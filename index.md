@@ -28,7 +28,7 @@ sections:
       image: /images/Sec1posting/sec1post_welcome_02.jpg
       alt: Image alt text
   - infopic:
-      title: BDMS Sexuality Education Programme for 2024
+      title: BDMS Sexuality Education Programme 2024
       subtitle: Overview of
       id: infopic
       description: Sexuality Education (SEd) in schools aims to enable students to
