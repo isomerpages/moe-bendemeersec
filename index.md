@@ -35,7 +35,7 @@ sections:
         understand and make wise, informed and responsible decisions on
         sexuality matters.
       button: Click for more details
-      url: /sexualityedu/
+      url: /departments/cce/sexuality-education/
       alt: Image alt text
       image: /images/Departments/cce_frame.png
   - infopic:
