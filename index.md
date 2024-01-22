@@ -12,21 +12,28 @@ notification: ""
 sections:
   - hero:
       background: /images/hero-banner01s.jpg
-      key_highlights:
-        - title: Secondary 1 posting
-          description: Click to Register
-          url: /sec1posting/welcome/
       variant: image
       title: www
       subtitle: www
   - infopic:
       title: WELCOME!
       id: infopic
-      description: "We welcome all 2024 Secondary 1 to   our Bendemeer Family! "
+      description: We welcome all 2024 Secondary 1 to   our Bendemeer Family!
       button: Click for more details
       url: /sec1posting/welcome/
       image: /images/Sec1posting/sec1post_welcome_02.jpg
       alt: Image alt text
+  - infopic:
+      title: BDMS Sexuality Education Programme 2024
+      subtitle: Overview of
+      id: infopic
+      description: Sexuality Education (SEd) in schools aims to enable students to
+        understand and make wise, informed and responsible decisions on
+        sexuality matters.
+      button: Click for more details
+      url: /departments/cce/sexuality-education/
+      alt: Image alt text
+      image: /images/Departments/cce_frame.png
   - infopic:
       title: Japanese/Korean/ Thai/Vegetarian & Chinese Rice Stall
       subtitle: Canteen Stalls Advertisement
