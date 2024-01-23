@@ -28,7 +28,7 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06">&gt;Submit online form (<a href="https://go.gov.sg/bdmspld"><span style="text-decoration:underline;color:#0C4BFF">go.gov.sg/bdmspld</span></a>), you will also need to have SingPass.<br>&gt;Submit hardcopy of Annex D, Annex E* and Annex F to the school General Office. *Note Annex E is for Singapore Citizen students<br></td>
+    <td class="tg-zr06">&gt;Submit online form (<a href="https://go.gov.sg/bdmspld"><span style="text-decoration:underline;color:#0C4BFF">go.gov.sg/bdmspld</span></a>), you will also need to have SingPass.<br></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
