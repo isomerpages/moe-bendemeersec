@@ -3,10 +3,8 @@ title: Frequently Asked Questions
 permalink: /key-programmes/ndlp/faqs/
 description: ""
 third_nav_title: National Digital Literacy Prog
+variant: markdown
 ---
-
-
-
 ##### **Procurement Matters**
 
 <style type="text/css">
@@ -30,7 +28,7 @@ third_nav_title: National Digital Literacy Prog
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06">&gt;Submit online form (<a href="http://go.gov.sg/pdlpadmin"><span style="text-decoration:underline;color:#0C4BFF">go.gov.sg/pdlpadmin</span></a>), you will also need to have SingPass.<br>&gt;Submit hardcopy of Annex D, Annex E* and Annex F to the school General Office. *Note Annex E is for Singapore Citizen students<br></td>
+    <td class="tg-zr06">&gt;Submit online form (<a href="https://go.gov.sg/bdmspld"><span style="text-decoration:underline;color:#0C4BFF">go.gov.sg/bdmspld</span></a>), you will also need to have SingPass.<br></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
@@ -38,7 +36,7 @@ third_nav_title: National Digital Literacy Prog
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-zr06"> &gt;You can submit your consent by going to <a href="http://go.gov.sg/pdlpadmin"><span style="text-decoration:underline;color:#0C4BFF">go.gov.sg/pdlpadmin</span></a> (If you have access to your SingPass). Otherwise, you will need to submit the hardcopy in school.</td>
+    <td class="tg-zr06"> &gt;You can submit your consent by going to <a href="https://go.gov.sg/bdmspld"><span style="text-decoration:underline;color:#0C4BFF">go.gov.sg/bdmspld</span></a> (If you have access to your SingPass). Otherwise, you will need to submit the hardcopy in school.</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
@@ -257,4 +255,4 @@ third_nav_title: National Digital Literacy Prog
 
 | |  | 
 | -------- | -------- | 
-| <br><br>Should you have any queries, please click [here](https://form.gov.sg/#!/6003ab0667a3e600110513fe) or scan the QR Code on the right to submit your queries.     | <img src="/images/Keyprogrammes/Ndlp/ndlp-bdms-icthelp-qrcode.png" alt="ICT Support" style="width:200px" />  |
+| <br><br>Should you have any queries, please click [here](https://form.gov.sg/#!/6003ab0667a3e600110513fe) or scan the QR Code on the right to submit your queries.     | <img src="/images/Keyprogrammes/Ndlp/ndlp-bdms-icthelp-qrcode.png" alt="ICT Support" style="width:200px">  |
