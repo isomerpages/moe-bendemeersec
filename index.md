@@ -16,6 +16,15 @@ sections:
       title: www
       subtitle: www
   - infopic:
+      title: "War & Diplomacy: 1918-1945"
+      id: infopic
+      description: is a strategy game of survival and conquest developed in Bendemeer
+        Secondary School.
+      button: CLICK FOR MORE DETAILS
+      url: https://www.bendemeersec.moe.edu.sg/departments/humanities/wardiplomacy/
+      image: /images/Departments/WarDiplomacy/WDImage.png
+      alt: Image alt text
+  - infopic:
       title: WELCOME!
       id: infopic
       description: We welcome all 2024 Secondary 1 to   our Bendemeer Family!
@@ -41,13 +50,4 @@ sections:
       url: https://ask.gov.sg/bdms
       image: /images/bss-askgov.png
       alt: AskGov
-  - infopic:
-      title: "War & Diplomacy: 1918-1945"
-      id: infopic
-      description: "is a strategy game of survival and conquest developed in Bendemeer
-        Secondary School. "
-      button: CLICK FOR MORE DETAILS
-      url: https://www.bendemeersec.moe.edu.sg/departments/humanities/wardiplomacy/
-      image: /images/Departments/WarDiplomacy/WDImage.png
-      alt: Image alt text
 ---
