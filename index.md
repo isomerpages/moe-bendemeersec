@@ -21,7 +21,7 @@ sections:
       description: is a strategy game of survival and conquest developed in Bendemeer
         Secondary School.
       button: CLICK FOR MORE DETAILS
-      url: https://www.bendemeersec.moe.edu.sg/departments/humanities/wardiplomacy/
+      url: /languages-and-humanities/humanities/wardiplomacy/
       image: /images/Departments/WarDiplomacy/WDImage.png
       alt: Image alt text
   - infopic:
