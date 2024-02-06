@@ -9,25 +9,21 @@ third_nav_title: Humanities
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="War and Diplomacy 1918 - 1945" src="/images/Departments/WarDiplomacy/WDImage.png">
 </div>
-<p><strong>Introduction</strong>
-</p>
-<p><strong>&nbsp;War &amp; Diplomacy: 1918-1945</strong> is a strategy game
-of survival and conquest developed in Bendemeer Secondary School. It aims
-to simulate the experience of governments during the turbulent era of 1918-1945
-in making political decisions pertaining to invasion, trade, diplomacy,
-reparations, sanctions, propaganda and appeasement. The content of the
-game is designed to be closely linked to the current Elective History syllabus.
-Through this experience, students will also gain a better understanding
-of Singapore as an important entrepôt of the world, bringing our National
-Education messages to life.</p>
-<p>&nbsp;&nbsp;<strong>Briefing and Training Day (29th February 2024)</strong>
-</p>
-<p>We hope that through this challenge, the intricate concepts learned in
+<p><strong>War &amp; Diplomacy: 1918-1945</strong> is a strategy game of survival
+and conquest developed in Bendemeer Secondary School. It aims to simulate
+the experience of governments during the turbulent era of 1918-1945 in
+making political decisions pertaining to invasion, trade, diplomacy, reparations,
+sanctions, propaganda and appeasement. The content of the game is designed
+to be closely linked to the current Elective History syllabus. Through
+this experience, students will also gain a better understanding of Singapore
+as an important entrepôt of the world, bringing our National Education
+messages to life.</p>
+<p><strong>Briefing and Training Day (29th February 2024)</strong>
+<br>We hope that through this challenge, the intricate concepts learned in
 history will come alive and students will develop their interest in history.
 As this game is not available in the market, contestants are encouraged
-to attend a training on <strong>29th February 2024</strong>
-</p>
-<p><strong>Location</strong>: Bendemeer Secondary School Hall</p>
+to attend a training on <strong>29th February 2024</strong>.
+<br><strong>Location</strong>: Bendemeer Secondary School Hall</p>
 <table>
 <tbody>
 <tr>
@@ -67,9 +63,8 @@ to attend a training on <strong>29th February 2024</strong>
 </tbody>
 </table>
 <p><strong>&nbsp;Competition Day (11th March 2024)</strong>
-</p>
-<p>Join us for a day of fun with attractive prizes to be won!</p>
-<p><strong>Location</strong>: Bendemeer Secondary School Hall (9.00am – 12.00pm)</p>
+<br>Join us for a day of fun with attractive prizes to be won!
+<br><strong>Location</strong>: Bendemeer Secondary School Hall (9.00am – 12.00pm)</p>
 <table>
 <tbody>
 <tr>
@@ -124,9 +119,7 @@ to attend a training on <strong>29th February 2024</strong>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;<strong>&nbsp;</strong>
-</p>
 <p>Click <a href="/files/Departments/WarDiplomacy/wd_reg_form2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>to
-download the Registration Form</p>
-<p>Click <a href="/files/Departments/WarDiplomacy/wd_im2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+download the Registration Form
+<br>Click <a href="/files/Departments/WarDiplomacy/wd_im2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>to
 download the Instruction Manual</p>
