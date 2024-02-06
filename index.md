@@ -35,13 +35,6 @@ sections:
       alt: Image alt text
       image: /images/Departments/cce_frame.png
   - infopic:
-      title: Japanese/Korean/ Thai/Vegetarian & Chinese Rice Stall
-      subtitle: Canteen Stalls Advertisement
-      button: MORE INFORMATION
-      url: /schoolcanteen/
-      alt: Canteen Food
-      image: /images/japanese-food-g34e1f8b50_1920.jpg
-  - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A question?
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
