@@ -7,7 +7,7 @@ third_nav_title: Humanities
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="War and Diplomacy 1918 - 1945" src="/images/Departments/WarDiplomacy/WDImage.png">
+<img style="width: 50%;" height="auto" width="100%" alt="War and Diplomacy 1918 - 1945" src="/images/Departments/WarDiplomacy/WDImage.png">
 </div>
 <p><strong>War &amp; Diplomacy: 1918-1945</strong> is a strategy game of survival
 and conquest developed in Bendemeer Secondary School. It aims to simulate
