@@ -136,4 +136,4 @@ to attend a training on <strong>29th February 2024</strong>.
 </tbody>
 </table>
 <p>Click <a href="/files/Departments/WarDiplomacy/wd_im2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>to
-download the Instruction Manual</p>
+download the Instruction Manual.</p>
