@@ -60,6 +60,14 @@ to attend a training on <strong>29th February 2024</strong>.
 <p>End of session</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Competition Day (11th March 2024)</strong> 
@@ -115,6 +123,14 @@ to attend a training on <strong>29th February 2024</strong>.
 </td>
 <td rowspan="1" colspan="1">
 <p>Prize Presentation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
