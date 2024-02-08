@@ -14,7 +14,7 @@ description: ""
 * [Home-Based Learning Schedule](/hbl/)
 * [Student Handbook](/student-handbook/intro/)
 * <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" target="_blank">LEAPS 2.0</a>
-* <a href="/departments/cce/sexuality-education/" target="_blank">Sexuality Education</a>
+* <a href="/departments/cce/sexuality-education/">Sexuality Education</a>
 
 
 #### **Financial Matters**
