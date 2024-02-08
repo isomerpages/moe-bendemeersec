@@ -16,10 +16,10 @@ sections:
       title: www
       subtitle: www
   - infopic:
-      title: War & Diplomacy History Card Game
+      title: "War & Diplomacy "
       id: infopic
-      description: is a strategy game of survival and conquest developed in Bendemeer
-        Secondary School.
+      description: History Card Game is a strategy game of survival and conquest
+        developed in Bendemeer Secondary School.
       button: CLICK FOR MORE DETAILS
       url: /languages-and-humanities/humanities/wardiplomacy/
       image: /images/Departments/WarDiplomacy/WDImage.png
