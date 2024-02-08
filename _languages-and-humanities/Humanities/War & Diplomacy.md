@@ -1,5 +1,5 @@
 ---
-title: War and Diplomacy
+title: War & Diplomacy
 permalink: /languages-and-humanities/humanities/wardiplomacy/
 variant: tiptap
 description: ""
@@ -9,15 +9,15 @@ third_nav_title: Humanities
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="War and Diplomacy 1918 - 1945" src="/images/Departments/WarDiplomacy/WDImage.png">
 </div>
-<p><strong>War &amp; Diplomacy: 1918-1945</strong> is a strategy game of survival
-and conquest developed in Bendemeer Secondary School. It aims to simulate
-the experience of governments during the turbulent era of 1918-1945 in
-making political decisions pertaining to invasion, trade, diplomacy, reparations,
-sanctions, propaganda and appeasement. The content of the game is designed
-to be closely linked to the current Elective History syllabus. Through
-this experience, students will also gain a better understanding of Singapore
-as an important entrepôt of the world, bringing our National Education
-messages to life.</p>
+<p><strong>War &amp; Diplomacy History Card Game</strong> is a strategy game
+of survival and conquest developed in Bendemeer Secondary School. It aims
+to simulate the experience of governments during the turbulent era of 1918-1945
+in making political decisions pertaining to invasion, trade, diplomacy,
+reparations, sanctions, propaganda and appeasement. The content of the
+game is designed to be closely linked to the current Elective History syllabus.
+Through this experience, students will also gain a better understanding
+of Singapore as an important entrepôt of the world, bringing our National
+Education messages to life.</p>
 <p><strong>Briefing and Training Day (29th February 2024)</strong> 
 <br>We hope that through this challenge, the intricate concepts learned in
 history will come alive and students will develop their interest in history.
