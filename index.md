@@ -16,7 +16,7 @@ sections:
       title: www
       subtitle: www
   - infopic:
-      title: "War & Diplomacy: 1918-1945"
+      title: War & Diplomacy History Card Game
       id: infopic
       description: is a strategy game of survival and conquest developed in Bendemeer
         Secondary School.
