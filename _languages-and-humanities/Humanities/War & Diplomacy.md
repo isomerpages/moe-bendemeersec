@@ -18,11 +18,11 @@ game is designed to be closely linked to the current Elective History syllabus.
 Through this experience, students will also gain a better understanding
 of Singapore as an important entrepôt of the world, bringing our National
 Education messages to life.</p>
-<p><strong>Briefing and Training Day (29th February 2024)</strong> 
+<p><strong>Briefing and Training Day (5th March 2024)</strong> 
 <br>We hope that through this challenge, the intricate concepts learned in
 history will come alive and students will develop their interest in history.
 As this game is not available in the market, contestants are encouraged
-to attend a training on <strong>29th February 2024</strong>.
+to attend a training on <strong>5th March 2024</strong>.
 <br><strong>Location</strong>: Bendemeer Secondary School Hall</p>
 <table>
 <tbody>
