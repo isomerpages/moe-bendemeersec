@@ -4,16 +4,17 @@ permalink: /cca/studentcouncil/
 variant: markdown
 description: ""
 ---
-|  **Teachers-in-Charge:** | Mr Glenn Yeong Zhen Pang (I/C) | 
+|  **Teachers-in-Charge:** | Ms Shauna Ling (I/C) | 
 | -------- | -------- |
-| |Miss Denise Fung Xin Hui (2I/C) |
-| |Mdm Nasyitah Binte Abu Bakar |
-|**President:** | Thirunesh Gandhi |
-|**Vice-Presidents:** |Ace Tan |
-| |Charmaine Ng Xuan Min |
-|**Executive Committee:** |Qiao Mai |
-| |Lim Wen Hui, Clara  |
-|  | Shairafaye Romaguera Revindran |
+| |Miss Lim Ying Shung (2I/C) |
+| Advisors: |Mrs Eileen Ho |
+|| Ms Ang Wei May |
+|**President:** |Zafreen Shabana D/O Ibrahim Asharaf Ali  |
+|**Vice-Presidents:** |Koh Yu En Emelyn |
+| | Cody Foo Ming Shen|
+|**Executive Committee:** |Ng Shi Nuo |
+| |Rohit Kharel  |
+|  | Belle Quek |
 |  |  |
 
 
