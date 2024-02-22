@@ -19,7 +19,7 @@ description: ""
 
 
 
-<p style="text-align:justify"> 2022 has seen the resumption of many activities, which has provided our Student Councilors with many valuable opportunities to plan and carry out events for the school. Here are some of the highlights!</p>
+<p style="text-align:justify"> 2023 has seen the resumption of many activities, which has provided our Student Councilors with many valuable opportunities to plan and carry out events for the school. Here are some of the highlights!</p>
 
 * **Secondary 1 Orientation Camp**<br>
 * **Secondary 1 SC Interview Camp**<br>
@@ -42,24 +42,20 @@ description: ""
 
 ![](/images/Cca/cca-sc-green-01.jpg)
 
-##### **Racial Harmony Day (21 Jul)**
+##### **Racial Harmony Day**
 
 <p style="text-align:justify">The school enjoyed their first Racial Harmony Day celebrations in over 2 years- students came to school decked in multicultural costumes, played ethnic games such as Chapteh, and even got to participate in Best Dressed competitions. This was all planned and executed by the Student Councilors! As measures further ease, the Student Council looks forward to planning more of such events and activities for the school!!</p>
 
 ![](/images/Cca/cca-sc-rhd-01.jpg)
 
-##### **Teacher’s Day Celebration (1 Sep 2022)**
+##### **Teacher’s Day Celebration**
 <p style="text-align:justify">After 2 years, the school was finally able to gather all together in the school hall to celebrate our teachers. The Student Council filmed videos and planned games, quizzes and even a concert put up by the Performing Arts CCAs. 
 </p>
 
 ![](/images/Cca/cca-sc-tday-01.jpg)
 
-##### **Leadership Workshop (14 Oct 2022)** 
+##### **Leadership Workshop** 
 <p style="text-align:justify">As a post-exam activity, students participated in a leadership workshop that helped them to understand the five practices of the Leadership Challenge (Inspire a Shared Vision, Model the Way, Challenge the Process, Encourage the Heart and Enable Others to Act) and how to apply them in their capacity as student leaders. </p>
 
 ![](/images/Cca/cca-sc-leaderworkshp-01.jpg)
 
-
-##### **Recap of events organised by the Student Council**
-
-The Student Council organised several events this year.  Click to see a recap of these events <a rel="noopener" target="\_blank" href="https://issuu.com/bendemeersec/docs/bdms_2022_e-o-y_recap?fr=sM2ZhMjU0MjE3MTM">here</a>.
