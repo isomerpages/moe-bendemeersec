@@ -3,7 +3,8 @@ collections:
     output: true
     order:
       - Class Timetable.md
-      - Sale of School Books and Uniforms.md
-      - Booklists.md
+      - School Calendar.md
       - School Magazines.md
       - MOE FAS Application.md
+      - Sale of School Books and Uniforms.md
+      - Booklists.md
