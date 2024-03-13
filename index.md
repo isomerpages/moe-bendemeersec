@@ -50,4 +50,13 @@ sections:
       url: https://ask.gov.sg/bdms
       image: /images/bss-askgov.png
       alt: AskGov
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Term 2 Timetable
+          date: 13 March 2024
+          announcement: "The new timetable has been published. "
+          link_text: View timetable
+          link_url: /resources/class-timetable/
 ---
