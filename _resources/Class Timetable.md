@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### **Class timetables for 2024 Term 1**
 
-
+ 
 |  |  | 
 | -------- | -------- | 
 | Secondary One |  |
