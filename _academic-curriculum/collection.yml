@@ -2,9 +2,9 @@ collections:
   academic-curriculum:
     output: true
     order:
-      - Mathematics.md
-      - Physical Education.md
-      - Science.md
+      - English and Literature.md
       - Mother Tongue Languages.md
       - Craft and Technology.md
-      - English and Literature.md
+      - Mathematics.md
+      - Science.md
+      - Physical Education.md
