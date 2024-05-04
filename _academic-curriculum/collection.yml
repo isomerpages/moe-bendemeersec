@@ -2,4 +2,5 @@ collections:
   academic-curriculum:
     output: true
     order:
+      - Craft and Technology.md
       - English Department.md
