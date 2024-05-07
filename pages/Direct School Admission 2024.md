@@ -84,10 +84,12 @@ strengths and nurture a mindset of excellence.</p>
 </p>
 </li>
 <li>
-<p>Concert Band CCA</p>
+<p><a href="/cca/performing-arts/concert-band/" rel="noopener noreferrer nofollow" target="_blank">Concert Band CCA</a>
+</p>
 </li>
 <li>
-<p>Modern Dance CCA</p>
+<p><a href="/cca/performing-arts/modern-dance/" rel="noopener noreferrer nofollow" target="_blank">Modern Dance CCA</a>
+</p>
 </li>
 </ul>
 <hr>
