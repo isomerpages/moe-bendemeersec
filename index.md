@@ -16,20 +16,10 @@ sections:
       title: www
       subtitle: www
   - infopic:
-      title: War & Diplomacy History Card Game
+      title: Direct School Admission – Secondary (DSA-Sec) Exercise 2024
       id: infopic
-      description: is a strategy game of survival and conquest developed in Bendemeer
-        Secondary School.
-      button: CLICK FOR MORE DETAILS
-      url: /languages-and-humanities/humanities/wardiplomacy/
-      image: /images/Departments/WarDiplomacy/WDImage.png
-      alt: Image alt text
-  - infopic:
-      title: WELCOME!
-      id: infopic
-      description: We welcome all 2024 Secondary 1 to   our Bendemeer Family!
-      button: Click for more details
-      url: /sec1posting/welcome/
+      button: Click here for more details
+      url: /dsa2024/
       image: /images/Sec1posting/sec1post_welcome_02.jpg
       alt: Image alt text
   - infopic:
@@ -56,7 +46,7 @@ sections:
       announcement_items:
         - title: Term 2 Timetable
           date: 13 March 2024
-          announcement: "The new timetable has been published. "
+          announcement: The new timetable has been published.
           link_text: View timetable
           link_url: /resources/class-timetable/
 ---
