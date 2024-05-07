@@ -15,11 +15,6 @@ sections:
       variant: image
       title: www
       subtitle: www
-  - infobar:
-      title: Direct School Admission – Secondary (DSA-Sec) Exercise 2024
-      id: infobar
-      button: Click here for more details
-      url: /dsa2024/
   - infopic:
       title: Direct School Admission – Secondary (DSA-Sec) Exercise 2024
       id: infopic
