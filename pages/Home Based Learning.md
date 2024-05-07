@@ -18,7 +18,7 @@ You may click and view the HBL Schedule below
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion1" type="checkbox">
-    <label for="accordion1">2024 Term 1 HBL Schedule</label>
+    <label for="accordion1">2024 HBL Schedule</label>
     <div>
 			<p></p><div class="google-slides-container"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRxNy2lHWDEjSi2ucMVkq-hrnCBj7_NeA9kzL8Hetr_fZDEx6rpquIjaAD87K1vKMg_DXrFuFNit6LN/pubhtml?widget=true&amp;headers=false&amp;chrome=false"></iframe><p></p>
 
