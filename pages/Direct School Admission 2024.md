@@ -159,8 +159,7 @@ music</p>
 </li>
 </ul>
 <p><strong>Note:</strong>
-</p>
-<p>Meeting all the criteria does not guarantee the student will be shortlisted/given
+<br>Meeting all the criteria does not guarantee the student will be shortlisted/given
 an offer. The decision of the Interview Panel on the DSA-Sec application
 is final.&nbsp; The school reserves the right not to release the reasons
 for non-selection of applicants and/or the results of the interview.</p>
