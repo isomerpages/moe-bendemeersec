@@ -189,7 +189,7 @@ more details.</p>
 <p>Application forms that are sent through fax or email will not be considered.</p>
 <p>All applicants will be informed of their application outcome by <strong>9 September 2024.</strong>
 </p>
-<p>Shortlisted applicants will be required to attend an <strong>in-person interview and trial/audition </strong>between&nbsp;<strong>24 June 2024</strong>&nbsp;and&nbsp;<strong>9 September 2023</strong>.</p>
+<p>Shortlisted applicants will be required to attend an <strong>in-person interview and trial/audition </strong>between&nbsp;<strong>24 June 2024</strong>&nbsp;and&nbsp;<strong>9 September 2024</strong>.</p>
 <p>For further details, please visit the MOE website at: <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p><strong><u>For Enquiries</u></strong>
