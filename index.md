@@ -21,11 +21,10 @@ sections:
       button: Click here for more details
       url: /dsa2024/
   - infopic:
-      title: WELCOME!
+      title: Direct School Admission – Secondary (DSA-Sec) Exercise 2024
       id: infopic
-      description: We welcome all 2024 Secondary 1 to   our Bendemeer Family!
-      button: Click for more details
-      url: /sec1posting/welcome/
+      button: Click here for more details
+      url: /dsa2024/
       image: /images/Sec1posting/sec1post_welcome_02.jpg
       alt: Image alt text
   - infopic:
