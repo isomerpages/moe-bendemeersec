@@ -32,7 +32,6 @@ areas:</p>
 has always prioritized development programmes through robust curriculum
 and strong partnerships.</p>
 <hr>
-<p></p>
 <p><strong><u>Football CCA</u></strong>
 </p>
 <p>We are proud to be one of ten secondary schools identified as a <strong>School Football Academy (SFA)</strong> since
@@ -169,7 +168,7 @@ the area of talent.</p>
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
 <hr>
-<p><strong><u>Application Procedure</u></strong>
+<p><strong><u>Application Procedure</u></strong> 
 <br>All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal.
 The application is free-of-charge and will be open from<strong> 7 May 2024, 11am to 3 June 2024, 3pm</strong>.</p>
 <p>If students are from MOE mainstream primary schools, one parent may log
