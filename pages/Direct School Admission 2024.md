@@ -158,7 +158,7 @@ music</p>
 <p>Perform a demonstrated brief dance sequence</p>
 </li>
 </ul>
-<p><strong>Note:</strong>
+<p><strong>Note:</strong> 
 <br>Meeting all the criteria does not guarantee the student will be shortlisted/given
 an offer. The decision of the Interview Panel on the DSA-Sec application
 is final.&nbsp; The school reserves the right not to release the reasons
@@ -195,5 +195,4 @@ more details.</p>
 <p><strong><u>For Enquiries</u></strong>
 </p>
 <p>For further enquiries, please contact&nbsp;<strong>Mr Lee Chen Siang, HOD/PE&amp;CCA,&nbsp;</strong>at&nbsp;<strong>6292 7616</strong>.
-Alternatively, you can email your enquiries to&nbsp;<em><a href="bendemeer_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bendemeer_ss@moe.edu.sg</a></em>
-</p>
+Alternatively, you can email your enquiries to <strong><a href="mailto:bendemeer_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bendemeer_ss@moe.edu.sg</a> </strong>.</p>
