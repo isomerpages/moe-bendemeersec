@@ -76,10 +76,12 @@ strengths and nurture a mindset of excellence.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Football CCA</p>
+<p><a href="/cca/sports/football/" rel="noopener noreferrer nofollow" target="_blank">Football CCA</a>
+</p>
 </li>
 <li>
-<p>Tchoukball CCA</p>
+<p><a href="/cca/sports/tchoukball/" rel="noopener noreferrer nofollow" target="_blank">Tchoukball CCA</a>
+</p>
 </li>
 <li>
 <p>Concert Band CCA</p>
@@ -88,7 +90,7 @@ strengths and nurture a mindset of excellence.</p>
 <p>Modern Dance CCA</p>
 </li>
 </ul>
-<p></p>
+<hr>
 <p><strong><u>Admission Criteria for Sports and Games – Football and Tchoukball</u></strong>
 </p>
 <p>In the selection of students, we are looking for those who:</p>
