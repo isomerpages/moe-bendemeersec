@@ -44,6 +44,14 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: School Canteen Vacancy
+          date: 06 June 2024
+          announcement: |-
+            Bendemeer Secondary School has immediate vacancy for the following:
+            Chinese Economy Rice Stall
+            and  Malay Economy Rice Stall
+          link_text: Click for more details
+          link_url: /school-canteen-ad/
         - title: Term 2 Timetable
           date: 13 March 2024
           announcement: The new timetable has been published.
