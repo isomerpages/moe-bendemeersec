@@ -45,7 +45,7 @@ sections:
       id: announcements
       announcement_items:
         - title: School Canteen Vacancy
-          date: 06 June 2024
+          date: 07 June 2024
           announcement: |-
             Bendemeer Secondary School has immediate vacancy for the following:
             Chinese Economy Rice Stall
