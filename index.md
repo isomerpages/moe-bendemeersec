@@ -23,6 +23,16 @@ sections:
       image: /images/Sec1posting/sec1post_welcome_02.jpg
       alt: Image alt text
   - infopic:
+      title: School Canteen Vacancy
+      subtitle: Add an image and text
+      id: infopic
+      description: "Bendemeer Secondary School has immediate vacancy for the
+        following: Chinese Economy Rice Stall and Malay Economy Rice Stall"
+      button: Click here for more details
+      url: /school-canteen-ad/
+      image: /images/japanese-food-g34e1f8b50_1920.jpg
+      alt: Image alt text
+  - infopic:
       title: BDMS Sexuality Education Programme 2024
       subtitle: Overview of
       id: infopic
