@@ -33,13 +33,6 @@ sections:
       url: /departments/cce/sexuality-education/
       alt: Image alt text
       image: /images/Departments/cce_frame.png
-  - infopic:
-      title: Get official answers from our Q&A Platform
-      subtitle: Have A question?
-      button: VIEW OR ASK QUESTIONS ON ASK.GOV
-      url: https://ask.gov.sg/bdms
-      image: /images/bss-askgov.png
-      alt: AskGov
   - announcements:
       title: Announcements
       id: announcements
@@ -57,4 +50,11 @@ sections:
           announcement: The new timetable has been published.
           link_text: View timetable
           link_url: /resources/class-timetable/
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: Have A question?
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV
+      url: https://ask.gov.sg/bdms
+      image: /images/bss-askgov.png
+      alt: AskGov
 ---
