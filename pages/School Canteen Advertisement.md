@@ -9,7 +9,7 @@ description: ""
 2. Malay Economy Rice Stall
 
 We are located at 1 St Wilfred Road, Singapore 327919. 
-If you interested to apply, please send in your application to us. 
+If you interested to apply, please send in your application to us.  You may download the application form here.
 
 **Interested applicants must meet the following criteria:**
 
