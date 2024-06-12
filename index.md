@@ -23,6 +23,16 @@ sections:
       image: /images/Sec1posting/sec1post_welcome_02.jpg
       alt: Image alt text
   - infopic:
+      title: School Canteen Vacancy
+      subtitle: Add an image and text
+      id: infopic
+      description: "Bendemeer Secondary School has immediate vacancy for the
+        following: Chinese Economy Rice Stall and Malay Economy Rice Stall"
+      button: Click here for more details
+      url: /school-canteen-ad/
+      image: /images/japanese-food-g34e1f8b50_1920.jpg
+      alt: Image alt text
+  - infopic:
       title: BDMS Sexuality Education Programme 2024
       subtitle: Overview of
       id: infopic
@@ -33,6 +43,23 @@ sections:
       url: /departments/cce/sexuality-education/
       alt: Image alt text
       image: /images/Departments/cce_frame.png
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: School Canteen Vacancy
+          date: 07 June 2024
+          announcement: |-
+            Bendemeer Secondary School has immediate vacancy for the following:
+            Chinese Economy Rice Stall
+            and  Malay Economy Rice Stall
+          link_text: Click for more details
+          link_url: /school-canteen-ad/
+        - title: Term 2 Timetable
+          date: 13 March 2024
+          announcement: The new timetable has been published.
+          link_text: View timetable
+          link_url: /resources/class-timetable/
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A question?
@@ -40,13 +67,4 @@ sections:
       url: https://ask.gov.sg/bdms
       image: /images/bss-askgov.png
       alt: AskGov
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Term 2 Timetable
-          date: 13 March 2024
-          announcement: The new timetable has been published.
-          link_text: View timetable
-          link_url: /resources/class-timetable/
 ---
