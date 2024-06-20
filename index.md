@@ -24,7 +24,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: School Canteen Vacancy
-      subtitle: Add an image and text
       id: infopic
       description: "Bendemeer Secondary School has immediate vacancy for the
         following: Chinese Economy Rice Stall and Malay Economy Rice Stall"
@@ -49,10 +48,8 @@ sections:
       announcement_items:
         - title: School Canteen Vacancy
           date: 07 June 2024
-          announcement: |-
-            Bendemeer Secondary School has immediate vacancy for the following:
-            Chinese Economy Rice Stall
-            and  Malay Economy Rice Stall
+          announcement: "Bendemeer Secondary School has immediate vacancy for the
+            following: Chinese Economy Rice Stall and  Malay Economy Rice Stall"
           link_text: Click for more details
           link_url: /school-canteen-ad/
         - title: Term 2 Timetable
