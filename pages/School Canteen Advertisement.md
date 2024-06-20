@@ -7,6 +7,7 @@ description: ""
 **Bendemeer Secondary School** has immediate vacancy for the following:
 1. Chinese Economy Rice Stall
 2. Malay Economy Rice Stall
+3. Western Food (Halal Certified preferred)
 
 We are located at 1 St Wilfred Road, Singapore 327919. 
 If you interested to apply, please send in your application to us.  You may download the application form [here](https://go.gov.sg/bdms-canteenform).
