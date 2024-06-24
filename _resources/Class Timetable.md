@@ -4,7 +4,7 @@ permalink: /resources/class-timetable/
 description: ""
 variant: markdown
 ---
-#### **Class timetables for 2024 Term 1**
+#### **Class timetables for 2024 Term 3**
 
  
 |  |  | 
