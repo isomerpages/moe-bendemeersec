@@ -46,6 +46,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Sec 2 Subject Combination
+          date: 20 July 2024
+          announcement: Key Information on 2024 Secondry 2 Subject Combination Exercise
+          link_text: Click to download (PDF)
+          link_url: https://go.gov.sg/bdms-s2keyinfo
         - title: School Canteen Vacancy
           date: 07 June 2024
           announcement: "Bendemeer Secondary School has immediate vacancy for the
@@ -57,11 +62,6 @@ sections:
           announcement: The new timetable has been published.
           link_text: View timetable
           link_url: /resources/class-timetable/
-        - title: Sec 2 Subject Combination
-          date: 20 July 2024
-          announcement: Key Information on 2024 Secondry 2 Subject Combination Exercise
-          link_text: Click to download (PDF)
-          link_url: https://go.gov.sg/bdms-s2keyinfo
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A question?
