@@ -46,7 +46,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Sec 2 Subject Combination
+        - title: Secondary 2 Subject Combination Exercise
           date: 20 July 2024
           announcement: Key Information on 2024 Secondry 2 Subject Combination Exercise
           link_text: Click to download (PDF)
