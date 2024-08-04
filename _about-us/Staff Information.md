@@ -11,13 +11,14 @@ description: ""
 |Sec 1 Care 1 Form Teacher | Ms Achaiya Gunasekaran| achaiya_gunasekaran@moe.edu.sg|
 | | Mrs Ivy Yee Gek Hoon| lim_gek_hoon_ivy@moe.edu.sg|
 |Sec 1 Care 2 Form Teacher | Mr Oh Tze Ming| oh_tze_ming@moe.edu.sg|
+| | Mdm Siti Amirah Mohamad Isah| siti_amirah_mohamad_isah@moe.edu.sg|
 |Sec 1 Care 3 Form Teacher |Ms Shamini Subramaniam| shamini_subramaniam@moe.edu.sg|
 | | Mdm Lim Ying Shung| lim_ying_shung@moe.edu.sg|
 |Sec 1 Care 4 Form Teacher |  Mr Eric Choo Guan Kiat | choo_guan_kiat@moe.edu.sg|
 | | Mr Ong Pei Huat Brandon| ong_pei_huat_brandon@moe.edu.sg|
 |Sec 1 Care 5 Form Teacher | Mr Zulkifli B Khamis| zulkifli_b_khamis@moe.edu.sg|
-| | Ms Caroline R Murty| caroline_r_murty@moe.edu.sg|
 |Sec 1 Care 6 Form Teacher | Mdm Noorlizah Binte Osman| noorlizah_osman@moe.edu.sg|
+| | Mr Chan Wu Siong Andrew| chan_wu_siong_andrew@moe.edu.sg|
 |Sec 1 Care 7 Form Teacher | Ms Kelly Lee Ai Ling| kelly_lee_ai_ling@moe.edu.sg|
 | | Mdm Nasyitah Abu Bakar| nasyitah_abu_bakar@moe.edu.sg|
 |Sec 1 Care 8 Form Teacher | Ms Tan Eng Lee Lily| tan_eng_lee_lily@moe.edu.sg|
@@ -34,7 +35,7 @@ description: ""
 |Sec 2 Respect 3 Form Teacher | Mr Manoj Kumar Dave | manoj_kumar_dave@moe.edu.sg|
 |Sec 2 Respect 4 Form Teacher | Ms Vimala d/o Selvarasu| vimala_selvarasu@moe.edu.sg|
 |Sec 2 Respect 5 Form Teacher | Mr Tay Guangyu| tay_guangyu@moe.edu.sg|
-| | Mr Wilson Lai Fook Shuen |lai_fook_shuen@moe.edu.sg |
+| | Mr Foo Sek Yee | foo_sek_yee@moe.edu.sg |
 |Sec 2 Respect 6  Form Teacher | Ms Ponmozhi d/o Sembian| ponmozhi_sembian@moe.edu.sg|
 | | Ms Lin Lifen Colene | lin_lifen_colene@moe.edu.sg|
 |Sec 2 Respect 7 Form Teacher | Mrs Lo May Ling |yap_may_ling@moe.edu.sg |
@@ -53,10 +54,13 @@ description: ""
 |Sec 3 Resilience 2 Form Teacher | Ms Charmaine Wong Hoy Mun | wong_hoy_mun_charmaine@moe.edu.sg|
 | |Ms Huang Hailun | huang_hailun_a@moe.edu.sg|
 |Sec 3 Resilience 3 Form Teacher | Mrs Yap Bee Hong| chua_bee_hong@moe.edu.sg|
+| | Mr Colin Leong Tze Yeen| colin_leong@moe.edu.sg|
 |Sec 3 Resilience 4 Form Teacher | Mr Fahmy Sidik| fahmy_sidik@moe.edu.sg|
+| | Mdm Murugaiyan Bhuvaneswari| murugaiyan_bhuvaneswari@moe.edu.sg |
 |Sec 3 Resilience 5 Form Teacher | Mr Toy Chor Teck| toy_chor_teck@moe.edu.sg|
 | | Mr Ng Jan Ile| ng_jan_ile@moe.edu.sg|
 |Sec 3 Resilience 6 Form Teacher | Mr Lee Kian Wei Jelvin| jelvin_lee@moe.edu.sg|
+| | Mdm Shanuradha Selvaraj| shanuradha_selvaraj@moe.edu.sg|
 |Sec 3 Resilience 7 Form Teacher | Mrs Elaine Wong Mei Yen| tan_mei_yen_elaine@moe.edu.sg|
 | | Ms Lu Yueh Ju| lu_yueh_ju@moe.edu.sg|
 |Sec 3 Resilience 8 Form Teacher | Ms R Ramadevi| r_ramadevi@moe.edu.sg|
@@ -73,8 +77,7 @@ description: ""
 | | Mdm Lee Poh Ching| lee_poh_ching@moe.edu.sg|
 |Sec 4 Responsibility 3 Form Teacher | Ms Ivy Lim Chiew Sian| lim_chiew_sian_ivy@moe.edu.sg|
 | | Mr Goh Kun Huang Kenneth| kenneth_goh_kun_huang@moe.edu.sg|
-|Sec 4 Responsibility 4 Form Teacher | Ms Ng Qian Hui| ng_qian_hui@moe.edu.sg|
-| | Ms Dawn Lim Sing Liean| lim_sing_liean@moe.edu.sg|
+|Sec 4 Responsibility 4 Form Teacher | Ms Dawn Lim Sing Liean| lim_sing_liean@moe.edu.sg|
 |Sec 4 Responsibility 5 Form Teacher | Ms Wendy Hu Wen-Tian| hu_wen-tian_wendy@moe.edu.sg|
 |Sec 4 Responsibility 6 Form Teacher | Mr Lawrence Ng Boon Kwang| lawrence_ng_boon_kwang@moe.edu.sg|
 |Sec 4 Responsibility 7 Form Teacher | Mr Dennis Wong Wei Ming| dennis_wong_wei_ming@moe.edu.sg|
