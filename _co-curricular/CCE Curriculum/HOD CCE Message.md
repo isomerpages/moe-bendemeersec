@@ -3,11 +3,11 @@ title: HOD CCE Message
 permalink: /departments/cce/cce-hod-msg/
 description: ""
 third_nav_title: CCE Curriculum
+variant: markdown
 ---
-
 #### HOD's Message
 <p style="float:left; margin: 0 10px 0px 0">  
-<img src="/images/Departments/cce-hod.jpg" alt="HOD CCE" style="width:300px" /></p>  
+<img src="/images/Departments/cce-hod.jpg" alt="HOD CCE" style="width:300px"></p>  
 <p style="text-align:justify"></p>
 
 
@@ -19,7 +19,7 @@ third_nav_title: CCE Curriculum
 
 <p style="text-align:justify">Our character development efforts are grounded on our School Values – Resilience, Respect, Responsibility, Integrity, Care and Harmony. These had been our evergreen school values in our recent history. In 2020, we had several rounds of staff engagement sessions to review the relevance of our school values in today’s context. Consequently, ‘Harmony’ was introduced as the sixth school value. This also aligns our school values with MOE CCE core values </p>
 
-([click link](https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curriculum/cce2021.html)).
+([click link](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)).
 
 
 ### Introducing CCE 2021
@@ -52,7 +52,7 @@ third_nav_title: CCE Curriculum
 
 ### Learning from Contemporary Issues (CI)
 
-<p style="text-align:justify">In Bendemeer, we are privileged to be one of the pilot schools for teachers to receive training by the MOE Character & Citizenship Education Branch (CCEB) in 2018 on the facilitation of  discussion on CI, and teachers have started this facilitation in the classrooms in 2019.</p>
+<p style="text-align:justify">In Bendemeer, we are privileged to be one of the pilot schools for teachers to receive training by the MOE Character &amp; Citizenship Education Branch (CCEB) in 2018 on the facilitation of  discussion on CI, and teachers have started this facilitation in the classrooms in 2019.</p>
 
 <p style="text-align:justify">This heads start benefitted teachers to be more apt at facilitating the discussion of CI. The refreshed CCE curriculum will include fortnightly discussions on CI. These discussions include topics relevant to students’ lives, such as bullying, online media, and race and religion that would provide authentic contexts for the learning of values and social-emotional competencies. These issues would be multi-faceted and evoke varied views and perspectives.</p>
  
