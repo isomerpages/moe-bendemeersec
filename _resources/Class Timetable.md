@@ -10,7 +10,7 @@ variant: markdown
 |  |  | 
 | -------- | -------- | 
 | Secondary One |  |
-|  [Sec 1 Care 1](/files/Timetable/timetable_sec1care1.pdf) | [Sec 1 Care 2](/files/Timetable/timetable_sec1care2.pdf)  |
+|  [Sec 1  Care 1](/files/Timetable/timetable_sec1care1.pdf) | [Sec 1 Care 2](/files/Timetable/timetable_sec1care2.pdf)  |
 |  [Sec 1 Care 3](/files/Timetable/timetable_sec1care3.pdf) | [Sec 1 Care 4](/files/Timetable/timetable_sec1care4.pdf)  |
 |  [Sec 1 Care 5](/files/Timetable/timetable_sec1care5.pdf) | [Sec 1 Care 6](/files/Timetable/timetable_sec1care6.pdf)  |
 |  [Sec 1 Care 7](/files/Timetable/timetable_sec1care7.pdf) | [Sec 1 Care 8](/files/Timetable/timetable_sec1care8.pdf)  |
