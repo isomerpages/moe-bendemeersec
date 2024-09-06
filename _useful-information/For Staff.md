@@ -22,7 +22,7 @@ description: ""
 * <a href="https://pg.moe.edu.sg" target="_blank">Parents Gateway</a>
 * <a href="https://rbs.avero-tech.com" target="_blank">Resource Booking System (RBS)</a>
 * <a href="https://schoolcockpit.moe.gov.sg/" target="_blank">School Cockpit+ </a>
-* <a href="https://ssoe.moe.edu.sg" target="_blank">SSOE Portal</a>
+* <a href="https://ssoe2.moe.edu.sg" target="_blank">SSOE Portal</a>
 * <a href="https://scmobile.moe.edu.sg" target="_blank">SCMobile</a>
 
 
