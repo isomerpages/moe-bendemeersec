@@ -93,7 +93,6 @@ description: ""
 
 |Girl Guides | Ms Lu Yueh Ju	I/C | lu_yueh_ju@moe.edu.sg|
 | - | -| - |
-| | Ms Caroline R Murty, 2I/C | caroline_r_murty@moe.edu.sg|
 | | Mdm Nasyitah Binte Abu Baker | nasyitah_abu_bakar@moe.edu.sg|
 | | Ms Lim Sing Liean, Advisor	| LIM_Sing_Liean@moe.edu.sg |
 | | | |
