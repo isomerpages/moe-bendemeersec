@@ -120,7 +120,7 @@ description: ""
 | Concert Band | Mdm Lim Ying Shung, I/C	| lim_ying_shung@moe.edu.sg |
 | | Mdm Noorlizah Osman, 2I/C	| noorlizah_osman@moe.edu.sg|
 | | Mrs Lim Gek Hoon Ivy|lim_gek_hoon_ivy@moe.edu.sg |
-| |Ms Ng Qian Hui| ng_qian_hui@moe.edu.sg|
+| |Mr Andrew Chan Wu Siong| chan_wu_siong_andrew@moe.edu.sg|
 | | | |
 |Dance| Ms Colene Lin Lifen, I/C| lin_lifen_colene@moe.edu.sg|
 | | Ms Lily Tan Eng Lee| tan_eng_lee_lily@moe.edu.sg |
@@ -132,6 +132,7 @@ description: ""
 | | | |
 | Tamil Drama| Ms Achaiya Gunasekaran, I/C  | achaiya_gunasekaran@moe.edu.sg|
 | |Ms Ponmozhi D/O Sembian, 2I/C | ponmozhi_sembian@moe.edu.sg|
+| |Mdm Murugaiyan Bhuvaneswari |murugaiyan_bhuvaneswari@moe.edu.sg |
 | | | |
 
 #### **Sports and Games**
