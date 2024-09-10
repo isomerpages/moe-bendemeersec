@@ -163,6 +163,6 @@ description: ""
 
 | Infocomm Club |Mr Michael Lee, I/C| michael_lee@moe.edu.sg|
 | - | -| - |
-| | Mr Manoj Kumar Dave	| manoj_kumar_dave@moe.edu.sg |
+| | Mr Manoj Kumar Dave, 2I/C	| manoj_kumar_dave@moe.edu.sg |
 | | Mdm Shanuradha Selvaraj | shanuradha_selvaraj@moe.edu.sg|
 | | Mr Colin Leong Tze Yeen | colin_leong@moe.edu.sg|
