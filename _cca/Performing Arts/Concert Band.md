@@ -8,8 +8,10 @@ variant: markdown
 |  **Teachers-in-Charge:** | Mdm Lim Ying Shung (I/C)  | 
 | -------- | -------- |
 |  | Mdm Noorlizah Osman(2I/C) |
-|  | Ms Ng Qian Hui |
 |  | Mrs Ivy Lim Gek Hoon |
+|  | Mrs Ivy Lim Gek Hoon |
+| |Mr Andrew Chan Wu Siong|
+
 |**Instructors:** | Mr Teo Kin Hui, Joseph|
 |  | Mr Kow Kang Yue Don |
 |**Band Majors:** |  Cui Xinran (3R1)  |
