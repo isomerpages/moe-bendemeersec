@@ -4,8 +4,6 @@ permalink: /academic-curriculum/english-department/
 variant: markdown
 description: ""
 ---
-
-
 &gt; Cyril Connolly: "While thought exists, words are alive and literature becomes an escape, not from, but into living."
 
 
@@ -25,7 +23,7 @@ The English Language and Literature Department weaves the joy of learning with a
 * The CLEARR Pedagogical Framework
 
 #### **Signature Programmes and Activities**
-##### Keeping-It-Current
+##### **Keeping-It-Current**
 
 Our Keeping-It-Current (KIC) programme aims to expand the general knowledge of our students, as well as keep them abreast with current affairs and contemporary issues. The programme uses Padlet as a platform for classroom engagement, and our students explore online articles and videos, and think about issues critically before forming their personal opinions.
 
@@ -33,7 +31,7 @@ Our Keeping-It-Current (KIC) programme aims to expand the general knowledge of o
 * Secondary 2: Poetry Slam 
 * Secondary 3: Debates
 
-#### **Our Talent Development Programme**
+##### **Our Talent Development Programme**
 **Upcoming**
 
 Our students get to become content creators who share interesting nuggets about school life and our people, as well as their love for reading by promoting books that can be borrowed from the school library. They also get to share their findings and research on different contemporary issues, as confident, creative and critical thinkers with valuable opinions.   
