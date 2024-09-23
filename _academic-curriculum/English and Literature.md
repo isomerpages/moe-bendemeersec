@@ -4,9 +4,7 @@ permalink: /academic-curriculum/english-department/
 variant: markdown
 description: ""
 ---
-<style>
-.google-slides-container{ position: relative; width: 100%; padding-top: 72%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-</style>
+
 
 &gt; Cyril Connolly: "While thought exists, words are alive and literature becomes an escape, not from, but into living."
 
