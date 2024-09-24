@@ -71,4 +71,5 @@ as confident, creative and critical thinkers with valuable opinions.</p>
 <p>Winner for Choral Reading Competition (Lower Sec)</p>
 </li>
 </ul>
+<h4>[Photo slideshow]</h4>
 <p></p>
