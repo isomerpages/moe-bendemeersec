@@ -53,7 +53,7 @@ about issues critically before forming their personal opinions.</p>
 <p>Secondary 3: Debates</p>
 </li>
 </ul>
-<h5><strong>Talent Development Programme</strong></h5>
+<h4><strong>Our Talent Development Programme</strong></h4>
 <p><strong>Upcoming</strong>
 </p>
 <p>Our students get to become content creators who share interesting nuggets
