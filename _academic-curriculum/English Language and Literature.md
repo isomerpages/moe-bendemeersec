@@ -62,7 +62,7 @@ promoting books that can be borrowed from the school library. They also
 get to share their findings and research on different contemporary issues,
 as confident, creative and critical thinkers with valuable opinions.</p>
 <h4><strong>Our Achievements</strong></h4>
-<p>National Schools Literature Festival:</p>
+<p>(2024) National Schools Literature Festival:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Winner for Unseen Poem Debate (Upper Sec)</p>
