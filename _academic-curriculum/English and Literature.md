@@ -35,7 +35,7 @@ that help to broaden their perspectives in an increasingly complex world.</p>
 <p>The CLEARR Pedagogical Framework</p>
 </li>
 </ul>
-<h4><strong>Signature Programmes and Activities</strong></h4>
+<h4><strong>Our Signature Programmes and Activities</strong></h4>
 <h5><strong>Keeping-It-Current</strong></h5>
 <p>Our Keeping-It-Current (KIC) programme aims to expand the general knowledge
 of our students, as well as keep them abreast with current affairs and
@@ -53,7 +53,7 @@ about issues critically before forming their personal opinions.</p>
 <p>Secondary 3: Debates</p>
 </li>
 </ul>
-<h5><strong>Our Talent Development Programme</strong></h5>
+<h5><strong>Talent Development Programme</strong></h5>
 <p><strong>Upcoming</strong>
 </p>
 <p>Our students get to become content creators who share interesting nuggets
