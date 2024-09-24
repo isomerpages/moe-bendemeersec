@@ -17,10 +17,10 @@ creative meaning-makers and convincing communicators.</p>
 <h4><strong>Our Approach</strong></h4>
 <p>The English Language and Literature Department weaves the joy of learning
 with academic rigour. We build multiliteracies, metacognition and inquiry
-through dialogue through various approaches that harness e-pedagogy and
-focus on collaborative learning. Our students get to explore different
-aspects of language and form connections with current contemporary issues
-that help to broaden their perspectives in an increasingly complex world.</p>
+through dialogue through approaches such as harnessing e-pedagogy and focusing
+on collaborative learning. Our students get to explore different aspects
+of language and form connections with current contemporary issues that
+help to broaden their perspectives in an increasingly complex world.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Collaborative Learning</p>
