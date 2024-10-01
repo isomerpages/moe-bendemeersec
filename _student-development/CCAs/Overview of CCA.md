@@ -135,7 +135,7 @@ themselves.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesdays, Thursdays</p>
@@ -143,7 +143,7 @@ themselves.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays, Wednesdays, Thursdays</p>
@@ -151,12 +151,28 @@ themselves.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>English Drama</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesdays, Wednesdays</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Modern Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tamil Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
+<p>oir</p>
