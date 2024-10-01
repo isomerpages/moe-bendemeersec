@@ -56,7 +56,8 @@ themselves.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Football</p>
+<p><a href="/football/" rel="noopener nofollow" target="_blank">Football</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays, Wednesdays, Thursdays</p>
