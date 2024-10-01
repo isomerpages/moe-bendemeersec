@@ -47,10 +47,22 @@ advanced tracking systems</p>
 <p>Extension of skill development through combined SFAs training</p>
 </li>
 </ol>
-<h4><strong>Our Achievements </strong></h4>
-<p>1. 2023 NSG ‘B’ Division League 2 – Quarter Finalists</p>
-<p>2. 2023 NSG NSG ‘C’ Division League 1</p>
-<p>3. 2023 SFA Super 7 (Sec 1 Boys) – 2nd Runner up</p>
-<p>4. 2024 NSG ‘B’ Division League 2 – Champions</p>
-<p>5. 2024 NSG ‘C’ Division League 1 – Quarter Finalists</p>
+<h4><strong>Our Achievements</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>2023 NSG ‘B’ Division League 2 – Quarter Finalists</p>
+</li>
+<li>
+<p>2023 NSG NSG ‘C’ Division League 1</p>
+</li>
+<li>
+<p>2023 SFA Super 7 (Sec 1 Boys) – 2nd Runner up</p>
+</li>
+<li>
+<p>2024 NSG ‘B’ Division League 2 – Champions</p>
+</li>
+<li>
+<p>2024 NSG ‘C’ Division League 1 – Quarter Finalists</p>
+</li>
+</ol>
 <p></p>
