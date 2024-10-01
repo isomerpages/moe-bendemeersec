@@ -31,6 +31,7 @@ inspiring and motivating their peers towards team excellence.</p>
 With a robust support structure in place, they can build on their existing
 strengths to allow them to become better versions of themselves, setting
 themselves.</p>
+<h4><strong>CCA Training Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -67,6 +68,15 @@ themselves.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesdays, Wednesdays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tchoukball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys: Wednesdays, Thursdays
+<br>Girls: Mondays, Wednesdays</p>
 </td>
 </tr>
 </tbody>
