@@ -10,17 +10,16 @@ becomes an escape, not from, but into living."</p>
 </blockquote>
 <h4><strong>Our Learning Outcomes</strong></h4>
 <p>We seek to develop 21st century competencies in our students through the
-teaching and learning of the English Language to enable them to be empathetic
-communicators, discerning readers and creative inquirers. Our Literature
-students will learn to be empathetic and global thinkers, critical readers,
-creative meaning-makers and convincing communicators.</p>
+teaching and learning of the English Language and Literature to enable
+them to be empathetic and global thinkers, discerning and critical readers,
+creative inquirers and convincing communicators.</p>
 <h4><strong>Our Approach</strong></h4>
 <p>The English Language and Literature Department weaves the joy of learning
 with academic rigour. We build multiliteracies, metacognition and inquiry
-through dialogue through approaches such as harnessing e-pedagogy and focusing
-on collaborative learning. Our students get to explore different aspects
-of language and form connections with current contemporary issues that
-help to broaden their perspectives in an increasingly complex world.</p>
+through dialogue through various approaches that harness e-pedagogy and
+focus on collaborative learning. Our students get to explore different
+aspects of language and form connections with current contemporary issues
+that help to broaden their perspectives in an increasingly complex world.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Collaborative Learning</p>
@@ -32,44 +31,52 @@ help to broaden their perspectives in an increasingly complex world.</p>
 <p>Gradual Release of Responsibility (GRR)</p>
 </li>
 <li>
-<p>The CLEARR Pedagogical Framework</p>
+<p>The CLEARR (Contextualise, Learn &amp; Explore, Apply &amp; Respond, Reinforce)
+Pedagogical Framework</p>
 </li>
 </ul>
-<h4><strong>Our Signature Programmes and Activities</strong></h4>
-<h5><strong>Keeping-It-Current</strong></h5>
-<p>Our Keeping-It-Current (KIC) programme aims to expand the general knowledge
-of our students, as well as keep them abreast with current affairs and
-contemporary issues. The programme uses Padlet as a platform for classroom
-engagement, and our students explore online articles and videos, and think
-about issues critically before forming their personal opinions.</p>
+<h4><strong>Our Programmes and Activities</strong></h4>
 <ul data-tight="true" class="tight">
+<li>
+<p>School-wide: Keeping-It-Current (KIC) programme on current affairs and
+contemporary issues</p>
+</li>
 <li>
 <p>Secondary 1: Spelling Bee Competition</p>
 </li>
 <li>
-<p>Secondary 2: Poetry Slam</p>
+<p>Secondary 2: Focus on Public Speaking</p>
 </li>
 <li>
-<p>Secondary 3: Debates</p>
+<p>Secondary 3: VLOG Project</p>
 </li>
 </ul>
+<p></p>
 <h4><strong>Our Talent Development Programme</strong></h4>
 <p><strong>Upcoming</strong>
 </p>
-<p>Our students get to become content creators who share interesting nuggets
-about school life and our people, as well as their love for reading by
-promoting books that can be borrowed from the school library. They also
-get to share their findings and research on different contemporary issues,
-as confident, creative and critical thinkers with valuable opinions.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Participation in various competitions (e.g. Plain English Speaking Award
+[PESA], writing competitions)</p>
+</li>
+<li>
+<p>Participation in National School Literature Festival (2025)</p>
+</li>
+</ul>
 <h4><strong>Our Achievements</strong></h4>
-<p>(2024) National Schools Literature Festival:</p>
+<p>National Schools Literature Festival (2021, 2022, 2023):</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Winner for Unseen Poem Debate (Upper Sec)</p>
 </li>
 <li>
-<p>Winner for Choral Reading Competition (Lower Sec)</p>
+<p>Winner for Set Text Debate (Upper Sec)</p>
+</li>
+<li>
+<p>Winner for Choral Reading Competition (Lower Sec)
+<br>
+</p>
 </li>
 </ul>
-<h4>[Photo slideshow]</h4>
 <p></p>
