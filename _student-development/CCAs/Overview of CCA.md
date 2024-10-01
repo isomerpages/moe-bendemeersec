@@ -31,3 +31,44 @@ inspiring and motivating their peers towards team excellence.</p>
 With a robust support structure in place, they can build on their existing
 strengths to allow them to become better versions of themselves, setting
 themselves.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Sports</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Days</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cross Country</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays, Thursdays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays, Wednesdays, Thursdays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Taekowndo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays, Wednesdays</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
