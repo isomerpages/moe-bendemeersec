@@ -63,7 +63,95 @@ themselves.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Taekowndo</p>
+<p>Taekwondo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays, Wednesdays</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Uniformed Groups</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Days</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Girl Guides</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursdays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursdays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nationa Police Cadet Corp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursdays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Red Cross Youth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursdays</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Performing Arts</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Days</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays, Thursdays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays, Wednesdays, Thursdays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesdays, Wednesdays</p>
