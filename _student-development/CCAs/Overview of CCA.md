@@ -138,7 +138,7 @@ themselves.</p>
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays, Thursdays</p>
+<p>Mondays, Tuesdays</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +146,7 @@ themselves.</p>
 <p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays, Wednesdays, Thursdays</p>
+<p>Mondays, Thursdays</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@ themselves.</p>
 <p>English Drama</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays, Wednesdays</p>
+<p>Mondays, Thursdays</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +162,7 @@ themselves.</p>
 <p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Wednesdays, Thursdays</p>
 </td>
 </tr>
 <tr>
@@ -170,7 +170,7 @@ themselves.</p>
 <p>Tamil Drama</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tuesdays</p>
 </td>
 </tr>
 </tbody>
