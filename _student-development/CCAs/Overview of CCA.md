@@ -175,4 +175,28 @@ themselves.</p>
 </tr>
 </tbody>
 </table>
-<p>oir</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Clubs and Societies</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Days</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Infocomm Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursdays</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
