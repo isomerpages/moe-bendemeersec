@@ -113,7 +113,7 @@ themselves.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nationa Police Cadet Corp</p>
+<p>National Police Cadet Corp</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursdays</p>
