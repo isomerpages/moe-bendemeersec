@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Accolades and Achievements.md
-      - Student Well Being/Student Awards.md
       - Student Well Being/SEN and Helplines.md
       - Student Well Being/Counselling and Helplines.md
       - Student Well Being/.keep
