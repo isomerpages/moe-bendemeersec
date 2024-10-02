@@ -2,4 +2,5 @@ collections:
   cca-new:
     output: true
     order:
+      - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/.keep
