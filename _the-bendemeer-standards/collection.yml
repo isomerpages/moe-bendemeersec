@@ -2,8 +2,6 @@ collections:
   the-bendemeer-standards:
     output: true
     order:
-      - Annex B.md
-      - Annex A.md
       - Accordion.md
       - Overview.md
       - Attendance.md
@@ -16,3 +14,5 @@ collections:
       - School Property and Facilities.md
       - School Safety.md
       - Discipline Approach.md
+      - Annex A.md
+      - Annex B.md
