@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Student Awards.md
       - Accolades and Achievements.md
       - Student Well Being/SEN and Helplines.md
       - Student Well Being/Counselling and Helplines.md
