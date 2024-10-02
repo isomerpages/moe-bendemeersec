@@ -93,11 +93,12 @@ may result in consequences such as a reduction in marks.</p>
 <summary><strong>C.&nbsp;&nbsp;&nbsp; Daily Morning Assemblies</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Our daily morning assemblies allow us to gather as a school community
+to start the day right through the flag-raising, singing of our National
+Anthem and recital of our Pledge.&nbsp;The morning music played at 7.23am
+is a signal for students to make their way quickly to the assembly area,
+if they are not there yet.</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>The morning music played at 7.23am is a signal for students to make their
-way quickly to the assembly area, if they are not there yet.</p>
-</li>
 <li>
 <p>All students are expected to be present at the assembly for our flag-raising
 ceremony and attendance-taking at <em><u>7.30am sharp</u></em>.</p>
@@ -129,15 +130,90 @@ recited, and when announcements are made, and attendance is being taken.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>D. School Attire</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Wearing our school uniforms appropriately and neatly reflects commitment,
+respect and a sense of belonging to the school community. Students are
+expected to be presentable in our school attire to reflect personal and
+school pride at all times.</p>
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Students are to wear the prescribed school uniform. Any modification to the uniform is not allowed.</strong>
+</p>
+</li>
+<li>
+<p>Students are expected to be in their full school uniform with school tie
+for every Monday Morning Assembly, school events such as Speech &amp; Awards
+Day, and any other events specified.</p>
+</li>
+<li>
+<p>Students are expected to be properly attired and presentable in the school
+full and half uniform at all times (except full school uniform for Monday
+Morning Assemblies), with the exception of Physical Education (PE) lessons
+and CCA sessions where the PE and CCA attires are permitted.&nbsp;</p>
+</li>
+<li>
+<p>Only approved Class and CCA T-shirts may be worn on odd week Fridays and
+even week Thursdays.</p>
+</li>
+<li>
+<p>All school shirts/blouses and T-shirts are to be neatly tucked in at all
+times, whether students are in and out of school. The only exception is
+when students are having their PE lessons or sports CCA sessions.</p>
+</li>
+<li>
+<p>Students are expected to change into half uniform immediately after their
+PE lessons.</p>
+</li>
+<li>
+<p>School bottoms (bermudas, pants, shorts and skirts) must be worn at the
+waist. School bermudas and skirts must be at knee’s length while school
+pants with the school belt must cover the ankles and cannot be tapered.</p>
+</li>
+<li>
+<p>Students are expected to wear only 100% white socks that cover above the
+ankles, and mainly white shoes for school. No other footwear is permitted
+unless permission is sought through parents/guardian’s letter and supporting
+medical documents from the Form Teacher(s) and Year Head on medical grounds.</p>
+</li>
+<li>
+<p>Students who fail to meet the required standard of the school will be
+required to rectify the problem before they are allowed to join in the
+lesson.</p>
+</li>
+<li>
+<p>Students are expected to come to school and return home in their school
+uniform.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>E. Personal Grooming</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Proper personal grooming fosters self-confidence and is critical to nurturing
+one’s growing identity as a self-respecting and self-disciplined young
+adult.</p>
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are expected to be well-groomed at all times. This includes caring
+for their personal hygiene, cleanliness and school attire.</p>
+</li>
+<li>
+<p><strong>Male students must be clean-shaven and neat in appearance at all times.</strong>
+</p>
+</li>
+<li>
+<p>Spot checks on students’ school attire and personal grooming is conducted
+every morning and at other appropriate times. Students who fail to comply
+with the standards expected will face disciplinary consequences.</p>
+</li>
+<li>
+<p>Students are to refer to <strong>Annex A</strong> for the <strong>Personal Grooming Standards</strong>.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
