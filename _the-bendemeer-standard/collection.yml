@@ -2,6 +2,6 @@ collections:
   the-bendemeer-standard:
     output: true
     order:
-      - Punctuality.md
       - Overview.md
       - Attendance.md
+      - Punctuality.md
