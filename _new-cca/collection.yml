@@ -4,7 +4,6 @@ collections:
     order:
       - Clubs and Societies/.keep
       - Sports and Games/.keep
-      - Sports and Games/Cross Country.md
       - Sports and Games/Football.md
       - Sports and Games/Taekwondo.md
       - Sports and Games/Tchoukball.md
