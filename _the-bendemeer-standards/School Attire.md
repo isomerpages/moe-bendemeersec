@@ -4,7 +4,7 @@ permalink: /school-attire/
 variant: tiptap
 description: ""
 ---
-<h4><strong>A.&nbsp;&nbsp;&nbsp; SCHOOL ATTIRE</strong></h4>
+<h4><strong>D.&nbsp;&nbsp;&nbsp; SCHOOL ATTIRE</strong></h4>
 <p>Wearing our school uniforms appropriately and neatly reflects commitment,
 respect and a sense of belonging to the school community. Students are
 expected to be presentable in our school attire to reflect personal and
