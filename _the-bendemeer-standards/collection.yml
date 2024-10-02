@@ -2,6 +2,7 @@ collections:
   the-bendemeer-standards:
     output: true
     order:
+      - Annex A.md
       - Accordion.md
       - Overview.md
       - Attendance.md
