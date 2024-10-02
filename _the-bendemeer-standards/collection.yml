@@ -2,7 +2,7 @@ collections:
   the-bendemeer-standards:
     output: true
     order:
-      - Daily Morning Assemblies.md
       - Overview.md
       - Attendance.md
       - Punctuality.md
+      - Daily Morning Assemblies.md
