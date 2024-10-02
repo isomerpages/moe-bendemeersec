@@ -4,7 +4,7 @@ permalink: /annex-a/
 variant: tiptap
 description: ""
 ---
-<p>Annex A - Personal Grooming Standards</p>
+<h4><strong>Annex A - Personal Grooming Standards</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Personal Wear</strong>
