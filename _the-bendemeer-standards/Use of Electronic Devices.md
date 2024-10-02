@@ -38,20 +38,18 @@ disrepute to themselves, the school, any staff or student, and not infringe
 on the laws.</p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Any misuse or inappropriate use
-to abuse or hurt the school, staff, students or member of the public will
-have their devices confiscated. They are also subjected to severe disciplinary
-actions.</p>
+<p>Any misuse or inappropriate use to abuse or hurt the school, staff, students
+or member of the public will have their devices confiscated. They are also
+subjected to severe disciplinary actions.</p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inappropriate behaviour includes
-spam, scamming/phishing, personal attacks, accessing/possessing/circulating
-pornography, posting of materials that are inappropriate on any platforms,
-taking of photographs and videos of school staff, students or any member
-of the public without their permission.</p>
+<p>Inappropriate behaviour includes spam, scamming/phishing, personal attacks,
+accessing/possessing/circulating pornography, posting of materials that
+are inappropriate on any platforms, taking of photographs and videos of
+school staff, students or any member of the public without their permission.</p>
 </li>
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Smartwatches are not permitted for communication (e.g., calls and text messages) during school hours. Smartwatches are not permitted during school-based assessment and national examinations. Any student caught using will be taken as cheating and a zero mark will be given.</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Smartwatches are not permitted for communication (e.g. calls and text messages) during school hours. Smartwatches are not permitted during school-based assessment and national examinations. Any student caught using will be taken as cheating and a zero mark will be given.</a>
 </p>
 </li>
 <li>
