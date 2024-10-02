@@ -2,7 +2,6 @@ collections:
   the-bendemeer-standards:
     output: true
     order:
-      - All using Accordion.md
       - Overview.md
       - Attendance.md
       - Punctuality.md
