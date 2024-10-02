@@ -2,6 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - CCAs V43/Overview of CCA.md
-      - CCAs V43/Football.md
-      - CCAs V43/.keep
+      - CCAs/Overview of CCA.md
+      - CCAs/Football.md
+      - CCAs/.keep
