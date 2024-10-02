@@ -2,8 +2,8 @@ collections:
   the-bendemeer-standards:
     output: true
     order:
-      - School Attire.md
       - Overview.md
       - Attendance.md
       - Punctuality.md
       - Daily Morning Assemblies.md
+      - School Attire.md
