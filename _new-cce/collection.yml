@@ -1,5 +1,4 @@
 collections:
   new-cce:
     output: true
-    order:
-      - Cyberwellness and Mental Health.md
+    order: []
