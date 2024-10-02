@@ -21,7 +21,8 @@ any of the Standards.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>A. Attendance</summary>
+<summary><strong>A. Attendance</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -66,7 +67,8 @@ must be sought from the Principal should there be a valid reason to. &nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>B. Punctuality</summary>
+<summary><strong>B. Punctuality</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Punctuality reflects self-discipline and respect, and is critical to students’
 academic achievement.</p>
@@ -130,7 +132,8 @@ recited, and when announcements are made, and attendance is being taken.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>D. School Attire</summary>
+<summary><strong>D. School Attire</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Wearing our school uniforms appropriately and neatly reflects commitment,
 respect and a sense of belonging to the school community. Students are
@@ -190,7 +193,8 @@ uniform.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>E. Personal Grooming</summary>
+<summary><strong>E. Personal Grooming</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Proper personal grooming fosters self-confidence and is critical to nurturing
 one’s growing identity as a self-respecting and self-disciplined young
@@ -217,7 +221,8 @@ with the standards expected will face disciplinary consequences.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>F. Learning Attitude and Behaviour</summary>
+<summary><strong>F. Learning Attitude and Behaviour</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>A positive learning attitude and behaviour towards learning brings one
 midway towards success. Students are encouraged to be fully engaged and
@@ -274,8 +279,8 @@ the teacher’s permission.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>G. Use of Electronic Devices including Personal Learning Device and Mobile
-Phones</summary>
+<summary><strong>G. Use of Electronic Devices including Personal Learning Device and Mobile Phones</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Students are to exercise self-discipline and responsibility in managing
 their use of electronic devices (e.g., mobile phones, headphones, tablets,
@@ -367,7 +372,8 @@ Head of Department/Subject Head of ICT immediately.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>H. School Property and Facilities</summary>
+<summary><strong>H. School Property and Facilities</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Keeping our school clean and well-maintained is everyone’s responsibility.
 Having well-maintained school premises and facilities is important to our
@@ -403,7 +409,8 @@ consequences.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>I. School Safety</summary>
+<summary><strong>I. School Safety</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Besides ensuring the good condition of the school, it is also every student’s
 responsibility to ensure the school compound and facilities are safe and
@@ -431,7 +438,8 @@ by a teacher.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>J. Discipline Approach</summary>
+<summary><strong>J. Discipline Approach</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Students learn well when there is order and discipline. They also need
 care, encouragement and space to learn from mistakes, reflect on them and
