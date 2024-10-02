@@ -13,10 +13,9 @@ them for the rapidly changing world.</p>
 <p>In Bendemeer Secondary School, all CCAs are planned with the following
 guiding principles in mind.</p>
 <h4><strong>Be Anchored in Values</strong></h4>
-<p>Our students are not bound by their diverse backgrounds as they strive
-collectively for excellence in their respective CCA domains, showing responsibility
-and accountability in their actions and commitments to the best of their
-abilities.</p>
+<p>Through active participation, our students strengthen the cultivation
+of school values and enact them through an authentic learning environment
+in the CCAs.</p>
 <h4><strong>Dare to Aspire</strong></h4>
 <p>Our students are not bound by their diverse backgrounds as they strive
 collectively for excellence in their respective CCA domains, showing responsibility
