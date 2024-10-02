@@ -4,8 +4,7 @@ permalink: /learning-attitude-and-behaviour/
 variant: tiptap
 description: ""
 ---
-<p><strong>F.&nbsp;&nbsp;&nbsp; LEARNING ATTITUDE AND BEHAVIOUR</strong>
-</p>
+<h4><strong>F.&nbsp;&nbsp;&nbsp; LEARNING ATTITUDE AND BEHAVIOUR</strong></h4>
 <p>A positive learning attitude and behaviour towards learning brings one
 midway towards success. Students are encouraged to be fully engaged and
 respectful during all school lessons and activities.&nbsp; &nbsp;</p>
