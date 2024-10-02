@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - CCE/Education and Career Guidance.md
       - CCE/Cyberwellness and Mental Health.md
       - CCE/.keep
       - Sexuality Education.md
