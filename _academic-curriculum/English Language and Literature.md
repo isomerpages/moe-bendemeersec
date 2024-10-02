@@ -35,7 +35,7 @@ that help to broaden their perspectives in an increasingly complex world.</p>
 Pedagogical Framework</p>
 </li>
 </ul>
-<h4><strong>Our Programmes and Activities</strong></h4>
+<h4><strong>Our Signature Programmes and Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>School-wide: Keeping-It-Current (KIC) programme on current affairs and
