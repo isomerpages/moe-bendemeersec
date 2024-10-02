@@ -1,5 +1,4 @@
 collections:
   cca-new:
     output: true
-    order:
-      - CCA Overview.md
+    order: []
