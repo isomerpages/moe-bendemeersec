@@ -2,7 +2,6 @@ collections:
   new-cca:
     output: true
     order:
-      - Clubs and Societies/Infocomm Club.md
       - Clubs and Societies/.keep
       - Sports and Games/.keep
       - Sports and Games/Cross Country.md
