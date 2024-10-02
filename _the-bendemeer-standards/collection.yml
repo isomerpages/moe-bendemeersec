@@ -1,5 +1,5 @@
 collections:
-  the-bendemeer-standard:
+  the-bendemeer-standards:
     output: true
     order:
       - Daily Morning Assemblies.md
