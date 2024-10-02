@@ -2,4 +2,5 @@ collections:
   new-cce:
     output: true
     order:
+      - Education and Career Guidance.md
       - Cyberwellness and Mental Health.md
