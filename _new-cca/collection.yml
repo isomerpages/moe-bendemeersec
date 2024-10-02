@@ -1,5 +1,5 @@
 collections:
-  cca-new:
+  new-cca:
     output: true
     order:
       - Clubs and Societies/Infocomm Club.md
