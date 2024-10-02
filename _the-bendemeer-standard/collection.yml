@@ -1,4 +1,5 @@
 collections:
   the-bendemeer-standard:
     output: true
-    order: []
+    order:
+      - Overview.md
