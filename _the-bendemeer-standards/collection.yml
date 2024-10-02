@@ -2,9 +2,9 @@ collections:
   the-bendemeer-standards:
     output: true
     order:
-      - Personal Grooming.md
       - Overview.md
       - Attendance.md
       - Punctuality.md
       - Daily Morning Assemblies.md
       - School Attire.md
+      - Personal Grooming.md
