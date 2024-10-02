@@ -2,5 +2,6 @@ collections:
   new-cce:
     output: true
     order:
+      - Sexuality Education.md
       - Education and Career Guidance.md
       - Cyberwellness and Mental Health.md
