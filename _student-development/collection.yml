@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - CCAs/National Police Cadet Corps.md
       - CCAs/National Cadet Corps.md
       - CCAs/Girl Guides.md
       - CCAs/Concert Band.md
