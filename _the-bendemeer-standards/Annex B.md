@@ -174,7 +174,7 @@ description: ""
 <p>Conduct Grade to be Adjusted</p>
 </li>
 </ul>
-<p><em>Note: Zero mark awarded for affected paper/assignment/project </em>
+<p><em>Note: Zero mark awarded for affected paper/assignment/project</em>
 </p>
 </td>
 </tr>
