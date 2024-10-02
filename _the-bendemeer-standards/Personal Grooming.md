@@ -24,7 +24,8 @@ every morning and at other appropriate times. Students who fail to comply
 with the standards expected will face disciplinary consequences.</p>
 </li>
 <li>
-<p>Students are to refer to <strong>Annex A</strong> for the <strong>Personal Grooming Standards</strong>.</p>
+<p>Students are to refer to <a href="/annex-a/" rel="noopener nofollow" target="_blank">Annex A</a> for
+the <strong>Personal Grooming Standards</strong>.</p>
 </li>
 </ul>
 <p></p>
