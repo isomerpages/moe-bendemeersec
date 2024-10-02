@@ -92,7 +92,7 @@ may result in consequences such as a reduction in marks.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>C.&nbsp;&nbsp;&nbsp; Daily Morning Assemblies</strong>
+<summary><strong>C.&nbsp;Daily Morning Assemblies</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Our daily morning assemblies allow us to gather as a school community
@@ -139,7 +139,6 @@ recited, and when announcements are made, and attendance is being taken.</p>
 respect and a sense of belonging to the school community. Students are
 expected to be presentable in our school attire to reflect personal and
 school pride at all times.</p>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Students are to wear the prescribed school uniform. Any modification to the uniform is not allowed.</strong>
@@ -199,7 +198,6 @@ uniform.</p>
 <p>Proper personal grooming fosters self-confidence and is critical to nurturing
 one’s growing identity as a self-respecting and self-disciplined young
 adult.</p>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students are expected to be well-groomed at all times. This includes caring
@@ -227,8 +225,6 @@ with the standards expected will face disciplinary consequences.</p>
 <p>A positive learning attitude and behaviour towards learning brings one
 midway towards success. Students are encouraged to be fully engaged and
 respectful during all school lessons and activities.&nbsp; &nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>All students are expected to be punctual for their lessons and school
@@ -287,7 +283,6 @@ their use of electronic devices (e.g., mobile phones, headphones, tablets,
 gaming consoles) so that the quality of learning is not compromised. They
 are also expected to be discerning, respectful and responsible in their
 online/cyber behaviour.&nbsp;</p>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Personal electronic devices such as mobile phones, earphones or game consoles
@@ -378,7 +373,6 @@ Head of Department/Subject Head of ICT immediately.</p>
 <p>Keeping our school clean and well-maintained is everyone’s responsibility.
 Having well-maintained school premises and facilities is important to our
 safety and well-being.</p>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students are expected to take responsibility for the cleanliness of the
@@ -415,7 +409,6 @@ consequences.</p>
 <p>Besides ensuring the good condition of the school, it is also every student’s
 responsibility to ensure the school compound and facilities are safe and
 secure.</p>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students must maintain the safety of self and others by reporting to a
@@ -448,7 +441,6 @@ to guide students to develop self-management and responsible decision-making.
 Disciplinary consequences help them to learn the consequences of their
 inappropriate actions and poor choices, and take responsibility not to
 repeat their mistakes.</p>
-<p>&nbsp;</p>
 <p>Refer to <strong>Annex B</strong> for our <strong>Disciplinary Policy</strong>.</p>
 <p>&nbsp;</p>
 </div>
