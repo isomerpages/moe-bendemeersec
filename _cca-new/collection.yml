@@ -2,6 +2,7 @@ collections:
   cca-new:
     output: true
     order:
+      - Sports and Games/Tchoukball.md
       - Sports and Games/.keep
       - Performing Arts/Drama English.md
       - Performing Arts/Drama Tamil.md
