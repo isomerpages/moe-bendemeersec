@@ -2,5 +2,6 @@ collections:
   cca-new:
     output: true
     order:
+      - Uniformed Groups/National Cadet Corps.md
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/.keep
