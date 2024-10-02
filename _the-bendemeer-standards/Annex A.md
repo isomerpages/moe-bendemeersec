@@ -12,16 +12,6 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Gentlemen</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ladies</strong>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <p><strong>Personal Wear</strong>
 </p>
@@ -45,6 +35,16 @@ or skin coloured. Straps should not be seen.</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Hair</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gentlemen</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ladies</strong>
 </p>
 </td>
 </tr>
