@@ -8,9 +8,9 @@ third_nav_title: CCAs
 <h4><strong>Overview of Football CCA</strong></h4>
 <p>Character building and leadership development are key priorities in our
 Football CCA where the importance of values, teamwork and leadership are
-emphasised. All our passionate young footballers seek to strive for sporting
-excellence by adopting a mindset of resilience and learning to put team
-success before personal accolades.</p>
+emphasised. All our passionate young footballers strive for sporting excellence
+by adopting a mindset of resilience and learning to put team success before
+personal accolades.</p>
 <p>Our outcomes are possible through a robust support structure from the
 school to allow all footballers to develop and strengthen not only their
 football skills but their character and leadership abilities as well.</p>
@@ -24,11 +24,11 @@ to the holistic development of young footballers as one of the School Football
 Academies (SFAs) under the Unleash The Roar! (UTR!) initiative. This initiative
 is designed to integrate both academic and sporting excellence, ensuring
 that students thrive in both areas.</p>
-<p>As a SFA, support to the students in the Football CCA extends to the following
-areas:</p>
+<p>As a SFA, the support to the students in the Football CCA extends to the
+following areas:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Well planned training sessions all year round</p>
+<p>Well-planned training sessions throughout the year</p>
 </li>
 <li>
 <p>Deployment of highly qualified and specialists coaches for all training
@@ -45,7 +45,7 @@ sessions</p>
 advanced tracking systems</p>
 </li>
 <li>
-<p>Extension of skill development through combined SFAs training</p>
+<p>Extension of skills development through combined SFAs training</p>
 </li>
 </ol>
 <h4><strong>Our Achievements</strong></h4>
