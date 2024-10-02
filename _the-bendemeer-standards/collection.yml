@@ -2,14 +2,14 @@ collections:
   the-bendemeer-standards:
     output: true
     order:
-      - Discipline Approach.md
-      - School Safety.md
-      - School Property and Facilities.md
-      - Use of Electronic Devices.md
-      - Learning Attitude and Behaviour.md
       - Overview.md
       - Attendance.md
       - Punctuality.md
       - Daily Morning Assemblies.md
       - School Attire.md
       - Personal Grooming.md
+      - Learning Attitude and Behaviour.md
+      - Use of Electronic Devices.md
+      - School Property and Facilities.md
+      - School Safety.md
+      - Discipline Approach.md
