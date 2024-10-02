@@ -4,7 +4,7 @@ permalink: /punctuality/
 variant: tiptap
 description: ""
 ---
-<h4><strong>B.	PUNCTUALITY</strong></h4>
+<h4><strong>B. PUNCTUALITY</strong></h4>
 <p>Punctuality reflects self-discipline and respect, and is critical to students’
 academic achievement.</p>
 <ul data-tight="true" class="tight">
