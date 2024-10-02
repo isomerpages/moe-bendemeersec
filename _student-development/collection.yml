@@ -2,10 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - CCE/Sexuality Education.md
-      - CCE/Education and Career Guidance.md
-      - CCE/Cyberwellness and Mental Health.md
-      - CCE/.keep
       - CCAs/.keep
       - CCAs/Drama Tamil.md
       - CCAs/Drama English.md
@@ -15,6 +11,10 @@ collections:
       - CCAs/Infocomm Club.md
       - CCAs/Football.md
       - CCAs/Overview of CCA.md
+      - CCE/.keep
+      - CCE/Sexuality Education.md
+      - CCE/Education and Career Guidance.md
+      - CCE/Cyberwellness and Mental Health.md
       - Student Well Being/.keep
       - Student Well Being/SEN and Helplines.md
       - Student Well Being/Counselling and Helplines.md
