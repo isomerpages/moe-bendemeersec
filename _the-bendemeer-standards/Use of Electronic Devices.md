@@ -49,8 +49,10 @@ are inappropriate on any platforms, taking of photographs and videos of
 school staff, students or any member of the public without their permission.</p>
 </li>
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Smartwatches are not permitted for communication (e.g. calls and text messages) during school hours. Smartwatches are not permitted during school-based assessment and national examinations. Any student caught using will be taken as cheating and a zero mark will be given.</a>
-</p>
+<p>Smartwatches are not permitted for communication (e.g., calls and text
+messages) during school hours. Smartwatches are not permitted during school-based
+assessment and national examinations. Any student caught using will be
+taken as cheating and a zero mark will be given.</p>
 </li>
 <li>
 <p>All Personal Learning Devices (PLDs) must be stored in the student lockers
