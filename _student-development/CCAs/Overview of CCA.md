@@ -6,16 +6,17 @@ description: ""
 third_nav_title: CCAs
 ---
 <h4><strong>CCA Overview</strong></h4>
-<p>As a Key Student Development Experience (SDE), CCAs allow our students
+<p>As a key Student Development Experience (SDE), CCAs allow our students
 to discover their interests and talents while developing character, social
 emotional competencies as well other relevant skills that will prepare
 them for the rapidly changing world.</p>
-<p>In Bendemeer, all CCAs are planned with the following guiding principles
-in mind.</p>
+<p>In Bendemeer Secondary School, all CCAs are planned with the following
+guiding principles in mind.</p>
 <h4><strong>Be Anchored in Values</strong></h4>
-<p>Through active participation, our students strengthen the cultivation
-of school values and enact them through an authentic learning environment
-in the CCAs.</p>
+<p>Our students are not bound by their diverse backgrounds as they strive
+collectively for excellence in their respective CCA domains, showing responsibility
+and accountability in their actions and commitments to the best of their
+abilities.</p>
 <h4><strong>Dare to Aspire</strong></h4>
 <p>Our students are not bound by their diverse backgrounds as they strive
 collectively for excellence in their respective CCA domains, showing responsibility
@@ -30,7 +31,7 @@ inspiring and motivating their peers towards team excellence.</p>
 <p>Through CCAs, our students can discover what they are passionate about.
 With a robust support structure in place, they can build on their existing
 strengths to allow them to become better versions of themselves, setting
-themselves.</p>
+themselves up for success.</p>
 <h4><strong>CCA Training Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
