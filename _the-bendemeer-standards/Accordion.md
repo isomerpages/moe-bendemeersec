@@ -442,7 +442,8 @@ to guide students to develop self-management and responsible decision-making.
 Disciplinary consequences help them to learn the consequences of their
 inappropriate actions and poor choices, and take responsibility not to
 repeat their mistakes.</p>
-<p>Refer to <strong>Annex B</strong> for our <strong>Disciplinary Policy</strong>.</p>
+<p>Refer to <a href="/annex-b/" rel="noopener nofollow" target="_blank">Annex B</a> for
+our <strong>Disciplinary Policy</strong>.</p>
 <p>&nbsp;</p>
 </div>
 </details>
