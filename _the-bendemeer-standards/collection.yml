@@ -2,6 +2,7 @@ collections:
   the-bendemeer-standards:
     output: true
     order:
+      - School Property and Facilities.md
       - Use of Electronic Devices.md
       - Learning Attitude and Behaviour.md
       - Overview.md
