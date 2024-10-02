@@ -367,21 +367,82 @@ Head of Department/Subject Head of ICT immediately.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>H. School Property and Facilities</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Keeping our school clean and well-maintained is everyone’s responsibility.
+Having well-maintained school premises and facilities is important to our
+safety and well-being.</p>
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are expected to take responsibility for the cleanliness of the
+school environment. Students should maintain a conducive learning environment
+by keeping all learning venues (such as the classrooms and laboratories/workshops/kitchens/music
+room/field) and common spaces (such as the School Canteen, Library, Student
+Café and Study Areas) clean and tidy after use.</p>
+</li>
+<li>
+<p>Students are also expected to take the initiative to pick up litter to
+keep the school compound clean.</p>
+</li>
+<li>
+<p>Students are expected to take good care of school property such as student
+tables, chairs, lockers, toilets, canteen and classroom IT facilities among
+others.</p>
+</li>
+<li>
+<p>Students are to report damage or misuse of school property immediately
+to the school staff.</p>
+</li>
+<li>
+<p>Students who have damaged any school property are expected to admit to
+the mistake and make good any damage. He/She may face any disciplinary
+consequences.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>I. School Safety</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Besides ensuring the good condition of the school, it is also every student’s
+responsibility to ensure the school compound and facilities are safe and
+secure.</p>
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students must maintain the safety of self and others by reporting to a
+teacher immediately when any inappropriate behaviour is taking place.&nbsp;</p>
+</li>
+<li>
+<p>Students will only use the special rooms such as the Science laboratories,
+D&amp;T workshops, FCE kitchens, Music/Art rooms, computer laboratories
+and other special rooms under the supervision of a teacher.</p>
+</li>
+<li>
+<p>Students will not activate the fire extinguishers, fire hose reels and
+fire alarms unless for emergency purposes.</p>
+</li>
+<li>
+<p>Students are not permitted to enter the Staff Rooms unless accompanied
+by a teacher.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>J. Discipline Approach</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Students learn well when there is order and discipline. They also need
+care, encouragement and space to learn from mistakes, reflect on them and
+make improvements. Our discipline approach adopts an educative process
+to guide students to develop self-management and responsible decision-making.
+Disciplinary consequences help them to learn the consequences of their
+inappropriate actions and poor choices, and take responsibility not to
+repeat their mistakes.</p>
+<p>&nbsp;</p>
+<p>Refer to <strong>Annex B</strong> for our <strong>Disciplinary Policy</strong>.</p>
+<p>&nbsp;</p>
 </div>
 </details>
 </div>
