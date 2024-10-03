@@ -2,7 +2,6 @@ collections:
   the-bendemeer-standards:
     output: true
     order:
-      - Personal Grooming.md
       - Learning Attitude and Behaviour.md
       - Use of Electronic Devices.md
       - School Property and Facilities.md
