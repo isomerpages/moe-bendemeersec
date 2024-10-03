@@ -2,7 +2,6 @@ collections:
   the-bendemeer-standards:
     output: true
     order:
-      - Daily Morning Assemblies.md
       - School Attire.md
       - Personal Grooming.md
       - Learning Attitude and Behaviour.md
