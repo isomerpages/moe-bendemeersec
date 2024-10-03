@@ -2,7 +2,6 @@ collections:
   the-bendemeer-standards:
     output: true
     order:
-      - School Property and Facilities.md
       - School Safety.md
       - Discipline Approach.md
       - Accordion.md
