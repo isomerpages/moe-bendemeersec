@@ -2,7 +2,6 @@ collections:
   the-bendemeer-standards:
     output: true
     order:
-      - School Safety.md
       - Discipline Approach.md
       - Accordion.md
       - Annex A.md
