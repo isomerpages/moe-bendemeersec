@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCAs
 ---
-<h4><strong>Overview of Football CCA</strong></h4>
+<h4><strong>Our Football CCA</strong></h4>
 <p>Character building and leadership development are key priorities in our
 Football CCA where the importance of values, teamwork and leadership are
 emphasised. All our passionate young footballers strive for sporting excellence
@@ -14,7 +14,7 @@ personal accolades.</p>
 <p>Our outcomes are possible through a robust support structure from the
 school to allow all footballers to develop and strengthen not only their
 football skills but their character and leadership abilities as well.</p>
-<h4><strong>Our Key Programmes and Activities</strong></h4>
+<h4><strong>Our Signature Programmes and Activities</strong></h4>
 <p><strong>Unleash The Roar! (UTR!) at Bendemeer Secondary School</strong>
 </p>
 <p>In partnership with SportSG, Football Association of Singapore (FAS),
