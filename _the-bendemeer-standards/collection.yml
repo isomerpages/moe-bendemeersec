@@ -2,7 +2,6 @@ collections:
   the-bendemeer-standards:
     output: true
     order:
-      - Discipline Approach.md
       - Accordion.md
       - Annex A.md
       - Annex B.md
