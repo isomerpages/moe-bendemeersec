@@ -93,7 +93,6 @@ description: ""
 
 |Girl Guides | Ms Lu Yueh Ju	I/C | lu_yueh_ju@moe.edu.sg|
 | - | -| - |
-| | Ms Caroline R Murty, 2I/C | caroline_r_murty@moe.edu.sg|
 | | Mdm Nasyitah Binte Abu Baker | nasyitah_abu_bakar@moe.edu.sg|
 | | Ms Lim Sing Liean, Advisor	| LIM_Sing_Liean@moe.edu.sg |
 | | | |
@@ -120,7 +119,7 @@ description: ""
 | Concert Band | Mdm Lim Ying Shung, I/C	| lim_ying_shung@moe.edu.sg |
 | | Mdm Noorlizah Osman, 2I/C	| noorlizah_osman@moe.edu.sg|
 | | Mrs Lim Gek Hoon Ivy|lim_gek_hoon_ivy@moe.edu.sg |
-| |Ms Ng Qian Hui| ng_qian_hui@moe.edu.sg|
+| |Mr Andrew Chan Wu Siong| chan_wu_siong_andrew@moe.edu.sg|
 | | | |
 |Dance| Ms Colene Lin Lifen, I/C| lin_lifen_colene@moe.edu.sg|
 | | Ms Lily Tan Eng Lee| tan_eng_lee_lily@moe.edu.sg |
@@ -132,6 +131,7 @@ description: ""
 | | | |
 | Tamil Drama| Ms Achaiya Gunasekaran, I/C  | achaiya_gunasekaran@moe.edu.sg|
 | |Ms Ponmozhi D/O Sembian, 2I/C | ponmozhi_sembian@moe.edu.sg|
+| |Mdm Murugaiyan Bhuvaneswari |murugaiyan_bhuvaneswari@moe.edu.sg |
 | | | |
 
 #### **Sports and Games**
@@ -140,6 +140,7 @@ description: ""
 | - | -| - |
 |Cross Country | Mr Daryl Toy Chor Teck, 2I/C| toy_chor_teck@moe.edu.sg|
 | | Mrs Yap Bee Hong | chua_bee_hong@moe.edu.sg|
+| | Mdm Siti Amirah Mohamed Isah  |  siti_amirah_mohamad_isah@moe.edu.sg |
 | | | |
 |Football|Mr Kenneth Goh, I/C| kenneth_goh_kun_huang@moe.edu.sg|
 | | Ms Shamini Subramaniam, 2I/C | shamini_subramaniam@moe.edu.sg |
@@ -162,5 +163,6 @@ description: ""
 
 | Infocomm Club |Mr Michael Lee, I/C| michael_lee@moe.edu.sg|
 | - | -| - |
-| | Mr Manoj Kumar Dave	| manoj_kumar_dave@moe.edu.sg |
-| | Mr Eric Choo Guan Kiat, Advisor| choo_guan_kiat@moe.edu.sg|
+| | Mr Manoj Kumar Dave, 2I/C	| manoj_kumar_dave@moe.edu.sg |
+| | Mdm Shanuradha Selvaraj | shanuradha_selvaraj@moe.edu.sg|
+| | Mr Colin Leong Tze Yeen | colin_leong@moe.edu.sg|

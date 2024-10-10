@@ -1,0 +1,7 @@
+collections:
+  the-bendemeer-standards:
+    output: true
+    order:
+      - Accordion.md
+      - Annex A.md
+      - Annex B.md
