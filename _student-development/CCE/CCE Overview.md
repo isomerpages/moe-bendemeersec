@@ -11,7 +11,7 @@ development of our students, leading to positive life outcomes. CCE 2021
 provides an integrated approach to addressing our students’ development
 of values, character, social-emotional well-being, and citizenship dispositions
 in a coherent and holistic way.</p>
-<p>CCE 2021 aims to develop in our students:&nbsp;</p>
+<h4>CCE 2021 aims to develop in our students:&nbsp;</h4>
 <p>a) <strong>Good character</strong>: Have a sound moral compass and a strong
 sense of right and wrong, think critically and ethically, be discerning
 in judgment, take responsibility for choices and actions, be caring towards
