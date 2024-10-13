@@ -47,6 +47,22 @@ and interviews.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student development/cce_ecg_01.png">
 </div>
+<p></p>
+<h4><strong>ECG Counsellor</strong></h4>
+<p>Our ECG Counsellor is stationed at the ECG counselling room every Wednesdays
+and Thursdays to provide support to students (individually or in small
+groups) and guide students who may need additional help to make informed
+decisions on post-secondary education and career options.</p>
+<p>Parents or students who would like to explore more about subject choices,
+enquire about post-secondary education options or find out more about their
+career interests, strengths and passions, can have a chat with our school’s
+ECG Counsellor every Thursdays.</p>
+<p><strong>Appointments can be made via scanning the QR Code below </strong>:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Student development/cce_ecg_qrcode.png">
+</div>
 <p>
+<br>
 <br>
 </p>
