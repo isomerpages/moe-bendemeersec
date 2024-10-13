@@ -59,10 +59,15 @@ themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>The subjects that incorporate topics on sexuality include:</p>
-<p>* Science</p>
-<p>* Character and Citizenship Education (CCE)</p>
-<p>#### <strong>Sexuality Education Lessons</strong>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Science</p>
+</li>
+<li>
+<p>Character and Citizenship Education (CCE)</p>
+</li>
+</ul>
+<h4><strong>Sexuality Education Lessons</strong></h4>
 <p>The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
 Adolescence is a complex stage in life as the adolescent attempts to find
@@ -83,13 +88,30 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <p>At Bendemeer Secondary School, the following Sexuality Education lessons
 will be taught in 2024 (Please click to view the lessons in detail):</p>
-<p>* [Secondary 1](/files/Sexualityedu/se_sec1.pdf)</p>
-<p>* [Secondary 2](/files/Sexualityedu/se_sec2.pdf)</p>
-<p>* [Secondary 3](/files/Sexualityedu/se_sec3.pdf)</p>
-<p>* [Secondary 4](/files/Sexualityedu/se_sec4.pdf)</p>
-<p>* [Secondary 5](/files/Sexualityedu/se_sec5.pdf)</p>
-<p>#### <strong>eTeens Programme</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Sexualityedu/se_sec1.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
 </p>
+</li>
+<li>
+<p><a href="/files/Sexualityedu/se_sec2.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sexualityedu/se_sec3.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sexualityedu/se_sec4.pdf" rel="noopener nofollow" target="_blank">Secondary 4</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sexualityedu/se_sec5.pdf" rel="noopener nofollow" target="_blank">Secondary 5</a>
+</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>eTeens Programme</strong></h4>
 <p>eTeens is a programme developed by Health Promotion Board, in collaboration
 with the Ministry of Education, to provide Secondary 3 students with accurate
 information on STIs, HIV and protection from a health perspective. eTeens
@@ -103,19 +125,22 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 <p>At Bendemeer Secondary School, the eTeens programme will be implemented
 as follows in 2024:</p>
-<p>![](/images/Sexualityedu/eteensprog.png)</p>
-<p>#### <strong>Information for Parents</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eTeens programme2024" src="/images/Sexualityedu/eteensprog.png">
+</div>
+<p></p>
+<h4><strong>Information for Parents</strong></h4>
 <p>Parents may opt their children out of the Sexuality Education lessons,
 eTeens and/or supplementary sexuality education programmes by MOE-approved
 external providers.</p>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable [here](/files/Sexualityedu/se_optoutform.pdf)
-. The completed form is to be submitted by 06/02/2024.</p>
+at the start of the year and is also downloadable <a href="/files/Sexualityedu/se_optoutform.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed form
+is to be submitted by 06/02/2024.</p>
 <p>Parents who wish to opt their children out of the eTeens programme need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable [here](/files/Sexualityedu/se_eteensoptoutform.pdf).
-The completed form is to be submitted by 06/02/2024.</p>
+at the start of the year and is also downloadable <a href="/files/Sexualityedu/se_eteensoptoutform.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 06/02/2024.</p>
 <p>Parents can contact the school at 62927616 for discussion or to seek clarification
 about the school’s Sexuality Education programme.</p>
