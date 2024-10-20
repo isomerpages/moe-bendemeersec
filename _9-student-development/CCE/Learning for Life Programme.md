@@ -9,10 +9,6 @@ third_nav_title: CCE
 <p>In Tier 1, we adopt a thematic, spiral approach to our VIA, with skills,
 competencies, values, and subject integration spiralling upwards as students
 move from Sec 1 to Sec 4/5.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Student development/cce_ecg_02.png">
-</div>
 <p>Bendemeer Secondary's Values in Action (VIA) programme offers a progressive,
 four-year approach to community engagement and social responsibility. In
 Secondary 1, students focus on "Love Our School," participating in a gardening
@@ -22,11 +18,6 @@ the elderly at local nursing homes. In Secondary 3, the focus shifts to
 national and global issues, exploring themes like "Keeping SG Safe" and
 "Healthy Living," addressing topics such as scam awareness, road safety,
 and balanced diets.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student development/cce_llp_02.jpg">
-</div>
-<p></p>
 <p>The programme culminates in Secondary 4/5 with "Love Our Environment,"
 where students research resource conservation and create awareness campaigns
 for Earth Day, collaborating with the Humanities Department. Throughout
@@ -36,5 +27,12 @@ learning and school values as they prepare for their next educational journey.</
 <p>Tier 2 LLP involves our student leaders who work with CARE Singapore to
 engage young children at Morning Star Community Services. Our student leaders
 plan activities for the children and engage them during the sessions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Student development/cce_ecg_02.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student development/cce_llp_02.jpg">
+</div>
 <p></p>
 <p></p>
