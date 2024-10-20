@@ -1,5 +1,5 @@
 collections:
-  student-development:
+  9-student-development:
     output: true
     order:
       - CCAs/.keep
