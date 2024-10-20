@@ -172,7 +172,80 @@ understanding of this important cultural festival.</p>
 <p>This is what we have</p>
 <p></p>
 <h4><strong>Our Talent Development Programme</strong></h4>
-<p></p>
+<p>The Mother Tongue Department actively promotes language proficiency and
+creativity across Chinese, Malay, and Tamil languages. The Chinese Language
+unit publishes an annual student literary compilation, showcasing students'
+finest written works. Malay Language students are taught essay and poetry
+writing skills for examinations and competitions like Pena Emas and Gen-G
+publications. Tamil Language students, mentored by dedicated teachers,
+consistently excel in prestigious inter-school competitions at cluster
+and national levels, winning numerous accolades in creative writing, language,
+and cultural contests. These initiatives collectively demonstrate the department's
+commitment to enhancing students' language skills and fostering a deep
+appreciation for their respective mother tongues and cultures.</p>
 <h4><strong>Our Achievements</strong></h4>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Chinese Language</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>11th National Chinese Challenge (Secondary School Category)</p>
+</li>
+<li>
+<p>22nd National Secondary School Chinese Creative Writing Competition: Second
+Prize Award Winner (Lower Sec Category)</p>
+</li>
+<li>
+<p>38th National Secondary School Cross Talk Competition</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Malay Language</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Our students' writings were featured in the Gen-G Newspaper</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Guruku Sayang (5 February 2024)</p>
+</li>
+<li>
+<p>Lawatan ke Muzium Bukit Chandu (29 April 2024)</p>
+</li>
+<li>
+<p>Menolong Seorang Kawan (30 September 2024)</p>
+</li>
+<li>
+<p>Manusia (9 January 2023)</p>
+</li>
+<li>
+<p>Miskin (26 January 2023)</p>
+</li>
+<li>
+<p>Satu Pengajaran (6 February 2023)</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Tamil Language</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul>
+<li>
+<p>2024 Dance in Navarasam: 1st runner-up</p>
+</li>
+<li>
+<p>2024 Drama in Navarasam: 2nd runner-up</p>
+</li>
+<li>
+<p>2024 S5 Cluster Tamil Drama Festival</p>
+</li>
+<li>
+<p>2023 Naanum Oru Padaipaali (Budding Artistes): Winner</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <p></p>
