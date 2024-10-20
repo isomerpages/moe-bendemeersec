@@ -97,7 +97,77 @@ understanding of this important cultural festival.</p>
 </details>
 </div>
 <h5>Malay Language</h5>
-<p>This is what we have</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Hari Raya Ketupat weaving,</p>
+</li>
+<li>
+<p>Geylang Serai Learning Journey</p>
+</li>
+<li>
+<p>Teachers’ Day Appreciation Email</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Arts Exposure Pogramme,&nbsp;</p>
+</li>
+<li>
+<p>RIA 89.7 Radio DJ Public Speaking and Oracy Workshop</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Mendaki LESTARI Cultural Programme,&nbsp;</p>
+</li>
+<li>
+<p>Bukit Chandu Museum Learning Journey</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>GCE ‘O’ Exam Preparation Workshop with other schools</p>
+</li>
+<li>
+<p>Mother Tongue Intensive Programme</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <h5>Tamil Language</h5>
 <p>This is what we have</p>
 <p></p>
