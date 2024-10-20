@@ -37,3 +37,10 @@ conduct lessons for classmates, raising awareness about creating a safer,
 more positive online environment.
 <br>
 </p>
+<p>Parents who are interested to find out more on Cyber Wellness can click
+on the links below for useful resources:</p>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness</u></a>
+</p>
+<p>
+<br>
+</p>
