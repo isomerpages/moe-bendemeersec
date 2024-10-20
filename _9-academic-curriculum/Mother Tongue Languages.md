@@ -30,11 +30,10 @@ experience. All units extend learning beyond the classroom through language
 camps, competitions, and cultural events, fostering collaboration, peer
 learning, and a deeper appreciation for linguistic and cultural diversity.</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
-<h5>Chinese Language </h5>
+<h5>Chinese Language</h5>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Cultural Performance Exposure Scheme (CPES) (“文化随意门”计划)</strong>
-</summary>
+<summary>Cultural Performance Exposure Scheme (CPES) (“文化随意门”计划)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Cultural Performance Exposure Scheme is an initiative by the Committee
 to Promote Chinese Language Learning, which aims to expose students to
@@ -52,8 +51,7 @@ performing arts.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Higher Chinese Language Programme</strong>
-</summary>
+<summary>Higher Chinese Language Programme</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Bendemeer Secondary offers an enriching and holistic learning experience
 through our Higher Chinese Language (HCL) syllabus. Apart from the teaching
@@ -105,6 +103,6 @@ understanding of this important cultural festival.</p>
 <p></p>
 <h4><strong>Our Talent Development Programme</strong></h4>
 <p></p>
-<h4><strong>Our Achievements </strong></h4>
+<h4><strong>Our Achievements</strong></h4>
 <p></p>
 <p></p>
