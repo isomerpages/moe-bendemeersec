@@ -1,32 +1,65 @@
 ---
 title: Mathematics
 permalink: /academic-curriculum/mathematics/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<style>
-	.google-slides-container{ position: relative; width: 100%; padding-top: 72%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-</style>
-
-<div class="google-slides-container">
-<iframe allowfullscreen="true" height="605" width="864" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYc4xlNHjqmNCZ1fXLd-BDvxBkg1-pGhppFyMBBFSPFozR9NBdq5wIV5Xiu1m1sxzrYyZhPfAI-Ayl/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe></div>
-
-
-#### **Learning Outcomes**
-This is what we have
-
-
-
-#### **Approach**
-This is what we have
-
-
-
-#### **Key Programmes and Activities**
-##### Sub-Header
-This is what we have
-
-
-
-##### Sub-Header
-This is what we have
+<h4><strong>Learning Outcomes</strong></h4>
+<p>Our Math Dept envisions all students to achieve mathematical competencies
+through a strong mathematics program that enables every child to do Mathematics
+that is suited to his/her ability and emphasizes on the five components
+(concepts, skills, processes, attitudes, and metacognition) of problem
+solving.</p>
+<h4><strong>Approach</strong></h4>
+<p>Our approach is through promoting and supporting a comprehensive, innovative,
+and dynamic learning environment that nurtures independent learners who
+are competent in logical thinking, critical thinking and analytical thinking
+skills. We engage the students through the use of varied pedagogy such
+as Differentiated Instruction, Thinking Routines, Learning Experiences
+as well as Polya’s Problem Solving which enable the students to have deeper
+conceptual understanding and to see the relevance of Mathematics in a real-world
+context. We also leverage on the following Technology and Tools to enhance
+the learning of our students - Google Classroom, GeoGebra and Desmos, Multimedia
+Contents, Feedback Assistant and Online Quizzes in SLS.</p>
+<h4><strong>Our Signature Programmes and Activities</strong></h4>
+<h4>Math Department Programmes and Activities</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Math Customised Instructional Programme&nbsp;</p>
+</li>
+<li>
+<p>Math Bridging Programme</p>
+</li>
+<li>
+<p>Math Academic Support Progamme</p>
+</li>
+<li>
+<p>Financial Literacy Programme</p>
+</li>
+<li>
+<p>Math Olympiad Training Programme</p>
+</li>
+<li>
+<p>Math Trails</p>
+</li>
+<li>
+<p>Math Week</p>
+</li>
+</ul>
+<p>Our department adopts Polya’s Problem-solving model to equip students
+with a systematic approach to tackling mathematical challenges, in enhancing
+students’ overall mathematical proficiency. Problems in Real-World Context
+are included to draw links between what students learn in class and the
+real-world situation.
+<br>
+</p>
+<h4><strong>Our Talent Development Programme</strong></h4>
+<p><strong>Math Olympiad Training programme:</strong>
+</p>
+<p>Students who excel in Mathematics are identified and undergo 10 sessions
+of the Math Olympiad Training programme. They are&nbsp; groomed to participate
+in the Singapore and Asian Schools Math Olympiad Competition (SASMO) and
+other national competitions.</p>
+<p>
+<br>
+</p>
