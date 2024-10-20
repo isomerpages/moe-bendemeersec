@@ -31,6 +31,7 @@ plan activities for the children and engage them during the sessions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Student development/cce_ecg_02.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student development/cce_llp_02.jpg">
 </div>
