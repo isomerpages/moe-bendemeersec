@@ -1,5 +1,5 @@
 collections:
-  the-bendemeer-standards:
+  zthe-bendemeer-standards:
     output: true
     order:
       - Accordion.md
