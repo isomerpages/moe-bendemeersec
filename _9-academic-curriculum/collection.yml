@@ -1,5 +1,5 @@
 collections:
-  academic-curriculum:
+  9-academic-curriculum:
     output: true
     order:
       - English Language and Literature.md
