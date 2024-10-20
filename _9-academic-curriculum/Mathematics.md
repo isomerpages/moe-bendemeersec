@@ -22,7 +22,8 @@ context. We also leverage on the following Technology and Tools to enhance
 the learning of our students - Google Classroom, GeoGebra and Desmos, Multimedia
 Contents, Feedback Assistant and Online Quizzes in SLS.</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
-<h4>Math Department Programmes and Activities</h4>
+<p><strong>Math Department Programmes and Activities</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Math Customised Instructional Programme&nbsp;</p>
@@ -60,6 +61,30 @@ real-world situation.
 of the Math Olympiad Training programme. They are&nbsp; groomed to participate
 in the Singapore and Asian Schools Math Olympiad Competition (SASMO) and
 other national competitions.</p>
-<p>
-<br>
-</p>
+<h4><br><strong>Our Achievements</strong></h4>
+<p>Singapore and Asian Schools Math Olympiad Competition (SASMO):</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold(1), Silver(2), Bronze(10) and Honorable Mention(6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver(3), Bronze(6) and Honorable Mention(3)&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
