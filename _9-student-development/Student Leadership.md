@@ -17,8 +17,8 @@ the foundation for developing leadership potential by focusing on self-mastery
 and personal effectiveness. <em>Team leadership</em> focuses on managing
 team dynamics as they lead their peers while <em>thought leadership</em> focuses
 on being effective influencers to create value to their area of influence.</p>
-<p><strong>Student Leadership Framework</strong>
-<br>The Student Leaders comprises Class Chairpersons, Peer Support Leaders,
+<h4><strong>Student Leadership Framework</strong></h4>
+<p>The Student Leaders comprises Class Chairpersons, Peer Support Leaders,
 Student Councillors and CCA Leaders. In their respective roles, they applied
 their leadership skills in the various platforms.&nbsp;</p>
 <h4><strong>The Leaders Council (LEADS)</strong></h4>
