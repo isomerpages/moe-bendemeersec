@@ -62,7 +62,8 @@ of the Math Olympiad Training programme. They are&nbsp; groomed to participate
 in the Singapore and Asian Schools Math Olympiad Competition (SASMO) and
 other national competitions.</p>
 <h4><br><strong>Our Achievements</strong></h4>
-<p>Singapore and Asian Schools Math Olympiad Competition (SASMO):</p>
+<p><strong>Singapore and Asian Schools Math Olympiad Competition (SASMO):</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -87,4 +88,17 @@ other national competitions.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Animation and Game Making (AGM) Competition 2024:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Gold Award for the Animation Category</p>
+</li>
+<li>
+<p>Gold Award for the Gaming Category</p>
+</li>
+</ul>
+<p>
+<br>
+</p>
 <p></p>
