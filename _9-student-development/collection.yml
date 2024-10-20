@@ -2,8 +2,6 @@ collections:
   9-student-development:
     output: true
     order:
-      - Cyber Wellness.md
-      - Learning for Life Programme.md
       - Applied Learning Programme.md
       - CCAs/.keep
       - CCAs/Overview of CCA.md
@@ -21,14 +19,16 @@ collections:
       - CCAs/Red Cross Youth.md
       - CCAs/Taekwondo.md
       - CCAs/Tchoukball.md
-      - CCE/CCE Overview.md
       - CCE/.keep
+      - CCE/CCE Overview.md
       - CCE/Sexuality Education.md
       - CCE/Education and Career Guidance.md
       - CCE/Cyberwellness and Mental Health.md
+      - Cyber Wellness.md
+      - Learning for Life Programme.md
+      - Lets BDMS and CLAPS.md
+      - Student Awards.md
       - Student Well Being/.keep
       - Student Well Being/SEN and Helplines.md
       - Student Well Being/Counselling and Helplines.md
-      - Lets BDMS and CLAPS.md
-      - Student Awards.md
       - Accolades and Achievements.md
