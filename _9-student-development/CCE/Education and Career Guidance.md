@@ -23,7 +23,7 @@ the 3 big questions of “Who am I”, “Where am I going” and “How do I ge
 there?” with skills, values and competencies spiraling upwards.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="cce-framework" src="/images/Student development/cce_ecg_02.png">
+<img style="width: 80%;" height="auto" width="100%" alt="cce-framework" src="/images/Student development/cce_ecg_02.png">
 </div>
 <p>In all ECG programmes, we place a lot of emphasis on Students’ Voice and
 Choice. We let students choose the learning journeys or talks they were
@@ -45,7 +45,7 @@ our school prepares our students well for EAE and DSA. We guide students
 in making informed choices and guide them in their write ups, portfolios
 and interviews.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student development/cce_ecg_01.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Student development/cce_ecg_01.png">
 </div>
 <p></p>
 <h4><strong>ECG Counsellor</strong></h4>
