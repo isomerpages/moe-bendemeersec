@@ -17,6 +17,14 @@ sections:
       subtitle: www
   - infopic:
       title: BDMS Open House 2024
+      subtitle: Add an image and text
+      id: infopic
+      description: Come Experience the Bendemeer Journey
+      button: Button Text
+      image: /images/poster01.jpg
+      alt: Image alt text
+  - infopic:
+      title: BDMS Open House 2024
       id: infopic
       description: Come Experience the Bendemeer Journey!
       image: /images/bdmsopenhouse2024.jpg
