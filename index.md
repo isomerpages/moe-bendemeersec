@@ -19,7 +19,7 @@ sections:
       title: BDMS Open House 2024
       id: infopic
       description: Come Experience the Bendemeer Journey!
-      image: /images/bdmsopenhouse2024.jpg
+      image: /images/poster02.jpg
       alt: Image alt text
   - infopic:
       title: Direct School Admission – Secondary (DSA-Sec) Exercise 2024
