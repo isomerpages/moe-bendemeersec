@@ -1,12 +1,12 @@
 collections:
-  academic-curriculum:
+  9-academic-curriculum:
     output: true
     order:
+      - Craft and Technology.md
       - English Language and Literature.md
       - Humanities.md
-      - Mother Tongue Languages.md
-      - Craft and Technology.md
       - Mathematics.md
-      - Science.md
+      - Mother Tongue Languages.md
       - Physical Education.md
+      - Science.md
       - Accolades and Achievements.md

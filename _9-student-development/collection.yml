@@ -1,7 +1,8 @@
 collections:
-  student-development:
+  9-student-development:
     output: true
     order:
+      - Applied Learning Programme.md
       - CCAs/.keep
       - CCAs/Overview of CCA.md
       - CCAs/Choir.md
@@ -19,12 +20,15 @@ collections:
       - CCAs/Taekwondo.md
       - CCAs/Tchoukball.md
       - CCE/.keep
-      - CCE/Sexuality Education.md
+      - CCE/CCE Overview.md
+      - CCE/Cyber Wellness and Mental Health.md
       - CCE/Education and Career Guidance.md
-      - CCE/Cyberwellness and Mental Health.md
+      - CCE/Learning for Life Programme.md
+      - CCE/Sexuality Education.md
+      - CCE/Student Leadership.md
+      - Lets BDMS and CLAPS.md
+      - Student Awards.md
       - Student Well Being/.keep
       - Student Well Being/SEN and Helplines.md
       - Student Well Being/Counselling and Helplines.md
-      - Lets BDMS and CLAPS.md
-      - Student Awards.md
       - Accolades and Achievements.md
