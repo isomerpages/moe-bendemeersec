@@ -37,17 +37,6 @@ sections:
       url: /school-canteen-ad/
       image: /images/japanese-food-g34e1f8b50_1920.jpg
       alt: Image alt text
-  - infopic:
-      title: BDMS Sexuality Education Programme 2024
-      subtitle: Overview of
-      id: infopic
-      description: Sexuality Education (SEd) in schools aims to enable students to
-        understand and make wise, informed and responsible decisions on
-        sexuality matters.
-      button: Click for more details
-      url: /departments/cce/sexuality-education/
-      alt: Image alt text
-      image: /images/Departments/cce_frame.png
   - announcements:
       title: Announcements
       id: announcements
