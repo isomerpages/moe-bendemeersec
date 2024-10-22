@@ -15,9 +15,6 @@ sections:
       variant: image
       title: www
       subtitle: www
-  - infobar:
-      title: BDMS Open House 2024
-      id: infobar
   - infopic:
       title: BDMS Open House 2024
       id: infopic
