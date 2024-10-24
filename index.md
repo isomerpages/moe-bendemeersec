@@ -41,11 +41,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Term 4 Timetable
-          date: 07 September 2024
-          announcement: The new timetable has been published.
-          link_text: View timetable
-          link_url: /resources/class-timetable/
         - title: Secondary 2 Subject Combination Exercise
           date: 24 October 2024
           announcement: Key Information on 2024 Secondry 2 Subject Combination Exercise
@@ -57,6 +52,11 @@ sections:
             following: Chinese Economy Rice Stall and  Malay Economy Rice Stall"
           link_text: Click for more details
           link_url: /school-canteen-ad/
+        - title: Term 4 Timetable
+          date: 07 September 2024
+          announcement: The new timetable has been published.
+          link_text: View timetable
+          link_url: /resources/class-timetable/
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A question?
