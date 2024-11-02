@@ -4,7 +4,7 @@ permalink: /academic-curriculum/mother-tongue/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Learning Outcomes</strong></h4>
+<h4><strong>Our Learning Outcomes</strong></h4>
 <p>The department aims to cultivate a love for Mother Tongue languages (Chinese,
 Malay, and Tamil) by fostering lifelong learning and encouraging practical
 application of language skills beyond the classroom environment. Through
@@ -17,7 +17,7 @@ excel academically, appreciate their cultural heritage, and gain a broader
 global perspective. Ultimately, this enriches their understanding of the
 world around them and prepares them to become well-rounded individuals
 who can contribute meaningfully to society.</p>
-<h4><strong>Approach</strong></h4>
+<h4><strong>Our Approach</strong></h4>
 <p>The department is committed to providing a comprehensive and engaging
 learning experience across Chinese, Malay, and Tamil languages. Whilst
 focusing on essential language skills, each unit designs diverse programmes
