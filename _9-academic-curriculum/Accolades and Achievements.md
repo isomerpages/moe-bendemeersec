@@ -56,4 +56,5 @@ description: ""
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
 <p></p>
-<p></p>
+<p>Click <a href="https://www.instagram.com/bendemeer_secondary_official/" rel="noopener nofollow" target="_blank">here</a> to
+view more of our activities!</p>
