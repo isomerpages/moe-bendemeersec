@@ -4,18 +4,18 @@ permalink: /academic-curriculum/science/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Learning Outcomes</strong></h4>
+<h4><strong>Our Learning Outcomes</strong></h4>
 <p>We believe that every child is unique and has his/her own passion, talents
 and aspiration. To prepare them to be future ready in this fast-paced and
 dynamic environment, the department seek to nurture them to be a critical,
 adaptive and inventive thinkers who is inspired by science, inquire like
 scientists and innovate using science.</p>
-<h4><strong>Approach</strong></h4>
+<h4><strong>Our Approach</strong></h4>
 <p>The Science Department customise and enhance the learning experiences
 of each child through a well-designed science curriculum to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>ncourage students to apply the knowledge, skill sets and competencies
+<p>encourage students to apply the knowledge, skill sets and competencies
 gained in Science to make responsible and well-informed decision in their
 daily lives to solve problems, and contribute to the society, to improve
 self and others.</p>
