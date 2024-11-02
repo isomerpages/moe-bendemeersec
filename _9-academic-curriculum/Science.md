@@ -65,4 +65,24 @@ in external competitions and events like the <em>National History Challenge</em>
 We offer opportunities such as debates, seminars, and forums, allowing
 students to deepen their passion and understanding of the Humanities.</p>
 <h4><strong>Our Achievements</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Biology Olympiad: 2 Silver, 3 Bronze, 1 Honourable Mention (2024)</p>
+</li>
+<li>
+<p>Chemistry Olympiad: 1 Bronze, 1 Merit (2024)</p>
+</li>
+<li>
+<p>TP engineering Olympiad: 1 Bronze, 3 Commendation (2024)</p>
+</li>
+<li>
+<p>Illustratum@ NUS: 1 Distinction, 1 Merit and 1 Special Mention (2024)</p>
+</li>
+<li>
+<p>Mousetrap Car Challenge: 1<sup>st</sup> place (2024)</p>
+</li>
+<li>
+<p>Live-On Essay Writing Competition: Distinction (2022), Merit (2023)</p>
+</li>
+</ul>
 <p></p>
