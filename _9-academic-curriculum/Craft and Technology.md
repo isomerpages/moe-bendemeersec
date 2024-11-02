@@ -4,7 +4,7 @@ permalink: /academic-curriculum/craft-and-technology/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Learning Outcomes</strong></h4>
+<h4><strong>Our Learning Outcomes</strong></h4>
 <p>The elective subjects aim to develop students in three key areas. First,
 they foster holistic development by exposing students to a variety of disciplines,
 such as art, design, business, and music, which builds creativity, critical
@@ -14,7 +14,7 @@ adaptability, and the skills needed for continuous personal and professional
 development. Finally, these subjects promote civic responsibility, teaching
 students to work in teams, show empathy, and contribute positively to society
 as responsible and engaged citizens.</p>
-<h4><strong>Approach</strong></h4>
+<h4><strong>Our Approach</strong></h4>
 <p>The department aims to create an engaging learning environment that helps
 students succeed both personally and academically. By using diverse teaching
 methods like Differentiated Instruction, Inquiry-Based Learning, and Collaborative
