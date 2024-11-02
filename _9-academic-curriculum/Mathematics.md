@@ -4,13 +4,13 @@ permalink: /academic-curriculum/mathematics/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Learning Outcomes</strong></h4>
+<h4><strong>Our Learning Outcomes</strong></h4>
 <p>Our Math Dept envisions all students to achieve mathematical competencies
 through a strong mathematics program that enables every child to do Mathematics
 that is suited to his/her ability and emphasizes on the five components
 (concepts, skills, processes, attitudes, and metacognition) of problem
 solving.</p>
-<h4><strong>Approach</strong></h4>
+<h4><strong>Our Approach</strong></h4>
 <p>Our approach is through promoting and supporting a comprehensive, innovative,
 and dynamic learning environment that nurtures independent learners who
 are competent in logical thinking, critical thinking and analytical thinking
