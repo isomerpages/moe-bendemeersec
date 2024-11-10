@@ -105,9 +105,10 @@ variant: markdown
     <td class="tg-186s">No control over screen time.</td>
   </tr>
   <tr>
-    <td class="tg-186s">Monitor students’ cyber activities</td>
-    <td class="tg-186s" colspan="2">~ A parent/guardian account will be provided to allow parents/guardians to monitor their child’s/ward’s PLD activities after school hours.<br>~ Parents/Guardians will only be able to track their child’s/ward’s browser history after school hours.<br>~ School DMA Admin will have access to the child’s/ward’s browser history logs.<br>~ Teachers will only have access to the child’s/ward’s browser history logs for the class that they teach. Teachers will not have access to the child’s/ward’s browser history logs outside of that specific class.</td>
-    <td class="tg-186s">~ Parents/Guardians will not be provided a parent/guardian account.<br>~ Parents/Guardians will <b><u>not</u></b> be able to monitor or control their child’s/ward’s use of the device through the DMA. No data will be collected during the use of the PLD after school hours.</td>
+    <td class="tg-186s">Monitor child's/ward's cyber activities</td>
+    <td class="tg-186s">Parents/Guardians will not be able to track their child's/ward's browser history. </td>
+    <td class="tg-186s">Parents/Guardians can track their child's/ward's browser history.</td>
+		<td class="tg-186s">Parents/Guardians will <u>not</u> be able to monitor or control their child's/ward's use of the device through the DMA. </td>
   </tr>
 </tbody>
 </table>
