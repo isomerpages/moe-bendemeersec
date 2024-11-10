@@ -100,8 +100,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-186s">Limit screen time</td>
-    <td class="tg-186s">The school will set the hours during which the child/ward will be able to use the device online in a day.</td>
-    <td class="tg-186s">Parents/Guardians can modify the amount of screen time for their child/ward.</td>
+    <td class="tg-186s">The school will define the specific hours during which the device is allowed to access the internet.</td>
+    <td class="tg-186s">Parents/Guardians can: <br>~ modify the amount of screen time for their child/ward by submitting a request to the school; <br>~ turn their child's/ward’s web browsing on or off, controlling whether the device can access the internet; and <br>~ allow/disallow certain categories of web access..</td>
     <td class="tg-186s">No control over screen time.</td>
   </tr>
   <tr>
