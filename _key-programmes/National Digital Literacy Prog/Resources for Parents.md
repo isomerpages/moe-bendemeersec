@@ -18,5 +18,5 @@ Resources for parents and students are available in the table below.
 | SchoolBag - Keeping our teens safe online     | Click on this [link](https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online)     | 
 | National Library's Learning &amp; Information Literacy Resources     | Click on this [link](https://sure.nlb.gov.sg/resources/audience/teachers-and-students/secondary-level-cce)     | 
 | TOUCH Community Services     | Click on this [link](https://www.help123.sg/)     |
-|DMA Parent Guide - Option A|Click on this [link](/files/Keyprogrammes/DMA%20Parent%20Guide%20v2%20Option%20A%20Chrome%20OS.pdf)|
-|DMA Parent Guide - Option B|Click on this [link](/files/Keyprogrammes/DMA%20Parent%20Guide%20v2%20Option%20B%20Chrome%20OS.pdf)|
+|DMA Parent Guide - Option A| Coming soon|
+|DMA Parent Guide - Option B| Coming soon|
