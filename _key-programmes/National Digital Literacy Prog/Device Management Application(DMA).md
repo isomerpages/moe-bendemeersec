@@ -123,8 +123,8 @@ variant: markdown
 
 <p style="text-align:justify">For parents/guardians who prefer alternative DMA settings after school hours, they can choose from the following options:</p>
 
-* <p style="text-align:justify">Option A: Parents can modify DMA settings after school hours</p>
-* <p style="text-align:justify">Option B: Parents can disable the DMA after school hours.</p>
+* <p style="text-align:justify">Option A: DMA settings can be modified</p>
+* <p style="text-align:justify">Option B: DMA will be inactive only during after school hours.</p>
 
 <p style="text-align:justify">Please submit your options using the online DMA option form below -&nbsp;<br></p>
  
@@ -132,4 +132,4 @@ variant: markdown
 
   
 <p style="text-align:justify">Please note that the system will be updated on every 15th of the following month.&nbsp;  <br><br>
-More details of the Functions and DMA settings can be found below.  </p>
+</p>
