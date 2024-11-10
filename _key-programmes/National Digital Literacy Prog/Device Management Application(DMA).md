@@ -53,7 +53,7 @@ variant: markdown
 ### DMA Settings After School Hours
 
 
-<p style="text-align:justify;">1.     During school hours, the Default Setting will apply. Parents/Guardians are given a choice to opt for an Alternative Setting, which will apply only to after school hours. The following table outlines the different levels of restrictions, controls and monitoring for the different DMA options after school hours.</p>
+<p style="text-align:justify;">1.     During school hours, the Default Setting will apply. <br>2. After school hours, parents/guardians have a choice to continue with the Default or opt for an Alternative Setting. The following table outlines the different levels of restrictions, controls, and monitoring for the different DMA options <b>after</b> school hours.</p>
 
 <br>
 <style type="text/css">
