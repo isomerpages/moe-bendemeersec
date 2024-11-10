@@ -43,7 +43,7 @@ sections:
       announcement_items:
         - title: Secondary 2 Subject Combination Exercise
           date: 24 October 2024
-          announcement: Key Information on 2024 Secondry 2 Subject Combination Exercise
+          announcement: Key Information on 2024 Secondary 2 Subject Combination Exercise
           link_text: Click to download (PDF)
           link_url: https://go.gov.sg/bdms-s2keyinfoupdates
         - title: School Canteen Vacancy
