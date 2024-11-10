@@ -50,7 +50,7 @@ variant: markdown
 <br>
 
 
-### DMA Settings After School Hours (from 2025)
+### DMA Settings After School Hours (from Y2025)
 
 
 <p style="text-align:justify;">1.     During school hours, the Default Setting will apply. <br>2. After school hours, parents/guardians have a choice to continue with the Default or opt for an Alternative Setting. The following table outlines the different levels of restrictions, controls, and monitoring for the different DMA options <b>after</b> school hours.</p>
