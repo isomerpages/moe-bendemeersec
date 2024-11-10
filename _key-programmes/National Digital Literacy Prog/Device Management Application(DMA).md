@@ -87,15 +87,16 @@ variant: markdown
     <td class="tg-186s">For parents/guardians who do not want their child’s/ward’s use of the device after school hours to be regulated by the DMA at all.</td>
   </tr>
   <tr>
-    <td class="tg-186s">Protects students from objectionable content</td>
-    <td class="tg-186s">Web content filtering:<br><br>~ Violent/extremist content<br>~ Sexual/pornographic content<br>~ Gambling-related content<br>~ Social media sites</td>
-    <td class="tg-186s">Parents/Guardians can apply additional content filtering.</td>
-    <td class="tg-186s">No content filtering at all.</td>
+    <td class="tg-186s">Protect child/ward from objectionable content</td>
+    <td class="tg-186s">Web content filtering:<br><br>~ Violent/extremist content<br>~ Sexual/pornographic content<br>~ Gambling-related content</td>
+    <td class="tg-186s">Parents/Guardians will be able to include additional web content filtering by submitting a request to the school.</td>
+    <td class="tg-186s">No content filtering at all after school hours.</td>
   </tr>
   <tr>
     <td class="tg-186s">Reduce distractions from learning through control of applications</td>
-    <td class="tg-186s">Parents/Guardians and students will be <b><u>unable</u></b> to install additional applications.</td>
-    <td class="tg-186s" colspan="2">~ Parents/Guardians and/or students will be able to install additional applications after school hours.<br><span style="font-weight:400;font-style:normal">~ Applications installed by parents/guardians and/or students after school hours will be disabled during school hours.</span><br></td>
+    <td class="tg-186s">Parents/Guardians and students <b><u>will not be able to</u></b> install additional applications.</td>
+    <td class="tg-186s">1. Parents/Guardians will be able to install additional applications by submitting a request to the school.<br><span style="font-weight:400;font-style:normal">2. As these applications will be accessible both during and after school hours, please ensure that the requested applications support your child's/ward's learning.</span><br></td>
+		<td class="tg-186s">Parents/Guardians and/or students will be able to install additional applications after school hours. <br> To note:<br>1. The installation of applications would have to be done via the parent’s/student’s personal Google account. <br>2. Applications installed by parents/guardians and/or students after school hours will not be accessible during school hours.</td>
   </tr>
   <tr>
     <td class="tg-186s">Limit screen time</td>
