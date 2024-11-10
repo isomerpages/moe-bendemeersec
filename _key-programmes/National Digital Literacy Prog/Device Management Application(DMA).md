@@ -109,6 +109,11 @@ variant: markdown
     <td class="tg-186s">Parents/Guardians will not be able to track their child's/ward's browser history. </td>
     <td class="tg-186s">Parents/Guardians can track their child's/ward's browser history.</td>
 		<td class="tg-186s">Parents/Guardians will <u>not</u> be able to monitor or control their child's/ward's use of the device through the DMA. </td>
+	</tr><tr>
+		<td>Provision of Parent Account</td>
+		<td>No</td>
+		<td>Yes</td>
+		<td>No</td>
   </tr>
 </tbody>
 </table>
