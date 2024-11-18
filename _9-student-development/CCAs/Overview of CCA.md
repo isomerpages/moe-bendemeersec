@@ -6,31 +6,29 @@ description: ""
 third_nav_title: CCAs
 ---
 <h4><strong>CCA Overview</strong></h4>
-<p>As a key Student Development Experience (SDE), CCAs allow our students
+<p>As a Key Student Development Experience (SDE), CCAs allow our students
 to discover their interests and talents while developing character, social
-emotional competencies as well other relevant skills that will prepare
+emotional&nbsp;competencies as well other relevant skills that will prepare
 them for the rapidly changing world.</p>
-<p>In Bendemeer Secondary School, all CCAs are planned with the following
-guiding principles in mind.</p>
-<h4><strong>Be Anchored in Values</strong></h4>
-<p>Through active participation, our students strengthen the cultivation
-of school values and enact them through an authentic learning environment
-in the CCAs.</p>
-<h4><strong>Dare to Aspire</strong></h4>
-<p>Our students are not bound by their diverse backgrounds as they strive
-collectively for excellence in their respective CCA domains, showing responsibility
-and accountability in their actions and commitments to the best of their
-abilities.</p>
-<h4><strong>Motivate One Another</strong></h4>
-<p>Our CCAs are planned with opportunities for students to develop leadership
-competencies. Our students first learn to exercise personal leadership
-before taking on significant leadership roles in their respective CCAs,
-inspiring and motivating their peers towards team excellence.</p>
-<h4><strong>Strengthen Our Strengths</strong></h4>
-<p>Through CCAs, our students can discover what they are passionate about.
-With a robust support structure in place, they can build on their existing
-strengths to allow them to become better versions of themselves, setting
-themselves up for success.</p>
+<p>Each CCA has its specific objectives. Physical Sports CCAs develop robustness,
+fair play and team spirit in students. Performing Arts CCAs instill in
+students a sense of graciousness and an appreciation for the rich culture
+and heritage of a multi-racial society. Uniformed Groups activities aim
+to make good citizens of students by inculcating in them self-reliance,
+resilience, discipline and a spirit of service to others. Clubs and Societies
+(CS) allow students to explore and extend their interests in wide ranging
+and specialised areas which may be knowledge-based or skills-based. Students
+are honed in information, communication and technical skills as they strive
+to grow their mastery of the specialised areas.&nbsp;</p>
+<p>In Bendemeer, Education and Career Guidance (ECG) is also infused into
+our CCAs. The school’s ECG counsellor interacts with the students and expose
+them to knowledge about industries related to their strengths and interest
+in the respective CCA areas. They are then able to make informed choices
+about future education and career pathways post-secondary education. One
+example is the students from Physical Sports CCAs being exposed to the
+different careers in the Sports Industry through learning journeys and
+workshops tailored for them. They also get to experience how Sports Science
+can help them in their performance in their respective sports.</p>
 <h4><strong>CCA Training Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
