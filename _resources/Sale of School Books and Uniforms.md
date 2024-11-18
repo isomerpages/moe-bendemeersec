@@ -24,7 +24,7 @@ You are strongly encouraged to pre-order to avoid long queues. Payment is requir
 
 **Walk-In**<br>
 You may purchase from the school bookshop on the dates stated above. Please note that longer waiting time may be expected.
-Payment modes accepted: Cash, Paynow (Scan QR Code), NTUC Care Fund (e-voucher) &amp; CDAC (e-voucher).
+Payment modes accepted: Cash, Paynow (Scan QR Code)&amp; NTUC Care Fund (e-voucher).
 Please note that cheque payments are not accepted.
 
 Supplier details:  
