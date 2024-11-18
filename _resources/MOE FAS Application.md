@@ -20,7 +20,7 @@ For more information on the MOE Financial Assistance Scheme (FAS), please refer 
 
 Resources: 
 
-* [MOE FAS Pamphlet in Chinese](/files/Forparents/Moefas/moe_faspamphlet_cl.pdf)
-* [MOE FAS Pamphlet in English](/files/Forparents/Moefas/moe_faspamphlet_el.pdf)
-* [MOE FAS Pamphlet in Malay Language](/files/Forparents/Moefas/moe_faspamphlet_ml.pdf)
-* [MOE FAS Pamphlet in Tamil Language](/files/Forparents/Moefas/moe_faspamphlet_tl.pdf)
+* [MOE FAS Pamphlet in Chinese](/files/Forparents/Moefas/MOE_FAS_Pamphlets_CL.pdf))
+* [MOE FAS Pamphlet in English](/files/Forparents/Moefas/MOE_FAS_Pamphlets_EL.pdf)
+* [MOE FAS Pamphlet in Malay Language](/files/Forparents/Moefas/MOE_FAS_Pamphlets_ML.pdf)
+* [MOE FAS Pamphlet in Tamil Language](/files/Forparents/Moefas/MOE_FAS_Pamphlets_TL.pdf)
