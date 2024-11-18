@@ -44,7 +44,7 @@ sections:
         - title: Booklists for 2025
           date: 18 November 2024
           announcement: The booklists for 2025 are now available.
-          link_text: Click here
+          link_text: Click here for details
           link_url: /resources/booklists/
         - title: Secondary 2 Subject Combination Exercise
           date: 24 October 2024
