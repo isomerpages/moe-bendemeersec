@@ -7,16 +7,9 @@ variant: markdown
 ### **Sale of School Books**
 
 During school holiday, the bookshop is opened on the following days with the operating hours:  
-Mon-Fri: 9.00am - 3.00pm,  Sat: 9.00am - 11.30am.
+Mon-Fri: 9.00am - 2.30pm,  Sat: 9.00am - 11.00am.
 
-|Date | Day |  |
-| - | - | - |
-| 21/12/2023 | Thu | **Sec 1 Only** |
-| 22/12/2023 | Fri | **Sec 1 Only** |
-| 23/12/2023 | Sat | **Sec 1 Only** |
-| 26/12/2023 | Tue | All Levels |
-| 27/12/2023 | Wed | All Levels |
-| 28/12/2023 | Thu | AIl Levels |
+![bookshop opening days](/images/Usefullinks/bookshophours2025.png)
 
 <br>
 
