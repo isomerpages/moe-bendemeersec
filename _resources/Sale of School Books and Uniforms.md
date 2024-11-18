@@ -37,7 +37,7 @@ Supplier details:
 
 ### **Sale of School Uniforms**
 
-Sale of school uniforms will only start from 15 December 2023 at the Level 1 classrooms.  
+Sale of school uniforms will only start from 15 December 2024 at the Level 1 classrooms.  
 
 Supplier details:  
 
