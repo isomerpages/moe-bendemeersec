@@ -5,10 +5,9 @@ variant: markdown
 description: ""
 ---
 During school holiday, the bookshop is opened on the following days with the operating hours:  
+Operating Hours: Mon-Fri: 9.00am - 2.30pm, Sat: 9.00am - 11.00am.
 
 ![bookshop operating hours](/images/Usefullinks/bookshophours2025.png)
-
-Operating Hours: Mon-Fri: 9.00am - 2.30pm, Sat: 9.00am - 11.00am.
 
 Parents and students may download the booklists for 2025 from the links below:
 
