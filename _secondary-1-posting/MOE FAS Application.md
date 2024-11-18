@@ -1,10 +1,10 @@
 ---
 title: MOE FAS Application
-permalink: /resources/moefas/
+permalink: /sec1posting/moefas/
 variant: markdown
 description: ""
 ---
-#### **MOE Financial Assistance Scheme (FAS)**
+#### **MOE Financial Assistance Scheme (FAS)** 
 
 The 2025 MOE Financial Assistance Scheme (FAS) is now accepting applications. 
 
@@ -12,6 +12,7 @@ Parents/Guardians may apply for MOE FAS through the following modes:
 
 *   You can apply [online](https://go.gov.sg/moe-efas).
 *   Alternatively, you can download the [MOE FAS Application form](/files/Forparents/Moefas/MOE_FAS_Application_Form_2025.pdf) or collect a copy at your child’s school. 
+
 
 For more information on the MOE Financial Assistance Scheme (FAS), please refer to the MOE website <a target="_blank" href="https://www.moe.gov.sg/financial-matters/financial-assistance">here</a>.
 

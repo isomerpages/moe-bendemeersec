@@ -3,19 +3,96 @@ title: Resources for Parents
 permalink: /key-programmes/ndlp/parents-resource/
 description: ""
 third_nav_title: National Digital Literacy Prog
+variant: tiptap
 ---
-
-Resources for parents and students are available in the table below.
-
-
-
-|  |  | 
-| -------- | -------- | 
-| Parent Handbook (I) and (II) on Learning with a Personal Learning Device (PLD)     | [Part (I)](/files/Keyprogrammes/pdlp-Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf) <br> [Part (II)](/files/Keyprogrammes/pdlp-Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)     | 
-| Parent Kit on Cyber Wellness for Your Child     | Click on this [link](http://go.gov.sg/moe-cyber-wellness)      | 
-| MOE Cyber Wellness Programme     | Click on this [link](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)     | 
-| SchoolBag - Keeping our teens safe online     | Click on this [link](https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online)     | 
-| National Library's Learning & Information Literacy Resources     | Click on this [link](https://sure.nlb.gov.sg/resources/audience/teachers-and-students/secondary-level-cce)     | 
-| TOUCH Community Services     | Click on this [link](https://www.help123.sg/)     |
-|DMA Parent Guide - Option A|Click on this [link](/files/Keyprogrammes/DMA%20Parent%20Guide%20v2%20Option%20A%20Chrome%20OS.pdf)|
-|DMA Parent Guide - Option B|Click on this [link](/files/Keyprogrammes/DMA%20Parent%20Guide%20v2%20Option%20B%20Chrome%20OS.pdf)|
+<p>Resources for parents and students are available in the table below.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Device Use: Too much or Just Right (New!)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click on this <a href="/files/Keyprogrammes/pdlp-decviceuse_staysafeonline.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parent Handbook (I) and (II) on Learning with a Personal Learning Device
+(PLD)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Keyprogrammes/pdlp-Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">Part (I)</a> 
+<br><a href="/files/Keyprogrammes/pdlp-Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">Part (II)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parent Kit on Cyber Wellness for Your Child</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click on this <a href="http://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">link</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Cyber Wellness Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click on this <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">link</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SchoolBag - Keeping our teens safe online</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click on this <a href="https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online" rel="noopener noreferrer nofollow" target="_blank">link</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Library's Learning &amp; Information Literacy Resources</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click on this <a href="https://sure.nlb.gov.sg/resources/audience/teachers-and-students/secondary-level-cce" rel="noopener noreferrer nofollow" target="_blank">link</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TOUCH Community Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click on this <a href="https://www.help123.sg/" rel="noopener noreferrer nofollow" target="_blank">link</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DMA Parent Guide - Option A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coming soon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DMA Parent Guide - Option B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coming soon</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

@@ -3,8 +3,8 @@ title: Device Management Application(DMA)
 permalink: /key-programmes/ndlp/dma/
 description: ""
 third_nav_title: National Digital Literacy Prog
+variant: markdown
 ---
-
 #### Functions of the DMA
 
 <p style="text-align:justify">A Device Management Application (“DMA”) will come pre-installed on all PLDs purchased through the school, and will be installed on all student-owned devices subject to parental/guardian consent.   </p>
@@ -50,10 +50,10 @@ third_nav_title: National Digital Literacy Prog
 <br>
 
 
-### DMA Settings After School Hours
+#### DMA Settings After School Hours (from Y2025)
 
 
-<p style="text-align:justify;">1.     During school hours, the Default Setting will apply. Parents/Guardians are given a choice to opt for an Alternative Setting, which will apply only to after school hours. The following table outlines the different levels of restrictions, controls and monitoring for the different DMA options after school hours.</p>
+<p style="text-align:justify;">1.     During school hours, the Default Setting will apply. <br>2. After school hours, parents/guardians have a choice to continue with the Default or opt for an Alternative Setting. The following table outlines the different levels of restrictions, controls, and monitoring for the different DMA options <b>after</b> school hours.</p>
 
 <br>
 <style type="text/css">
@@ -75,8 +75,8 @@ third_nav_title: National Digital Literacy Prog
   <tr>
     <th class="tg-186s"></th>
 		<th class="tg-186s"><b>Default Setting</b><br>(This will apply if no Alternative Setting is chosen)<br></th>
-		<th class="tg-186s">Alternative Setting:<br><b>Option A</b><br>(Modify DMA settings)</th>
-		<th class="tg-186s">Alternative Setting:<br><b>Option B</b><br>(Disable DMA)</th>
+		<th class="tg-186s">Alternative Setting:<br><b>Option A</b><br>(DMA settings can be modified)</th>
+		<th class="tg-186s">Alternative Setting:<br><b>Option B</b><br>(DMA will be inactive <b>only</b> after school hours)</th>
   </tr>
 </thead>
 <tbody>
@@ -87,26 +87,33 @@ third_nav_title: National Digital Literacy Prog
     <td class="tg-186s">For parents/guardians who do not want their child’s/ward’s use of the device after school hours to be regulated by the DMA at all.</td>
   </tr>
   <tr>
-    <td class="tg-186s">Protects students from objectionable content</td>
-    <td class="tg-186s">Web content filtering:<br><br>~ Violent/extremist content<br>~ Sexual/pornographic content<br>~ Gambling-related content<br>~ Social media sites</td>
-    <td class="tg-186s">Parents/Guardians can apply additional content filtering.</td>
-    <td class="tg-186s">No content filtering at all.</td>
+    <td class="tg-186s">Protect child/ward from objectionable content</td>
+    <td class="tg-186s">Web content filtering:<br><br>~ Violent/extremist content<br>~ Sexual/pornographic content<br>~ Gambling-related content</td>
+    <td class="tg-186s">Parents/Guardians will be able to include additional web content filtering by submitting a request to the school.</td>
+    <td class="tg-186s">No content filtering at all after school hours.</td>
   </tr>
   <tr>
     <td class="tg-186s">Reduce distractions from learning through control of applications</td>
-    <td class="tg-186s">Parents/Guardians and students will be <b><u>unable</u></b> to install additional applications.</td>
-    <td class="tg-186s" colspan="2">~ Parents/Guardians and/or students will be able to install additional applications after school hours.<br><span style="font-weight:400;font-style:normal">~ Applications installed by parents/guardians and/or students after school hours will be disabled during school hours.</span><br></td>
+    <td class="tg-186s">Parents/Guardians and students <b><u>will not be able to</u></b> install additional applications.</td>
+    <td class="tg-186s">1. Parents/Guardians will be able to install additional applications by submitting a request to the school.<br><span style="font-weight:400;font-style:normal">2. As these applications will be accessible both during and after school hours, please ensure that the requested applications support your child's/ward's learning.</span><br></td>
+		<td class="tg-186s">Parents/Guardians and/or students will be able to install additional applications after school hours. <br> To note:<br>1. The installation of applications would have to be done via the parent’s/student’s personal Google account. <br>2. Applications installed by parents/guardians and/or students after school hours will not be accessible during school hours.</td>
   </tr>
   <tr>
     <td class="tg-186s">Limit screen time</td>
-    <td class="tg-186s">The school will set the hours during which the child/ward will be able to use the device online in a day.</td>
-    <td class="tg-186s">Parents/Guardians can modify the amount of screen time for their child/ward.</td>
+    <td class="tg-186s">The school will define the specific hours during which the device is allowed to access the internet.</td>
+    <td class="tg-186s">Parents/Guardians can: <br>~ modify the amount of screen time for their child/ward by submitting a request to the school; <br>~ turn their child's/ward’s web browsing on or off, controlling whether the device can access the internet; and <br>~ allow/disallow certain categories of web access..</td>
     <td class="tg-186s">No control over screen time.</td>
   </tr>
   <tr>
-    <td class="tg-186s">Monitor students’ cyber activities</td>
-    <td class="tg-186s" colspan="2">~ A parent/guardian account will be provided to allow parents/guardians to monitor their child’s/ward’s PLD activities after school hours.<br>~ Parents/Guardians will only be able to track their child’s/ward’s browser history after school hours.<br>~ School DMA Admin will have access to the child’s/ward’s browser history logs.<br>~ Teachers will only have access to the child’s/ward’s browser history logs for the class that they teach. Teachers will not have access to the child’s/ward’s browser history logs outside of that specific class.</td>
-    <td class="tg-186s">~ Parents/Guardians will not be provided a parent/guardian account.<br>~ Parents/Guardians will <b><u>not</u></b> be able to monitor or control their child’s/ward’s use of the device through the DMA. No data will be collected during the use of the PLD after school hours.</td>
+    <td class="tg-186s">Monitor child's/ward's cyber activities</td>
+    <td class="tg-186s">Parents/Guardians will not be able to track their child's/ward's browser history. </td>
+    <td class="tg-186s">Parents/Guardians can track their child's/ward's browser history.</td>
+		<td class="tg-186s">Parents/Guardians will <u>not</u> be able to monitor or control their child's/ward's use of the device through the DMA. </td>
+	</tr><tr>
+		<td>Provision of Parent Account</td>
+		<td>No</td>
+		<td>Yes</td>
+		<td>No</td>
   </tr>
 </tbody>
 </table>
@@ -116,13 +123,13 @@ third_nav_title: National Digital Literacy Prog
 
 <p style="text-align:justify">For parents/guardians who prefer alternative DMA settings after school hours, they can choose from the following options:</p>
 
-* <p style="text-align:justify">Option A: Parents can modify DMA settings after school hours</p>
-* <p style="text-align:justify">Option B: Parents can disable the DMA after school hours.</p>
+* <p style="text-align:justify">Option A: DMA settings can be modified</p>
+* <p style="text-align:justify">Option B: DMA will be inactive only during after school hours.</p>
 
-<p style="text-align:justify">Please submit your options using the online DMA option form below - <br></p>
+<p style="text-align:justify">Please submit your options using the online DMA option form below -&nbsp;<br></p>
  
  <p style="text-align:center"><a href="https://go.gov.sg/bdms-dmaoptions">https://go.gov.sg/bdms-dmaoptions</a></p>
 
   
-<p style="text-align:justify">Please note that the system will be updated on every 15th of the following month.   <br><br>
-More details of the Functions and DMA settings can be found below.  </p>
+<p style="text-align:justify">Please note that the system will be updated on every 15th of the following month.&nbsp;  <br><br>
+</p>

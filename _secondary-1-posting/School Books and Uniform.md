@@ -11,7 +11,7 @@ Please refer to the following links for more information about the sale of schoo
 
 
 * [Bookshop and Uniform Supplier](/resources/booksuniform/)
-* [Booklists 2024](/resources/booklists/)
+* [Booklists 2025](/resources/booklists/)
 
 
 For Secondary 1 students on the MOE Financial Assistance Scheme(FAS), please obtain the school approval letter from your primary school and proceed to our General Office before collecting your school books and uniforms.

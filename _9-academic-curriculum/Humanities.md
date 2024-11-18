@@ -1,32 +1,36 @@
 ---
 title: Humanities
 permalink: /academic-curriculum/humanities/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<style>
-	.google-slides-container{ position: relative; width: 100%; padding-top: 72%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-</style>
-
-<div class="google-slides-container">
-<iframe allowfullscreen="true" height="605" width="864" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQllM41sHOpzsVXfmLQeC_0hPM5EMhZvJFIszyK-Wv5OrTNWujqZJYEf03hZwT7CUDP0PFADrTqZqLQ/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe></div>
-
-
-#### ** Learning Outcomes**
-This is what we have
-
-
-
-#### **Approach**
-This is what we have
-
-
-
-#### **Key Programmes and Activities**
-##### Sub-Header
-This is what we have
-
-
-
-##### Sub-Header
-This is what we have
+<h4><strong>Our Learning Outcomes</strong></h4>
+<p>We aim to cultivate critical thinkers who are actively engaged with the
+world. Through humanities subjects, students explore the complexities of
+past events, current global challenges, and the significance of responsible
+citizenship. We foster curiosity, analytical skills, and an understanding
+of how human societies shape and are shaped by their environment.</p>
+<h4><strong>Our Approach</strong></h4>
+<p>The Humanities Department uses a student-centered, discussion-based approach,
+encouraging open dialogue and inquiry. Through collaborative discussions,
+students explore diverse perspectives and critically analyze real-world
+issues and historical events.</p>
+<p>Through performance tasks like our Historical and Geographical Investigations,
+students apply inquiry and research skills to explore key themes. We also
+provide opportunities for external competitions and real-world experiences,
+ensuring practical, well-rounded learning.</p>
+<h4><strong>Our Signature Programmes and Activities</strong></h4>
+<p>One of our signature programmes is the <em>War &amp; Diplomacy History Card Game</em>,
+which we host annually at the national level. This event provides students
+from across schools with a platform to engage with historical concepts
+in a strategic and interactive manner, enhancing their understanding of
+history through gameplay.</p>
+<p>Additionally, our in-house Historical and Geogr<em>aphical Investigation Performance Tasks</em> allow
+students to dive deeper into specific topics, honing their research skills
+and critical thinking abilities.</p>
+<h4><strong>Our Talent Development Programme</strong></h4>
+<p>To challenge and stretch our students' talents, we promote participation
+in external competitions and events like the <em>National History Challenge</em> and <em>International Model United Nations (IMUN)</em>.
+We offer opportunities such as debates, seminars, and forums, allowing
+students to deepen their passion and understanding of the Humanities.</p>
+<p></p>
