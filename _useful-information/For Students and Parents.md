@@ -7,7 +7,7 @@ description: ""
 #### **Curriculum Matters**
 
 
-* [Booklists 2024](/resources/booklists/)
+* [Booklists 2025](/resources/booklists/)
 * [Bookshop and Uniform Supplier](/resources/booksuniform/)
 * [Class Timetable](/resources/class-timetable/)
 * [School Calendar](/resources/schcalendar)
