@@ -38,6 +38,8 @@ Supplier details:
 
 Sale of school uniforms will only start from 27 November 2024 at the Level 1 classrooms.  
 
+![school uniform opening hours](/images/Usefullinks/uniformhours.png)
+
 Supplier details:  
 
 |Company name:  | iNTrend Uniforms|
