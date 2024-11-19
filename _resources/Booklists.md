@@ -18,5 +18,5 @@ Parents and students may download the booklists for 2025 from the links below:
 | [Secondary 1](/files/Forparents/Booklists/Booklist_2025_Sec_1.pdf)  |  |
 | [Secondary 2](/files/Forparents/Booklists/Booklist_2025_Sec_2.pdf) |  |
 | [Secondary 3](/files/Forparents/Booklists/Booklist_2025_Sec_3.pdf)  |  |
-| [Sec 4 Express](/files/Forparents/Booklists/Booklist_2025_Sec_4exp.pdf)| [Sec 4 Normal(Academic)](/files/Forparents/Booklists/Booklist_2025_Sec_4na.pdf) | [Sec 4 Normal(Technical)](/files/Forparents/Booklists/Booklist_2025_Sec_4nt.pdf) | 
-| [Sec 5 Normal(Academic)](/files/Forparents/Booklists/Booklist_2025_Sec_5na.pdf)) | ||
+| [Sec 4 Express](/files/Forparents/Booklists/Booklist_2025_Sec_4exp.pdf)| [Sec 4 Normal(Academic)](/files/Forparents/Booklists/Booklist_2025_Sec_4na.pdf) | [Sec 4 Normal(Technical)](/files/Forparents/Booklists/Final_Booklist_2025_4ntv2.pdf) | 
+| [Sec 5 Normal(Academic)](/files/Forparents/Booklists/Final_Booklist_2025_5nav2.pdf) | ||
