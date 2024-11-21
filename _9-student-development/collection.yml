@@ -2,7 +2,6 @@ collections:
   9-student-development:
     output: true
     order:
-      - Applied Learning Programme.md
       - CCAs/.keep
       - CCAs/Overview of CCA.md
       - CCAs/Choir.md
