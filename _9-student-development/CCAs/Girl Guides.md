@@ -16,7 +16,6 @@ global issues like cyber safety and anti-bullying. By joining the World
 Association of Girl Guides and Girl Scouts, Bendemeer Guides have opportunities
 to connect with girls worldwide and make a positive impact on their communities.</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
-<h4>A Year of Growth and Adventure</h4>
 <p><strong>Orientation Day</strong>
 </p>
 <p>The year kicked off with an Orientation Day to welcome new members and
@@ -30,7 +29,8 @@ in the Bendemeer area, stepping out of their comfort zones to connect with
 the community.</p>
 </li>
 </ul>
-<h3>Outdoor Adventures and Challenges</h3>
+<p><strong>Outdoor Adventures and Challenges</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Hike:</strong> A challenging hike from Ponggol to Coney Island
@@ -45,7 +45,8 @@ resilience, and teamwork.</p>
 living, skill development, and camaraderie.</p>
 </li>
 </ul>
-<h3>Skill Development and Personal Growth</h3>
+<p><strong>Skill Development and Personal Growth</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>South Division Day:</strong> Guides participated in competitions
@@ -63,7 +64,10 @@ origami will foster creativity and fine motor skills.</p>
 <h4><strong>Our Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival Arts Presentation 2023 (Accomplishment)</p>
+<p>The Puan Noor Aishah Award (PNA) 2023 - Silver</p>
+</li>
+<li>
+<p>South Division Day Upcycling Competition - Fourth placing</p>
 </li>
 </ul>
 <p></p>
