@@ -20,6 +20,12 @@ expand their knowledge, and network within the tech industry.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p>2023 Drone Odyssey Challenage</p>
+</li>
+<li>
+<p>IMDA</p>
+</li>
+<li>
 <p></p>
 </li>
 </ul>
