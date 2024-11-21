@@ -45,31 +45,24 @@ training.</p>
 <li>
 <p><strong>Signature Police-Related Courses</strong>
 <br>NPCC cadets participate in specialized courses that provide an authentic
-glimpse into police work, such as:</p>
-<ul>
-<li>
-<p>Basic Law: Understanding the fundamentals of Singapore's legal framework.</p>
+glimpse into police work, such as: Basic Law, Police Procedures and Crime
+Scene Investigations.</p>
 </li>
 <li>
-<p>Police Procedures: Gaining insights into the protocols and responsibilities
-of law enforcement officers.</p>
-</li>
-<li>
-<p>Crime Scene Investigation (CSI): Learning how evidence is gathered and
-analyzed in solving crimes.</p>
-</li>
-</ul>
-</li>
-</ul>
 <p><strong>0.22 Revolver Shooting Experience</strong>
 <br>A highlight for many cadets is the opportunity to fire a revolver under
 the supervision of professionals. This thrilling experience sharpens focus,
 patience, and precision while providing insight into the skills needed
 by law enforcement officers.</p>
+</li>
+</ul>
 <h4><strong>Our Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival Arts Presentation 2023 (Accomplishment)</p>
+<p>Unit Overall Proficiency Award (UOPA) Gold from 2019-2023</p>
+</li>
+<li>
+<p>Annual participation in National Police Annual Parade (NPAP)</p>
 </li>
 </ul>
 <p></p>
