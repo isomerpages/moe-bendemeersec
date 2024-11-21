@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-<h4><strong>Our CCA</strong></h4>
+<h4><strong>Our Modern Dance CCA</strong></h4>
 <p>Dance is a powerful catalyst for personal growth. It allows individuals
 to express emotions and ideas through movement, fostering creativity and
 communication skills. Collaborative dance forms promote social interaction
