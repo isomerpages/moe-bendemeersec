@@ -2,6 +2,7 @@ collections:
   8-stud-dev-archive:
     output: true
     order:
+      - Student Awards.md
       - Lets BDMS and CLAPS.md
       - Applied Learning Programme.md
       - Our CCA Philosophy.md
