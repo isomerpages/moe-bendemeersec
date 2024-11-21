@@ -5,24 +5,18 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Our Learning Outcomes</strong></h4>
-<p>The elective subjects aim to develop students in three key areas. First,
-they foster holistic development by exposing students to a variety of disciplines,
-such as art, design, business, and music, which builds creativity, critical
-thinking, and practical skills. Second, they encourage active learning,
-where students take responsibility for their own growth, developing curiosity,
-adaptability, and the skills needed for continuous personal and professional
-development. Finally, these subjects promote civic responsibility, teaching
-students to work in teams, show empathy, and contribute positively to society
-as responsible and engaged citizens.</p>
+<p>We seek to nurture critical thinking, courageous leadership and civic
+responsibility in our students by exposing them to diverse disciplines
+such as art, design, business, and music. Through our curriculum, we cultivate
+well-rounded individuals who are team players and committed to serving
+others.</p>
 <h4><strong>Our Approach</strong></h4>
 <p>The department aims to create an engaging learning environment that helps
-students succeed both personally and academically. By using diverse teaching
-methods like Differentiated Instruction, Inquiry-Based Learning, and Collaborative
-Learning, they address each student's unique needs. Incorporating Authentic
-Learning, Technology-Based Lessons, Activity-Based Lessons, and Problem-Based
-Learning connects students with real-world challenges, boosting their critical
-thinking and problem-solving skills. This combination of approaches ensures
-students are well-prepared for the demands of a changing world.</p>
+students succeed both personally and academically. We do so by incorporating
+Authentic Learning, Activity-Based Lessons, and Problem-Based Learning
+that help to connect students with real-world challenges, boosting their
+critical thinking and problem-solving skills. This combination of approaches
+ensures students are well-prepared for the demands of a changing world</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -40,3 +34,13 @@ in Schools Scheme, Culinary Workshop,</p>
 <p>Artist in Schools Scheme- Partnerships between Singapore arts professionals
 and schools to co-create tailored arts learning experiences that enhance
 student engagement with the arts.</p>
+<h4><strong>Our Achievements</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>IgnITE Skills Challenge: My SustainaBOT! - Silver</p>
+</li>
+<li>
+<p>Junior Chef Competition by Yishun Secondary School – Special Mention</p>
+</li>
+</ul>
+<p></p>
