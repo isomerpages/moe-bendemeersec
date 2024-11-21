@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCAs
 ---
-<h4><strong>Our CCA</strong></h4>
+<h4><strong>Our Girl Guides CCA</strong></h4>
 <p>Bendemeer 1st Coy Girl Guides aims to empower girls to become confident,
 courageous, and compassionate leaders. The program focuses on personal
 and social development, home skills, outdoor activities, community service,
