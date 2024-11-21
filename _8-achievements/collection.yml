@@ -1,5 +1,5 @@
 collections:
-  achievements:
+  8-achievements:
     output: true
     order:
       - Academic Excellence.md
