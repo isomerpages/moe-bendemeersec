@@ -2,21 +2,21 @@ collections:
   student-development:
     output: true
     order:
-      - CCAs/.keep
-      - CCAs/Overview of CCA.md
-      - CCAs/Choir.md
-      - CCAs/Concert Band.md
-      - CCAs/Cross Country.md
-      - CCAs/Drama English.md
-      - CCAs/Football.md
-      - CCAs/Girl Guides.md
-      - CCAs/Infocomm Club.md
-      - CCAs/Modern Dance.md
-      - CCAs/National Cadet Corps.md
-      - CCAs/National Police Cadet Corps.md
-      - CCAs/Red Cross Youth.md
-      - CCAs/Taekwondo.md
-      - CCAs/Tchoukball.md
+      - CCA/.keep
+      - CCA/Overview of CCA.md
+      - CCA/Choir.md
+      - CCA/Concert Band.md
+      - CCA/Cross Country.md
+      - CCA/Drama English.md
+      - CCA/Football.md
+      - CCA/Girl Guides.md
+      - CCA/Infocomm Club.md
+      - CCA/Modern Dance.md
+      - CCA/National Cadet Corps.md
+      - CCA/National Police Cadet Corps.md
+      - CCA/Red Cross Youth.md
+      - CCA/Taekwondo.md
+      - CCA/Tchoukball.md
       - CCE/.keep
       - CCE/CCE Overview.md
       - CCE/Cyber Wellness and Mental Health.md
