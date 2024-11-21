@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-<h4><strong>Our CCA</strong></h4>
+<h4><strong>Our National Cadet Corps CCA</strong></h4>
 <p>The National Cadet Corps (NCC) is a comprehensive program focused on developing
 well-rounded individuals. By integrating leadership training, physical
 fitness, and a sense of national duty, NCC empowers cadets to become responsible
