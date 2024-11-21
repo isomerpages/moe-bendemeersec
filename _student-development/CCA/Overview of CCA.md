@@ -99,7 +99,8 @@ can help them in their performance in their respective sports.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Girl Guides</p>
+<p><a href="/girl-guides/" rel="noopener nofollow" target="_blank">Girl Guides</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursdays</p>
@@ -107,7 +108,8 @@ can help them in their performance in their respective sports.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Cadet Corps</p>
+<p><a href="/national-cadet-corps/" rel="noopener nofollow" target="_blank">National Cadet Corps</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursdays</p>
@@ -115,7 +117,8 @@ can help them in their performance in their respective sports.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Police Cadet Corp</p>
+<p><a href="/national-police-cadet-corps/" rel="noopener nofollow" target="_blank">National Police Cadet Corps</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursdays</p>
@@ -123,7 +126,8 @@ can help them in their performance in their respective sports.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Red Cross Youth</p>
+<p><a href="/red-cross-youth/" rel="noopener nofollow" target="_blank">Red Cross Youth</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursdays</p>
