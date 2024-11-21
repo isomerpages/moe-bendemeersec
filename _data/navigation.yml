@@ -2,9 +2,8 @@ logo: /images/logo.png
 links:
   - title: About Us
     collection: about-us
-  - title: Academic Programmes
-    url: /academic-curriculum/english-department/
-    sublinks: []
+  - title: Academic Curriculum
+    collection: academic-curriculum
   - title: CCA
     collection: cca
   - title: Key Programmes
