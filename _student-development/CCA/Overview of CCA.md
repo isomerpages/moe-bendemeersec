@@ -137,7 +137,8 @@ can help them in their performance in their respective sports.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English Drama</p>
+<p><a href="/drama-english/" rel="noopener nofollow" target="_blank">Drama English</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays, Thursdays</p>
@@ -145,7 +146,8 @@ can help them in their performance in their respective sports.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Modern Dance</p>
+<p><a href="/modern-dance/" rel="noopener nofollow" target="_blank">Modern Dance</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesdays, Thursdays</p>
@@ -153,15 +155,8 @@ can help them in their performance in their respective sports.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tamil Drama</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tuesdays</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Infocomm Club</p>
+<p><a href="/infocomm-club/" rel="noopener nofollow" target="_blank">Infocomm Club</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursdays</p>
