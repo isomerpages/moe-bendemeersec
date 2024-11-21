@@ -35,8 +35,7 @@ teach empathy, teamwork, and the importance of helping others.</p>
 </li>
 <li>
 <p><strong>Camps for Leadership and Adventure</strong>
-</p>
-<p>ffers a variety of camp experiences to foster leadership and teamwork.
+<br>offers a variety of camp experiences to foster leadership and teamwork.
 Unit-organized camps provide opportunities for cadet leaders to plan and
 execute activities for their juniors, while the Area Camp at Pulau Ubin
 immerses cadets in outdoor adventure, bonding activities, and leadership
