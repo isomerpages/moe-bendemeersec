@@ -26,7 +26,7 @@ expand their knowledge, and network within the tech industry.</p>
 <p>IMDA</p>
 </li>
 <li>
-<p></p>
+<p>Hands-on PA System Operation programme</p>
 </li>
 </ul>
 <h4><strong>Our Achievements</strong></h4>
