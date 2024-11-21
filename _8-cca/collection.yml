@@ -1,5 +1,5 @@
 collections:
-  cca:
+  8-cca:
     output: true
     order:
       - Our CCA Philosophy.md
