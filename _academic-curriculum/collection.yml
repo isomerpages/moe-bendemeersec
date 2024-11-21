@@ -2,8 +2,8 @@ collections:
   academic-curriculum:
     output: true
     order:
-      - Craft and Technology.md
       - English Language and Literature.md
+      - Craft and Technology.md
       - Humanities.md
       - Mathematics.md
       - Mother Tongue Languages.md
