@@ -38,7 +38,7 @@ can help them in their performance in their respective sports.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Sports</p>
+<p>CCA</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Training Days</p>
@@ -82,22 +82,6 @@ can help them in their performance in their respective sports.</p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Uniformed Groups</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Training Days</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><a href="/girl-guides/" rel="noopener nofollow" target="_blank">Girl Guides</a>
 </p>
@@ -135,23 +119,8 @@ can help them in their performance in their respective sports.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Performing Arts</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Training Days</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Choir</p>
+<p><a href="/choir/" rel="noopener nofollow" target="_blank">Choir</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays, Tuesdays</p>
@@ -159,7 +128,8 @@ can help them in their performance in their respective sports.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Concert Band</p>
+<p><a href="/concert-band/" rel="noopener nofollow" target="_blank">Concert Band</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays, Thursdays</p>
@@ -188,22 +158,6 @@ can help them in their performance in their respective sports.</p>
 <td rowspan="1" colspan="1">
 <p>Tuesdays</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Clubs and Societies</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Training Days</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
