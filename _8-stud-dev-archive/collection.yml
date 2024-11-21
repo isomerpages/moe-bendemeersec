@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Awards.md
-      - Lets BDMS and CLAPS.md
       - Applied Learning Programme.md
       - Our CCA Philosophy.md
       - Student Council.md
