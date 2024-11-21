@@ -46,7 +46,8 @@ can help them in their performance in their respective sports.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cross Country</p>
+<p><a href="/cross-country/" rel="noopener nofollow" target="_blank">Cross Country</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesdays, Thursdays</p>
@@ -63,7 +64,8 @@ can help them in their performance in their respective sports.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Taekwondo</p>
+<p><a href="/taekwondo/" rel="noopener nofollow" target="_blank">Taekwondo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesdays, Wednesdays</p>
@@ -71,7 +73,8 @@ can help them in their performance in their respective sports.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tchoukball</p>
+<p><a href="/tchoukball/" rel="noopener nofollow" target="_blank">Tchoukball</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Boys: Wednesdays, Thursdays
