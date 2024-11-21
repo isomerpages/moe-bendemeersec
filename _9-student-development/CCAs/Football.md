@@ -65,5 +65,11 @@ advanced tracking systems</p>
 <li>
 <p>2024 NSG ‘C’ Division League 1 – Quarter Finalists</p>
 </li>
+<li>
+<p>2024 SFA Super 7 (Sec 1 Boys) - Champion</p>
+</li>
+<li>
+<p>2024 SFA League (Sec 1-3 Boys) - Runner-up</p>
+</li>
 </ol>
 <p></p>
