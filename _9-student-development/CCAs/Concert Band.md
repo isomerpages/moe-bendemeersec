@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCAs
 ---
-<h4><strong>Our Choir CCA</strong></h4>
+<h4><strong>Our  CCA</strong></h4>
 <p>The ch</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
 <ul data-tight="true" class="tight">
