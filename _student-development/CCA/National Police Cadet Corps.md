@@ -6,19 +6,22 @@ description: ""
 third_nav_title: CCA
 ---
 <h4><strong>Our National Police Cadet Corps CCA</strong></h4>
-<p>The National Police Cadet Corps (NPCC) is a uniformed group co-curricular
-activity (CCA) closely aligned with the Singapore Police Force (SPF). Its
-primary objective is to cultivate responsible citizens with strong values,
-leadership qualities, and a sense of civic duty.</p>
-<p>NPCC strives to instill core values such as discipline, integrity, and
-responsibility in its cadets. By collaborating with the SPF, cadets gain
-valuable insights into Singapore's justice system and law enforcement practices.
-The program offers numerous opportunities for leadership development, including
-organizing camps, drills, and community projects. Physical fitness and
-mental toughness are honed through drills, physical training, and outdoor
-activities. Additionally, NPCC actively engages cadets in crime prevention
-outreach and community service projects, fostering a sense of social responsibility.</p>
+<p>The <strong>National Police Cadet Corps (NPCC)</strong> is a uniformed group
+co-curricular activity (CCA) that is closely affiliated with the Singapore
+Police Force (SPF). It aims to develop students into responsible citizens
+with strong values, leadership, and a sense of civic responsibility.</p>
+<p>Our program instills core values such as discipline, integrity, and responsibility
+in cadets, while offering insights into Singapore's justice system and
+law enforcement through collaboration with the Singapore Police Force (SPF).</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
+<p>Cadets are given opportunities to develop leadership skills by organizing
+and leading activities like camps, drills, and community projects. Physical
+fitness and mental toughness are strengthened through drills, physical
+training, and outdoor activities, while engagement in crime prevention
+outreach and community service projects fosters a strong sense of social
+responsibility.</p>
+<p><strong>Exciting Activities for All-Rounded Development</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Combined Uniformed Group (UG) hike</strong>
@@ -35,7 +38,7 @@ teach empathy, teamwork, and the importance of helping others.</p>
 </li>
 <li>
 <p><strong>Camps for Leadership and Adventure</strong>
-<br>offers a variety of camp experiences to foster leadership and teamwork.
+<br>Offers a variety of camp experiences to foster leadership and teamwork.
 Unit-organized camps provide opportunities for cadet leaders to plan and
 execute activities for their juniors, while the Area Camp at Pulau Ubin
 immerses cadets in outdoor adventure, bonding activities, and leadership
