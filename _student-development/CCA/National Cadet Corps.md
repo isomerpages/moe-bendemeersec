@@ -61,7 +61,16 @@ defence capabilities and their role as a citizen of Singapore.</p>
 <h4><strong>Our Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Awarded Distinction for Unit Recognition from 2018 to 2023</p>
+<p>2023 Awarded Distinction for Unit Recognition</p>
+</li>
+<li>
+<p>2022 Awarded Distinction for Unit Recognition</p>
+</li>
+<li>
+<p>2021 Awarded Distinction for Unit Recognition</p>
+</li>
+<li>
+<p>from 2018 to 2023</p>
 </li>
 </ul>
 <p></p>
