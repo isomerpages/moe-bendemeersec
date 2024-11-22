@@ -26,7 +26,7 @@ is designed to integrate both academic and sporting excellence, ensuring
 that students thrive in both areas.</p>
 <p>As a SFA, support to the students in the Football CCA extends to the following
 areas:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Well-planned training sessions throughout the year</p>
 </li>
@@ -47,9 +47,9 @@ advanced tracking systems</p>
 <li>
 <p>Extension of skills development through combined SFAs training</p>
 </li>
-</ol>
+</ul>
 <h4><strong>Our Achievements</strong></h4>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>2023 NSG ‘B’ Division League 2 – Quarter Finalists</p>
 </li>
@@ -71,6 +71,6 @@ advanced tracking systems</p>
 <li>
 <p>2024 SFA League (Sec 1-3 Boys) - Runner-up</p>
 </li>
-</ol>
+</ul>
 <p></p>
 <p></p>
