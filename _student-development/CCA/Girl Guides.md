@@ -6,7 +6,7 @@ description: ""
 third_nav_title: CCA
 ---
 <h4><strong>Our Girl Guides CCA</strong></h4>
-<p>Bendemeer 1 st Coy Girl Guides aims to help our girls discover and develop
+<p>Bendemeer 1st Coy Girl Guides aims to help our girls discover and develop
 their strengths, skills and fullest potential, to become impactful citizens
 of the world. We want our girls to be courageous, have confidence and character
 to shine in our world by serving others from the heart. Being a member
@@ -18,10 +18,10 @@ build life-long friendships along the way.</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
 <ul>
 <li>
-<p>Orientation Day (January)&nbsp;</p>
+<p>Orientation Day</p>
 </li>
 <li>
-<p>Thinking Day event (February)</p>
+<p>Thinking Day event</p>
 </li>
 <li>
 <p>Combined Uniformed Groups hike at Coney Island&nbsp;</p>
@@ -37,10 +37,7 @@ to residents from the one room rental apartments in the Bendemeer area</p>
 <p>Hosting Energy Efficient Homes for Brownies Competition&nbsp;</p>
 </li>
 <li>
-<p>Dragon Boating (June)</p>
-</li>
-<li>
-<p>Unit Camp (June)</p>
+<p>Dragon Boating and Unit Camp</p>
 </li>
 <li>
 <p>Craft work</p>
