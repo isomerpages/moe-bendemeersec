@@ -4,6 +4,8 @@ permalink: /resources/class-timetable/
 description: ""
 variant: markdown
 ---
+**Class timetables for 2025 Term 1 will be available in December.**
+
 #### **Class timetables for 2024 Term 4**
 
  
