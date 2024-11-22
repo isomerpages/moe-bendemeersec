@@ -2,9 +2,6 @@ collections:
   8-co-curricular:
     output: true
     order:
-      - Physical Education/.keep
-      - Physical Education/Physical Education Department Overview.md
-      - Physical Education/HOD PE Message.md
       - BEE Programme.md
       - Discipline/.keep
       - Discipline/Discipline.md
