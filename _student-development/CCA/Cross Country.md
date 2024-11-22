@@ -32,11 +32,11 @@ engage and compete with peers from other schools.</p>
 <h4><strong>Our Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Koh Jin En, 14th place, B Division Girls, 2021 Virtual Inter-School Challenge</p>
+<p>14th place, B Division Girls, 2021 Virtual Inter-School Challenge</p>
 </li>
 <li>
-<p>Sadayan Haaron Ahmed, Semi-Finalist, C Division Boys 400m, 2023 National
-School Games Track and Field Championships</p>
+<p>Semi-Finalist, C Division Boys 400m, 2023 National School Games Track
+and Field Championships</p>
 </li>
 <li>
 <p>Semi-Finalists, B Division Boys 4x100m Relay, 2024 National School Games
