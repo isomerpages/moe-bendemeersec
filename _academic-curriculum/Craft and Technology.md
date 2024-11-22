@@ -37,9 +37,13 @@ ensures students are well-prepared for the demands of a changing world</p>
 </li>
 </ul>
 <h4><strong>Our Talent Development Programme</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Artist in Schools Scheme- Partnerships between Singapore arts professionals
 and schools to co-create tailored arts learning experiences that enhance
 student engagement with the arts.</p>
+</li>
+</ul>
 <h4><strong>Our Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
