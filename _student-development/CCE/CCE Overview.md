@@ -37,10 +37,10 @@ to the family, school, community, nation and the world. The curriculum
 frame below shows the Core Values, the 3 Big Ideas and the Expanding Domains
 in the CCE syllabus.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="cce frame" src="/images/Departments/cce2.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Cce/cce_frame.png">
+</div>
 <h4><strong>CCE Curriculum Content</strong></h4>
 <ol>
 <li>
