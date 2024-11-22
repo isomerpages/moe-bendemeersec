@@ -2,9 +2,6 @@ collections:
   8-s-t-e-m:
     output: true
     order:
-      - Mathematics/.keep
-      - Mathematics/Mathematics Department Overview.md
-      - Mathematics/HOD Mathematics Message.md
       - ICT/.keep
       - ICT/Information Communication & Technology Dept Overview.md
       - ICT/HOD ICT Message.md
