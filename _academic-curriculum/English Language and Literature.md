@@ -4,10 +4,6 @@ permalink: /academic-curriculum/english-department/
 variant: tiptap
 description: ""
 ---
-<blockquote>
-<p>Cyril Connolly: "While thought exists, words are alive and literature
-becomes an escape, not from, but into living."</p>
-</blockquote>
 <h4><strong>Our Learning Outcomes</strong></h4>
 <p>We seek to develop 21st century competencies in our students through the
 teaching and learning of the English Language and Literature to enable
