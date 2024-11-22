@@ -32,15 +32,15 @@ engage and compete with peers from other schools.</p>
 <h4><strong>Our Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>14th place, B Division Girls, 2021 Virtual Inter-School Challenge</p>
+<p>2024 National School Games Track and Field Championships, B Division Boys
+4x100m Relay: Semi-finalists</p>
 </li>
 <li>
-<p>Semi-Finalist, C Division Boys 400m, 2023 National School Games Track
-and Field Championships</p>
+<p>2023 National School Games Track and Field Championships, C Division Boys
+400m: Semi-finalists</p>
 </li>
 <li>
-<p>Semi-Finalists, B Division Boys 4x100m Relay, 2024 National School Games
-Track and Field Championships</p>
+<p>2021 Virtual Inter-School Challenge, B Division Girls, 14th place.</p>
 </li>
 </ul>
 <p></p>
