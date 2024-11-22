@@ -4,14 +4,14 @@ collections:
     order:
       - CCA/.keep
       - CCA/Overview of CCA.md
-      - CCA/Modern Dance.md
-      - CCA/Infocomm Club.md
       - CCA/Choir.md
       - CCA/Concert Band.md
       - CCA/Cross Country.md
       - CCA/Drama English.md
       - CCA/Football.md
       - CCA/Girl Guides.md
+      - CCA/Infocomm Club.md
+      - CCA/Modern Dance.md
       - CCA/National Cadet Corps.md
       - CCA/National Police Cadet Corps.md
       - CCA/Red Cross Youth.md
