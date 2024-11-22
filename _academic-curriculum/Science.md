@@ -38,7 +38,7 @@ of science related skills and competencies were harnessed.</p>
 <p>Inquiry based learning</p>
 </li>
 <li>
-<p>Collaborative Learnin</p>
+<p>Collaborative Learning</p>
 </li>
 <li>
 <p>Problem-based Learning (with STEAM integration</p>
@@ -84,22 +84,25 @@ partners (e.g. ApLM by Polytechnics, sustainability and energy talk)</p>
 <h4><strong>Our Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Biology Olympiad: 2 Silver, 3 Bronze, 1 Honourable Mention (2024)</p>
+<p>2024 Biology Olympiad: 2 Silver, 3 Bronze, 1 Honourable Mention</p>
 </li>
 <li>
-<p>Chemistry Olympiad: 1 Bronze, 1 Merit (2024)</p>
+<p>2024 Chemistry Olympiad: 1 Bronze, 1 Merit</p>
 </li>
 <li>
-<p>TP engineering Olympiad: 1 Bronze, 3 Commendation (2024)</p>
+<p>2024 Temasek Polytechnic Engineering Olympiad: 1 Bronze, 3 Commendation</p>
 </li>
 <li>
-<p>Illustratum@ NUS: 1 Distinction, 1 Merit and 1 Special Mention (2024)</p>
+<p>2024 Illustratum@ NUS: 1 Distinction, 1 Merit and 1 Special Mention</p>
 </li>
 <li>
-<p>Mousetrap Car Challenge: 1<sup>st</sup> place (2024)</p>
+<p>2024 Mousetrap Car Challenge: 1<sup>st</sup> place</p>
 </li>
 <li>
-<p>Live-On Essay Writing Competition: Distinction (2022), Merit (2023)</p>
+<p>2023 Live-On Essay Writing Competition: Merit</p>
+</li>
+<li>
+<p>2022 Live-On Essay Writing Competition: Distinction</p>
 </li>
 </ul>
 <p></p>

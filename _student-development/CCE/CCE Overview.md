@@ -11,7 +11,7 @@ development of our students, leading to positive life outcomes. CCE 2021
 provides an integrated approach to addressing our students’ development
 of values, character, social-emotional well-being, and citizenship dispositions
 in a coherent and holistic way.</p>
-<h4>CCE 2021 aims to develop in our students:&nbsp;</h4>
+<h4><strong>CCE 2021 aims to develop in our students:&nbsp;</strong></h4>
 <p>a) <strong>Good character</strong>: Have a sound moral compass and a strong
 sense of right and wrong, think critically and ethically, be discerning
 in judgment, take responsibility for choices and actions, be caring towards
@@ -37,10 +37,10 @@ to the family, school, community, nation and the world. The curriculum
 frame below shows the Core Values, the 3 Big Ideas and the Expanding Domains
 in the CCE syllabus.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="cce frame" src="/images/Departments/cce2.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Cce/cce_frame.png">
+</div>
 <h4><strong>CCE Curriculum Content</strong></h4>
 <ol>
 <li>
