@@ -68,9 +68,7 @@ defence capabilities and their role as a citizen of Singapore.</p>
 </li>
 <li>
 <p>2021 Awarded Distinction for Unit Recognition</p>
-</li>
-<li>
-<p>2021 Awarded Distinction for Unit Recognition</p>
+<p></p>
 </li>
 </ul>
 <p></p>
