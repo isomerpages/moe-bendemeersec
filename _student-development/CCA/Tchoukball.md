@@ -32,16 +32,16 @@ experience to full matches.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>2024 ActiveSG-TBAS Inter-Schools Championships – National Champions</p>
+<p>2024 ActiveSG-TBAS Inter-Schools Championships – National champion</p>
 </li>
 <li>
-<p>2023 ActiveSG-TBAS Inter-Schools Championships &nbsp;– National Champions</p>
+<p>2023 ActiveSG-TBAS Inter-Schools Championships &nbsp;– National champion</p>
 </li>
 <li>
-<p>2019 TBAS Inter-Schools Championship &nbsp;– National Champions</p>
+<p>2019 TBAS Inter-Schools Championship &nbsp;– National champion</p>
 </li>
 <li>
-<p>2017 TBAS Inter-Schools Championship – National champions</p>
+<p>2017 TBAS Inter-Schools Championship – National champion</p>
 </li>
 </ul>
 <p></p>
@@ -57,10 +57,10 @@ experience to full matches.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>2023 ActiveSG-TBAS Inter-Schools Championships &nbsp;– National Champions</p>
+<p>2023 ActiveSG-TBAS Inter-Schools Championships &nbsp;– National champion</p>
 </li>
 <li>
-<p>2018 TBAS Inter-Schools Championship – National champions</p>
+<p>2018 TBAS Inter-Schools Championship – National champion</p>
 </li>
 </ul>
 </td>
@@ -75,13 +75,13 @@ experience to full matches.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>2019 TBAS Inter-Schools Championship – National champions</p>
+<p>2019 TBAS Inter-Schools Championship – National champion</p>
 </li>
 <li>
-<p>2018 TBAS Inter-Schools Championship – National champions</p>
+<p>2018 TBAS Inter-Schools Championship – National champion</p>
 </li>
 <li>
-<p>2017 TBAS Inter-Schools Championship – National champions</p>
+<p>2017 TBAS Inter-Schools Championship – National champion</p>
 </li>
 </ul>
 </td>
@@ -96,10 +96,10 @@ experience to full matches.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>2017 TBAS Inter-Schools Championship – National champions</p>
+<p>2017 TBAS Inter-Schools Championship – National champion</p>
 </li>
 <li>
-<p>2016 TBAS Inter-Schools Championship – National champions</p>
+<p>2016 TBAS Inter-Schools Championship – National champion</p>
 </li>
 </ul>
 </td>
