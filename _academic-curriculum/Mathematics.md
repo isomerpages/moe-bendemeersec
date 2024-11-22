@@ -57,9 +57,8 @@ real-world situation.
 <h4><strong>Our Talent Development Programme</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Participation in Math Olympiad Training programme to participate in the
-Singapore and Asian Schools Math Olympiad Competition (SASMO) and other
-national competitions.</p>
+<p>Participation in Math Olympiad Training programme for the Singapore and
+Asian Schools Math Olympiad Competition (SASMO) and other national competitions.</p>
 </li>
 </ul>
 <h4><br><strong>Our Achievements</strong></h4>
