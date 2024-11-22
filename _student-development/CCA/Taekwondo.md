@@ -15,19 +15,18 @@ into confident individuals who embody the values of perseverance and integrity.<
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Belt Grading and Certification</strong>: Regular grading sessions
-for students to advance in their Taekwondo journey, achieving higher belt
-ranks and mastering advanced techniques.</p>
+<p>Belt Grading and Certification: Regular grading sessions for students
+to advance in their Taekwondo journey, achieving higher belt ranks and
+mastering advanced techniques.</p>
 </li>
 <li>
-<p><strong>Annual Taekwondo Showcase</strong>: An exciting platform where
-students demonstrate their skills in poomsae (forms) and sparring to parents
-and peers.</p>
+<p>Annual Taekwondo Showcase: An exciting platform where students demonstrate
+their skills in poomsae (forms) and sparring to parents and peers.</p>
 </li>
 <li>
-<p><strong>Inter-School Competitions</strong>: Participation in National
-School Games and Whampoa Poomsae Championship to foster a competitive spirit
-and showcase the students’ prowess.</p>
+<p>Inter-School Competitions: Participation in National School Games and
+Whampoa Poomsae Championship to foster a competitive spirit and showcase
+the students’ prowess.</p>
 </li>
 </ul>
 <h4><strong>Our Achievements</strong></h4>
