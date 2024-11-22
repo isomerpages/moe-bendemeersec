@@ -32,10 +32,10 @@ Day, National Day</p>
 <p>Choral Exchanges with other schools</p>
 </li>
 <li>
-<p>Choir School Camp (29 May to 30 May 2024)</p>
+<p>Choir School Camp</p>
 </li>
 <li>
-<p>Singapore Youth Festival Arts Presentation 2025</p>
+<p>Singapore Youth Festival Arts Presentation</p>
 </li>
 <li>
 <p>Welcome Secondary Ones &amp; Farewell Graduands</p>
