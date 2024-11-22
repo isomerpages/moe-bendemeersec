@@ -133,7 +133,7 @@ Mother Tongue languages and cultures.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Particpated in the 2024 11th National Chinese Challenge (Secondary School
+<p>Participated in the 2024 11th National Chinese Challenge (Secondary School
 Category)</p>
 </li>
 <li>
@@ -183,7 +183,7 @@ Second Prize Award Winner (Lower Sec Category)</p>
 <p>2024 Drama in Navarasam: 2nd runner-up</p>
 </li>
 <li>
-<p>2024 S5 Cluster Tamil Drama Festival</p>
+<p>Participated in 2024 S5 Cluster Tamil Drama Festival</p>
 </li>
 <li>
 <p>2023 Naanum Oru Padaipaali (Budding Artistes): Winner</p>
