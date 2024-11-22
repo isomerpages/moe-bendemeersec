@@ -66,6 +66,14 @@ learning, and a deeper appreciation for linguistic and cultural diversity.</p>
 </li>
 </ul>
 <h4>Tamil Language</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Pongal Festival</p>
+</li>
+<li>
+<p>Deepavali Celebrations</p>
+</li>
+</ul>
 <p></p>
 <h4><strong>Our Talent Development Programme</strong></h4>
 <p>The Mother Tongue Department actively promotes language proficiency and
