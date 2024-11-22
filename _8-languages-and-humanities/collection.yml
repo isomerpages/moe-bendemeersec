@@ -1,10 +1,4 @@
 collections:
   8-languages-and-humanities:
     output: true
-    order:
-      - Mother Tongue/.keep
-      - Mother Tongue/Mother Tongue Dept Overview.md
-      - Mother Tongue/HOD Mother Tongue's Message.md
-      - Mother Tongue/Chinese Language.md
-      - Mother Tongue/Malay Language.md
-      - Mother Tongue/Tamil Language.md
+    order: []
