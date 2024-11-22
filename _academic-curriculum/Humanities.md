@@ -20,17 +20,30 @@ students apply inquiry and research skills to explore key themes. We also
 provide opportunities for external competitions and real-world experiences,
 ensuring practical, well-rounded learning.</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
-<p>One of our signature programmes is the <em>War &amp; Diplomacy History Card Game</em>,
-which we host annually at the national level. This event provides students
-from across schools with a platform to engage with historical concepts
-in a strategic and interactive manner, enhancing their understanding of
-history through gameplay.</p>
-<p>Additionally, our in-house Historical and Geogr<em>aphical Investigation Performance Tasks</em> allow
-students to dive deeper into specific topics, honing their research skills
-and critical thinking abilities.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>War &amp; Diplomacy History Card Game</strong>, which we host
+annually at the national level. This event provides students from across
+schools with a platform to engage with historical concepts in a strategic
+and interactive manner, enhancing their understanding of history through
+gameplay.</p>
+</li>
+<li>
+<p><strong>Historical and Geographical Investigation Performance Tasks, </strong>designed
+in-house,<strong> </strong>allow students to dive deeper into specific
+topics, honing their research skills and critical thinking abilities.</p>
+</li>
+</ul>
 <h4><strong>Our Talent Development Programme</strong></h4>
-<p>To challenge and stretch our students' talents, we promote participation
-in external competitions and events like the <em>National History Challenge</em> and <em>International Model United Nations (IMUN)</em>.
-We offer opportunities such as debates, seminars, and forums, allowing
-students to deepen their passion and understanding of the Humanities.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National History Challenge and</p>
+</li>
+<li>
+<p>International Model United Nations (IMUN)</p>
+</li>
+<li>
+<p>Debates, seminars, and forums</p>
+</li>
+</ul>
 <p></p>
