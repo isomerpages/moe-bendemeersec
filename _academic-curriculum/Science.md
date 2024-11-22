@@ -51,19 +51,36 @@ of science related skills and competencies were harnessed.</p>
 </li>
 </ul>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
-<p>One of our signature programmes is the <em>War &amp; Diplomacy History Card Game</em>,
-which we host annually at the national level. This event provides students
-from across schools with a platform to engage with historical concepts
-in a strategic and interactive manner, enhancing their understanding of
-history through gameplay.</p>
-<p>Additionally, our in-house <em>Historical and Geographical Investigation Performance Tasks</em> allow
-students to dive deeper into specific topics, honing their research skills
-and critical thinking abilities.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>School-wide: Applied Learning Programme (ALP) with a focus on STEAM integration</p>
+</li>
+<li>
+<p>Secondary 1: Science Enrichment Workshop</p>
+</li>
+<li>
+<p>Secondary 2: Science integrative activity cum STEM playground challenge</p>
+</li>
+<li>
+<p>Secondary 3: STEAM Challenge and Sustainability Workshop</p>
+</li>
+</ul>
 <h4><strong>Our Talent Development Programme</strong></h4>
-<p>To challenge and stretch our students' talents, we promote participation
-in external competitions and events like the <em>National History Challenge</em> and <em>International Model United Nations (IMUN)</em>.
-We offer opportunities such as debates, seminars, and forums, allowing
-students to deepen their passion and understanding of the Humanities.</p>
+<ul>
+<li>
+<p>Participation in various competition and training (e.g. Science Olympiads,
+GMAC Challenge, Live-On Essay Writing Competition, TP Engineering Olympiad,
+Illustratum@ NUS, STEM Playground)</p>
+</li>
+<li>
+<p>Participation in various Science Learning Journeys (e.g. NUS Demo Lab,
+NUS Anatomy Lab, OceanXplorers, Mangrove Trail)</p>
+</li>
+<li>
+<p>Participation in Science related Talks or workshop by experts/ industry
+partners (e.g. ApLM by Polytechnics, sustainability and energy talk)</p>
+</li>
+</ul>
 <h4><strong>Our Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
