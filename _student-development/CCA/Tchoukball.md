@@ -12,10 +12,16 @@ rigorous training sessions, members cultivate self-discipline, confidence,
 and technical prowess, preparing them for both local and international
 competitions.</p>
 <h4><strong>Our Signature Programmes and Achievements</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Tchoukball Training Camp - Purpose of the training camp allows players
 to focus on improving specific drills, strategies, or player development</p>
+</li>
+<li>
 <p>Inter-School Friendly competitions - To increase players' exposure and
 experience to full matches.</p>
+</li>
+</ul>
 <h4><strong>Our Achievements</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
