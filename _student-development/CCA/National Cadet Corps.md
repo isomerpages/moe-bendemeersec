@@ -6,10 +6,11 @@ description: ""
 third_nav_title: CCA
 ---
 <h4><strong>Our National Cadet Corps CCA</strong></h4>
-<p>In NCC, our programmes revolve around three key thrusts: Leadership, Fitness
-and Commitment to Singapore. NCC has a comprehensive leadership competency
-model that is infused in the NCC curriculum to ensure cadets’ are equipped
-with the leadership skills at the end of the 4-5 years in NCC.</p>
+<p>In National Cadet Corps (NCC), our programmes revolve around three key
+thrusts: Leadership, Fitness and Commitment to Singapore. NCC has a comprehensive
+leadership competency model that is infused in the NCC curriculum to ensure
+cadets’ are equipped with the leadership skills at the end of the 4-5 years
+in NCC.</p>
 <p>NCC also offers a wide range of adventure and experiential programmes
 to develop resourceful, responsible, resilient, loyal leaders and team
 players.Cadets will also have opportunities to participate in national
