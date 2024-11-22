@@ -6,27 +6,24 @@ description: ""
 third_nav_title: CCA
 ---
 <h4><strong>Our Choir CCA</strong></h4>
-<p>The choir's mission is to nurture well-rounded individuals who are confident,
-adaptable, and resilient leaders. They aim to foster self-directed learning,
-curiosity, and perseverance in their members, encouraging a lifelong love
-of music and singing.</p>
-<p>The choir also emphasizes civic consciousness and community engagement.
-Members are encouraged to actively participate in community and national
-performances, demonstrating their responsibility to their family, community,
-and nation.</p>
-<p>To complement these goals, the choir prioritizes the development of social-emotional
-competencies. Members will learn to cultivate self-awareness, social awareness,
-self-management, and responsible decision-making. By grounding them in
-strong values, the choir aims to equip them with the tools to navigate
-life's challenges and opportunities.</p>
+<p>Our goal is to nurture choir members into confident individuals who embrace
+life with adaptability and resilience. We aim to help them build on their
+strengths, develop discernment in judgment, and communicate effectively
+as leaders of tomorrow. Through their journey, they will grow as self-directed
+learners and team players who take responsibility for their own growth,
+driven by a passion for music and singing, while cultivating curiosity
+and perseverance in their lifelong learning.</p>
+<p>Additionally, we seek to instill a strong sense of civic responsibility
+in our members, encouraging them to be engaged citizens. They will develop
+a sense of responsibility to their family, community, and nation, actively
+participating in public performances. Alongside this, we emphasize the
+importance of values and social-emotional competencies, fostering skills
+in self-awareness, social awareness, self-management, and responsible decision-making.</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>Training sessions on Mondays &amp; Tuesdays from 3.30 pm to 6 pm</p>
-</li>
-<li>
-<p>School performances such as Chinese New Year Concerts, Speech Day, National
-Day</p>
+<p>School performances such as Chinese New Year Concerts, Speech and Awards
+Day, National Day</p>
 </li>
 <li>
 <p>Voices of Singapore Festival (annually in September) at Chijmes</p>
