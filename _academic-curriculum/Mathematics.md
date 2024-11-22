@@ -22,8 +22,6 @@ context. We also leverage on the following Technology and Tools to enhance
 the learning of our students - Google Classroom, GeoGebra and Desmos, Multimedia
 Contents, Feedback Assistant and Online Quizzes in SLS.</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
-<p><strong>Mathematics Department Programmes and Activities</strong>
-</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mathematics Customised Instructional Programme&nbsp;</p>
