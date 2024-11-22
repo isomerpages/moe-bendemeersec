@@ -133,14 +133,15 @@ Mother Tongue languages and cultures.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>11th National Chinese Challenge (Secondary School Category)</p>
+<p>Particpated in the 2024 11th National Chinese Challenge (Secondary School
+Category)</p>
 </li>
 <li>
-<p>22nd National Secondary School Chinese Creative Writing Competition: Second
-Prize Award Winner (Lower Sec Category)</p>
+<p>2024 22nd National Secondary School Chinese Creative Writing Competition:
+Second Prize Award Winner (Lower Sec Category)</p>
 </li>
 <li>
-<p>38th National Secondary School Cross Talk Competition</p>
+<p>Participated in the 2024 38th National Secondary School Cross Talk Competition</p>
 </li>
 </ul>
 </div>
