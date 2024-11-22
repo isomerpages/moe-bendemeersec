@@ -55,8 +55,11 @@ real-world situation.
 <br>
 </p>
 <h4><strong>Our Talent Development Programme</strong></h4>
-<p><strong>Math Olympiad Training programme:</strong>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Math Olympiad Training programme:</p>
+</li>
+</ul>
 <p>Students who excel in Mathematics are identified and undergo 10 sessions
 of the Math Olympiad Training programme. They are&nbsp; groomed to participate
 in the Singapore and Asian Schools Math Olympiad Competition (SASMO) and
