@@ -57,37 +57,26 @@ real-world situation.
 <h4><strong>Our Talent Development Programme</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Participation in Math Olympiad Training programme for the Singapore and
-Asian Schools Math Olympiad Competition (SASMO) and other national competitions.</p>
+<p>Participation in Mathematics Olympiad Training programme for the Singapore
+and Asian Schools Mathematics Olympiad Competition (SASMO) and other national
+competitions.</p>
 </li>
 </ul>
 <h4><br><strong>Our Achievements</strong></h4>
-<p><strong>Singapore and Asian Schools Math Olympiad Competition (SASMO):</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Singapore and Asian Schools Mathematics Olympiad Competition (SASMO):</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024 Awards</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold(1), Silver(2), Bronze(10) and Honorable Mention(6)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023 Awards</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver(3), Bronze(6) and Honorable Mention(3)&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>2024 Awards : Gold(1), Silver(2), Bronze(10) and Honorable Mention(6)</p>
+</li>
+<li>
+<p>2023 Awards : Silver(3), Bronze(6) and Honorable Mention(3)&nbsp;</p>
+</li>
+</ul>
+</li>
+<li>
 <p><strong>Animation and Game Making (AGM) Competition 2024:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -96,6 +85,8 @@ Asian Schools Math Olympiad Competition (SASMO) and other national competitions.
 </li>
 <li>
 <p>Gold Award for the Gaming Category</p>
+</li>
+</ul>
 </li>
 </ul>
 <p>
