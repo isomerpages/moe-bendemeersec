@@ -2,7 +2,6 @@ collections:
   8-co-curricular:
     output: true
     order:
-      - BEE Programme.md
       - Discipline/.keep
       - Discipline/Discipline.md
       - Discipline/The SOAR Programme.md
