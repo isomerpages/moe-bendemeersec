@@ -1,7 +1,0 @@
-collections:
-  8-s-t-e-m:
-    output: true
-    order:
-      - ICT/.keep
-      - ICT/Information Communication & Technology Dept Overview.md
-      - ICT/HOD ICT Message.md
