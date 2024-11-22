@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Our Learning Outcomes</strong></h4>
-<p>Our Math Dept envisions all students to achieve mathematical competencies
-through a strong mathematics program that enables every child to do Mathematics
+<p>Our Mathematics Dept envisions all students to achieve mathematical competencies
+through a strong mathematics programme that enables every child to do Mathematics
 that is suited to his/her ability and emphasizes on the five components
 (concepts, skills, processes, attitudes, and metacognition) of problem
 solving.</p>
@@ -22,29 +22,29 @@ context. We also leverage on the following Technology and Tools to enhance
 the learning of our students - Google Classroom, GeoGebra and Desmos, Multimedia
 Contents, Feedback Assistant and Online Quizzes in SLS.</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
-<p><strong>Math Department Programmes and Activities</strong>
+<p><strong>Mathematics Department Programmes and Activities</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Math Customised Instructional Programme&nbsp;</p>
+<p>Mathematics Customised Instructional Programme&nbsp;</p>
 </li>
 <li>
-<p>Math Bridging Programme</p>
+<p>Mathematics Bridging Programme</p>
 </li>
 <li>
-<p>Math Academic Support Progamme</p>
+<p>Mathematics Academic Support Progamme</p>
 </li>
 <li>
 <p>Financial Literacy Programme</p>
 </li>
 <li>
-<p>Math Olympiad Training Programme</p>
+<p>Mathematics Olympiad Training Programme</p>
 </li>
 <li>
-<p>Math Trails</p>
+<p>Mathematics Trails</p>
 </li>
 <li>
-<p>Math Week</p>
+<p>Mathematics Week</p>
 </li>
 </ul>
 <p>Our department adopts Polya’s Problem-solving model to equip students
