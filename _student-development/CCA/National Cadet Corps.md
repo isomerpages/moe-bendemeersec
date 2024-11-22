@@ -70,7 +70,7 @@ defence capabilities and their role as a citizen of Singapore.</p>
 <p>2021 Awarded Distinction for Unit Recognition</p>
 </li>
 <li>
-<p>from 2018 to 2023</p>
+<p>2021 Awarded Distinction for Unit Recognition</p>
 </li>
 </ul>
 <p></p>
