@@ -39,18 +39,18 @@ ensures students are well-prepared for the demands of a changing world</p>
 <h4><strong>Our Talent Development Programme</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Artist in Schools Scheme- Partnerships between Singapore arts professionals
-and schools to co-create tailored arts learning experiences that enhance
-student engagement with the arts.</p>
+<p>Artist in Schools Scheme- Partnership between Singapore arts professional,
+Ms Tan Zi Xi and school to co-create tailored arts learning experiences
+that enhance student engagement with the arts.</p>
 </li>
 </ul>
 <h4><strong>Our Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>IgnITE Skills Challenge: My SustainaBOT! - Silver</p>
+<p>2024 IgnITE Skills Challenge: My SustainaBOT! - Silver</p>
 </li>
 <li>
-<p>Junior Chef Competition by Yishun Secondary School – Special Mention</p>
+<p>2024 Junior Chef Competition by Yishun Secondary School – Special Mention</p>
 </li>
 </ul>
 <p></p>
