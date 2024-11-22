@@ -20,14 +20,20 @@ ensures students are well-prepared for the demands of a changing world</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>School-wide - Lunchtime Concert&nbsp;&nbsp;</p>
+<p>School-wide:
+<br>- Lunchtime Concert&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>Lower Secondary - Elective Music /Art, Master Chef,&nbsp;</p>
+<p>Lower Secondary:
+<br>- Elective Music /Art,
+<br>- Master Chef,&nbsp;</p>
 </li>
 <li>
-<p>Upper Secondary -&nbsp; Elective Music/Art, O Level Music Programme, Artist
-in Schools Scheme, Culinary Workshop,</p>
+<p>Upper Secondary:
+<br>-&nbsp;Elective Music/Art,
+<br>- O Level Music Programme,
+<br>- Artist in Schools Scheme,
+<br>- Culinary Workshop,</p>
 </li>
 </ul>
 <h4><strong>Our Talent Development Programme</strong></h4>
