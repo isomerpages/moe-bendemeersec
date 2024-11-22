@@ -38,7 +38,7 @@ of science related skills and competencies were harnessed.</p>
 <p>Inquiry based learning</p>
 </li>
 <li>
-<p>Collaborative Learnin</p>
+<p>Collaborative Learning</p>
 </li>
 <li>
 <p>Problem-based Learning (with STEAM integration</p>
