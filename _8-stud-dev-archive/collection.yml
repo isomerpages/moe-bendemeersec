@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Student Awards.md
-      - Our CCA Philosophy.md
       - Student Council.md
