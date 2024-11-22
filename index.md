@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner01s.jpg
+      background: /images/hero_banner04.jpg
       variant: image
       title: www
       subtitle: www
