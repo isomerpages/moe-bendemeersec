@@ -38,11 +38,11 @@ effectively.</p>
 <h4><strong>Our Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival Arts Presentation for Drama 2023 (Certification
-of Accomplishment)</p>
+<p>2023 Singapore Youth Festival Arts Presentation for Drama - Certification
+of Accomplishment</p>
 </li>
 <li>
-<p>Digital Drama Challenge 2023 (Best Production)</p>
+<p>2023 Digital Drama Challenge - Best Production</p>
 </li>
 </ul>
 <p></p>
