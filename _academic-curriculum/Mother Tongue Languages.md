@@ -76,8 +76,8 @@ learning, and a deeper appreciation for linguistic and cultural diversity.</p>
 </ul>
 <p></p>
 <h4><strong>Our Talent Development Programme</strong></h4>
-<p>The Mother Tongue Department actively promotes language proficiency and
-creativity across Chinese, Malay, and Tamil languages. These initiatives
+<p>The Mother Tongue Language Department actively promotes language proficiency
+and creativity across Chinese, Malay, and Tamil languages. These initiatives
 collectively demonstrate the department's commitment to enhancing students'
 language skills and fostering a deep appreciation for their respective
 Mother Tongue languages and cultures.</p>
