@@ -17,8 +17,6 @@ students on drone operation and engage them in simulation exercises. These
 collective efforts will pave the way for our youth to be trained in Overseas
 Disaster Deployment Training in future, which will open avenues for volunteering
 opportunities such as overseas disaster response.&nbsp;</p>
-<p>We take pride in making a meaningful difference in the lives of others
-and lend a Hand for Humanity!</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
 <p>Our key programmes include First Aid training and besides training the
 cadets in Standard First Aid, our revised curriculum will emphasise mental
