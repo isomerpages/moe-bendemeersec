@@ -30,7 +30,9 @@ the students’ prowess.</p>
 </li>
 </ul>
 <h4><strong>Our Achievements</strong></h4>
-<p><strong>National Schools Games (NSG) 2024</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Schools Games (NSG) 2024:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>C Division Boys Poomsae Team (Green 6): 3rd Place (Bronze)</p>
@@ -42,6 +44,10 @@ the students’ prowess.</p>
 <p>B Division Girls Poomsae Team (Poom 2): 2nd Place (Silver)</p>
 </li>
 </ul>
-<p><strong>Whampoa Taekwondo Poomsae Championship 2024</strong>:</p>
-<p>Overall Youth Champion First Runner-Up including 3 Gold, 4 Silver, and
-3 Bronze medals across 8 categories.</p>
+</li>
+<li>
+<p>Whampoa Taekwondo Poomsae Championship 2024: Overall Youth Champion First
+Runner-Up</p>
+</li>
+</ul>
+<p></p>
