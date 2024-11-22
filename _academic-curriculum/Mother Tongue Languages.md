@@ -38,19 +38,20 @@ learning, and a deeper appreciation for linguistic and cultural diversity.</p>
 <p>Mid-Autumn Festival</p>
 </li>
 </ul>
-<h5>Malay Language</h5>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul>
+<h4>Malay Language</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Teachers’ Day Appreciation Email</p>
+</li>
+<li>
+<p>RIA 89.7 Radio DJ Public Speaking and Oracy Workshop</p>
+</li>
+<li>
+<p>Higher Malay Language Programme (Starting 2025!)</p>
+</li>
+<li>
+<p>Arts Exposure Pogramme</p>
+</li>
 <li>
 <p>Hari Raya Ketupat weaving,</p>
 </li>
@@ -58,58 +59,13 @@ learning, and a deeper appreciation for linguistic and cultural diversity.</p>
 <p>Geylang Serai Learning Journey</p>
 </li>
 <li>
-<p>Teachers’ Day Appreciation Email</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Arts Exposure Pogramme,&nbsp;</p>
-</li>
-<li>
-<p>RIA 89.7 Radio DJ Public Speaking and Oracy Workshop</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Mendaki LESTARI Cultural Programme,&nbsp;</p>
+<p>Mendaki LESTARI Cultural Programme</p>
 </li>
 <li>
 <p>Bukit Chandu Museum Learning Journey</p>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>GCE ‘O’ Exam Preparation Workshop with other schools</p>
-</li>
-<li>
-<p>Mother Tongue Intensive Programme</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
+<h4>Tamil Language</h4>
 <p></p>
 <h4><strong>Our Talent Development Programme</strong></h4>
 <p>The Mother Tongue Department actively promotes language proficiency and
