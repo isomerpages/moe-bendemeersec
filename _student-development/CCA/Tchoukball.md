@@ -14,7 +14,7 @@ competitions.</p>
 <h4><strong>Our Signature Programmes and Achievements</strong></h4>
 <p>Tchoukball Training Camp - Purpose of the training camp allows players
 to focus on improving specific drills, strategies, or player development</p>
-<p>Inter-School Friendly competitions - To increae players' exposure and
+<p>Inter-School Friendly competitions - To increase players' exposure and
 experience to full matches.</p>
 <h4><strong>Our Achievements</strong></h4>
 <table style="minWidth: 25px">
@@ -106,4 +106,4 @@ experience to full matches.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>s</p>
