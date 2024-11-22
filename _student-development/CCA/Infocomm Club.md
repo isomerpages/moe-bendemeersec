@@ -17,22 +17,34 @@ photography, drones, and multimedia production. It also fosters collaboration,
 competition, and talent showcases, enabling members to gain practical experience,
 expand their knowledge, and network within the tech industry.</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
-<p></p>
-<ul data-tight="true" class="tight">
+<p>Infocomm Club members can:</p>
+<ul>
 <li>
-<p>2023 Drone Odyssey Challenage</p>
+<p>hone their skills by supporting all school events through the operation
+of public address (PA) system and audio-visual equipment.</p>
 </li>
 <li>
-<p>IMDA</p>
+<p>participate in the Drone Odyssey Challenge organised by Science Centre.</p>
 </li>
 <li>
-<p>Hands-on PA System Operation programme</p>
+<p>learn game development skills</p>
+</li>
+<li>
+<p>learning programming and coding skills through the Advance Python Accelerator
+Programme</p>
+</li>
+<li>
+<p>participate in the National Digital Explorer Digital Literacy Programme</p>
 </li>
 </ul>
 <h4><strong>Our Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>2023 Drone Odyssey Challenge</p>
+<p>At the 2023 Drone Odyssey Challenge, our members won the Most motivational
+Prize</p>
+</li>
+<li>
+<p>Successfully carried out duties for the 2024 Speech and Awards Day.</p>
 </li>
 </ul>
 <p></p>
