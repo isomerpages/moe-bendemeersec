@@ -6,11 +6,10 @@ description: ""
 third_nav_title: CCA
 ---
 <h4><strong>Our Tchoukball CCA</strong></h4>
-<p>The Tchoukball CCA at [School Name] is more than just a sports club; it's
-a community built on the principles of respect and fearlessness. Through
-rigorous training sessions, members cultivate self-discipline, confidence,
-and technical prowess, preparing them for both local and international
-competitions.</p>
+<p>Our Tchoukball CCA is more than just a sports club; it's a community built
+on the principles of respect and fearlessness. Through rigorous training
+sessions, members cultivate self-discipline, confidence, and technical
+prowess, preparing them for both local and international competitions.</p>
 <h4><strong>Our Signature Programmes and Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
