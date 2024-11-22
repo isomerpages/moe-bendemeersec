@@ -14,16 +14,32 @@ their musicality to greater heights by participating in competitions, public
 concerts and band exchanges with other schools. It is also a platform where
 the members can showcase their talents and develop their leadership skills.</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Perform for schools performances.&nbsp;
-<br>- Sec 1 CCA orientation
-<br>- Chinese New Year concert
-<br>- Speech and Awards Day
-<br>- Teachers’ Day
-<br>- National Day
-<br>- School Outreach
-<br>- School Open House</p>
+<p>Perform for schools performances.&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sec 1 CCA orientation</p>
+</li>
+<li>
+<p>Chinese New Year concert</p>
+</li>
+<li>
+<p>Speech and Awards Day</p>
+</li>
+<li>
+<p>Teachers’ Day</p>
+</li>
+<li>
+<p>National Day</p>
+</li>
+<li>
+<p>chool Outreach</p>
+</li>
+<li>
+<p>School Open House</p>
+</li>
+</ul>
 </li>
 <li>
 <p>CCA Bonding Games and Activities</p>
@@ -51,9 +67,6 @@ the members can showcase their talents and develop their leadership skills.</p>
 </li>
 <li>
 <p>2019 SYF Arts Presentation (Distinction)</p>
-</li>
-<li>
-<p>2017 SYF Arts Presentation (Distinction)</p>
 </li>
 </ul>
 <p></p>
