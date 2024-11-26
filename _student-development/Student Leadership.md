@@ -70,3 +70,7 @@ to think strategically and set direction and work together to enhance the
 student experience.
 <br>
 </p>
+<div class="iframe-wrapper">
+<iframe height="605" width="864" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQSUEL0Rg0yQB4ewDiccI8pXTPKmwUqnrF3Dk0gUPruT4H4zNf-u9e8cZrFrIeg2vEfAZ5w_yvVT6Gh/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
