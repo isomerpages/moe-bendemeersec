@@ -73,6 +73,9 @@ learning, and a deeper appreciation for linguistic and cultural diversity.</p>
 <li>
 <p>Deepavali Celebrations</p>
 </li>
+<li>
+<p>Higher Tamil Language Programme</p>
+</li>
 </ul>
 <p></p>
 <h4><strong>Our Talent Development Programme</strong></h4>
