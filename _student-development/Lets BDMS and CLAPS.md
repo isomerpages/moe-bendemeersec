@@ -42,6 +42,6 @@ start the holidays with positive emotions, new skillsets and enduring habits
 for the long break and would be engaged purposefully.</p>
 <h4></h4>
 <div class="iframe-wrapper">
-<iframe height="481" width="804" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPUMRU1inHrJag9yOyrD1WdPl2fUK67WNxSeWCwGsuXnVesG1D6jXBD5Pj0lolwARX2jrV2taaIwnr/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="507" width="850" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPUMRU1inHrJag9yOyrD1WdPl2fUK67WNxSeWCwGsuXnVesG1D6jXBD5Pj0lolwARX2jrV2taaIwnr/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
