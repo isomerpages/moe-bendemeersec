@@ -19,6 +19,7 @@ Details are as follows:
 |**Things to bring:**   | Stationery, Notebook, Water Bottle | 
 | **Important:** |Students seeking transfer should report to their posted school on the first day and continue to attend lessons until the transfer is approved.  |
 | **Programme:**|Programme details will be shared on the first day of school.|
+|
 
 
 
