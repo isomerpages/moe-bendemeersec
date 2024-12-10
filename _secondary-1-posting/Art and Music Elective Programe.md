@@ -10,7 +10,7 @@ If your child/ward exhibits interest, potential and passion for Art or Music, he
 * MEP: Anglo-Chinese School (Independent) 
 * MEP: Dunman High School
 
-The online application is open from **2 January to 15 January 2024**. 
+The online application is open from **to be updated**. 
 
 Successful applicants will attend weekly lessons in the afternoon at the AEP/MEP Centre and are expected to commit to the programme for 4 years. Prior to application, interested students and their parents should work closely with the students’ secondary schools to ensure that their school timetable and commitments would allow them to participate fully in the AEP/MEP.
 
