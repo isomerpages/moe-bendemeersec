@@ -16,7 +16,7 @@ sections:
       title: www
       subtitle: www
       key_highlights:
-        - title: 2024 Sec 1 Posting Results
+        - title: 2024 Secondary 1 Posting Results
           description: Click here for details!
           url: /sec1posting/welcome
   - infopic:
