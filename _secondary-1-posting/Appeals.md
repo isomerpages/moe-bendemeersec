@@ -17,9 +17,7 @@ by 12:00 pm, 19 December 2024, Thursday.</p>
 as medical reports and letters from doctors.</p>
 <p>For information on appealing for a transfer due to serious medical conditions,
 please go to this <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer/" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>.</p>
-<p>
-<br>
-</p>
+<p></p>
 <hr>
 <p><strong>Students seeking transfer should continue to report to the posted school and attend lessons until the transfer is approved.</strong>
 </p>
