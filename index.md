@@ -15,6 +15,10 @@ sections:
       variant: image
       title: www
       subtitle: www
+      key_highlights:
+        - title: 2024 Sec 1 Posting
+          description: Click here for details!
+          url: /sec1posting/welcome
   - infopic:
       title: BDMS Open House 2024
       id: infopic
