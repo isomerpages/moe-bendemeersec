@@ -6,8 +6,8 @@ description: ""
 ---
 <h4><strong>Appeal for Transfer into Bendemeer Secondary School</strong></h4>
 <p>Thank you for considering a transfer to our school.
-<br>Please complete this <a href="https://go.gov.sg/transfertobdms" rel="noopener nofollow" target="_blank">form</a> (
-https://go.gov.sg/transfertobdms ) by <strong>11:59 pm, 23 Dec 2024, Monday.</strong>
+<br>Please complete this <a href="https://go.gov.sg/appealtobdms" rel="noopener nofollow" target="_blank">form</a> (
+https://go.gov.sg/appealtobdms ) by <strong>12:00 pm, 23 Dec 2024, Monday.</strong>
 </p>
 <h4><strong>Appealing for Transfer due to Serious Medical Conditions</strong></h4>
 <p>To request for transfer out of our school due to serious medical conditions
