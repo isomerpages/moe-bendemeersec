@@ -42,4 +42,7 @@ their perspectives as they engage and compete with peers from other schools.</p>
 <p>2021 Virtual Inter-School Challenge, B Division Girls, 14th place.</p>
 </li>
 </ul>
+<div class="iframe-wrapper">
+<iframe height="605" width="864" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQlkQT3mkG7xHOX_DLYOTFbCMc1mq8Kt3IiPeo2_ggBqQZ-mMMieCpcms5-nBW5flcsLNhTcHQXthGF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
