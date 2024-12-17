@@ -11,8 +11,8 @@ their strengths, skills and fullest potential, to become impactful citizens
 of the world. We want our girls to be courageous, have confidence and character
 to shine in our world by serving others from the heart. Being a member
 of the World Association of Girl Guides and Girl Scouts (WAGGGS), Bendemeer
-guides have opportunities to be involved in local and international communities.</p>
-<p>Through numerous adventures and courses, we equip girls to be self- assured
+guides have opportunities to be involved in local and international communities.
+Through numerous adventures and courses, we equip girls to be self- assured
 and empower them with the necessary life skills to embrace the world and
 build life-long friendships along the way.</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
