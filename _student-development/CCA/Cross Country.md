@@ -8,12 +8,11 @@ third_nav_title: CCA
 <h4><strong>Our Cross Country CCA</strong></h4>
 <p>The Bendemeer Secondary School Cross-Country team is a CCA for passionate
 runners. Through rigorous training, members develop endurance, refine techniques,
-and build mental resilience.</p>
-<p>Beyond cross-country races, our team actively participates in various
-track events, ensuring that every member has the opportunity to represent
-the school in at least one competition. These experiences not only challenge
-students to push their limits but also broaden their perspectives as they
-engage and compete with peers from other schools.</p>
+and build mental resilience. Beyond cross-country races, our team actively
+participates in various track events, ensuring that every member has the
+opportunity to represent the school in at least one competition. These
+experiences not only challenge students to push their limits but also broaden
+their perspectives as they engage and compete with peers from other schools.</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
