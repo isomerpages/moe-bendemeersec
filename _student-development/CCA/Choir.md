@@ -6,19 +6,14 @@ description: ""
 third_nav_title: CCA
 ---
 <h4><strong>Our Choir CCA</strong></h4>
-<p>Our goal is to nurture choir members into confident individuals who embrace
-life with adaptability and resilience. We aim to help them build on their
-strengths, develop discernment in judgment, and communicate effectively
-as leaders of tomorrow. Through their journey, they will grow as self-directed
-learners and team players who take responsibility for their own growth,
-driven by a passion for music and singing, while cultivating curiosity
-and perseverance in their lifelong learning.</p>
-<p>Additionally, we seek to instill a strong sense of civic responsibility
-in our members, encouraging them to be engaged citizens. They will develop
-a sense of responsibility to their family, community, and nation, actively
-participating in public performances. Alongside this, we emphasize the
-importance of values and social-emotional competencies, fostering skills
-in self-awareness, social awareness, self-management, and responsible decision-making.</p>
+<p>Our goal is to develop choir members into confident, adaptable, and resilient
+individuals who excel as self-directed learners and effective communicators.
+By fostering their strengths and passion for music, we aim to help them
+grow as responsible team players and lifelong learners. We also emphasize
+civic responsibility, encouraging engagement in public performances and
+a commitment to family, community, and nation. Additionally, we focus on
+building values and social-emotional skills, such as self-awareness, social
+awareness, self-management, and responsible decision-making.</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
 <ul>
 <li>
