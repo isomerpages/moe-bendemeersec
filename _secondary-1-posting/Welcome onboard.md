@@ -12,7 +12,7 @@ Congratulations on receiving your posting to Bendemeer Secondary School!
 
 <div class="google-slides-container">
 <center>
-<iframe height="366" width="650" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4Eaq3Gzq3EE"></iframe></center></div>
+<iframe height="366" width="650" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PIypVyCpkSc?si=rY6Q_uNGA5nzMwaG"></iframe></center></div>
 
  An exciting and enriching secondary school experience awaits you! Here, we believe in empowering you to find your purpose and passion while providing you with the support, resources and experiences you need to unlock your full potential.  We are here to help you 
 <center><b>B</b>e Anchored in Values
