@@ -11,58 +11,29 @@ dynamic environment, the department seek to nurture them to be a critical,
 adaptive and inventive thinkers who is inspired by science, inquire like
 scientists and innovate using science.</p>
 <h4><strong>Our Approach</strong></h4>
-<p>The Science Department customise and enhance the learning experiences
-of each child through a well-designed science curriculum to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>encourage students to apply the knowledge, skill sets and competencies
-gained in Science to make responsible and well-informed decision in their
-daily lives to solve problems, and contribute to the society, to improve
-self and others.</p>
-</li>
-<li>
-<p>provide all students with a good foundation in Science learning and excite
-them in the pursue of STEAM related work.</p>
-</li>
-<li>
-<p>inculcate desire Values and attitudes of life such as Resilience, Integrity,
-Curiosity, inquisitive and Responsibility through role-modelling and the
-practices of thinking and doing of a Scientist.</p>
-</li>
-</ul>
-<p>In the teaching and learning of Science, various approaches that deepen
-application of conceptual understanding in new context and the strengthening
-of science related skills and competencies were harnessed.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Inquiry based learning</p>
-</li>
-<li>
-<p>Collaborative Learning</p>
-</li>
-<li>
-<p>Problem-based Learning (with STEAM integration</p>
-</li>
-<li>
-<p>Hands-on/Experiential Learning</p>
-</li>
-<li>
-<p>Differentiated Instruction</p>
-</li>
-</ul>
+<p>The Science Department customizes and enhances the learning experiences
+of each child through a well-designed curriculum aimed at fostering responsible
+decision-making, problem-solving, and societal contributions by applying
+scientific knowledge and skills. It provides a strong foundation in Science,
+igniting interest in STEAM fields, and instilling values like Resilience,
+Integrity, Curiosity, and Responsibility. Various teaching approaches,
+including Inquiry-Based Learning, Collaborative Learning, Problem-Based
+Learning with STEAM integration, Hands-on/Experiential Learning, and Differentiated
+Instruction, are employed to deepen conceptual understanding and strengthen
+science-related skills and competencies.</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>School-wide: Applied Learning Programme (ALP) with a focus on STEAM integration</p>
+<p>Applied Learning Programme (ALP) with a focus on STEAM integration</p>
 </li>
 <li>
-<p>Secondary 1: Science Enrichment Workshop</p>
+<p>Science Enrichment Workshop</p>
 </li>
 <li>
-<p>Secondary 2: Science integrative activity cum STEM playground challenge</p>
+<p>Science integrative activity cum STEM playground challenge</p>
 </li>
 <li>
-<p>Secondary 3: STEAM Challenge and Sustainability Workshop</p>
+<p>STEAM Challenge and Sustainability Workshop</p>
 </li>
 </ul>
 <h4><strong>Our Talent Development Programme</strong></h4>
@@ -84,6 +55,12 @@ partners (e.g. ApLM by Polytechnics, sustainability and energy talk)</p>
 <h4><strong>Our Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>2022 Live-On Essay Writing Competition: Distinction</p>
+</li>
+<li>
+<p>2023 Live-On Essay Writing Competition: Merit</p>
+</li>
+<li>
 <p>2024 Biology Olympiad: 2 Silver, 3 Bronze, 1 Honourable Mention</p>
 </li>
 <li>
@@ -96,13 +73,7 @@ partners (e.g. ApLM by Polytechnics, sustainability and energy talk)</p>
 <p>2024 Illustratum@ NUS: 1 Distinction, 1 Merit and 1 Special Mention</p>
 </li>
 <li>
-<p>2024 Mousetrap Car Challenge: 1<sup>st</sup> place</p>
-</li>
-<li>
-<p>2023 Live-On Essay Writing Competition: Merit</p>
-</li>
-<li>
-<p>2022 Live-On Essay Writing Competition: Distinction</p>
+<p>2024 Mousetrap Car Challenge: 1<sup>st</sup>&nbsp;place</p>
 </li>
 </ul>
 <p></p>
