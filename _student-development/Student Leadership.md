@@ -37,14 +37,14 @@ and develop their self-mastery leadership skills. They will be taught skills,
 knowledge and values to first lead themselves before leading others. To
 better harness their potential, students will gain awareness of their strengths
 and work on areas that need improvement. They will be supported with progressive
-training and various leadership opportunities e.g., Class Committees, Class
+training and various leadership opportunities, e.g. Class Committees, Class
 Chairpersons, CCA leaders, to practise their leadership skills as they
 grow in the self, team and thought leadership dimensions.</p>
 <p><strong>Mentor</strong>
 </p>
 <p>The value of care and establishing strong relationships are key to student
 leadership development. Student leaders will be mentored by their significant
-adults e.g., Form Teachers, Alumni, CCA Coaches/Instructors. They will
+adults, e.g. Form Teachers, Alumni, CCA Coaches/Instructors. They will
 mentor them through guided reflections so that they can maximize their
 learning experiences. Conversely, student leaders will be urged to invest
 in quality relationships - build their teams and mentor their juniors and
