@@ -10,47 +10,32 @@ teaching and learning of the English Language and Literature to enable
 them to be empathetic and global thinkers, discerning and critical readers,
 creative inquirers and convincing communicators.</p>
 <h4><strong>Our Approach</strong></h4>
-<p>The English Language and Literature Department weaves the joy of learning
-with academic rigour. We build multiliteracies, metacognition and inquiry
-through dialogue through various approaches that harness e-pedagogy and
-focus on collaborative learning. Our students get to explore different
-aspects of language and form connections with current contemporary issues
-that help to broaden their perspectives in an increasingly complex world.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Collaborative Learning</p>
-</li>
-<li>
-<p>Differentiated Instruction (DI)</p>
-</li>
-<li>
-<p>Gradual Release of Responsibility (GRR)</p>
-</li>
-<li>
-<p>The CLEARR (Contextualise, Learn &amp; Explore, Apply &amp; Respond, Reinforce)
-Pedagogical Framework</p>
-</li>
-</ul>
+<p>The English Language and Literature Department combines the joy of learning
+with academic rigor by fostering multiliteracies, metacognition, and inquiry
+through various e-pedagogical approaches and a focus on collaborative learning.
+Students explore different aspects of language and connect with contemporary
+issues, broadening their perspectives. Key methods include Collaborative
+Learning, Differentiated Instruction (DI), Gradual Release of Responsibility
+(GRR), and the CLEARR Pedagogical Framework (Contextualise, Learn &amp;
+Explore, Apply &amp; Respond, Reinforce).</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>School-wide: Keeping-It-Current (KIC) programme on current affairs and
-contemporary issues</p>
+<p>Keeping-It-Current (KIC) programme on current affairs and contemporary
+issues</p>
 </li>
 <li>
-<p>Secondary 1: Spelling Bee Competition</p>
+<p>Spelling Bee Competition</p>
 </li>
 <li>
-<p>Secondary 2: Focus on Public Speaking</p>
+<p>Focus on Public Speaking</p>
 </li>
 <li>
-<p>Secondary 3: VLOG Project</p>
+<p>VLOG Project</p>
 </li>
 </ul>
 <p></p>
 <h4><strong>Our Talent Development Programme</strong></h4>
-<p><strong>Upcoming</strong>
-</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Participation in various competitions (e.g. Plain English Speaking Award
