@@ -44,3 +44,7 @@ Scene Investigations.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/24cca_npcc_IMG_20240321_WA0015.jpg">
+</div>
+<p></p>
