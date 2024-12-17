@@ -19,7 +19,7 @@ following AEP/MEP Centres from Sec 1:</p>
 </li>
 </ul>
 <p>The online application will be opened from <strong>2 - 15 January 2025</strong>.
-You may apply for AEP and MEP through this form ( <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aepmep2025</a> )</p>
+You may apply for AEP and MEP through this form ( <a href="https://go.gov.sg/aepmep2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aepmep2025</a> )</p>
 <p>Successful applicants will attend weekly lessons in the afternoon at the
 AEP/MEP Centre and are expected to commit to the programme for 4 years.
 Prior to application, interested students and their parents should work
