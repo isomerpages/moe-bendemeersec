@@ -11,38 +11,23 @@ such as art, design, business, and music. Through our curriculum, we cultivate
 well-rounded individuals who are team players and committed to serving
 others.</p>
 <h4><strong>Our Approach</strong></h4>
-<p>The department aims to create an engaging learning environment that helps
-students succeed both personally and academically. We do so by incorporating
-Authentic Learning, Activity-Based Lessons, and Problem-Based Learning
-that help to connect students with real-world challenges, boosting their
-critical thinking and problem-solving skills. This combination of approaches
-ensures students are well-prepared for the demands of a changing world</p>
+<p>The Craft &amp; Technology department aims to create an engaging learning
+environment that helps students succeed both personally and academically.
+We do so by incorporating Authentic Learning, Activity-Based Lessons, and
+Problem-Based Learning that help to connect students with real-world challenges,
+boosting their critical thinking and problem-solving skills. This combination
+of approaches ensures students are well-prepared for the demands of a changing
+world.</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>School-wide:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Lunchtime Concert&nbsp;&nbsp;</p>
 </li>
-</ul>
-</li>
-<li>
-<p>Lower Secondary:</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Elective Music /Art</p>
 </li>
 <li>
 <p>Master Chef</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Upper Secondary:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Elective Music/Art</p>
 </li>
 <li>
 <p>O Level Music Programme</p>
@@ -52,8 +37,6 @@ ensures students are well-prepared for the demands of a changing world</p>
 </li>
 <li>
 <p>Culinary Workshop</p>
-</li>
-</ul>
 </li>
 </ul>
 <h4><strong>Our Talent Development Programme</strong></h4>
@@ -70,7 +53,7 @@ that enhance student engagement with the arts.</p>
 <p>2024 IgnITE Skills Challenge: My SustainaBOT! - Silver</p>
 </li>
 <li>
-<p>2024 Junior Chef Competition by Yishun Secondary School – Special Mention</p>
+<p>2024 Junior Chef Competition by Yishun Secondary School (Special Mention)</p>
 </li>
 </ul>
 <p></p>
