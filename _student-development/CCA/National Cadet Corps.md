@@ -61,4 +61,7 @@ defence capabilities and their role as a citizen of Singapore.</p>
 <p></p>
 </li>
 </ul>
+<div class="iframe-wrapper">
+<iframe height="605" width="864" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6mjk7_duXhOSAisY_BVP9GL3P3zq6K86p4vuD5Tb8-q7pgOrvi7YpwT7pEq4IodlETkg5CYmGhUNA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
