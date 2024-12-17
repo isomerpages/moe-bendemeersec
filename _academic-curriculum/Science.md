@@ -55,12 +55,6 @@ partners (e.g. ApLM by Polytechnics, sustainability and energy talk)</p>
 <h4><strong>Our Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>2022 Live-On Essay Writing Competition: Distinction</p>
-</li>
-<li>
-<p>2023 Live-On Essay Writing Competition: Merit</p>
-</li>
-<li>
 <p>2024 Biology Olympiad: 2 Silver, 3 Bronze, 1 Honourable Mention</p>
 </li>
 <li>
@@ -75,5 +69,12 @@ partners (e.g. ApLM by Polytechnics, sustainability and energy talk)</p>
 <li>
 <p>2024 Mousetrap Car Challenge: 1<sup>st</sup>&nbsp;place</p>
 </li>
+<li>
+<p>2023 Live-On Essay Writing Competition: Merit</p>
+</li>
+<li>
+<p>2022 Live-On Essay Writing Competition: Distinction</p>
+</li>
 </ul>
+<p></p>
 <p></p>
