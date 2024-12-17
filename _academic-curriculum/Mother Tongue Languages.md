@@ -134,14 +134,16 @@ and cultural diversity.</p>
 (Lower Sec Category): Second Prize Award Winner</p>
 </li>
 </ul>
-<p>Malay Language</p>
+<p><strong>Malay Language</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>2023-2024 Students' written articles being featured in the Gen-G Newspaper
 (2023 -2024)</p>
 </li>
 </ul>
-<p>Tamil Language</p>
+<p><strong>Tamil Language</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>2024 Naanum Oru Padaipaali (Budding Artistes): Winner</p>
