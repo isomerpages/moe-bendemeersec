@@ -44,11 +44,11 @@ grow in the self, team and thought leadership dimensions.</p>
 </p>
 <p>The value of care and establishing strong relationships are key to student
 leadership development. Student leaders will be mentored by their significant
-adults e.g., Form Teachers, Alumni, CCA Coaches/Instructors them through
-guided reflections so that they can maximize their learning experiences.
-Conversely, student leaders will be urged to invest in quality relationships
-- build their teams and mentor their juniors and allow others to build
-them up as well.</p>
+adults e.g., Form Teachers, Alumni, CCA Coaches/Instructors. They will
+mentor them through guided reflections so that they can maximize their
+learning experiences. Conversely, student leaders will be urged to invest
+in quality relationships - build their teams and mentor their juniors and
+allow others to build them up as well.</p>
 <p><strong>Serve</strong>
 </p>
 <p>Student leaders will delve deep and evaluate their commitments. They prioritise
