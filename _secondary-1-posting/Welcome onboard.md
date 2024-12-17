@@ -14,6 +14,8 @@ Congratulations on receiving your posting to Bendemeer Secondary School!
 <center>
 <iframe height="366" width="650" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4Eaq3Gzq3EE"></iframe></center></div>
 
+
+
  An exciting and enriching secondary school experience awaits you! Here, we believe in empowering you to find your purpose and passion while providing you with the support, resources and experiences you need to unlock your full potential.  We are here to help you 
 <center><b>B</b>e Anchored in Values
 	<br>
@@ -25,10 +27,10 @@ Congratulations on receiving your posting to Bendemeer Secondary School!
 
 We are looking forward to welcome you to the Bendemeer family and walk this journey with you.
 
-See you on 2 January 2024!
+See you on 2 January 2025!
 
 ---
 
-For more information on the 2024 Secondary 1 Posting, please refer to this MOE <a target="_blank" href="https://www.moe.gov.sg/secondary/s1-posting/results">webpage</a>.
+For more information on the 2025 Secondary 1 Posting, please refer to this MOE <a target="_blank" href="https://www.moe.gov.sg/secondary/s1-posting/results">webpage</a>.
 
 If you have any questions, do drop us a note at bendemeer_ss@moe.edu.sg.

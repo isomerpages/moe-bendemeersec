@@ -46,3 +46,7 @@ of Accomplishment</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/24cca_drama_068.jpg">
+</div>
+<p></p>

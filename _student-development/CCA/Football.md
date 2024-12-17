@@ -10,10 +10,10 @@ third_nav_title: CCA
 Football CCA where the importance of values, teamwork and leadership are
 emphasised. All our passionate young footballers seek to strive for sporting
 excellence by adopting a mindset of resilience and learning to put team
-success before personal accolades.</p>
-<p>Our outcomes are possible through a robust support structure from the
-school to allow all footballers to develop and &nbsp;strengthen not only
-their football skills but their character and leadership abilities as well.</p>
+success before personal accolades. Our outcomes are possible through a
+robust support structure from the school to allow all footballers to develop
+and &nbsp;strengthen not only their football skills but their character
+and leadership abilities as well.</p>
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
 <p><strong>Unleash The Roar! (UTR!) at Bendemeer Secondary School</strong>
 </p>
@@ -73,4 +73,7 @@ advanced tracking systems</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/24cca_football.jpg">
+</div>
 <p></p>

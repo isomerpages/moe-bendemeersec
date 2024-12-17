@@ -46,11 +46,38 @@ can help them in their performance in their respective sports.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/choir/" rel="noopener nofollow" target="_blank">Choir</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays, Tuesdays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/concert-band/" rel="noopener nofollow" target="_blank">Concert Band</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays, Thursdays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/cross-country/" rel="noopener nofollow" target="_blank">Cross Country</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesdays, Thursdays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/drama-english/" rel="noopener nofollow" target="_blank">Drama English</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays, Thursdays</p>
 </td>
 </tr>
 <tr>
@@ -64,30 +91,29 @@ can help them in their performance in their respective sports.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/taekwondo/" rel="noopener nofollow" target="_blank">Taekwondo</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tuesdays, Wednesdays</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/tchoukball/" rel="noopener nofollow" target="_blank">Tchoukball</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Boys: Wednesdays, Thursdays
-<br>Girls: Mondays, Wednesdays</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/girl-guides/" rel="noopener nofollow" target="_blank">Girl Guides</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursdays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/infocomm-club/" rel="noopener nofollow" target="_blank">Infocomm Club</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursdays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/modern-dance/" rel="noopener nofollow" target="_blank">Modern Dance</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesdays, Thursdays</p>
 </td>
 </tr>
 <tr>
@@ -119,47 +145,21 @@ can help them in their performance in their respective sports.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/choir/" rel="noopener nofollow" target="_blank">Choir</a>
+<p><a href="/taekwondo/" rel="noopener nofollow" target="_blank">Taekwondo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays, Tuesdays</p>
+<p>Tuesdays, Wednesdays</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/concert-band/" rel="noopener nofollow" target="_blank">Concert Band</a>
+<p><a href="/tchoukball/" rel="noopener nofollow" target="_blank">Tchoukball</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays, Thursdays</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/drama-english/" rel="noopener nofollow" target="_blank">Drama English</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mondays, Thursdays</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/modern-dance/" rel="noopener nofollow" target="_blank">Modern Dance</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wednesdays, Thursdays</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/infocomm-club/" rel="noopener nofollow" target="_blank">Infocomm Club</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thursdays</p>
+<p>Boys: Wednesdays, Thursdays
+<br>Girls: Mondays, Wednesdays</p>
 </td>
 </tr>
 </tbody>

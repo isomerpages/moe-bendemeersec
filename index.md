@@ -16,6 +16,14 @@ sections:
       title: www
       subtitle: www
   - infopic:
+      title: Welcome to Bendemeer Secondary School!
+      id: infopic
+      description: For more details on Secondary 1 registration, click the link below
+      button: More details
+      url: /sec1posting/welcome
+      image: /images/s1welcome.png
+      alt: Image alt text
+  - infopic:
       title: BDMS Open House 2024
       id: infopic
       description: Come Experience the Bendemeer Journey!
