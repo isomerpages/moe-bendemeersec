@@ -15,24 +15,20 @@ into confident individuals who embody the values of perseverance and integrity.<
 <h4><strong>Our Signature Programmes and Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Belt Grading and Certification: Regular grading sessions for students
-to advance in their Taekwondo journey, achieving higher belt ranks and
-mastering advanced techniques.</p>
+<p>Belt Grading and Certification</p>
 </li>
 <li>
-<p>Annual Taekwondo Showcase: An exciting platform where students demonstrate
-their skills in poomsae (forms) and sparring to parents and peers.</p>
+<p>Annual Taekwondo Showcase</p>
 </li>
 <li>
 <p>Inter-School Competitions: Participation in National School Games and
-Whampoa Poomsae Championship to foster a competitive spirit and showcase
-the students’ prowess.</p>
+Whampoa Poomsae Championship</p>
 </li>
 </ul>
 <h4><strong>Our Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>National Schools Games (NSG) 2024:</p>
+<p>2024 National Schools Games (NSG):</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>C Division Boys Poomsae Team (Green 6): 3rd Place (Bronze)</p>
@@ -46,7 +42,7 @@ the students’ prowess.</p>
 </ul>
 </li>
 <li>
-<p>Whampoa Taekwondo Poomsae Championship 2024: Overall Youth Champion First
+<p>2024 Whampoa Taekwondo Poomsae Championship: Overall Youth Champion First
 Runner-Up</p>
 </li>
 </ul>
