@@ -40,10 +40,12 @@ AEP/MEP.</p>
 <p>AEP/MEP attachments can be downloaded below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>[Annex AEP]</p>
+<p><a href="/files/Forparents/Annex_AEP.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex AEP</a>
+</p>
 </li>
 <li>
-<p>[Annex MEP]</p>
+<p><a href="/files/Forparents/Annex_MEP.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex MEP</a>
+</p>
 </li>
 </ul>
 <p>For further enquiries, please email Ms Sharon Neo, HOD (Craft &amp; Tech)
