@@ -1275,13 +1275,15 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Infocomm Club</p>
+<p>Infocomm Technology (Media Production) Club</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Shanuradha Selvaraj</p>
+<p><strong>Mdm Shanuradha Selvaraj</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shanuradha_selvaraj@moe.edu.sg</p>
+<p><strong>shanuradha_selvaraj@moe.edu.sg</strong>
+</p>
 </td>
 </tr>
 <tr>
