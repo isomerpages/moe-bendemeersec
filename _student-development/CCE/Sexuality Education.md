@@ -121,7 +121,6 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 <p>At Bendemeer Secondary School, the eTeens programme will be implemented
 as follows in 2025:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexualityedu/eteens_prog.png">
 </div>
