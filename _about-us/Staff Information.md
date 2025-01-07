@@ -40,7 +40,7 @@ description: ""
 <p>Courage 2 Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lu Yueh Ju</p>
+<p>Ms Lu Yueh Ju</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lu_yueh_ju@moe.edu.sg</p>
