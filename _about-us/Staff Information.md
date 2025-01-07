@@ -928,7 +928,18 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noorlizah Osman, 2I/C</p>
+<p>Mr Andrew Chan Wu Siong 2I/C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chan_wu_siong_andrew@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Noorlizah Osman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>noorlizah_osman@moe.edu.sg</p>
@@ -939,10 +950,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim Gek Hoon Ivy</p>
+<p>Mdm Lee Poh Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_gek_hoon_ivy@moe.edu.sg</p>
+<p>lee_poh_ching@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -950,10 +961,32 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andrew Chan Wu Siong</p>
+<p>Ms Lu Yueh Ju</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chan_wu_siong_andrew@moe.edu.sg</p>
+<p>lu_yueh_ju@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -998,6 +1031,50 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_soh_pyng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lim Gek Hoon Ivy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_gek_hoon_ivy@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
