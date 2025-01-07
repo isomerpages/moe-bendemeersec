@@ -706,29 +706,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Vimala Selvarasu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>vimala_selvarasu@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Cadet Corps</p>
+<p>National Cadet Corps (Land)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maj Tay Guangyu, CO</p>
@@ -775,10 +753,10 @@ description: ""
 <p>National Police Cadet Corps</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wee Gui Fen Sabrina, I/C</p>
+<p>Mr Ong Pei Huat Brandon, OC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wee_gui_fen_sabrina@moe.edu.sg</p>
+<p>ong_pei_huat_brandon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -797,10 +775,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Pei Huat Brandon</p>
+<p>Mr Colin Leong Tze Yeen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_pei_huat_brandon@moe.edu.sg</p>
+<p>colin_leong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -841,21 +819,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Toh Yen Nee</p>
+<p>Ms Vimala Selvarasu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>toh_yen_nee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>vimala_selvarasu@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -1344,10 +1311,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Colin Leong Tze Yeen</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>colin_leong@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
