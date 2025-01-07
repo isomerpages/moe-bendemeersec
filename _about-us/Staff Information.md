@@ -18,10 +18,10 @@ description: ""
 <p>Yead Head</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Roger Lim Meng Kwan</p>
+<p>Ms Lee Vwen Ying Mavis</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>roger_lim_meng_kwan@moe.edu.sg</p>
+<p>lee_vwen_ying_mavis@moe.edu.sg</p>
 </th>
 </tr>
 <tr>
@@ -650,9 +650,9 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Girl Guides</p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nasyitah Binte Abu Baker, I/C</p>
 </td>
@@ -808,7 +808,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Jan Ile, 2I/C</p>
+<p>Mr Ng Jan Ile, 2I/C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_jan_ile@moe.edu.sg</p>
@@ -836,9 +836,9 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Choir</p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mrs Elaine Wong, I/C</p>
 </td>
@@ -1274,16 +1274,14 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Infocomm Technology (Media Production) Club</p>
-</th>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Shanuradha Selvaraj</strong>
-</p>
+<p>Infocomm Technology (Media Production) Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>shanuradha_selvaraj@moe.edu.sg</strong>
-</p>
+<p>Mdm Shanuradha Selvaraj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shanuradha_selvaraj@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
