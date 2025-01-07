@@ -1311,43 +1311,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Wong Chee Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Manoj Kumar Dave, 2I/C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>manoj_kumar_dave@moe.edu.sg</p>
+<p>wong_chee_seng@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
