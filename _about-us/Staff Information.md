@@ -336,10 +336,10 @@ description: ""
 <p>Respect 4 Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Loh choy Fong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>hoy_choy_fong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -347,10 +347,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ponmozhi d/o Sembian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ponmozhi_sembian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -468,10 +468,10 @@ description: ""
 <p>Respect 6 Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ponmozhi d/o Sembian</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ponmozhi_sembian@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
