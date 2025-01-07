@@ -640,7 +640,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <h3><strong>Co-Curriculum Activities</strong></h3>
 <h4><strong>Uniformed Groups</strong></h4>
 <table style="minWidth: 75px">
@@ -681,6 +680,39 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>LIM_Sing_Liean@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -840,19 +872,8 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Choir</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Mrs Poon Chong Cheah, I/C</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>poon_chong_cheah@moe.edu.sg</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Elaine Wong, 2I/C</p>
+<p>Mrs Elaine Wong, I/C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_mei_yen_elaine@moe.edu.sg</p>
@@ -863,7 +884,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Huilin</p>
+<p>Mdm Wang Huilin 2I/C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wang_huilin@moe.edu.sg</p>
@@ -874,11 +895,22 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Poon Chong Cheah</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>poon_chong_cheah@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
