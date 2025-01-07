@@ -138,17 +138,6 @@ description: ""
 <p>Adaptability 3 Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shamini Subramaniam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>shamini_subramaniam@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Lim Ying Shung</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,13 +146,24 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Shamini Subramaniam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shamini_subramaniam@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Adaptability 4 Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Eric Choo Guan Kiat</p>
+<p>Mdm Lee Poh Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>choo_guan_kiat@moe.edu.sg</p>
+<p>lee_poh_ching@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -229,12 +229,23 @@ description: ""
 <p>Mdm Nasyitah Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nasyitah_abu_bakar@moe.edu.sg</p>
+<p>ah_abu_bakar@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Adaptability 8 Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lawrence Ng Boon Kwang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lawrence_ng_boon_kwang@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Eng Lee Lily</p>
