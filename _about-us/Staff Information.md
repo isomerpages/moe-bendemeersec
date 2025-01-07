@@ -1088,25 +1088,25 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Badminton</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Mr Wong Chee Seng, 2I/C</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>wong_chee_seng@moe.edu.sg</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Cross Country</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daryl Toy Chor Teck, 2I/C</p>
+<p>Mr Daryl Toy Chor Teck, I/C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>toy_chor_teck@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Amirah Mohamed Isah 2I/C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_amirah_mohamad_isah@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1118,17 +1118,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>chua_bee_hong@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Amirah Mohamed Isah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti_amirah_mohamad_isah@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1191,6 +1180,72 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Kelvin Tan Thong Boon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kelvin_tan_thong_boon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TaeKwonDo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Hai Seng, I/C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_hai_seng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ponmozhi D/O Sembian, 2I/C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ponmozhi_sembian@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Chin Chen Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>au_chen_han@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Karamjit Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>karamjit_kaur@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1232,13 +1287,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TaeKwonDo</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Hai Seng, I/C</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_hai_seng@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1246,10 +1301,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Karamjit Kaur</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>karamjit_kaur@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1257,10 +1312,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chin Chen Han</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>au_chen_han@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1279,10 +1334,10 @@ description: ""
 <p>Tchoukball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Seah Seng Chye, I/C</p>
+<p>Mr Dcruz Mark Sanjay, I/C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>seah_seng_chye@moe.edu.sg</p>
+<p>dcruz_mark_sanjay@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1301,17 +1356,6 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Dcruz Mark Sanjay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>dcruz_mark_sanjay@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1323,10 +1367,21 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ponmozhi D/O Sembian, 2I/C</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ponmozhi_sembian@moe.edu.sg</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
