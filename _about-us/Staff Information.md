@@ -150,7 +150,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Valliyammai Ramanathan</p>
+<p>Ms Valliyammai Ramanathan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>valliyammai_ramanathan@moe.edu.sg</p>
@@ -1310,33 +1310,33 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Infocomm Club</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Mr Michael Lee, I/C</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>michael_lee@moe.edu.sg</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Manoj Kumar Dave, 2I/C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>manoj_kumar_dave@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shanuradha Selvaraj</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>shanuradha_selvaraj@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Joycelyn Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_siew_ee_jocelyn@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Valliyammai Ramanathan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>valliyammai_ramanathan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1355,10 +1355,32 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joycelyn Tan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_siew_ee_jocelyn@moe.edu.sg</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Manoj Kumar Dave, 2I/C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>manoj_kumar_dave@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
