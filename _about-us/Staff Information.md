@@ -980,28 +980,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Dance</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1016,10 +994,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lily Tan Eng Lee</p>
+<p>Ms Achaiya Gunasekaran, 2I/C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_eng_lee_lily@moe.edu.sg</p>
+<p>achaiya_gunasekaran@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1038,43 +1016,21 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Lily Tan Eng Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_eng_lee_lily@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mrs Lim Gek Hoon Ivy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_gek_hoon_ivy@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1115,65 +1071,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joycelyn Tan</p>
+<p>Ms Laura Huang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_siew_ee_jocelyn@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tamil Drama</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Achaiya Gunasekaran, I/C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>achaiya_gunasekaran@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ponmozhi D/O Sembian, 2I/C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ponmozhi_sembian@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Murugaiyan Bhuvaneswari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>murugaiyan_bhuvaneswari@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>laura_avyanna_huang_shan@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -1417,6 +1318,50 @@ description: ""
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ponmozhi D/O Sembian, 2I/C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ponmozhi_sembian@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Murugaiyan Bhuvaneswari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>murugaiyan_bhuvaneswari@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Clubs and Societies</strong></h4>
@@ -1469,6 +1414,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>colin_leong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Joycelyn Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_siew_ee_jocelyn@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
