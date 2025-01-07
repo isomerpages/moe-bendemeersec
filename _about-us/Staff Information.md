@@ -653,19 +653,8 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Girl Guides</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Ms Lu Yueh Ju I/C</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>lu_yueh_ju@moe.edu.sg</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nasyitah Binte Abu Baker</p>
+<p>Mdm Nasyitah Binte Abu Baker, I/C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nasyitah_abu_bakar@moe.edu.sg</p>
@@ -676,43 +665,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Sing Liean, Advisor</p>
+<p>Ms Tan Kay Shin, 2I/C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LIM_Sing_Liean@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Vimala Selvarasu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>vimala_selvarasu@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>tan_kay_shin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -724,6 +680,50 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>murugaiyan_bhuvaneswari@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<th rowspan="1" colspan="1">
+<p>Ms Lu Yueh Ju (Advisor)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>lu_yueh_ju@moe.edu.sg</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Vimala Selvarasu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>vimala_selvarasu@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
