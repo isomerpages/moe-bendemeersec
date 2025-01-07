@@ -574,7 +574,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Resilience 1 Form Teacher</p>
+<p>Excellence 1 Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wee Gui Fen Sabrina</p>
@@ -596,7 +596,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Resilience 2 Form Teacher</p>
+<p>Excellence 2 Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Charmaine Wong Hoy Mun</p>
@@ -618,7 +618,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Resilience 3 Form Teacher</p>
+<p>Excellence 3 Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Yap Bee Hong</p>
@@ -640,7 +640,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Resilience 4 Form Teacher</p>
+<p>Excellence 4 Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Fahmy Sidik</p>
@@ -662,7 +662,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Resilience 5 Form Teacher</p>
+<p>Excellence 5 Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Toy Chor Teck</p>
@@ -684,7 +684,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Resilience 6 Form Teacher</p>
+<p>Excellence 6 Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Kian Wei Jelvin</p>
@@ -706,7 +706,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Resilience 7 Form Teacher</p>
+<p>Excellence 7 Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Elaine Wong Mei Yen</p>
@@ -728,7 +728,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Resilience 8 Form Teacher</p>
+<p>Excellence 8 Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms R Ramadevi</p>
