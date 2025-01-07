@@ -98,62 +98,29 @@ description: ""
 <p>Mr Kelvin Tan Thong Boon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>kelvin_tan_thong_boon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Courage 6 Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Goh Kun Huang Kenneth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Foo Sek Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>foo_sek_yee@moe.edu.sg</p>
+<p>kenneth_goh_kun_huang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Courage 7 Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ivy Lim Chiew Sian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Lo May Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yap_may_ling@moe.edu.sg</p>
+<p>lim_chiew_sian_ivy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -169,7 +136,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Courage 8 Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Michael Lee</p>
@@ -180,7 +147,40 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Courage 1 Form Teacher</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Valliyammai Ramanathan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>valliyammai_ramanathan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Toh Yen Nee</p>
@@ -260,10 +260,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ivy Lim Chiew Sian</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_chiew_sian_ivy@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -271,10 +271,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Kun Huang Kenneth</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kenneth_goh_kun_huang@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
