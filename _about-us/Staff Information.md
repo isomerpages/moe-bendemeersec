@@ -686,12 +686,12 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Ms Lu Yueh Ju (Advisor)</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>lu_yueh_ju@moe.edu.sg</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
