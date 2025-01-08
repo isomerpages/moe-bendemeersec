@@ -165,7 +165,7 @@ bendemeer_ss@moe.edu.sg</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Disicpline</p>
+<p>HOD / Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Zuhri B Wahab</p>
