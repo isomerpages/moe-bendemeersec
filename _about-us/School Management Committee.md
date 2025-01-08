@@ -88,7 +88,7 @@ bendemeer_ss@moe.edu.sg</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / English</p>
+<p>HOD / English Language and Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Cheng Hai</p>
