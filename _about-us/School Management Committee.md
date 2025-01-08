@@ -113,7 +113,7 @@ bendemeer_ss@moe.edu.sg</p>
 <p>HOD / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Renuka Ramakrishnan</p>
+<p>Mdm Renuka Ramakrishnan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>renuka_ramakrishnan@moe.edu.sg</p>
