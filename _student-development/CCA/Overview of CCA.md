@@ -158,7 +158,7 @@ can help them in their performance in their respective sports.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Boys: Wednesdays, Thursdays
+<p>Boys: Tuesdays, Thursdays
 <br>Girls: Mondays, Wednesdays</p>
 </td>
 </tr>
