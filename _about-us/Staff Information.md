@@ -1166,7 +1166,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TaeKwonDo</p>
+<p>Taekwondo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Hai Seng, I/C</p>
