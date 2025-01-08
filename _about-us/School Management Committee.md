@@ -215,7 +215,7 @@ bendemeer_ss@moe.edu.sg</p>
 <p>Mr Timothy Ong Jun Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jun_wei_ong_timothy@moe.edu.sg</p>
+<p>jun_wei_timothy_ong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
