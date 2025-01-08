@@ -121,6 +121,17 @@ bendemeer_ss@moe.edu.sg</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD / Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Noor Afidah Abdul Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>noor_afidah_abdul_rahman@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD / Physical Education &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
