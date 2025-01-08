@@ -231,6 +231,17 @@ bendemeer_ss@moe.edu.sg</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LT / English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Karthickeyan Govindaraj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Karthickeyen_Govindaraj@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>LH / English</p>
 </td>
 <td rowspan="1" colspan="1">
