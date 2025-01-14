@@ -177,8 +177,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_respect8.pdf" rel="noopener nofollow" target="_blank">Respect 8</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
