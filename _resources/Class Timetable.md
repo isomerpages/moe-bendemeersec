@@ -87,34 +87,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adaptability</p>
+<p><a href="/files/Timetable/timetable_adaptability1.pdf" rel="noopener nofollow" target="_blank">Adaptability 1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adaptability</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Adaptability</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Adaptability</p>
+<p><a href="/files/Timetable/timetable_adaptability5.pdf" rel="noopener nofollow" target="_blank">Adaptability 5</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adaptability</p>
+<p><a href="/files/Timetable/timetable_adaptability2.pdf" rel="noopener nofollow" target="_blank">Adaptability 2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adaptability</p>
+<p><a href="/files/Timetable/timetable_adaptability6.pdf" rel="noopener nofollow" target="_blank">Adaptability 6</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adaptability</p>
+<p><a href="/files/Timetable/timetable_adaptability3.pdf" rel="noopener nofollow" target="_blank">Adaptability 3</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adaptability</p>
+<p><a href="/files/Timetable/timetable_adaptability7.pdf" rel="noopener nofollow" target="_blank">Adaptability 7</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable/timetable_adaptability4.pdf" rel="noopener nofollow" target="_blank">Adaptability 4</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable/timetable_adaptability8.pdf" rel="noopener nofollow" target="_blank">Adaptability 8</a>
+</p>
 </td>
 </tr>
 <tr>
