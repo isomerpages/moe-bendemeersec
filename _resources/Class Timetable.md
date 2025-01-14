@@ -4,9 +4,7 @@ permalink: /resources/class-timetable/
 description: ""
 variant: tiptap
 ---
-<p><strong>Class timetables for 2025 Term 1 will be available in December.</strong>
-</p>
-<h4><strong>Class timetables for 2024 Term 4</strong></h4>
+<h4><strong>Class timetables for 2025 Term 1</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -23,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary One1</p>
+<p>Secondary One</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
