@@ -199,34 +199,41 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Excellence</p>
+<p><a href="/files/Timetable/timetable_excellence1.pdf" rel="noopener nofollow" target="_blank">Excellence 1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Excellence</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Excellence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Excellence</p>
+<p><a href="/files/Timetable/timetable_excellence5.pdf" rel="noopener nofollow" target="_blank">Excellence 5</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Excellence</p>
+<p><a href="/files/Timetable/timetable_excellence2.pdf" rel="noopener nofollow" target="_blank">Excellence 2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Excellence</p>
+<p><a href="/files/Timetable/timetable_excellence6.pdf" rel="noopener nofollow" target="_blank">Excellence 6</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Excellence</p>
+<p><a href="/files/Timetable/timetable_excellence3.pdf" rel="noopener nofollow" target="_blank">Excellence 3</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Excellence</p>
+<p><a href="/files/Timetable/timetable_excellence7.pdf" rel="noopener nofollow" target="_blank">Excellence 7</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable/timetable_excellence4.pdf" rel="noopener nofollow" target="_blank">Excellence 4</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
