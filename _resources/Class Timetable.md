@@ -233,7 +233,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Timetable/timetable_excellence8.pdf" rel="noopener nofollow" target="_blank">Excellence 8</a>
+</p>
 </td>
 </tr>
 <tr>
