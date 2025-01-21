@@ -11,7 +11,7 @@ Blended Learning is part of MOE’s efforts to further develop our students’ a
 
 Students will also be engaged in Student-Initiated Learning (SIL) where they can explore their interests beyond the curriculum. 
 
-You may click and view the HBL Schedule below
+You may click and view the HBL Schedule below.
 
 
 
