@@ -5,20 +5,19 @@ description: ""
 variant: markdown
 ---
 ### **Vision**
-<p style="text-align:center"><b>Critical Thinker . Courageous Leader . Caring Contributor</b></p>
+<p style="text-align:center; font-size:24px"><b>Critical Thinker . Courageous Leader . Caring Contributor</b></p>
 		
 ### **Mission**
-###### <p style="text-align:center"><b>Nurturing a community of youths who are anchored in values, dare to aspire, motivate one another &amp; strengthen our strengths to lead &amp; serve with purpose.</b></p>
+###### <p style="text-align:center; font-size:24px"><b>Nurturing a community of youths who are anchored in values, dare to aspire, motivate one another &amp; strengthen our strengths to lead &amp; serve with purpose.</b></p>
 
 ### **Values**
-<p style="text-align:center"><b>Courage . Adaptability . Respect . Excellence (C.A.R.E)</b></p>
+<p style="text-align:center; font-size:24px"><b>Courage . Adaptability . Respect . Excellence (C.A.R.E)</b></p>
 
 ### **Motto**
-<p style="text-align:center"><b>From Each His Best . To Lead &amp; Serve</b></p>
+<p style="text-align:center; font-size:24px"><b>From Each His Best . To Lead &amp; Serve</b></p>
 <br>
 
 
-<p style="font-size:30px">This is a paragraph.</p>
 <p style="text-align:center; font-size:30px">Critical Thinker</p><br><br>
 As critical thinkers, students will:  <br>
 Develop the ability to <u>analyse</u> information, identify patterns, and solve complex problems creatively and logically.  
