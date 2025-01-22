@@ -4,15 +4,17 @@ permalink: /about-us/our-mission-vision-values/
 description: ""
 variant: markdown
 ---
-<img src="/images/Aboutus/vmv-01.jpg" alt="Vision" style="width:400px">
-<p style="text-align:center"><b>Active Learners, Responsible Citizens</b></p>
+### **Vision**
+<p style="text-align:center"><b>Critical Thinker . Courageous Leader . Caring Contributor</b></p>
 		
-<img src="/images/Aboutus/vmv-02.jpg" alt="Mission" style="width:400px">
-<p style="text-align:center"><b>A school that builds character, nurtures learners and serves the community</b></p>
+### **Mission**
+###### <p style="text-align:center"><b>Nurturing a community of youths who are anchored in values, dare to aspire, motivate one another &amp; strengthen our strengths to lead &amp; serve with purpose.</b></p>
 
-<img src="/images/Aboutus/vmv-03.jpg" alt="Values" style="width:400px">
-<p style="text-align:center"><b>Resilience, Respect, Responsibility, Integrity, Care, Harmony</b></p>
+### **Values**
+<p style="text-align:center"><b>Courage . Adaptability . Respect . Excellence (C.A.R.E)</b></p>
 
+### **Motto**
+<p style="text-align:center"><b>From Each His Best . To Lead &amp; Serve</b></p>
 <br>
 
 <p style="float:left; margin:0 10px 0px 0">
