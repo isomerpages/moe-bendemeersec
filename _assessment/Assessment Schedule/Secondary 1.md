@@ -129,8 +129,7 @@ third_nav_title: Assessment Schedule
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>7</strong>
-</p>
-<p><strong>(17-21 Feb)</strong>
+<br><strong>(17-21 Feb)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,8 +145,7 @@ third_nav_title: Assessment Schedule
 <tr>
 <td rowspan="3" colspan="1">
 <p><strong>8</strong>
-</p>
-<p><strong>(24-28 Feb)</strong>
+<br><strong>(24-28 Feb)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -185,8 +183,7 @@ third_nav_title: Assessment Schedule
 <tr>
 <td rowspan="2" colspan="1">
 <p><strong>9</strong>
-</p>
-<p><strong>(03-07 Mar)</strong>
+<br><strong>(03-07 Mar)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
