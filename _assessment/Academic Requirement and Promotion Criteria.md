@@ -22,9 +22,8 @@ description: ""
 <p>All students generally progress to next year of learning, guided by a
 common academic requirement that applies.</p>
 <p><strong>Academic Requirement:</strong>
-</p>
-<p>(a)&nbsp; EL and 2 subjects, or</p>
-<p>(b)&nbsp; at least half the total number of examinable subjects offered</p>
+<br>(a)&nbsp; EL and 2 subjects, or
+<br>(b)&nbsp; at least half the total number of examinable subjects offered</p>
 <p></p>
 <p>Students who do well in&nbsp;individual subjects can offer subjects at
 MDL either in end of Sec 1 Sem 1/ end of Sec1 Sem 2.</p>
