@@ -17,24 +17,27 @@ variant: markdown
 <p style="text-align:center"><b>From Each His Best . To Lead &amp; Serve</b></p>
 <br>
 
-Critical Thinker
 
-<p style="text-align:justify">
-As critical thinkers, students will:  
-Develop the ability to analyse information, identify patterns, and solve complex problems creatively and logically.  
+<p style="font-size:30px">This is a paragraph.</p>
+<p style="text-align:center; font-size:30px">Critical Thinker</p><br><br>
+As critical thinkers, students will:  <br>
+Develop the ability to <u>analyse</u> information, identify patterns, and solve complex problems creatively and logically.  
 Engage in reflective and adaptive thinking, learning from experience and applying learnt knowledge and skills strategically and with flexibility in evolving contexts.&nbsp;  
-Strengthen their critical thinking mindset, making informed decisions anchored on sound reasoning, evidence and values.  
-Communicate their ideas clearly and effectively, demonstrating empathy and understanding of different perspectives.**
-</p>
+	<b>Strengthen</b> their critical thinking mindset, making informed decisions <b>anchored</b> on sound reasoning, evidence and <b>values</b>.  
+Communicate their ideas clearly and effectively, demonstrating empathy and understanding of different perspectives.
+<p></p>
 
 <br>
 
-<p style="float:left; margin:0 10px 0px 0">
-<img src="/images/Aboutus/vmv-05.jpg" alt="talent" style="width:300px"></p>
-
-<p style="text-align:justify">
-<b>We believe that every student can shine.</b> Every child has a talent. The staff focuses on helping students realise their own talents and abilities. By doing so, the students would be empowered to see possibilities in all circumstances. We believe that with empowered minds, our students would be inspired to be positive contributors to society.
+<p style="text-align:center">Courageous Leader<br><br>
+&nbsp;
+As courageous leaders, students will:  
+Exercise self leadership and strive for excellence, showing responsibility and accountability in their actions and commitments to their best ability.  
+Demonstrate integrity and strong ethical values, standing up for what is right even when it is challenging.  
+Exhibit confidence and resilience, taking initiative and embracing challenges with a positive attitude.  
+Inspire and motivate peers, fostering a collaborative and inclusive community. (inspiring team excellence)**
 </p>
+
 
 <br>
 
