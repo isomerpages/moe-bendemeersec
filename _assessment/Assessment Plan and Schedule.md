@@ -4,12 +4,12 @@ permalink: /assessment-plan/
 variant: tiptap
 description: ""
 ---
-<h4><strong>&nbsp;<u>Assessment Plan</u></strong></h4>
+<h4><strong><u>Assessment Plan</u></strong></h4>
 <p>The Assessment Plan delineates how each Weighted Assessments (WA) and
 End-of-Year (EOY) Examination contributes to determining the students'
 overall results. Their progression to the next level is contingent on these
 cumulative results.</p>
-<p><strong>Secondary 1 to 3 Non-Modular Subjects</strong>
+<p><strong><u>Secondary 1 to 3 Non-Modular Subjects</u></strong>
 </p>
 <table style="minWidth: 150px">
 <colgroup>
@@ -71,9 +71,9 @@ cumulative results.</p>
 </table>
 <p>Note: WA1, WA2 and WA3 represent the WA in Term 1, 2 and 3 respectively.
 EOY Exam is in Term 4.</p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong>Secondary 1 and 2 Modular Subjects in Semester 1&nbsp;(i.e., Secondary 1 Design &amp; Technology and Secondary 2 Food and Consumer Education)</strong>
+<hr>
+<p><strong><u>Secondary 1 and 2 Modular Subjects in Semester 1</u>&nbsp;</strong>
+<br><strong>(i.e., Secondary 1 Design &amp; Technology and Secondary 2 Food and Consumer Education)</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -121,9 +121,9 @@ EOY Exam is in Term 4.</p>
 of Coursework is in Term 2</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Secondary 1 and 2 Modular Subjects in Semester 2&nbsp;(i.e., Secondary 1 Food and Consumer Education, and Secondary 2 Design &amp; Technology)</strong>
+<hr>
+<p><strong><u>Secondary 1 and 2 Modular Subjects in Semester 2&nbsp;</u></strong>
+<br><strong>(i.e., Secondary 1 Food and Consumer Education, and Secondary 2 Design &amp; Technology)</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -170,7 +170,8 @@ of Coursework is in Term 2</p>
 <p>Note: WA3 and WA4 are in Term 3, Submission of Coursework is in Term 4.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Secondary 4 Subjects</strong>
+<hr>
+<p><strong><u>Secondary 4 Subjects</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -206,10 +207,10 @@ of Coursework is in Term 2</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;Note: Learn and Practise (LAP) 1 and 2 are timed practices to help
-Sec 4 &amp; 5 students to be familiar with the demands of their upcoming
-examinations. They are non-weighted assessments that will be represented
-in Term 1 and 2 before the Preliminary Examination.&nbsp;&nbsp;</p>
+<p>Note: Learn and Practise (LAP) 1 and 2 are timed practices to help Sec
+4 &amp; 5 students to be familiar with the demands of their upcoming examinations.
+They are non-weighted assessments that will be represented in Term 1 and
+2 before the Preliminary Examination.&nbsp;&nbsp;</p>
 <p><em>&nbsp;</em>
 </p>
 <h4><strong><u>Assessment Schedule</u></strong></h4>
