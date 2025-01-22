@@ -2,5 +2,6 @@ collections:
   assessment:
     output: true
     order:
+      - Academic Requirement and Promotion Criteria.md
       - Assessment Plan and Schedule.md
       - Assessment Intent.md
