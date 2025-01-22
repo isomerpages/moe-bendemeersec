@@ -60,6 +60,7 @@ Foster a culture of support and encouragement, building positive relationships w
 <b><u>E</u>xcellence</b>: We embody <b>excellence</b> by consistently striving to achieve our personal best in all schooling pursuits. With a growth mindset, we actively seek feedback, reflect on our progress, and embrace continuous learning and improvement.  
   
 <br>
+	<hr>
 <p style="text-align:center; font-size:20px"><b><u>From Each His Best . To Lead &amp; Serve   </u></b></p>
   
 Every member of the school giving of his or her best to achieve excellence in every situation.  
