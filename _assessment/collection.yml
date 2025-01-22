@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Assessment Schedule/.keep
-      - Secondary 1 Assessment Schedule.md
       - Assessment Intent.md
       - Assessment Plan and Schedule.md
       - Academic Requirement and Promotion Criteria.md
