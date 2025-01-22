@@ -66,7 +66,7 @@ Foster a culture of support and encouragement, building positive relationships w
 	<hr>
 <p style="text-align:center; font-size:20px"><b><u>From Each His Best . To Lead &amp; Serve   </u></b></p>
   
-Every member of the school giving of his or her best to achieve excellence in every situation.  
-We maximize the potential of every students to give them courage to aim for their highest potential in their individual and collective endeavours
+Every member of the school giving of his or her best to achieve excellence in every situation. <br> 
+We maximize the potential of every students to give them courage to aim for their highest potential in their individual and collective endeavours.
 
 </center>
