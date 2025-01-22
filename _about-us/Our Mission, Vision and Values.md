@@ -17,11 +17,14 @@ variant: markdown
 <p style="text-align:center"><b>From Each His Best . To Lead &amp; Serve</b></p>
 <br>
 
-<p style="float:left; margin:0 10px 0px 0">
-<img src="/images/Aboutus/vmv-04.jpg" alt="learning" style="width:300px"></p>
+Critical Thinker
 
 <p style="text-align:justify">
-<b>We are a school that ignites a passion for learning.</b> The staff and students are encouraged to be creative and actively engaged in seeking solutions for the improvement of the community and country. We envision our graduates as confident youths who are equipped with skills and perspectives that make them relevant for their generation
+As critical thinkers, students will:  
+Develop the ability to analyse information, identify patterns, and solve complex problems creatively and logically.  
+Engage in reflective and adaptive thinking, learning from experience and applying learnt knowledge and skills strategically and with flexibility in evolving contexts.&nbsp;  
+Strengthen their critical thinking mindset, making informed decisions anchored on sound reasoning, evidence and values.  
+Communicate their ideas clearly and effectively, demonstrating empathy and understanding of different perspectives.**
 </p>
 
 <br>
