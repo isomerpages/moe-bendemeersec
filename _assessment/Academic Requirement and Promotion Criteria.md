@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong><u>Academic Requirement</u></strong></h4>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -47,8 +48,6 @@ MDL either in end of Sec 1 Sem 1/ end of Sec1 Sem 2.</p>
 <td rowspan="1" colspan="1">
 <p>All students generally progress to next year of learning, guided by a
 common academic requirement that applies.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Academic Requirement:</strong>
 </p>
 <p>(a)&nbsp; EL and 2 subjects, or</p>
