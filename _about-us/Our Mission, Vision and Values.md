@@ -39,9 +39,11 @@ Inspire and <b>motivate</b> peers, fostering a collaborative and inclusive commu
 
 <br>
 
-<p style="float:left; margin:0 10px 0px 0">
-<img src="/images/Aboutus/vmv-06.jpg" alt="character" style="width:300px"></p>
+<p style="text-align:center; font-size:20px"><b><u>Caring Contributor</u></b></p>
 
-<p style="text-align:justify">
-<b>We place a strong emphasis on Character Development and National Education.</b> Our students are taught to love our people and country. Our core values act as a plumb line which sets a standard for the behaviour of staff and students.
-</p></center>
+As caring contributors, students will:  
+Show empathy and compassion, understanding and addressing the needs of others with kindness and respect.  
+Foster a culture of support and encouragement, building positive relationships with peers, teachers and non-teaching staff and <b>motivate one another</b> towards excellence.  
+<b>Aspire</b> to make a meaningful impact and draw from their <b>strengths</b> to improve the well-being of their peers, community and the world.  
+	Promote social <u>responsibility</u> and environmental stewardship, advocating a culture of sustainable practices.
+<p></p></center>
