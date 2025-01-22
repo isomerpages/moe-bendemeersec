@@ -2,6 +2,7 @@ collections:
   assessment:
     output: true
     order:
+      - Assessment Schedule/Secondary 4.md
       - Assessment Schedule/Secondary 3.md
       - Assessment Schedule/Secondary 2.md
       - Assessment Schedule/Secondary 1.md
