@@ -13,7 +13,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 1 (G1/G2/G3)</strong>
+<p><strong><u>Sec 1 (G1/G2/G3)</u></strong>
 </p>
 </td>
 </tr>
@@ -39,7 +39,7 @@ MDL either in end of Sec 1 Sem 1/ end of Sec1 Sem 2.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 2 (G1/G2/G3)</strong>
+<p><strong><u>Sec 2 (G1/G2/G3)</u></strong>
 </p>
 </td>
 </tr>
