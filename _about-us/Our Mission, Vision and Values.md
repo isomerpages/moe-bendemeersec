@@ -29,7 +29,7 @@ Communicate their ideas clearly and effectively, demonstrating empathy and under
 
 <p style="text-align:center; font-size:20px"><b><u>Courageous Leader</u></b></p>
 
-As courageous leaders, students will:  
+As courageous leaders, students will:  <br>
 	Exercise self leadership and <u>strive for excellence</u>, showing <u>responsibility</u> and <u>accountability</u> in their actions and commitments to their best ability.  
 Demonstrate <b>integrity</b> and strong ethical <b>values</b>, standing up for what is right even when it is challenging.  
 Exhibit confidence and resilience, taking initiative and embracing challenges with a positive attitude.  
@@ -39,7 +39,7 @@ Inspire and <b>motivate</b> peers, fostering a collaborative and inclusive commu
 
 <p style="text-align:center; font-size:20px"><b><u>Caring Contributor</u></b></p>
 
-As caring contributors, students will:  
+As caring contributors, students will:  <br>
 Show empathy and compassion, understanding and addressing the needs of others with kindness and respect.  
 Foster a culture of support and encouragement, building positive relationships with peers, teachers and non-teaching staff and <b>motivate one another</b> towards excellence.  
 <b>Aspire</b> to make a meaningful impact and draw from their <b>strengths</b> to improve the well-being of their peers, community and the world.  
