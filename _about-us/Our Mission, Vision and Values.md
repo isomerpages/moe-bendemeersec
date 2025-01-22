@@ -26,7 +26,7 @@ Engage in reflective and adaptive thinking, learning from experience and applyin
 Communicate their ideas clearly and effectively, demonstrating empathy and understanding of different perspectives.
 <p></p>
 
-<br>
+
 <p style="text-align:center; font-size:20px"><b><u>Courageous Leader</u></b></p>
 
 As courageous leaders, students will:  
@@ -36,8 +36,6 @@ Exhibit confidence and resilience, taking initiative and embracing challenges wi
 Inspire and <b>motivate</b> peers, fostering a collaborative and inclusive community. (inspiring team excellence)
 <p></p>
 
-
-<br>
 
 <p style="text-align:center; font-size:20px"><b><u>Caring Contributor</u></b></p>
 
