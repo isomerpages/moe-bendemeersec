@@ -27,13 +27,10 @@ common academic requirement that applies.</p>
 <p></p>
 <p>Students who do well in&nbsp;individual subjects can offer subjects at
 MDL either in end of Sec 1 Sem 1/ end of Sec1 Sem 2.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -59,12 +56,10 @@ common academic requirement that applies.</p>
 </p>
 <p>Students need to meet the common academic requirement to offer subjects
 at&nbsp;the same subject levels the following year.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong><u>Promotion Criteria (For Sec 3)</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
