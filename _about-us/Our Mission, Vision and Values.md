@@ -16,9 +16,9 @@ variant: markdown
 ### **Motto**
 <p style="text-align:center; font-size:24px"><b>From Each His Best . To Lead &amp; Serve</b></p>
 <br>
-
-
-<p style="text-align:center; font-size:30px">Critical Thinker</p><br><br>
+<hr>
+<center>
+<p style="text-align:center; font-size:20px"><b><u>Critical Thinker</u></b></p>
 As critical thinkers, students will:  <br>
 Develop the ability to <u>analyse</u> information, identify patterns, and solve complex problems creatively and logically.  
 Engage in reflective and adaptive thinking, learning from experience and applying learnt knowledge and skills strategically and with flexibility in evolving contexts.&nbsp;  
@@ -27,15 +27,14 @@ Communicate their ideas clearly and effectively, demonstrating empathy and under
 <p></p>
 
 <br>
+<p style="text-align:center; font-size:20px"><b><u>Courageous Leader</u></b></p>
 
-<p style="text-align:center">Courageous Leader<br><br>
-&nbsp;
 As courageous leaders, students will:  
-Exercise self leadership and strive for excellence, showing responsibility and accountability in their actions and commitments to their best ability.  
-Demonstrate integrity and strong ethical values, standing up for what is right even when it is challenging.  
+	Exercise self leadership and <u>strive for excellence</u>, showing <u>responsibility</u> and <u>accountability</u> in their actions and commitments to their best ability.  
+Demonstrate <b>integrity</b> and strong ethical <b>values</b>, standing up for what is right even when it is challenging.  
 Exhibit confidence and resilience, taking initiative and embracing challenges with a positive attitude.  
-Inspire and motivate peers, fostering a collaborative and inclusive community. (inspiring team excellence)**
-</p>
+Inspire and <b>motivate</b> peers, fostering a collaborative and inclusive community. (inspiring team excellence)
+<p></p>
 
 
 <br>
@@ -45,4 +44,4 @@ Inspire and motivate peers, fostering a collaborative and inclusive community. (
 
 <p style="text-align:justify">
 <b>We place a strong emphasis on Character Development and National Education.</b> Our students are taught to love our people and country. Our core values act as a plumb line which sets a standard for the behaviour of staff and students.
-</p>
+</p></center>
