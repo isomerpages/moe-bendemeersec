@@ -44,4 +44,23 @@ Show empathy and compassion, understanding and addressing the needs of others wi
 Foster a culture of support and encouragement, building positive relationships with peers, teachers and non-teaching staff and <b>motivate one another</b> towards excellence.  
 <b>Aspire</b> to make a meaningful impact and draw from their <b>strengths</b> to improve the well-being of their peers, community and the world.  
 	Promote social <u>responsibility</u> and environmental stewardship, advocating a culture of sustainable practices.
-<p></p></center>
+<p></p>
+<hr>
+	
+	
+
+<p style="text-align:center; font-size:20px"><b><u>Our Values: C.A.R.E (Students) </u></b></p>
+  
+<b><u>C</u>ourage</b>: We cultivate <b>courage</b> by embracing new learning experiences, taking thoughtful risks, and persevere through challenges. We take initiative in our school and life experiences. We champion what is right guided by unwavering integrity. With confidence, we lead and make a positive impact in our community.  
+  
+<b><u>A</u>daptability</b>: We foster <b>adaptability</b> by exploring diverse perspectives and applying our knowledge and skills flexibly across various subjects and learning environments. We embrace change and prepare ourselves for evolving educational and real-world contexts.  
+  
+<b><u>R</u>espect</b>: We demonstrate <b>respect</b> by believing in the intrinsic worth of people and treating everyone with kindness, fairness and dignity. We listen with an open mind, appreciate differences and commit to building a positive and inclusive community.  
+  
+<b><u>E</u>xcellence</b>: We embody <b>excellence</b> by consistently striving to achieve our personal best in all schooling pursuits. With a growth mindset, we actively seek feedback, reflect on our progress, and embrace continuous learning and improvement.  
+  
+
+
+
+
+</center>
