@@ -479,7 +479,7 @@ description: ""
 <p>Respect 7 Class Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vimala d/o Selvarasu</p>
+<p>Ms Yovela Vimala Selvarasu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>vimala_selvarasu@moe.edu.sg</p>
