@@ -155,9 +155,19 @@ please refer to the school website.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Test</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>asasasas</p>
+</div>
+</details>
+</div>
 <p></p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>HEader 1</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>content of Header 1</p>
 </div>
 </details>
 </div>
