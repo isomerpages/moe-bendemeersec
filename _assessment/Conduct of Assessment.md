@@ -4,6 +4,9 @@ permalink: /conduct-of-assessment/
 variant: tiptap
 description: ""
 ---
+<h4><strong>Assessment Conduct and Policy</strong></h4>
+<p>Assessment conduct and policy is vital for students because they establish
+a fair and consistent system for evaluating their performance.</p>
 <h4><strong><u>Instructions For The Conduct Of Assessment</u></strong></h4>
 <p><strong>Before The Start Of The Assessment</strong>
 </p>
