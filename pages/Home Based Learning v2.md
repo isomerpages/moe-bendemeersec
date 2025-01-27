@@ -143,25 +143,10 @@ ownership of their own learning.</p>
 ![hblschedule](/images/hblschedule.png)
 
 <p>Important Information:</p>
-<p>&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp; Students do not need to report to school
-on HBL days.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Your child/ward must log in to the Video Meeting
-by 7.30am for attendance taking. Students will be marked absent if they
-fail to do so.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; For detailed information about the lesson schedule,
-please refer to the school website.</p>
+1. Students do not need to report to school on HBL days.
+2. Your child/ward must log in to the Video Meeting by 7.30am for attendance taking. Students will be marked absent if they fail to do so.
+3. Details the lesson schedule are shown below
+<p></p>
 
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input id="accordion1" type="checkbox">
-    <label for="accordion1">2025 HBL Schedule</label>
-    <div>
-			<p></p><div class="google-slides-container"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRxNy2lHWDEjSi2ucMVkq-hrnCBj7_NeA9kzL8Hetr_fZDEx6rpquIjaAD87K1vKMg_DXrFuFNit6LN/pubhtml?widget=true&amp;headers=false&amp;chrome=false"></iframe><p></p>
-
-
-<p>See Above.</p>
-    </div>
-	</div></li>  
-	
-
-</ul>
+<div class="google-slides-container"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRxNy2lHWDEjSi2ucMVkq-hrnCBj7_NeA9kzL8Hetr_fZDEx6rpquIjaAD87K1vKMg_DXrFuFNit6LN/pubhtml?widget=true&amp;headers=false&amp;chrome=false"></iframe>
+</div>
