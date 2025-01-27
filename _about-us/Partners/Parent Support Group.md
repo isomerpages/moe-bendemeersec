@@ -51,4 +51,4 @@ participation is valuable.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Aboutus/psg_shorturl.png">
 </div>
-<p></p>
+<p>We look forward to working together to strengthen our BDMS family!</p>
