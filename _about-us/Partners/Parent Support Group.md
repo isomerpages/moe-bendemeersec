@@ -6,6 +6,9 @@ third_nav_title: Partners
 variant: tiptap
 ---
 <h4><strong>Parent Support Group (PSG)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width:300px" height="auto" width="100%" alt="learning" src="/images/Aboutus/PSG1.png">
+</div>
 <p>The Parent Support Group (PSG) plays an integral role in strengthening
 school-home partnership where parents collaborate with the school, share
 ideas, and contribute to the overall development and growth of our children/ward.
@@ -43,27 +46,27 @@ can succeed.</p>
 </p>
 <p>Getting involved is easy! We welcome all parents to join the PSG. Your
 participation is valuable.</p>
-<p>To join, simply scan the QR code below.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>To join, simply scan the QR code below or click on this <a href="go.gov.sg/joinbdmspsg" rel="noopener nofollow" target="_blank">link</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px" height="auto" width="100%" alt="learning" src="/images/Aboutus/PSG1.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Aboutus/psg_shorturl.png">
 </div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>Chairman</strong>: Ms Crystal Cheng
 <br><strong>Vice-Chairman</strong>: Ms Chong Xin Xin
 <br>
