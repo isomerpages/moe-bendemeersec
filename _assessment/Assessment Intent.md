@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong><u>Assessment Intent</u></strong></h4>
-<p><strong><u>Assessment</u></strong>
-</p>
+<p></p>
 <p>Assessment is integral to the teaching and learning process, serving as
 a powerful tool to influence and enhance learning. It helps our students
 become self-directed, lifelong learners, as they monitor, assess, and improve
