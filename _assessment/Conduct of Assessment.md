@@ -7,7 +7,7 @@ description: ""
 <h4><strong>Assessment Conduct and Policy</strong></h4>
 <p>Assessment conduct and policy is vital for students because they establish
 a fair and consistent system for evaluating their performance.</p>
-<h4><strong><u>Instructions For The Conduct Of Assessment</u></strong></h4>
+<h4><strong><u>A. Instructions For The Conduct Of Assessment</u></strong></h4>
 <p><strong>Before The Start Of The Assessment</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -66,7 +66,7 @@ will be informed, and students will be subjected to disciplinary actions
 by the school.</p>
 </li>
 </ul>
-<h4><strong><u>In The Event Of Major Train Service Disruptions</u></strong></h4>
+<h4><strong><u>B. In The Event Of Major Train Service Disruptions</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>In the event of any major train service disruptions, students do not need
@@ -81,7 +81,7 @@ given the full duration of the paper.</p>
 to arrive in school at all, should contact the school immediately.</p>
 </li>
 </ul>
-<h4><strong><u>In The Event Of Other Unexpected Situations</u></strong></h4>
+<h4><strong><u>C. In The Event Of Other Unexpected Situations</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>For any other unexpected situations where students are not able to arrive
@@ -89,7 +89,7 @@ in school on time for the assessment (e.g., caught in a massive jam or
 flood), they should contact the school immediately.</p>
 </li>
 </ul>
-<h4><strong><u>Absence From Assessment</u></strong></h4>
+<h4><strong><u>D. Absence From Assessment</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students will not be allowed to re-sit for any school-based assessment
