@@ -5,13 +5,13 @@ description: ""
 third_nav_title: Our History
 variant: tiptap
 ---
-<p>On 26 April, we celebrated Bendemeer Secondary School’s 47th Speech and
-Prize Presentation Day! With our Chairman of the school’s Alumni, Mr Delane
-Lim, gracing the occasion as our Guest of Honour, we spent a delightful
-morning celebrating the achievements of past and current present Bendemeerians.
-At the same time, we extended our appreciation to our distinguished partners,
-thankful for the strong relationships we have established with our stakeholders.
-Our Concert Band started the event by playing a few rousing pieces that
+<p>On 26 April, we celebrated Bendemeer Secondary School’s 47th Speech &amp;
+Awards Day! With our Chairman of the school’s Alumni, Mr Delane Lim, gracing
+the occasion as our Guest of Honour, we spent a delightful morning celebrating
+the achievements of past and current present Bendemeerians. At the same
+time, we extended our appreciation to our distinguished partners, thankful
+for the strong relationships we have established with our stakeholders.</p>
+<p>Our Concert Band started the event by playing a few rousing pieces that
 set celebratory atmosphere, while the Choir members dazzled with not just
 their melodious voices but with equally colourful ethnic costumes. Not
 to be outdone, our Indian dancers, and later our Modern Dance members,
