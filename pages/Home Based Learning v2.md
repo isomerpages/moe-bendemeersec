@@ -27,7 +27,7 @@ ownership of their own learning.</p>
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p><strong>                                  Secondary 1 – 4</strong>
+<p><strong>Secondary 1 – 4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,7 +59,7 @@ ownership of their own learning.</p>
 </tr>
 <tr>
 <td rowspan="6" colspan="1">
-<p><strong>Date</strong>
+<p><strong>Dates</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
