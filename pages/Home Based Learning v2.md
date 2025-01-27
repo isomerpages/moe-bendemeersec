@@ -4,6 +4,9 @@ permalink: /home-based-learning-v2/
 variant: markdown
 description: ""
 ---
+<style>
+.google-slides-container{ position: relative; width: 100%; padding-top: 72%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+</style>
 <p>Home-Based Learning (HBL@BDMS) occurs on <strong><u>Odd Week Fridays</u></strong> this
 year. Students will learn from home using their Personal Learning Device
 (PLD).</p>
@@ -136,6 +139,7 @@ ownership of their own learning.</p>
 </tr>
 </tbody>
 </table>
+
 <p>Important Information:</p>
 <p>&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp; Students do not need to report to school
 on HBL days.</p>
@@ -145,30 +149,21 @@ fail to do so.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp; For detailed information about the lesson schedule,
 please refer to the school website.</p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>2025 HBL Schedule</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRxNy2lHWDEjSi2ucMVkq-hrnCBj7_NeA9kzL8Hetr_fZDEx6rpquIjaAD87K1vKMg_DXrFuFNit6LN/pubhtml?widget=true&amp;headers=false&amp;chrome=false"></iframe>
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Test</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>asasasas</p>
-</div>
-</details>
-</div>
-<p></p>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>HEader 1</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>content of Header 1</p>
-</div>
-</details>
-</div>
-<p></p>
+
+
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion1" type="checkbox">
+    <label for="accordion1">2025 HBL Schedule</label>
+    <div>
+			<p></p><div class="google-slides-container"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRxNy2lHWDEjSi2ucMVkq-hrnCBj7_NeA9kzL8Hetr_fZDEx6rpquIjaAD87K1vKMg_DXrFuFNit6LN/pubhtml?widget=true&amp;headers=false&amp;chrome=false"></iframe><p></p>
+
+
+<p>See Above.</p>
+    </div>
+	</div></li>  
+	
+
+</ul>
+
