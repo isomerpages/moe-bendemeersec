@@ -140,6 +140,8 @@ ownership of their own learning.</p>
 </tbody>
 </table>
 
+![hblschedule](/images/hblschedule.png)
+
 <p>Important Information:</p>
 <p>&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp; Students do not need to report to school
 on HBL days.</p>
