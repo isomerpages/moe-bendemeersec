@@ -150,9 +150,6 @@ by 7.30am for attendance taking. Students will be marked absent if they
 fail to do so.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp; For detailed information about the lesson schedule,
 please refer to the school website.</p>
-<p></p>
-
-
 
 <ul class="jekyllcodex_accordion">
   <li>
