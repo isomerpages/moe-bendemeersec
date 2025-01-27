@@ -6,9 +6,6 @@ third_nav_title: Partners
 variant: tiptap
 ---
 <h4><strong>Parent Support Group (PSG)</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width:300px" height="auto" width="100%" alt="learning" src="/images/Aboutus/PSG1.png">
-</div>
 <p>The Parent Support Group (PSG) plays an integral role in strengthening
 school-home partnership where parents collaborate with the school, share
 ideas, and contribute to the overall development and growth of our children/ward.
