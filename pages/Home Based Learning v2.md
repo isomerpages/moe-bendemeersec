@@ -136,11 +136,9 @@ ownership of their own learning.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>Important Information:</p>
-<p>&nbsp;</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Students do not need to report to school on
-HBL days.</p>
+<p>&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp; Students do not need to report to school
+on HBL days.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; Your child/ward must log in to the Video Meeting
 by 7.30am for attendance taking. Students will be marked absent if they
 fail to do so.</p>
