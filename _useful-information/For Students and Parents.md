@@ -11,6 +11,7 @@ description: ""
 * [Bookshop and Uniform Supplier](/resources/booksuniform/)
 * [Class Timetable](/resources/class-timetable/)
 * [School Calendar](/resources/schcalendar)
+* [Assessment Matters](/assessment-intent/)
 * [Home-Based Learning Schedule](/hbl/)
 * [Student Handbook](/student-handbook/intro/)
 * [The Bendemeer Standards](/files/Forparents/bdms_2024_the_bendemeer_standards.pdf)
