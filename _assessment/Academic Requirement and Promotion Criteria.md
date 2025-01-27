@@ -51,8 +51,6 @@ at&nbsp;the same subject levels the following year.</p>
 <p><strong>Academic Requirement:</strong>
 <br>(a)&nbsp; EL and 2 subjects, or
 <br>(b)&nbsp; at least half the total number of examinable subjects offered</p>
-<p></p>
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -99,5 +97,4 @@ at&nbsp;the same subject levels the following year.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
