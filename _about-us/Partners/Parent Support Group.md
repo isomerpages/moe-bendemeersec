@@ -43,7 +43,7 @@ can succeed.</p>
 </p>
 <p>Getting involved is easy! We welcome all parents to join the PSG. Your
 participation is valuable.</p>
-<p>To join, simply scan the QR code below or click on this <a href="go.gov.sg/joinbdmspsg" rel="noopener nofollow" target="_blank">link</a>.</p>
+<p>To join, simply scan the QR code below or click on this <a href="https://go.gov.sg/joinbdmspsg" rel="noopener nofollow" target="_blank">link</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Aboutus/psg_shorturl.png">
