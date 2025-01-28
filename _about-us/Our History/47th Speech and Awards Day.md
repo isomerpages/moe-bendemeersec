@@ -23,3 +23,7 @@ parade square with a livestream of a tchoukball exhibition. The day ended
 with a reception at our newly renovated library, and our guests were enthralled
 by the musical talents of our three student performers who gave rousing
 renditions of nostalgic classics!</p>
+<div class="iframe-wrapper">
+<iframe height="605" width="864" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTHnIOD-bZA-U8QOjkOwRkpjQsmE1Avs6OwOuRqpFxc2SqDTRn3K-9VtLNSppoqJgh9J3jiGADJFCVA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>

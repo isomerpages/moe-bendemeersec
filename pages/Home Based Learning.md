@@ -7,25 +7,20 @@ description: ""
 <style>
 .google-slides-container{ position: relative; width: 100%; padding-top: 72%; overflow: hidden; } .google-slides-container iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 </style>
-Blended Learning is part of MOE’s efforts to further develop our students’ ability to be self-directed, passionate and lifelong learners. **Home-Based Learning** (**HBL**) takes place on **Odd Week Fridays** and students will learn from home using their Personal Learning Device (PLD). Secondary 1 students who have not received their PLD yet and do not have a computing device at home may loan one from the school if needed. 
-
-Students will also be engaged in Student-Initiated Learning (SIL) where they can explore their interests beyond the curriculum. 
-
-You may click and view the HBL Schedule below.
-
+<p>Home-Based Learning (HBL@BDMS) occurs on <strong><u>Odd Week Fridays</u></strong> this
+year. Students will learn from home using their Personal Learning Device (PLD).</p>
+<p>Students will also engage in Student-Initiated Learning (SIL), where they can explore their interests beyond the curriculum. Secondary 1 students who have not received their PLD may borrow a device from school if needed.</p>
+<p>The scheduled HBL days are as follows:</p>
 
 
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input id="accordion1" type="checkbox">
-    <label for="accordion1">2025 HBL Schedule</label>
-    <div>
-			<p></p><div class="google-slides-container"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRxNy2lHWDEjSi2ucMVkq-hrnCBj7_NeA9kzL8Hetr_fZDEx6rpquIjaAD87K1vKMg_DXrFuFNit6LN/pubhtml?widget=true&amp;headers=false&amp;chrome=false"></iframe><p></p>
 
+![hblschedule](/images/hblschedule.png)
 
-<p>See Above.</p>
-    </div>
-	</div></li>  
-	
+<p>Important Information:</p>
+1. Students do not need to report to school on HBL days.
+2. Your child/ward must log in to the Video Meeting by 7.30am for attendance taking. Students will be marked absent if they fail to do so.
+3. Details of the lesson schedule are shown below.
+<p></p>
 
-</ul>
+<div class="google-slides-container"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRxNy2lHWDEjSi2ucMVkq-hrnCBj7_NeA9kzL8Hetr_fZDEx6rpquIjaAD87K1vKMg_DXrFuFNit6LN/pubhtml?widget=true&amp;headers=false&amp;chrome=false"></iframe>
+</div>
