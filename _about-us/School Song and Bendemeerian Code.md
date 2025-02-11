@@ -4,7 +4,7 @@ permalink: /about-us/sch-song-bdms-code/
 description: ""
 variant: markdown
 ---
-![Bendemeerian Code](/images/Aboutus/BSS%20Code%20new.jpg)
+![Bendemeerian Code](/images/Aboutus/BSS_Code_new.jpg)
 
 <pre><p style="font-size:20px">
 <b><u>The Bendemeerian Code</u></b>
