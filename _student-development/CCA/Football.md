@@ -51,15 +51,6 @@ advanced tracking systems</p>
 <h4><strong>Our Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>2023 NSG ‘B’ Division League 2 – Quarter Finalists</p>
-</li>
-<li>
-<p>2023 NSG NSG ‘C’ Division League 1</p>
-</li>
-<li>
-<p>2023 SFA Super 7 (Sec 1 Boys) – 2nd Runner up</p>
-</li>
-<li>
 <p>2024 NSG ‘B’ Division League 2 – Champions</p>
 </li>
 <li>
@@ -70,6 +61,15 @@ advanced tracking systems</p>
 </li>
 <li>
 <p>2024 SFA League (Sec 1-3 Boys) - Runner-up</p>
+</li>
+<li>
+<p>2023 NSG ‘B’ Division League 2 – Quarter Finalists</p>
+</li>
+<li>
+<p>2023 NSG NSG ‘C’ Division League 1</p>
+</li>
+<li>
+<p>2023 SFA Super 7 (Sec 1 Boys) – 2nd Runner up</p>
 </li>
 </ul>
 <p></p>
