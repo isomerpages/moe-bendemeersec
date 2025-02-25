@@ -4,6 +4,8 @@ permalink: /test-vmvm/
 variant: markdown
 description: ""
 ---
+
+![](/images/gmailschlogo.png)
 ### **Vision**
 <p style="text-align:center; font-size:24px"><b>Critical Thinker . Courageous Leader . Caring Contributor</b></p>
 		
