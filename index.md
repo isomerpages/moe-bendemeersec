@@ -16,18 +16,13 @@ sections:
       title: www
       subtitle: www
   - infopic:
-      title: Welcome to Bendemeer Secondary School!
+      title: War & Diplomacy History Card Game Challenge
       id: infopic
-      description: For more details on Secondary 1 registration, click the link below
+      description: The 10th National War & Diplomacy History Card Game Challenge 2025
+        is here!
       button: More details
-      url: /sec1posting/welcome
+      url: humanities/wardiplomacy/
       image: /images/s1welcome.png
-      alt: Image alt text
-  - infopic:
-      title: BDMS Open House 2024
-      id: infopic
-      description: Come Experience the Bendemeer Journey!
-      image: /images/poster02.jpg
       alt: Image alt text
   - infopic:
       title: School Canteen Vacancy
@@ -47,7 +42,7 @@ sections:
           announcement: The 10th National War & Diplomacy History Card Game Challenge 2025
             is here!
           link_text: Click here for details
-          link_url: /languages-and-humanities/humanities/wardiplomacy/
+          link_url: /humanities/wardiplomacy/
         - title: Booklists for 2025
           date: 18 November 2024
           announcement: The booklists for 2025 are now available.
