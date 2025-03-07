@@ -42,7 +42,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: War & Diplomacy Card Game Challenge
+        - title: War & Diplomacy History Card Game Challenge
           date: 07 March 2025
           announcement: The 10th National War & Diplomacy History Card Game Challenge 2025
             is here!
