@@ -22,7 +22,7 @@ sections:
         is here!
       button: More details
       url: humanities/wardiplomacy/
-      image: /images/s1welcome.png
+      image: /images/warndiplomacycards.jpg
       alt: Image alt text
   - infopic:
       title: School Canteen Vacancy
