@@ -1,6 +1,6 @@
 ---
 title: War & Diplomacy
-permalink: /languages-and-humanities/humanities/wardiplomacy/
+permalink: /humanities/wardiplomacy/
 variant: tiptap
 description: ""
 ---
