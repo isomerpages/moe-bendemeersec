@@ -30,13 +30,6 @@ sections:
       image: /images/poster02.jpg
       alt: Image alt text
   - infopic:
-      title: Direct School Admission – Secondary (DSA-Sec) Exercise 2024
-      id: infopic
-      button: Click here for more details
-      url: /dsa2024/
-      image: /images/Sec1posting/sec1post_welcome_02.jpg
-      alt: Image alt text
-  - infopic:
       title: School Canteen Vacancy
       id: infopic
       description: "Bendemeer Secondary School has immediate vacancy for the
@@ -49,6 +42,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: War & Diplomacy Card Game Challenge
+          date: 07 March 2025
+          announcement: The 10th National War & Diplomacy History Card Game Challenge 2025
+            is here!
+          link_text: Click here for details
+          link_url: /languages-and-humanities/humanities/wardiplomacy/
         - title: Booklists for 2025
           date: 18 November 2024
           announcement: The booklists for 2025 are now available.
