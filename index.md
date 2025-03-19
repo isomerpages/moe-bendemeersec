@@ -37,6 +37,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Term 2 Class Timetable
+          date: 19 March 2025
+          announcement: The Term 2 class timetables are now available.
+          link_text: Click here for details
+          link_url: /resources/class-timetable/
         - title: War & Diplomacy History Card Game Challenge
           date: 07 March 2025
           announcement: The 10th National War & Diplomacy History Card Game Challenge 2025
@@ -48,11 +53,6 @@ sections:
           announcement: The booklists for 2025 are now available.
           link_text: Click here for details
           link_url: /resources/booklists/
-        - title: Secondary 2 Subject Combination Exercise
-          date: 24 October 2024
-          announcement: Key Information on 2024 Secondary 2 Subject Combination Exercise
-          link_text: Click to download (PDF)
-          link_url: https://go.gov.sg/bdms-s2keyinfoupdates
         - title: School Canteen Vacancy
           date: 07 June 2024
           announcement: "Bendemeer Secondary School has immediate vacancy for the
