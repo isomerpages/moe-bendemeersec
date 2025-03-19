@@ -4,7 +4,7 @@ permalink: /resources/class-timetable/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Class timetables for 2025 Term 1</strong></h4>
+<h4><strong>Class timetables for 2025 Term 2</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
