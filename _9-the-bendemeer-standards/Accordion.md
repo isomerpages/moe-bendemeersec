@@ -32,7 +32,7 @@ medical certificate (MC) from a medical practitioner registered with the
 Singapore Medical Association.</p>
 </li>
 <li>
-<p>Parent/Guardian’s letter is only accepted for three days of absence per
+<p>Parent/Guardian’s letter is only accepted for five days of absence per
 semester.</p>
 </li>
 <li>
