@@ -574,6 +574,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alfred Lim Zong Bao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>alfred_lim_zong_bao@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Excellence 2 Class Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
