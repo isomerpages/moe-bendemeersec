@@ -48,6 +48,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Yan Han, Jon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_yan_han_jon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Courage 3 Class Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,6 +66,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>hu_wen-tian_wendy@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Ler Nie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_ler_nie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -110,6 +132,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>kenneth_goh_kun_huang@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng En Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_en_qi_h@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -485,6 +518,17 @@ description: ""
 <p>vimala_selvarasu@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Wai Kei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_wai_kei@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Secondary 4</strong></h4>
@@ -537,6 +581,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>r_ramadevi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alfred Lim Zong Bao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>alfred_lim_zong_bao@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
