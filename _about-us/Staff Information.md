@@ -48,6 +48,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Yan Han, Jon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_yan_han_jon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Courage 3 Class Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,6 +66,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>hu_wen-tian_wendy@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Ler Nie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_ler_nie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
