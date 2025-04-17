@@ -14,7 +14,7 @@ description: ""
 * [Assessment Matters](/assessment-intent/)
 * [Home-Based Learning Schedule](/hbl/)
 * [Student Handbook](/student-handbook/intro/)
-* [The Bendemeer Standards](/files/Forparents/bdms_2024_the_bendemeer_standards.pdf)
+* [The Bendemeer Standards](/files/Forparents/Our_Bendemeer_Standards_2025.pdf)
 * <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" target="_blank">LEAPS 2.0</a>
 * <a href="/departments/cce/sexuality-education/">Sexuality Education</a>
 
