@@ -37,6 +37,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: School Magazine 2024
+          date: 04 May 2025
+          announcement: The School Magazine 2024 has been published!
+          link_text: Click here to view!
+          link_url: /resources/sch-magazine/
         - title: Term 2 Class Timetable
           date: 19 March 2025
           announcement: The Term 2 class timetables are now available.
@@ -53,12 +58,6 @@ sections:
           announcement: The booklists for 2025 are now available.
           link_text: Click here for details
           link_url: /resources/booklists/
-        - title: School Canteen Vacancy
-          date: 07 June 2024
-          announcement: "Bendemeer Secondary School has immediate vacancy for the
-            following: Chinese Economy Rice Stall and  Malay Economy Rice Stall"
-          link_text: Click for more details
-          link_url: /school-canteen-ad/
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A question?
