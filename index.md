@@ -16,6 +16,13 @@ sections:
       title: www
       subtitle: www
   - infopic:
+      title: Direct School Admission – Secondary (DSA-Sec) Exercise 2025
+      id: infopic
+      button: Click for more details
+      url: /dsa2025/
+      alt: Image alt text
+      image: /images/hero_banner05.jpg
+  - infopic:
       title: War & Diplomacy History Card Game Challenge
       id: infopic
       description: The 10th National War & Diplomacy History Card Game Challenge 2025
