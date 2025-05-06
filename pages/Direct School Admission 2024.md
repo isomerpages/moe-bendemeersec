@@ -84,19 +84,23 @@ strengths and nurture a mindset of excellence.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/cca/sports/football/" rel="noopener noreferrer nofollow" target="_blank">Football CCA</a>
+<p><a href="/football/" rel="noopener noreferrer nofollow" target="_blank">Football CCA</a>
 </p>
 </li>
 <li>
-<p><a href="/cca/sports/tchoukball/" rel="noopener noreferrer nofollow" target="_blank">Tchoukball CCA</a>
+<p><a href="/tchoukball/" rel="noopener noreferrer nofollow" target="_blank">Tchoukball CCA</a>
 </p>
 </li>
 <li>
-<p><a href="/cca/performing-arts/concert-band/" rel="noopener noreferrer nofollow" target="_blank">Concert Band CCA</a>
+<p><a href="/choir/" rel="noopener nofollow" target="_blank">Choir CCA</a>
 </p>
 </li>
 <li>
-<p><a href="/cca/performing-arts/modern-dance/" rel="noopener noreferrer nofollow" target="_blank">Modern Dance CCA</a>
+<p><a href="/concert-band/" rel="noopener noreferrer nofollow" target="_blank">Concert Band CCA</a>
+</p>
+</li>
+<li>
+<p><a href="/modern-dance/" rel="noopener noreferrer nofollow" target="_blank">Modern Dance CCA</a>
 </p>
 </li>
 </ul>
