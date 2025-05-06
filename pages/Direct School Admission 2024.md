@@ -178,14 +178,14 @@ for an audition and in-person interview. During the audition, they will
 be required to undertake the following performance tasks:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>A self-prepared dance segment lasting at least 1 minutes with accompanying
+<p>A self-prepared dance segment lasting at least 1 minute with accompanying
 music</p>
 </li>
 <li>
 <p>Perform a demonstrated brief dance sequence</p>
 </li>
 </ul>
-<p><strong>Note:</strong> 
+<p>
 <br>Meeting all the criteria does not guarantee the student will be shortlisted/given
 an offer. The decision of the Interview Panel on the DSA-Sec application
 is final.&nbsp; The school reserves the right not to release the reasons
@@ -200,26 +200,25 @@ related to the talent they are selected for from year 1-4.</p>
 <hr>
 <p><strong><u>Application Procedure</u></strong> 
 <br>All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal.
-The application is free-of-charge and will be open from<strong> 7 May 2024, 11am to 3 June 2024, 3pm</strong>.</p>
+The application is free-of-charge and will be open from<strong> 7 May 2025, 11am to 3 June 2025, 3pm</strong>.</p>
 <p>If students are from MOE mainstream primary schools, one parent may log
 in directly to DSA-Sec Portal. Only one parent’s Singpass is required.
-You may refer to the MOE website at: <a href="https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant" rel="noopener noreferrer nofollow" target="_blank">https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant</a>.
 Parents/guardians who are unable to apply online can approach their child’s
-primary school for assistance.</p>
-<p>Applicants NOT studying in MOE mainstream primary schools need to obtain
-a Registration Number online via the MOE DSA website (online form) before
-they can apply through the DSA-Sec Portal.</p>
+primary school for assistance. Applicants NOT studying in MOE mainstream
+primary schools need to obtain a Registration Number online via the MOE
+DSA website (online form) before they can apply through the DSA-Sec Portal.</p>
 <p>For applicants not studying in MOE mainstream primary schools. Please
 apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal.
 You may refer to the MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a> for
 more details.</p>
 <p>Application forms that are sent through fax or email will not be considered.</p>
-<p>All applicants will be informed of their application outcome by <strong>9 September 2024.</strong>
+<p>All applicants will be informed of their application outcome between 25
+August and 4 September 2025<strong>.</strong>
 </p>
-<p>Shortlisted applicants will be required to attend an <strong>in-person interview and trial/audition </strong>between&nbsp;<strong>24 June 2024</strong>&nbsp;and&nbsp;<strong>9 September 2024</strong>.</p>
+<p>Shortlisted applicants will be required to attend an <strong>in-person interview and trial/audition </strong>between&nbsp;<strong>30 June 2025</strong>&nbsp;and&nbsp;<strong>4 September 2025</strong>.</p>
 <p>For further details, please visit the MOE website at: <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p><strong><u>For Enquiries</u></strong>
 </p>
-<p>For further enquiries, please contact&nbsp;<strong>Mr Lee Chen Siang, HOD/PE&amp;CCA,&nbsp;</strong>at&nbsp;<strong>6292 7616</strong>.
+<p>For further enquiries, please contact&nbsp;<strong>Mr Lee Chen Siang, </strong>at&nbsp;<strong>6292 7616</strong>.
 Alternatively, you can email your enquiries to <strong><a href="mailto:bendemeer_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bendemeer_ss@moe.edu.sg</a> </strong>.</p>
