@@ -22,6 +22,7 @@ sections:
       button: Click for more details
       url: /dsa2025/
       alt: Image alt text
+      image: /images/hero_banner05.jpg
   - infopic:
       title: War & Diplomacy History Card Game Challenge
       id: infopic
