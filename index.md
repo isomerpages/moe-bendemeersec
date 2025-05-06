@@ -17,7 +17,6 @@ sections:
       subtitle: www
   - infopic:
       title: Direct School Admission – Secondary (DSA-Sec) Exercise 2025
-      subtitle: Add an image and text
       id: infopic
       button: Click for more details
       url: /dsa2025/
