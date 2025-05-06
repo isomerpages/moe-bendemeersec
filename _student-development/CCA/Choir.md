@@ -39,6 +39,9 @@ Day, National Day</p>
 <h4><strong>Our Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>2025 Singapore Youth Festival Arts Presentation (Distinction)</p>
+</li>
+<li>
 <p>2023 Singapore Youth Festival Arts Presentation (Accomplishment)</p>
 </li>
 <li>
