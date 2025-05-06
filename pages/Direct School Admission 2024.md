@@ -131,7 +131,7 @@ they will be assessed based on</p>
 <p>Small-sided game performance</p>
 </li>
 </ul>
-<p><strong><u>Admission Criteria for Performing Arts – Concert Band and Modern Dance</u></strong>
+<p><strong><u>Admission Criteria for Performing Arts – Choir, Concert Band and Modern Dance</u></strong>
 </p>
 <p>In the selection of students, we are looking for those who:</p>
 <ul data-tight="true" class="tight">
@@ -144,6 +144,21 @@ they will be assessed based on</p>
 <li>
 <p>Have represented their schools or external organisations in music or dance
 performances or competitions.</p>
+</li>
+</ul>
+<p>Shortlisted applicants for the talent area in Choir will be invited for
+an audition and in-person interview. During the interview, they will be
+required to undertake the following performance tasks.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singing from a self-prepared choral piece of music (in any voice part)</p>
+</li>
+<li>
+<p>Demonstrate the ability to sing in major and harmonic minor scales and
+arpeggios</p>
+</li>
+<li>
+<p>Demonstrate the ability to echo sing a given tune</p>
 </li>
 </ul>
 <p>Shortlisted applicants for the talent area of Concert Band will be invited
