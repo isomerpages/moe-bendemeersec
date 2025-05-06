@@ -71,7 +71,7 @@ conductor help to bring out the best in our choir members, allowing them
 to grow as individuals and as a team. The CCA did the school proud by achieving
 the Certificate of Distinction in the Singapore Youth Festival Arts Presentation
 in 2025.</p>
-<p></p>
+<hr>
 <p><strong><u>Character and CCA Excellence</u></strong>
 </p>
 <p>Our focus in building both character and CCA excellence have resulted
