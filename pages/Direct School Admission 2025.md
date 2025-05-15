@@ -40,13 +40,19 @@ and strong partnerships.</p>
 </p>
 <p>We are proud to be one of ten secondary schools identified as a <strong>School Football Academy (SFA)</strong> since
 end 2022 under the <strong>Unleash the Roar! (UTR</strong>) national project
-led jointly by <strong>Ministry of Education (MOE),</strong>  <strong>SportSG and Football Association of Singapore (FAS)</strong>.</p>
+led jointly by <strong>Ministry of Education (MOE),</strong>  <strong>SportSG and Football Association of Singapore (FAS)</strong>.
+In 2025, the CCA started a Girls Football team in preparation for participation
+in the Nationals School Games (NSG) in 2026. Our Boys teams also did well
+in NSG this year, with both the B and C Division teams playing in League
+1 amongst the top 16 teams in Singapore.</p>
 <p><strong><u>Tchoukball CCA</u></strong>
 </p>
 <p>While Tchoukball is relatively new in Singapore, it is an established
 sport in the school with a strong legacy. We are known to have nurtured
 many national players, coaches and officials in the sport. Our own alumnus
-is also serving as the President of the <strong>Tchoukball Association of Singapore (TBAS)</strong>.</p>
+is also serving as the President of the <strong>Tchoukball Association of Singapore (TBAS)</strong>.
+In the ActiveSG cup this year, our B division boys emerged second runners
+up while our B division girls emerged among the Top 6 teams in the competition.</p>
 <p><strong><u>Concert Band CCA</u></strong>
 </p>
 <p>Led by one of our school alumni, Conductor Mr Joseph Teo, the Bendemeer
@@ -61,7 +67,9 @@ in the Singapore Youth Festival Arts Presentation 2025.</p>
 for individuals to express emotions and ideas through movement but also
 promotes social interaction and teamwork though collaboration among its
 members. In the 2023 Singapore Youth Festival Arts Presentation, the CCA
-did the school proud by achieving the Certificate of Distinction.</p>
+did the school proud by achieving the Certificate of Distinction. &nbsp;In
+the 2025 Singapore Youth Festival Arts Presentation, the CCA narrowly missed
+out on the Certificate of Distinction and achieved the Certificate of Accomplishment.</p>
 <p><strong><u>Choir CCA</u></strong>
 </p>
 <p>In Bendemeer Secondary School, the Choir CCA aspires for excellence through
