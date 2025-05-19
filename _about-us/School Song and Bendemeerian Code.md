@@ -18,7 +18,6 @@ We think critically and embrace change with adaptability.
 We respect ourselves and others, contributing to a positive and inclusive community.
 We strive for excellence in all our pursuits.                             
 Together, we live out our school motto -
-From Each His Best. To Lead and Serve.
-</code></pre>
+From Each His Best. To Lead and Serve.</code></pre>
 <p></p>
 <p></p>
