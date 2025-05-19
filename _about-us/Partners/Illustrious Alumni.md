@@ -3,6 +3,7 @@ title: Illustrious Alumni
 permalink: /about-us/partners/alumni/
 description: ""
 third_nav_title: Partners
+variant: markdown
 ---
 ![BDMS Alumni](/images/Aboutus/Alumni-logo-768x261.jpg)
 
@@ -32,24 +33,13 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 #### Our Illustrious Alumni
 
-<!--Example1 (will not show on website)
-<a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a>
--->
 
-<!--Example2 (will not show on website)
-<p>
-<a href="/images/Aboutus/Alumni-phoonsb" title="Click to view details">
-<img src="/images/Aboutus/Alumni00-300x249.png" alt="?" style="width:400px"/>
-</a>
-</p>
-<p style="text-align:center">
-<b>?</b>
-</p>
--->
+
+
 
 <p>
 
-<img src="/images/Aboutus/Alumni01-big.jpg" alt="Mr Jonathan Phoon siew Boon" style="width:700px"/>
+<img src="/images/Aboutus/Alumni01-big.jpg" alt="Mr Jonathan Phoon siew Boon" style="width:700px">
 
 </p>
 <p style="text-align:center">
@@ -58,7 +48,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni02-big.jpg" alt="Colonel (COL) Chew Chun-Liang / Lieutenant Colonel (LTC) Chew Chun-Chau " style="width:700px"/>
+<img src="/images/Aboutus/Alumni02-big.jpg" alt="Colonel (COL) Chew Chun-Liang / Lieutenant Colonel (LTC) Chew Chun-Chau" style="width:700px">
 
 </p>
 <p style="text-align:center">
@@ -67,7 +57,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni03-big.jpg" alt="Mr Delane Lim Zi Xuan" style="width:700px"/>
+<img src="/images/Aboutus/Alumni03-big.jpg" alt="Mr Delane Lim Zi Xuan" style="width:700px">
 
 </p>
 <p style="text-align:center">
@@ -76,7 +66,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni04-big.jpg" alt="Mr Chia Yew Choon Chris" style="width:700px"/>
+<img src="/images/Aboutus/Alumni04-big.jpg" alt="Mr Chia Yew Choon Chris" style="width:700px">
 
 </p>
 <p style="text-align:center">
@@ -85,7 +75,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni05-big.jpg" alt="Captain (CPT) Neo Wei Keong" style="width:700px"/>
+<img src="/images/Aboutus/Alumni05-big.jpg" alt="Captain (CPT) Neo Wei Keong" style="width:700px">
 
 </p>
 <p style="text-align:center">
@@ -94,7 +84,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni06-big.jpg" alt="Miss Siti Aishah Mohd Selamat" style="width:700px"/>
+<img src="/images/Aboutus/Alumni06-big.jpg" alt="Miss Siti Aishah Mohd Selamat" style="width:700px">
 
 </p>
 <p style="text-align:center">
@@ -103,7 +93,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni07-big.jpg" alt="Mr Tan Wei Qiang Jovin" style="width:700px"/>
+<img src="/images/Aboutus/Alumni07-big.jpg" alt="Mr Tan Wei Qiang Jovin" style="width:700px">
 
 </p>
 <p style="text-align:center">
@@ -112,7 +102,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni08-big.jpg" alt="Mr Teo Kin Hui Joseph" style="width:700px"/>
+<img src="/images/Aboutus/Alumni08-big.jpg" alt="Mr Teo Kin Hui Joseph" style="width:700px">
 
 </p>
 <p style="text-align:center">
@@ -121,7 +111,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni09-big.jpg" alt="Miss Hany Soh Hui Bin" style="width:700px"/>
+<img src="/images/Aboutus/Alumni09-big.jpg" alt="Miss Hany Soh Hui Bin" style="width:700px">
 
 </p>
 <p style="text-align:center">
@@ -130,7 +120,7 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni10-big.jpg" alt="Mr Mohamed Shameer" style="width:700px"/>
+<img src="/images/Aboutus/Alumni10-big.jpg" alt="Mr Mohamed Shameer" style="width:700px">
 
 </p>
 <p style="text-align:center">
@@ -139,64 +129,20 @@ Bendemeer Sec Alumni provide strong support in key areas such as our Co-Curricul
 
 <p>
 
-<img src="/images/Aboutus/Alumni11-big.jpg" alt="Miss Yip Pin Xiu" style="width:700px"/>
+<img src="/images/Aboutus/Alumni11-big.jpg" alt="Miss Yip Pin Xiu" style="width:700px">
 
 </p>
 <p style="text-align:center">
 <b>Miss Yip Pin Xiu</b>
 </p>
 
-<p>
 
-<img src="/images/Aboutus/Alumni12-big.jpg" alt="Mr Ian Fang Wei Jie" style="width:700px"/>
 
-</p>
-<p style="text-align:center">
-<b>Mr Ian Fang Wei Jie</b>
-</p>
-
-<!-- will not show on website
-![Mr Jonathan Phoon Siew Boon](/images/Aboutus/Alumni01-300x249.png)
-**Mr Jonathan Phoon Siew Boon**
-
-![Lieutenant Colonel (LTC) Chew Chun-Chau / Colonel (COL) Chew Chun-Liang](/images/Aboutus/Alumni02-300x249.png)
-**Lieutenant Colonel (LTC) Chew Chun-Chau / Colonel (COL) Chew Chun-Liang**
-
-![Mr Delane Lim Zi Xuan](/images/Aboutus/Alumni03-300x249.png)
-**Mr Delane Lim Zi Xuan**
-
-![Mr Chia Yew Choon Chris](/images/Aboutus/Alumni04-300x249.png)
-**Mr Chia Yew Choon Chris**
-
-![Captain (CPT) Neo Wei Keong](/images/Aboutus/Alumni05-300x249.png)
-**Captain (CPT) Neo Wei Keong**
-
-![Miss Siti Aishah Mohd Selamat](/images/Aboutus/Alumni06-300x249.png)
-**Miss Siti Aishah Mohd Selamat**
-
-![Mr Tan Wei Qiang Jovin](/images/Aboutus/Alumni07-300x249.png)
-**Mr Tan Wei Qiang Jovin**
-
-![Mr Teo Kin Hui Joseph](/images/Aboutus/Alumni08-300x249.png)
-**Mr Teo Kin Hui Joseph**
-
-![Miss Hany Soh Hui Bin](/images/Aboutus/Alumni09-300x249.png)
-**Miss Hany Soh Hui Bin**
-
-![Mr Mohamed Shameer](/images/Aboutus/Alumni10-300x249.png)
-**Mr Mohamed Shameer**
-
-![Miss Yip Pin Xiu](/images/Aboutus/Alumni11-300x249.png)
-**Miss Yip Pin Xiu**
-
-![Mr Ian Fang Wei Jie](/images/Aboutus/Alumni12-300x249.png)
-**Mr Ian Fang Wei Jie**
--->
 
 ## Events by Alumni 
 #### Join us as Bendemeer Alumni!
 <p style="text-align:justify">
-Every year, the school organises activities to bring alumni, parents and other stakeholders together. We welcome alumni to join us for various school events such as the Sports Day & fund raising activities.</p>
+Every year, the school organises activities to bring alumni, parents and other stakeholders together. We welcome alumni to join us for various school events such as the Sports Day &amp; fund raising activities.</p>
 <p style="text-align:justify">
 We encourage our alumni to be involved in the school community as this would contribute in enhancing the quality of education. We also welcome those who wish to form groups according to their year of graduation or receive updates on the school’s progress.</p>
 
