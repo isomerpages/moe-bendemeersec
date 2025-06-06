@@ -30,7 +30,7 @@ Preliminary Examinations schedule for the respective levels.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Assessment/Sec_4_SBA_and_National_Exam_Schedule_Updated_23_Jan_2025.pdf" rel="noopener nofollow" target="_blank">N Level Preliminary Examinations</a>
+<p><a href="/files/Assessment/2025_N_Level_Prelim_Exam_Timetable__Updared_6_Jun_.pdf" rel="noopener nofollow" target="_blank">N Level Preliminary Examinations</a>
 </p>
 <p><a href="/files/Assessment/2025_O_Level_Prelim_Exam_Timetable__Updated_6_Jun_.pdf" rel="noopener noreferrer nofollow" target="_blank">O Level Preliminary Examinations</a>
 </p>
