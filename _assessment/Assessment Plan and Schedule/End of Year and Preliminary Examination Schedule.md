@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Assessment Plan and Schedule
 ---
-<h4><strong><u>End of Year and Preliminary Examinations Schedule</u></strong></h4>
+<h4><strong><u>End-of-Year and Preliminary Examinations Schedule</u></strong></h4>
 <p>&nbsp;Parents/ students can click on the links to access the End-of-Year
 and Preliminary Exams schedule for the respective levels.</p>
 <table style="minWidth: 100px">
