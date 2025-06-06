@@ -44,6 +44,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: EOY and Preliminary Exams Schedule
+          date: 06 June 2025
+          announcement: The EOY and Preliminary Exams schedules are now available.
+          link_text: Click here for details
+          link_url: /eoy-and-preliminary-schedule/
         - title: School Magazine 2024
           date: 04 May 2025
           announcement: The School Magazine 2024 has been published!
