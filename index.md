@@ -16,7 +16,7 @@ sections:
       title: www
       subtitle: www
   - infopic:
-      title: End-Of-Year and Preliminary Exams Schedules
+      title: End-Of-Year and Preliminary Exams Schedule
       id: infopic
       description: The End-of-Year and Preliminary Exams schedule are now available.
       button: Click for more details
