@@ -1,8 +1,9 @@
 ---
-title: Assessment Plan and Schedule
+title: Assessment Plan and Examination Schedule
 permalink: /assessment-plan/
 variant: tiptap
 description: ""
+third_nav_title: Assessment Plan and Schedule
 ---
 <h4><strong><u>Assessment Plan</u></strong></h4>
 <p>The Assessment Plan delineates how each Weighted Assessments (WA) and

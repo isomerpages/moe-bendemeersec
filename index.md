@@ -16,21 +16,20 @@ sections:
       title: www
       subtitle: www
   - infopic:
+      title: End-of-Year and Preliminary Examinations Schedule
+      id: infopic
+      description: The End-of-Year and Preliminary Examinations schedules are now available.
+      button: Click for more details
+      url: /eoy-and-preliminary-schedule/
+      image: /images/Exam_graphic2.jpg
+      alt: Image alt text
+  - infopic:
       title: Direct School Admission – Secondary (DSA-Sec) Exercise 2025
       id: infopic
       button: Click for more details
       url: /dsa2025/
       alt: Image alt text
       image: /images/hero_banner05.jpg
-  - infopic:
-      title: War & Diplomacy History Card Game Challenge
-      id: infopic
-      description: The 10th National War & Diplomacy History Card Game Challenge 2025
-        is here!
-      button: More details
-      url: humanities/wardiplomacy/
-      image: /images/warndiplomacycards.jpg
-      alt: Image alt text
   - infopic:
       title: School Canteen Vacancy
       id: infopic
@@ -44,6 +43,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: EOY and Preliminary Exams Schedule
+          date: 06 June 2025
+          announcement: The EOY and Preliminary Exams schedules are now available.
+          link_text: Click here for details
+          link_url: /eoy-and-preliminary-schedule/
         - title: School Magazine 2024
           date: 04 May 2025
           announcement: The School Magazine 2024 has been published!
