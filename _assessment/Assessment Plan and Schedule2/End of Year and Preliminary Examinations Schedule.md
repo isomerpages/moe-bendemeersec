@@ -38,6 +38,5 @@ and Preliminary Exams schedule for the respective levels.</p>
 </tr>
 </tbody>
 </table>
-<p>Note: Detailed schedule will be sent at the beginning of each term via
-Parent Gateway.</p>
+<p>Note: Detailed schedule will be sent via Parent Gateway.</p>
 <p></p>
