@@ -21,7 +21,7 @@ sections:
       description: The End-of-Year and Preliminary Exams schedule are now available.
       button: Click for more details
       url: /eoy-and-preliminary-schedule/
-      image: /images/warndiplomacycards.jpg
+      image: /images/exams_graphic.jpg
       alt: Image alt text
   - infopic:
       title: Direct School Admission – Secondary (DSA-Sec) Exercise 2025
