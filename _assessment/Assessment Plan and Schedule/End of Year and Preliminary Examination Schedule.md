@@ -30,7 +30,7 @@ Preliminary Examinations schedule for the respective levels.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Assessment/2025_N_Level_Prelim_Exam_Timetable__Updared_6_Jun_.pdf" rel="noopener nofollow" target="_blank">N Level Preliminary Examinations</a>
+<p><a href="/files/Assessment/2025_n_level_prelim_exam_timetable_updated_6_jun.pdf" rel="noopener nofollow" target="_blank">N Level Preliminary Examinations</a>
 </p>
 <p><a href="/files/Assessment/2025_O_Level_Prelim_Exam_Timetable__Updated_7_Jun_.pdf" rel="noopener noreferrer nofollow" target="_blank">O Level Preliminary Examinations</a>
 </p>
