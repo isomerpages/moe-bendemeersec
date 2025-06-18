@@ -41,7 +41,7 @@ variant: markdown
     <td class="tg-cey4">During lessons, teachers will be able to:<br><br>~ Guide and monitor students’ use of devices (e.g., lock or unlock screen to redirect students’ attention or screen sharing)<br>~ Launch specific applications and/or websites for teaching and learning on your child’s/ward’s device<br>~ Facilitate the sharing of content.</td>
   </tr>
   <tr>
-    <td class="tg-cey4"><span style="font-weight:bold">3. Usage Management Service*</span><br><br>Enables the school and/or parents/guardians to <span style="font-weight:bold">better supervise and set helpful limits for your child’s/ward’s use of PLD after school. </span><br><br>*Only available for parents/guardians on Option A (See Details below)</td>
+    <td class="tg-cey4"><span style="font-weight:bold">3. Usage Management Service*</span><br><br>Enables the school and/or parents/guardians to <span style="font-weight:bold">better supervise and set helpful limits for your child’s/ward’s use of PLD after school. </span><br><br>*Only available for parents/guardians on Option A (See Annex B below)</td>
     <td class="tg-cey4">~ Screen time control to allow school and/or parents/guardians to set usage limits so that your child/ward does not use the PLD excessively<br>~ School and/or parents/guardians can control installation of applications to ensure that the device is used optimally for teaching and learning<br>~ Filters objectionable content to protect your child/ward from harmful content<br>~ Parents/Guardians can manage device usage of child/ward</td>
   </tr>
 </tbody>
