@@ -121,14 +121,13 @@ variant: markdown
 
 #### Selecting After-School DMA Options for PLDs
 
-The after-school hors are as follows:
+The after-school hours are as follows:
 
 |  | School hours| After-school hours |
 | -------- | -------- | -------- |
 | Regular school days     | Default settings between 6.30 am to 3.30 pm     | Parents’/Guardians’ after-school option between 3.30 pm to 6.30 am     |
 | Weekends, School and Public Holidays     | Parents’/Guardians’ After-School DMA Option for the whole day     | Parents’/Guardians’ After-School DMA Option for the whole day     |
 ||||
-
 
 
 <p style="text-align:justify">For parents/guardians who prefer alternative DMA settings after school hours, they can choose from the following options:</p>
@@ -141,5 +140,5 @@ The after-school hors are as follows:
  <p style="text-align:center"><a href="https://go.gov.sg/bdms-dmaoptions">https://go.gov.sg/bdms-dmaoptions</a></p>
 
   
-<p style="text-align:justify">Please note that the system will be updated on every 15th of the following month.&nbsp;  <br><br>
+<p style="text-align:justify">Please note that the system will be updated on every 15th of the <b>following month</b>.  <br><br>
 </p>
