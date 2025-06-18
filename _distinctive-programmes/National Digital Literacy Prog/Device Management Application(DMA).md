@@ -5,7 +5,7 @@ description: ""
 third_nav_title: National Digital Literacy Prog
 variant: markdown
 ---
-#### Functions of the DMA
+#### Annex A: Functions of the DMA
 
 <p style="text-align:justify">A Device Management Application (“DMA”) will come pre-installed on all PLDs purchased through the school, and will be installed on all student-owned devices subject to parental/guardian consent.   </p>
 
