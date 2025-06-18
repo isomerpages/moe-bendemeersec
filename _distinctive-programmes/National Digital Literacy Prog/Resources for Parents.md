@@ -28,8 +28,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Keyprogrammes/pdlp_Parent_Handbook_I_on_Learning_with_a_PLD.pdf" rel="noopener nofollow" target="_blank">Part (I)</a>
-</p>
-<p><a href="/files/Keyprogrammes/pdlp_Parent_Handbook_II_on_Learning_with_a_PLD.pdf" rel="noopener nofollow" target="_blank">Part (II)</a>
+<br><a href="/files/Keyprogrammes/pdlp_Parent_Handbook_II_on_Learning_with_a_PLD.pdf" rel="noopener nofollow" target="_blank">Part (II)</a>
 </p>
 </td>
 </tr>
