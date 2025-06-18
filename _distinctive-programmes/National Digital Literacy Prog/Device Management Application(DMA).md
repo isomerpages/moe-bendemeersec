@@ -34,7 +34,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-cey4"><span style="font-weight:bold">1. Mobile Device Management Service</span><br><br>This facilitates the <span style="font-weight:bold">updating and management of the PLDs, protects PLDs from malicious software, </span>and<span style="font-weight:bold"> protects your child/ward from objectionable internet content, or content that may not be conducive to teaching and learning during school hours.</span></td>
-    <td class="tg-cey4"><br>~ Facilitates automatic installation of apps required for teaching and learning<br>~ Filters objectionable content or content that may not be conducive to teaching and learning (e.g. social media, pornography, gambling, or websites containing extremist content)<br>~ Enables automatic updating of PLD OS and its applications in accordance with cybersecurity best practices</td>
+    <td class="tg-cey4">~ Facilitates automatic installation of apps required for teaching and learning<br>~ Filters objectionable content or content that may not be conducive to teaching and learning (e.g. social media, pornography, gambling, or websites containing extremist content)<br>~ Enables automatic updating of PLD OS and its applications in accordance with cybersecurity best practices</td>
   </tr>
   <tr>
     <td class="tg-cey4"><span style="font-weight:bold">2. Classroom Management Service</span><br><br>Enables teachers to <span style="font-weight:bold">manage the student’s use of the PLD </span>during lesson time to improve classroom management and support effective teaching and learning.<br><br>Teachers will only be able to view students’ screens during lessons.</td>
