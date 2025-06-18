@@ -27,8 +27,8 @@ variant: tiptap
 (PLD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Keyprogrammes/pdlp-Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">Part (I)</a> 
-<br><a href="/files/Keyprogrammes/pdlp-Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">Part (II)</a>
+<p><a href="/files/Keyprogrammes/pdlp_Parent_Handbook_I_on_Learning_with_a_PLD.pdf" rel="noopener nofollow" target="_blank">Part (I)</a>
+<br><a href="/files/Keyprogrammes/pdlp_Parent_Handbook_II_on_Learning_with_a_PLD.pdf" rel="noopener nofollow" target="_blank">Part (II)</a>
 </p>
 </td>
 </tr>
@@ -82,7 +82,8 @@ variant: tiptap
 <p>DMA Parent Guide - Option A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coming soon</p>
+<p>Click on this <a href="/files/Keyprogrammes/dma_parent_user_guide_for_option_a.pdf" rel="noopener nofollow" target="_blank">link</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -90,7 +91,17 @@ variant: tiptap
 <p>DMA Parent Guide - Option B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coming soon</p>
+<p>Click on this <a href="/files/Keyprogrammes/dma_parent_user_guide_for_option_b.pdf" rel="noopener nofollow" target="_blank">link</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DMA Parent Guide - Default Setting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click on this <a href="/files/Keyprogrammes/dma_parent_user_guide_for_default.pdf" rel="noopener nofollow" target="_blank">link</a>
+</p>
 </td>
 </tr>
 </tbody>

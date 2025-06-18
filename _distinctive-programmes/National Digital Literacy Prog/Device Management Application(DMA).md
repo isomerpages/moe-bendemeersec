@@ -5,7 +5,7 @@ description: ""
 third_nav_title: National Digital Literacy Prog
 variant: markdown
 ---
-#### Functions of the DMA
+#### Annex A: Functions of the DMA
 
 <p style="text-align:justify">A Device Management Application (“DMA”) will come pre-installed on all PLDs purchased through the school, and will be installed on all student-owned devices subject to parental/guardian consent.   </p>
 
@@ -34,15 +34,15 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-cey4"><span style="font-weight:bold">1. Mobile Device Management Service</span><br><br>This facilitates the <span style="font-weight:bold">updating and management of the PLDs, protects PLDs from malicious software, </span>and<span style="font-weight:bold"> protects your child/ward from objectionable internet content, or content that may not be conducive to teaching and learning during school hours.</span></td>
-    <td class="tg-cey4"><br>~ Facilitates automatic installation of apps required for teaching and learning<br>~ Filters objectionable content or content that may not be conducive to teaching and learning (e.g. social media, pornography, gambling, or websites containing extremist content)<br>~ Protects your child’s/ward’s PLD from security vulnerabilities through the automatic updating and patching of apps and device Operating System (OS)</td>
+    <td class="tg-cey4">~ Facilitates automatic installation of apps required for teaching and learning<br>~ Filters objectionable content or content that may not be conducive to teaching and learning (e.g. social media, pornography, gambling, or websites containing extremist content)<br>~ Enables automatic updating of PLD OS and its applications in accordance with cybersecurity best practices</td>
   </tr>
   <tr>
-    <td class="tg-cey4"><span style="font-weight:bold">2. Classroom Management Service</span><br><br>Enables teachers to <span style="font-weight:bold">manage the student’s use of the PLD </span>during lesson time to improve classroom management and support effective teaching and learning.<br><br>Teachers will only monitor students’ activities during lessons.</td>
-    <td class="tg-cey4">During lessons, teachers will be able to:<br><br>~ Manage and control devices (e.g. using the “Eyes Up” function)<br>~ Launch specific applications and/or websites for teaching and learning on your child’s/ward’s device<br>~ Facilitate the sharing of content<br>~ Monitor your child’s/ward’s usage and activities during lessons (e.g. screen sharing, monitoring your child’s/ward’s browsing history)</td>
+    <td class="tg-cey4"><span style="font-weight:bold">2. Classroom Management Service</span><br><br>Enables teachers to <span style="font-weight:bold">manage the student’s use of the PLD </span>during lesson time to improve classroom management and support effective teaching and learning.<br><br>Teachers will only be able to view students’ screens during lessons.</td>
+    <td class="tg-cey4">During lessons, teachers will be able to:<br>~ Guide and monitor students’ use of devices (e.g., lock or unlock screen to redirect students’ attention or screen sharing)<br>~ Launch specific applications and/or websites for teaching and learning on your child’s/ward’s device<br>~ Facilitate the sharing of content.</td>
   </tr>
   <tr>
-    <td class="tg-cey4"><span style="font-weight:bold">3. Usage Management Service</span><br><br>Enables the school and/or parents/guardians to <span style="font-weight:bold">better supervise and set helpful limits for your child’s/ward’s use of PLD after school.</span></td>
-    <td class="tg-cey4">~ Screen time control ensures that your child/ward does not use the PLD excessively<br>~ School and/or parents/guardians can control installation of applications to ensure that the device is used optimally for teaching and learning<br>~ Safe search and web content filtering protect your child/ward from harmful content<br>~ Parents/Guardians can monitor usage and activities by child/ward</td>
+    <td class="tg-cey4"><span style="font-weight:bold">3. Usage Management Service*</span><br><br>Enables the school and/or parents/guardians to <span style="font-weight:bold">better supervise and set helpful limits for your child’s/ward’s use of PLD after school. </span><br><br>*Only available for parents/guardians on Option A (See Annex B below)</td>
+    <td class="tg-cey4">~ Screen time control to allow school and/or parents/guardians to set usage limits so that your child/ward does not use the PLD excessively<br>~ School and/or parents/guardians can control installation of applications to ensure that the device is used optimally for teaching and learning<br>~ Filters objectionable content to protect your child/ward from harmful content<br>~ Parents/Guardians can manage device usage of child/ward</td>
   </tr>
 </tbody>
 </table>
@@ -50,10 +50,10 @@ variant: markdown
 <br>
 
 
-#### DMA Settings After School Hours (from Y2025)
+#### Annex B: MOE DMA Settings After School Hours for Chromebook PLDs (from Y2025)
 
 
-<p style="text-align:justify;">1.     During school hours, the Default Setting will apply. <br>2. After school hours, parents/guardians have a choice to continue with the Default or opt for an Alternative Setting. The following table outlines the different levels of restrictions, controls, and monitoring for the different DMA options <b>after</b> school hours.</p>
+<p style="text-align:justify;">1. The Device Management Application (DMA) solution for Chromebook PLDs is LightSpeed Systems(R)  <br>2.     During school hours, the Default Setting will apply. <br>3. After school hours, parents/guardians have a choice to continue with the Default or opt for an Alternative Setting. The following table outlines the different levels of restrictions, controls, and monitoring for the different DMA options <b>after</b> school hours.</p>
 
 <br>
 <style type="text/css">
@@ -82,19 +82,19 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-186s"></td>
-    <td class="tg-186s">For parents/guardians who want their child’s/ward’s use of the device to be restricted only to teaching and learning, and who prefer to follow the Default Setting as set by the school during school hours.</td>
-    <td class="tg-186s"><span style="font-weight:400;font-style:normal">For parents/guardians who want their child’s/ward’s use of the device to be restricted only to teaching and learning, and who prefer to follow the Default Setting as set by the school during school hours.</span></td>
+    <td class="tg-186s">For parents/guardians who want their child’s/ward’s use of the device to be restricted only to teaching and learning, and who prefer to follow the Default Setting as set by the school for both during and after school hours.</td>
+    <td class="tg-186s"><span style="font-weight:400;font-style:normal">For parents/guardians who prefer to take charge of the level of restrictions for their child’s/ward’s use of the device after school hours regulated by the DMA.</span></td>
     <td class="tg-186s">For parents/guardians who do not want their child’s/ward’s use of the device after school hours to be regulated by the DMA at all.</td>
   </tr>
   <tr>
-    <td class="tg-186s">Protect child/ward from objectionable content</td>
-    <td class="tg-186s">Web content filtering:<br><br>~ Violent/extremist content<br>~ Sexual/pornographic content<br>~ Gambling-related content</td>
+    <td class="tg-186s">Protect students from objectionable content</td>
+    <td class="tg-186s">Web content filtering will include, but not limited to the following categories:<br><br>~ Violent/extremist content<br>~ Sexual/pornographic content<br>~ Gambling-related content</td>
     <td class="tg-186s">Parents/Guardians will be able to include additional web content filtering by submitting a request to the school.</td>
     <td class="tg-186s">No content filtering at all after school hours.</td>
   </tr>
   <tr>
     <td class="tg-186s">Reduce distractions from learning through control of applications</td>
-    <td class="tg-186s">Parents/Guardians and students <b><u>will not be able to</u></b> install additional applications.</td>
+    <td class="tg-186s">Parents/Guardians and students <b><u>will be unable to</u></b> install additional applications.</td>
     <td class="tg-186s">1. Parents/Guardians will be able to install additional applications by submitting a request to the school.<br><span style="font-weight:400;font-style:normal">2. As these applications will be accessible both during and after school hours, please ensure that the requested applications support your child's/ward's learning.</span><br></td>
 		<td class="tg-186s">Parents/Guardians and/or students will be able to install additional applications after school hours. <br> To note:<br>1. The installation of applications would have to be done via the parent’s/student’s personal Google account. <br>2. Applications installed by parents/guardians and/or students after school hours will not be accessible during school hours.</td>
   </tr>
@@ -105,7 +105,7 @@ variant: markdown
     <td class="tg-186s">No control over screen time.</td>
   </tr>
   <tr>
-    <td class="tg-186s">Monitor child's/ward's cyber activities</td>
+    <td class="tg-186s">Monitor student's cyber activities</td>
     <td class="tg-186s">Parents/Guardians will not be able to track their child's/ward's browser history. </td>
     <td class="tg-186s">Parents/Guardians can track their child's/ward's browser history.</td>
 		<td class="tg-186s">Parents/Guardians will <u>not</u> be able to monitor or control their child's/ward's use of the device through the DMA. </td>
@@ -121,6 +121,15 @@ variant: markdown
 
 #### Selecting After-School DMA Options for PLDs
 
+The after-school hours are as follows:
+
+|  | School hours| After-school hours |
+| -------- | -------- | -------- |
+| Regular school days     | Default settings between 6.30 am to 3.30 pm     | Parents’/Guardians’ after-school option between 3.30 pm to 6.30 am     |
+| Weekends, School and Public Holidays     | Parents’/Guardians’ After-School DMA Option for the whole day     | Parents’/Guardians’ After-School DMA Option for the whole day     |
+||||
+
+
 <p style="text-align:justify">For parents/guardians who prefer alternative DMA settings after school hours, they can choose from the following options:</p>
 
 * <p style="text-align:justify">Option A: DMA settings can be modified</p>
@@ -131,5 +140,5 @@ variant: markdown
  <p style="text-align:center"><a href="https://go.gov.sg/bdms-dmaoptions">https://go.gov.sg/bdms-dmaoptions</a></p>
 
   
-<p style="text-align:justify">Please note that the system will be updated on every 15th of the following month.&nbsp;  <br><br>
+<p style="text-align:justify">Please note that the system will be updated on every 15th of the <b>following month</b>.  <br><br>
 </p>
