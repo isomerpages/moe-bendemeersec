@@ -53,7 +53,7 @@ variant: markdown
 #### Annex B: MOE DMA Settings After School Hours for Chromebook PLDs (from Y2025)
 
 
-<p style="text-align:justify;">1.     During school hours, the Default Setting will apply. <br>2. After school hours, parents/guardians have a choice to continue with the Default or opt for an Alternative Setting. The following table outlines the different levels of restrictions, controls, and monitoring for the different DMA options <b>after</b> school hours.</p>
+<p style="text-align:justify;">1. The Device Management Application (DMA) solution for Chromebook PLDs is LightSpeed Systems(R)  <br>2.     During school hours, the Default Setting will apply. <br>3. After school hours, parents/guardians have a choice to continue with the Default or opt for an Alternative Setting. The following table outlines the different levels of restrictions, controls, and monitoring for the different DMA options <b>after</b> school hours.</p>
 
 <br>
 <style type="text/css">
@@ -82,8 +82,8 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-186s"></td>
-    <td class="tg-186s">For parents/guardians who want their child’s/ward’s use of the device to be restricted only to teaching and learning, and who prefer to follow the Default Setting as set by the school during school hours.</td>
-    <td class="tg-186s"><span style="font-weight:400;font-style:normal">For parents/guardians who want their child’s/ward’s use of the device to be restricted only to teaching and learning, and who prefer to follow the Default Setting as set by the school during school hours.</span></td>
+    <td class="tg-186s">For parents/guardians who want their child’s/ward’s use of the device to be restricted only to teaching and learning, and who prefer to follow the Default Setting as set by the school for both during and after school hours.</td>
+    <td class="tg-186s"><span style="font-weight:400;font-style:normal">For parents/guardians who prefer to take charge of the level of restrictions for their child’s/ward’s use of the device after school hours regulated by the DMA.</span></td>
     <td class="tg-186s">For parents/guardians who do not want their child’s/ward’s use of the device after school hours to be regulated by the DMA at all.</td>
   </tr>
   <tr>
