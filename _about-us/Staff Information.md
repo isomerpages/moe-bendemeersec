@@ -48,6 +48,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Gan Kai Bin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Courage 2 Class Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,6 +121,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_chee_seng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chua Geok Yian (Mrs See)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
