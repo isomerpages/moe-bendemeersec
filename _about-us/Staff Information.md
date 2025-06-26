@@ -1104,7 +1104,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Laura Huang</p>
+<p>Ms Laura Huang, 2I/C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>laura_avyanna_huang_shan@moe.edu.sg</p>
