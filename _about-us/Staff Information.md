@@ -131,7 +131,7 @@ description: ""
 <p>Mdm Chua Geok Yian (Mrs See)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chua_geok_yian_mrs@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
