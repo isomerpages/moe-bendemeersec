@@ -509,6 +509,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Banazir Parvin Hanifar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>benazir_parvin_hanifar@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Respect 5 Class Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -516,6 +527,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>tay_guangyu@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jayme Ten Si Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ten_si_ying@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -538,6 +560,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_kay_shin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Daniel Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
