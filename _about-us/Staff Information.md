@@ -1367,7 +1367,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zulkifli B Khamis, 2I/C</p>
+<p>Mr Zulkifli B Khamis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>zulkifli_b_khamis@moe.edu.sg</p>
@@ -1410,21 +1410,10 @@ description: ""
 <p>Infocomm Technology (Media Production) Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shanuradha Selvaraj</p>
+<p>Mdm Shanuradha Selvaraj, I/C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>shanuradha_selvaraj@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Joycelyn Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_siew_ee_jocelyn@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1447,6 +1436,28 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_chee_seng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Ting Long</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_ting_long@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Joycelyn Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_siew_ee_jocelyn@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
