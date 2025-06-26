@@ -676,32 +676,21 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Dennis Wong Wei Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>dennis_wong_wei_ming@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms R Ramadevi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>r_ramadevi@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Alfred Lim Zong Bao</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>alfred_lim_zong_bao@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Siew Yew Kong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siew_yew_kong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -761,6 +750,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Florence Chang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chang_poh_joo@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Excellence 6 Class Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -768,6 +768,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_hoy_mun_charmaine@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurlily Hanee Rasdeen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurlily_hanee_rasdeen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -801,6 +812,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>karamjit_kaur@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Siew Liam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_siew_liam@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
