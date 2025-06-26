@@ -742,10 +742,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lu Yueh Ju (Advisor)</p>
+<p>Ms Qu Ai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lu_yueh_ju@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -786,10 +786,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CPT Mr Dennis Wong</p>
+<p>Mr Daniel Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>dennis_wong_wei_ming@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -834,6 +834,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>colin_leong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Winnie Tang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tang_cheok_lai_winnie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
