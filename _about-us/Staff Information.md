@@ -289,6 +289,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Han Hon Kwong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>han_hon_kwong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Adaptability 4 Class Mentors</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -362,6 +373,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>ah_abu_bakar@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Augustine Tan Keng Boon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
