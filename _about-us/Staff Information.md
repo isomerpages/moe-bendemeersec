@@ -37,6 +37,28 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Wai Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_wai_hong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Gan Kai Bin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Courage 2 Class Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,6 +125,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chua Geok Yian (Mrs See)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_geok_yian_mrs@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Courage 5 Class Mentors</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,10 +183,10 @@ description: ""
 <p>Courage 7 Class Mentors</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ivy Lim Chiew Sian</p>
+<p>Mr D'Cruz Mark Sanjay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_chiew_sian_ivy@moe.edu.sg</p>
+<p>dcruz_mark_sanjay@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -161,10 +194,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr D'Cruz Mark Sanjay</p>
+<p>Mr Andres Joshua Liu Yihuai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>dcruz_mark_sanjay@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -270,26 +303,26 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shamini Subramaniam</p>
+<p>Ms Fan Wen Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shamini_subramaniam@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Adaptability 4 Class Mentors</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Poh Ching</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_poh_ching@moe.edu.sg</p>
+<p>fan_wenwen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Han Hon Kwong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>han_hon_kwong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Adaptability 4 Class Mentors</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ong Pei Huat Brandon</p>
@@ -307,6 +340,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>zulkifli_b_khamis@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Qu Ai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -355,6 +399,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Augustine Tan Keng Boon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Adaptability 8 Class Mentors</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -369,10 +424,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Eng Lee Lily</p>
+<p>Ms Huan See Lai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_eng_lee_lily@moe.edu.sg</p>
+<p>huan_see_lai@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -406,6 +461,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>laura_avyanna_huang_shan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Ting Long</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_ting_long@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -454,6 +520,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Shamini Subramaniam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shamini_subramaniam@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Respect 4 Class Mentors</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -476,6 +553,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Banazir Parvin Hanifar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>benazir_parvin_hanifar@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Respect 5 Class Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -483,6 +571,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>tay_guangyu@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jayme Ten Si Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ten_si_ying@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -505,6 +604,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_kay_shin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Daniel Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -566,32 +676,21 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Dennis Wong Wei Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>dennis_wong_wei_ming@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms R Ramadevi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>r_ramadevi@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Alfred Lim Zong Bao</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>alfred_lim_zong_bao@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Siew Yew Kong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siew_yew_kong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -651,6 +750,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Florence Chang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chang_poh_joo@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Excellence 6 Class Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -658,6 +768,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_hoy_mun_charmaine@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurlily Hanee Rasdeen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurlily_hanee_rasdeen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -691,6 +812,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>karamjit_kaur@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Siew Liam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_siew_liam@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -742,10 +874,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lu Yueh Ju (Advisor)</p>
+<p>Ms Qu Ai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lu_yueh_ju@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -786,10 +918,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CPT Mr Dennis Wong</p>
+<p>Mr Daniel Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>dennis_wong_wei_ming@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -834,6 +966,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>colin_leong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Winnie Tang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tang_cheok_lai_winnie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -927,6 +1070,17 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Ler Nie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_ler_nie@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
@@ -972,10 +1126,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Poh Ching</p>
+<p>Ms Lu Yueh Ju</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_poh_ching@moe.edu.sg</p>
+<p>lu_yueh_ju@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -983,10 +1137,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lu Yueh Ju</p>
+<p>Mdm Goh Hong Lan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lu_yueh_ju@moe.edu.sg</p>
+<p>goh_hong_lan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1038,10 +1192,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lily Tan Eng Lee</p>
+<p>Mrs Lim Gek Hoon Ivy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_eng_lee_lily@moe.edu.sg</p>
+<p>lim_gek_hoon_ivy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1049,10 +1203,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim Gek Hoon Ivy</p>
+<p>Mr Jon Lim Yan Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_gek_hoon_ivy@moe.edu.sg</p>
+<p>lim_yan_han_jon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1082,10 +1236,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ivy Lim Chiew Sian, 2I/C</p>
+<p>Ms Laura Huang, 2I/C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_chiew_sian_ivy@moe.edu.sg</p>
+<p>laura_avyanna_huang_shan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1093,10 +1247,21 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Laura Huang</p>
+<p>Ms Ng En Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>laura_avyanna_huang_shan@moe.edu.sg</p>
+<p>ng_en_qi_h@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Andres Joshua Liu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -1125,7 +1290,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Amirah Mohamed Isah 2I/C</p>
+<p>Mdm Siti Amirah Mohamed Isah, 2I/C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_amirah_mohamad_isah@moe.edu.sg</p>
@@ -1140,6 +1305,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>chua_bee_hong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Wai Kei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_wai_kei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1213,6 +1389,17 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Chue Pui Fang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chue_pui_fang@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1268,6 +1455,17 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Alfred Lim Zong Bao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>alfred_lim_zong_bao@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1301,7 +1499,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zulkifli B Khamis, 2I/C</p>
+<p>Mr Zulkifli B Khamis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>zulkifli_b_khamis@moe.edu.sg</p>
@@ -1316,6 +1514,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>hoy_choy_fong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Wai Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_wai_hong@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -1333,21 +1542,10 @@ description: ""
 <p>Infocomm Technology (Media Production) Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shanuradha Selvaraj</p>
+<p>Mdm Shanuradha Selvaraj, I/C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>shanuradha_selvaraj@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Joycelyn Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_siew_ee_jocelyn@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1370,6 +1568,28 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_chee_seng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Ting Long</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_ting_long@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Joycelyn Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_siew_ee_jocelyn@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
