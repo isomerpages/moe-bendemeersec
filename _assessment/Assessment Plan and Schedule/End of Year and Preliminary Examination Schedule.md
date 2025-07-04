@@ -32,7 +32,6 @@ Preliminary Examinations schedule for the respective levels.</p>
 <th rowspan="1" colspan="1">
 <p><a href="/files/Assessment/2025_N_Level_Prelim_Timetable_updated_4_Jul.pdf" rel="noopener nofollow" target="_blank">N Level Preliminary Examinations</a>
 </p>
-<p></p>
 <p><a href="/files/Assessment/2025_O_Level_Prelim_Timetable_updated_4_Jul.pdf" rel="noopener nofollow" target="_blank">O Level Preliminary Examinations</a>
 </p>
 </th>
@@ -40,4 +39,3 @@ Preliminary Examinations schedule for the respective levels.</p>
 </tbody>
 </table>
 <p>Note: Detailed schedule will be sent via Parent Gateway.</p>
-<p></p>
