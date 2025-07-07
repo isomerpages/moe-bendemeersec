@@ -7,7 +7,7 @@ third_nav_title: Assessment Plan and Schedule
 ---
 <h4><strong><u>End-of-Year and Preliminary Examinations Schedule</u></strong></h4>
 <p>Parents/ students can click on the links to access the End-of-Year and
-Preliminary Examinations schedule for the respective levels.</p>
+Preliminary Examinations schedule for the respective levels.v</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
