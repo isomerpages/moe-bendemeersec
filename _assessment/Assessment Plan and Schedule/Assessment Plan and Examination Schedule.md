@@ -223,15 +223,15 @@ the whole year) for the respective levels.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Assessment/Sec_1_SBA_Schedule_2025_Updated_23_Jan__1_.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
+<p><a href="/files/Assessment/Sec_1_SBA_Schedule_2025_Updated_06_July.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Assessment/Sec_2_SBA_Schedule_2025_Updated_23_Jan_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
+<p><a href="/files/Assessment/Sec_2_SBA_Schedule_2025_Updated_06_July.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Assessment/Sec_3_SBA_Schedule_2025_Updated_23_Jan_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/Assessment/Sec_3_SBA_Schedule_2025_Updated_06_July.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
