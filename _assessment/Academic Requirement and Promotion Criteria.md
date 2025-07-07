@@ -50,7 +50,7 @@ common academic requirement that applies.
 at&nbsp;the same subject levels the following year.</p>
 <p><strong>Academic Requirement:</strong>
 <br>(a)&nbsp; EL and 2 subjects, or
-<br>(b)&nbsp; at least half the total number of examinable subjects offered</p>
+<br>(b)&nbsp; at least half the total number of examinable subjects offered.</p>
 </td>
 </tr>
 </tbody>
