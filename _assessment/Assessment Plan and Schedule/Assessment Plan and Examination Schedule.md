@@ -212,7 +212,7 @@ They are non-weighted assessments that will be represented in Term 1 and
 </p>
 <h4><strong><u>Assessment Schedule</u></strong></h4>
 <p>&nbsp;Parents/ students can click on the links to access information (for
-the whole year) for the respective levels.</p>
+the whole year) for the respective levels. m</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
