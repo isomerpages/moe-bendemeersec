@@ -22,11 +22,11 @@ Preliminary Examinations schedule for the respective levels.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Assessment/2025_End_of_Year_Exam_Sec_2_updated_4_Jul.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
+<p><a href="/files/Assessment/2025_End_of_Year_Exam_Sec_2__Updated_17_Jul_.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Assessment/2025_End_of_Year_Exam_Sec_3_updated_4_Jul.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/Assessment/2025_End_of_Year_Exam_Sec_3__Updated_30_Jul_.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
