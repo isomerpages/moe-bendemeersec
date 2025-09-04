@@ -18,7 +18,7 @@ Preliminary Examinations schedule for the respective levels.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Assessment/2025_End_of_Year_Exam_Sec_1_updated_4_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+<p><a href="/files/Assessment/2025_End_of_Year_Exam_Sec_1__updated_4_Sept_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
