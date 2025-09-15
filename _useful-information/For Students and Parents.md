@@ -31,10 +31,6 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="/student-handbook/intro/" rel="noopener noreferrer nofollow" target="_blank">Student Handbook</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Forparents/Our_Bendemeer_Standards_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">The Bendemeer Standards</a>
 </p>
 </li>
