@@ -1,5 +1,0 @@
-collections:
-  student-handbook:
-    output: true
-    order:
-      - Introduction.md
