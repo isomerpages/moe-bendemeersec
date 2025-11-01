@@ -2,6 +2,7 @@ collections:
   bdms-experience:
     output: true
     order:
+      - Student Leadership.md
       - Overview of CCA.md
       - Choir.md
       - Concert Band.md
