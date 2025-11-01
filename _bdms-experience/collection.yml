@@ -2,6 +2,7 @@ collections:
   bdms-experience:
     output: true
     order:
+      - CCA/Drama English.md
       - CCA/Cross Country.md
       - CCA/Concert Band.md
       - CCA/Choir.md
