@@ -2,6 +2,7 @@ collections:
   bdms-experience:
     output: true
     order:
+      - Concert Band.md
       - Cross Country.md
       - Drama English.md
       - Football.md
