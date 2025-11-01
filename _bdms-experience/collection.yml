@@ -2,6 +2,7 @@ collections:
   bdms-experience:
     output: true
     order:
+      - CCA/Modern Dance.md
       - CCA/Infocomm Club.md
       - CCA/Girl Guides.md
       - CCA/Football.md
