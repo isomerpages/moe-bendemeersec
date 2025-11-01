@@ -2,8 +2,6 @@ collections:
   useful-information:
     output: true
     order:
-      - EdTech/School based Help Desk.md
-      - EdTech/.keep
       - School/.keep
       - School/School Calendar.md
       - School/Home Based Learning.md
@@ -17,6 +15,14 @@ collections:
       - Academic/End of Year and Preliminary Examination Schedule.md
       - Academic/Academic Requirement and Promotion Criteria.md
       - Academic/Conduct of Assessment.md
+      - Student Development/.keep
+      - Student Development/Counselling and Helplines.md
+      - Student Development/MOE FAS Application.md
+      - Student Development/SEN and Helplines.md
+      - Student Development/Sexuality Education.md
+      - EdTech/.keep
+      - EdTech/School based Help Desk.md
+      - National Digital Literacy Prog/.keep
       - National Digital Literacy Prog/NDLP Overview.md
       - National Digital Literacy Prog/Device info Kit for Lenovo 500e 3rd & 4th
         Gen.md
@@ -28,12 +34,6 @@ collections:
       - National Digital Literacy Prog/Use of PLD in school.md
       - National Digital Literacy Prog/Acceptable Use Policy.md
       - National Digital Literacy Prog/Frequently Asked Questions.md
-      - National Digital Literacy Prog/.keep
-      - Student Development/.keep
-      - Student Development/Counselling and Helplines.md
-      - Student Development/MOE FAS Application.md
-      - Student Development/SEN and Helplines.md
-      - Student Development/Sexuality Education.md
       - Useful Links/.keep
       - Useful Links/For Students and Parents.md
       - Useful Links/For Staff.md
