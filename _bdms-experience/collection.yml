@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - Academic Programme/.keep
-      - Academic Programme/Science.md
-      - Academic Programme/Physical Education.md
-      - Academic Programme/Mother Tongue Languages.md
-      - Academic Programme/Mathematics.md
-      - Academic Programme/Humanities.md
-      - Academic Programme/English Language and Literature.md
       - Academic Programme/Craft and Technology.md
+      - Academic Programme/English Language and Literature.md
+      - Academic Programme/Humanities.md
+      - Academic Programme/Mathematics.md
+      - Academic Programme/Mother Tongue Languages.md
+      - Academic Programme/Physical Education.md
+      - Academic Programme/Science.md
       - CCA/.keep
       - CCA/Tchoukball.md
       - CCA/Taekwondo.md
