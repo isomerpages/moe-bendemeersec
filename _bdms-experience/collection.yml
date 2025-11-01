@@ -2,10 +2,15 @@ collections:
   bdms-experience:
     output: true
     order:
-      - CCE/Education and Career Guidance.md
-      - CCE/Cyber Wellness and Mental Health.md
-      - CCE/CCE Overview.md
-      - CCE/.keep
+      - Academic Programme/.keep
+      - Academic Programme/Science.md
+      - Academic Programme/Physical Education.md
+      - Academic Programme/Mother Tongue Languages.md
+      - Academic Programme/Mathematics.md
+      - Academic Programme/Humanities.md
+      - Academic Programme/English Language and Literature.md
+      - Academic Programme/Craft and Technology.md
+      - CCA/.keep
       - CCA/Tchoukball.md
       - CCA/Taekwondo.md
       - CCA/Red Cross Youth.md
@@ -20,16 +25,11 @@ collections:
       - CCA/Concert Band.md
       - CCA/Choir.md
       - CCA/Overview of CCA.md
-      - CCA/.keep
-      - Student Leadership.md
-      - Academic Programme/Science.md
-      - Academic Programme/Physical Education.md
-      - Academic Programme/Mother Tongue Languages.md
-      - Academic Programme/Mathematics.md
-      - Academic Programme/Humanities.md
-      - Academic Programme/English Language and Literature.md
-      - Academic Programme/Craft and Technology.md
-      - Academic Programme/.keep
       - Applied Learning Programme.md
       - Learning for Life Programme.md
+      - CCE/.keep
+      - CCE/Education and Career Guidance.md
+      - CCE/Cyber Wellness and Mental Health.md
+      - CCE/CCE Overview.md
+      - Student Leadership.md
       - Lets BDMS and CLAPS.md
