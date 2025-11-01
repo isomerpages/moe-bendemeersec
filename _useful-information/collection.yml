@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - School/Booklists.md
       - School/School Calendar.md
       - School/Class Timetable.md
       - School/.keep
