@@ -1,5 +1,4 @@
 collections:
   academic-curriculum:
     output: true
-    order:
-      - School Achievements.md
+    order: []
