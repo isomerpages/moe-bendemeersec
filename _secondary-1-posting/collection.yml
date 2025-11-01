@@ -1,5 +1,4 @@
 collections:
   secondary-1-posting:
     output: true
-    order:
-      - Welcome onboard.md
+    order: []
