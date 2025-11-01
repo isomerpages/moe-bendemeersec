@@ -4,10 +4,9 @@ permalink: /about-us/sch-song-bdms-code/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bendemeerian Code" src="/images/Aboutus/BSS_Code_new.jpg">
-</div><pre><code>
-The Bendemeerian Code
+<pre><code>
+Our Bendemeerian Code
+
 As true Bendemeerians, we are
 A community of Critical Thinkers, Courageous Leaders, and Caring Contributors.
 We are anchored in values. We dare to aspire,
