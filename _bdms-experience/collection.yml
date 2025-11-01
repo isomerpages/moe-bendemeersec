@@ -2,6 +2,7 @@ collections:
   bdms-experience:
     output: true
     order:
+      - Tchoukball.md
       - Academic Programme/Science.md
       - Academic Programme/Physical Education.md
       - Academic Programme/Mother Tongue Languages.md
