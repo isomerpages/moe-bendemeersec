@@ -2,6 +2,7 @@ collections:
   bdms-experience:
     output: true
     order:
+      - Infocomm Club.md
       - Modern Dance.md
       - National Cadet Corps.md
       - National Police Cadet Corps.md
