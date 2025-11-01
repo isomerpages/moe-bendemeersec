@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - Assessment New/.keep
       - School/Home Based Learning.md
       - School/School Magazines.md
       - School/Sale of School Books and Uniforms.md
