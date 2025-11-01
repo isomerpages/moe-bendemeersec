@@ -1,5 +1,5 @@
 collections:
-  student-development:
+  our-family:
     output: true
     order:
       - CCA/.keep
