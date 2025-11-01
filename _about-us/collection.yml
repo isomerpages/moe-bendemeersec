@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Our History.md
+      - Our Heritage.md
       - Our Mission, Vision and Values.md
       - Principal's Message.md
       - School Song and Bendemeerian Code.md
