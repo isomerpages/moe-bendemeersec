@@ -2,6 +2,7 @@ collections:
   bdms-experience:
     output: true
     order:
+      - CCA/Tchoukball.md
       - CCA/Taekwondo.md
       - CCA/Red Cross Youth.md
       - CCA/National Police Cadet Corps.md
