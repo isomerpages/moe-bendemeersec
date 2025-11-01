@@ -2,11 +2,11 @@ collections:
   our-community:
     output: true
     order:
+      - Principal's Message.md
+      - School Management Committee.md
+      - Staff Information.md
+      - School Advisory Committee.md
       - Illustrious Alumni.md
       - Parent Support Group.md
-      - School Advisory Committee.md
-      - Staff Information.md
-      - School Management Committee.md
-      - Principal's Message.md
       - CCA/.keep
       - CCE/.keep
