@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - National Digital Literacy Prog/.keep
-      - National Digital Literacy Prog/NDLP Overview.md
       - Learning for Life Programme.md
       - Applied Learning Programme.md
