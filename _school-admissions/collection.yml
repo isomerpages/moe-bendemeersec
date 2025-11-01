@@ -2,6 +2,7 @@ collections:
   school-admissions:
     output: true
     order:
+      - Sec 1 Admission (2025)/Full SBB.md
       - Sec 1 Admission (2025)/Art and Music Elective Programe.md
       - Sec 1 Admission (2025)/Appeals.md
       - Sec 1 Admission (2025)/.keep
