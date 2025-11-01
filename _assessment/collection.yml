@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Assessment Plan and Schedule/.keep
-      - Academic Requirement and Promotion Criteria.md
       - Conduct of Assessment.md
