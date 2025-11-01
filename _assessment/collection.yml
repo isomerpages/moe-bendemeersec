@@ -2,7 +2,6 @@ collections:
   assessment:
     output: true
     order:
-      - Assessment Intent.md
       - Assessment Plan and Schedule/.keep
       - Assessment Plan and Schedule/Assessment Plan and Examination Schedule.md
       - Assessment Plan and Schedule/End of Year and Preliminary Examination
