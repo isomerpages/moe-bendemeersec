@@ -2,11 +2,11 @@ collections:
   useful-information:
     output: true
     order:
-      - Student Development New/Counselling and Helplines.md
-      - Student Development New/MOE FAS Application.md
-      - Student Development New/SEN and Helplines.md
-      - Student Development New/Sexuality Education.md
-      - Student Development New/.keep
+      - Student Development/Counselling and Helplines.md
+      - Student Development/MOE FAS Application.md
+      - Student Development/SEN and Helplines.md
+      - Student Development/Sexuality Education.md
+      - Student Development/.keep
       - School/.keep
       - School/School Calendar.md
       - School/Home Based Learning.md
