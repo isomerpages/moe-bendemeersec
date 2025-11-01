@@ -4,6 +4,5 @@ collections:
     order:
       - CCA/.keep
       - CCE/.keep
-      - CCE/CCE Overview.md
       - CCE/Cyber Wellness and Mental Health.md
       - CCE/Education and Career Guidance.md
