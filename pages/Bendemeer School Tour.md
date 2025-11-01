@@ -1,0 +1,11 @@
+---
+title: Bendemeer School Tour
+permalink: /bendemeer-school-tour/
+description: ""
+variant: tiptap
+---
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qrG-HsdEbT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+</div>
