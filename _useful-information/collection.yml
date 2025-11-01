@@ -2,18 +2,18 @@ collections:
   useful-information:
     output: true
     order:
-      - Assessment New/.keep
-      - Assessment New/Assessment Intent.md
-      - Assessment New/Assessment Plan and Examination Schedule.md
-      - Assessment New/End of Year and Preliminary Examination Schedule.md
-      - Assessment New/Academic Requirement and Promotion Criteria.md
-      - Assessment New/Conduct of Assessment.md
+      - School/.keep
       - School/Home Based Learning.md
       - School/School Magazines.md
       - School/Sale of School Books and Uniforms.md
       - School/Booklists.md
       - School/School Calendar.md
       - School/Class Timetable.md
-      - School/.keep
+      - Assessment New/.keep
+      - Assessment New/Assessment Intent.md
+      - Assessment New/Assessment Plan and Examination Schedule.md
+      - Assessment New/End of Year and Preliminary Examination Schedule.md
+      - Assessment New/Academic Requirement and Promotion Criteria.md
+      - Assessment New/Conduct of Assessment.md
       - For Students and Parents.md
       - For Staff.md
