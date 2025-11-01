@@ -2,6 +2,7 @@ collections:
   bdms-experience:
     output: true
     order:
+      - Drama English.md
       - Football.md
       - Girl Guides.md
       - Infocomm Club.md
