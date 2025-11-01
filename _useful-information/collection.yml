@@ -2,12 +2,6 @@ collections:
   useful-information:
     output: true
     order:
-      - EdTech/.keep
-      - Student Development/Counselling and Helplines.md
-      - Student Development/MOE FAS Application.md
-      - Student Development/SEN and Helplines.md
-      - Student Development/Sexuality Education.md
-      - Student Development/.keep
       - School/.keep
       - School/School Calendar.md
       - School/Home Based Learning.md
@@ -21,6 +15,12 @@ collections:
       - Academic/End of Year and Preliminary Examination Schedule.md
       - Academic/Academic Requirement and Promotion Criteria.md
       - Academic/Conduct of Assessment.md
+      - EdTech/.keep
+      - Student Development/.keep
+      - Student Development/Counselling and Helplines.md
+      - Student Development/MOE FAS Application.md
+      - Student Development/SEN and Helplines.md
+      - Student Development/Sexuality Education.md
       - Useful Links/.keep
       - Useful Links/For Students and Parents.md
       - Useful Links/For Staff.md
