@@ -2,6 +2,7 @@ collections:
   bdms-experience:
     output: true
     order:
+      - CCA/Concert Band.md
       - CCA/Choir.md
       - CCA/Overview of CCA.md
       - CCA/.keep
