@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - School Calendar.md
       - School Magazines.md
       - MOE FAS Application.md
       - Sale of School Books and Uniforms.md
