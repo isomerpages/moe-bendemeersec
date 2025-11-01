@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our School Song.md
       - Our Heritage.md
       - Our Identity.md
       - Principal's Message.md
