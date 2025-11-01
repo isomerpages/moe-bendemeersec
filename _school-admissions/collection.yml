@@ -2,6 +2,7 @@ collections:
   school-admissions:
     output: true
     order:
+      - Sec 1 Admission (2025)/Welcome onboard.md
       - Sec 1 Admission (2025)/Online Registration.md
       - Sec 1 Admission (2025)/First Week of School.md
       - Sec 1 Admission (2025)/Student Well Being.md
