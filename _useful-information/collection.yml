@@ -2,9 +2,6 @@ collections:
   useful-information:
     output: true
     order:
-      - Useful Links/For Staff.md
-      - Useful Links/For Students and Parents.md
-      - Useful Links/.keep
       - School/.keep
       - School/Home Based Learning.md
       - School/School Magazines.md
@@ -18,3 +15,6 @@ collections:
       - Assessment/End of Year and Preliminary Examination Schedule.md
       - Assessment/Academic Requirement and Promotion Criteria.md
       - Assessment/Conduct of Assessment.md
+      - Useful Links/.keep
+      - Useful Links/For Staff.md
+      - Useful Links/For Students and Parents.md
