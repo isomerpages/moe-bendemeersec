@@ -2,6 +2,7 @@ collections:
   bdms-experience:
     output: true
     order:
+      - CCA/Girl Guides.md
       - CCA/Football.md
       - CCA/Drama English.md
       - CCA/Cross Country.md
