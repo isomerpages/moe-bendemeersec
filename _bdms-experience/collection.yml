@@ -2,6 +2,7 @@ collections:
   bdms-experience:
     output: true
     order:
+      - Education and Career Guidance.md
       - CCE Overview.md
       - Student Leadership.md
       - Overview of CCA.md
