@@ -2,6 +2,7 @@ collections:
   bdms-experience:
     output: true
     order:
+      - Science.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
       - Lets BDMS and CLAPS.md
