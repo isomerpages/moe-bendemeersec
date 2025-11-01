@@ -2,6 +2,7 @@ collections:
   bdms-experience:
     output: true
     order:
+      - Football.md
       - Girl Guides.md
       - Infocomm Club.md
       - Modern Dance.md
