@@ -1,5 +1,5 @@
 collections:
-  our-family:
+  our-community:
     output: true
     order:
       - CCA/.keep
