@@ -2,6 +2,5 @@ collections:
   school-admissions:
     output: true
     order:
-      - Sec 1 Admission (2025)/First week of School.md
       - Sec 1 Admission (2025)/.keep
       - Direct School Admission 2025.md
