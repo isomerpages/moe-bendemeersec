@@ -2,7 +2,6 @@ collections:
   bdms-experience:
     output: true
     order:
-      - National Digital Literacy Prog/.keep
       - Learning for Life Programme.md
       - Applied Learning Programme.md
       - Lets BDMS and CLAPS.md
