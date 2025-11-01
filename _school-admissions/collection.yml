@@ -1,4 +1,5 @@
 collections:
   school-admissions:
     output: true
-    order: []
+    order:
+      - Direct School Admission 2025.md
