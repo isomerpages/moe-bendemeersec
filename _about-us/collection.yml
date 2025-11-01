@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our History.md
       - Our Mission, Vision and Values.md
       - Principal's Message.md
       - Our History/.keep
