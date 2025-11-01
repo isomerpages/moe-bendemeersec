@@ -2,11 +2,11 @@ logo: /images/logo.png
 links:
   - title: About Us
     collection: about-us
-  - title: Academic Curriculum
-    collection: academic-curriculum
   - title: Our Community
     collection: our-community
   - title: Bdms Experience
     collection: bdms-experience
+  - title: Academic Curriculum
+    collection: academic-curriculum
   - title: Useful Information
     collection: useful-information
