@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - Student Development New/Sexuality Education.md
       - Student Development New/.keep
       - School/.keep
       - School/Home Based Learning.md
