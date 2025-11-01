@@ -9,15 +9,4 @@ links:
   - title: Distinctive Programmes
     collection: distinctive-programmes
   - title: Useful Information
-    url: /usefulinfo/forstudentparents/
-    sublinks:
-      - title: For Students and Parents
-        url: /usefulinfo/forstudentparents/
-      - title: For Staff
-        url: /usefulinfo/forstaff/
-      - title: School Calendar
-        url: /resources/schcalendar
-      - title: Student Handbook
-        url: /student-handbook/intro/
-  - title: Useful Information New
     collection: useful-information
