@@ -2,4 +2,4 @@ collections:
   academic-curriculum:
     output: true
     order:
-      - Accolades and Achievements.md
+      - School Achievements.md
