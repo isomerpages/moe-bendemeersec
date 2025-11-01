@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - Our School Song.md
       - Our Heritage.md
       - Our Identity.md
-      - Principal's Message.md
+      - Our School Song.md
       - Our Bendemeerian Code.md
+      - Principal's Message.md
       - School Management Committee.md
       - Staff Information.md
       - School Advisory Committee.md
