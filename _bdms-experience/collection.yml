@@ -2,6 +2,6 @@ collections:
   bdms-experience:
     output: true
     order:
-      - Learning for Life Programme.md
       - Applied Learning Programme.md
+      - Learning for Life Programme.md
       - Lets BDMS and CLAPS.md
