@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage_short.gif
+      background: /images/homepage_long.gif
       variant: image
       title: www
       subtitle: www
