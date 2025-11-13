@@ -19,6 +19,9 @@ sections:
         - title: Open House 2025
           description: ""
           url: /openhouse2025/
+        - title: Social Media
+          description: View Our Latest Happenings!
+          url: /social-media/
   - infopic:
       title: Open House 2025
       id: infopic
