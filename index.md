@@ -17,7 +17,7 @@ sections:
       subtitle: www
       key_highlights:
         - title: Open House 2025
-          description: ""
+          description: Click to find out more!
           url: /openhouse2025/
         - title: Social Media
           description: View Our Latest Happenings!
