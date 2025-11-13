@@ -12,12 +12,12 @@ Operating Hours: Mon-Fri: 9.00am - 2.30pm, Sat: 9.00am - 11.00am.
 
 Parents and students may download the booklists for 2025 from the links below:
 
-#### **Booklists for 2025**
+#### **Booklists for 2026**
 
 | |  |  |
 |-|-|-|
-| [Secondary 1](/files/Forparents/Booklists/Booklist_2025_Sec_1.pdf)  |  |
-| [Secondary 2](/files/Forparents/Booklists/Booklist_2025_Sec_2.pdf) |  |
-| [Secondary 3](/files/Forparents/Booklists/Booklist_2025_Sec_3.pdf)  |  |
-| [Sec 4 Express](/files/Forparents/Booklists/Booklist_2025_Sec_4exp.pdf)| [Sec 4 Normal(Academic)](/files/Forparents/Booklists/Booklist_2025_Sec_4na.pdf) | [Sec 4 Normal(Technical)](/files/Forparents/Booklists/Final_Booklist_2025_4ntv2.pdf) | 
-| [Sec 5 Normal(Academic)](/files/Forparents/Booklists/Final_Booklist_2025_5nav2.pdf) | ||
+| Secondary 1(Not Available)  |  |
+| [Secondary 2](/files/Forparents/Booklists/S2_BOOKLIST_2026.pdf) |  |
+| [Secondary 3](/files/Forparents/Booklists/S3_BOOKLIST_2026.pdf)  |  |
+| [Sec 4 Express](/files/Forparents/Booklists/S4_BOOKLIST_2026.pdf)| [Sec 4 Normal(Academic)](/files/Forparents/Booklists/S4_BOOKLIST_2026.pdf) | [Sec 4 Normal(Technical)](/files/Forparents/Booklists/S4_BOOKLIST_2026.pdf) | 
+| [Sec 5 Normal(Academic)](/files/Forparents/Booklists/S5_BOOKLIST_2026.pdf) | ||
