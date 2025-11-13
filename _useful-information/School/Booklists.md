@@ -1,23 +1,97 @@
 ---
 title: Booklists
 permalink: /resources/booklists/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: School
 ---
-During school holiday, the bookshop is opened on the following days with the operating hours:  
-Operating Hours: Mon-Fri: 9.00am - 2.30pm, Sat: 9.00am - 11.00am.
-
-![bookshop operating hours](/images/Usefullinks/bookshophours2025.png)
-
-Parents and students may download the booklists for 2025 from the links below:
-
-#### **Booklists for 2026**
-
-| |  |  |
-|-|-|-|
-| Secondary 1(Not Available)  |  |
-| [Secondary 2](/files/Forparents/Booklists/S2_BOOKLIST_2026.pdf) |  |
-| [Secondary 3](/files/Forparents/Booklists/S3_BOOKLIST_2026.pdf)  |  |
-| [Secondary 4](/files/Forparents/Booklists/S4_BOOKLIST_2026.pdf)|  |  | 
-| [Sec 5 Normal(Academic)](/files/Forparents/Booklists/S5_BOOKLIST_2026.pdf) | ||
+<p>During school holiday, the bookshop is opened on the following days with
+the operating hours:
+<br>Operating Hours: Mon-Fri: 9.00am - 3.00pm, Sat: Closed
+<br>Please avoid Lunch time (12.00pm to 1.00pm)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="bookshop opening hours for 2026" src="/images/Usefullinks/bookshophours2026.png">
+</div>
+<p>Parents and students may download the booklists for 2026 from the links
+below:</p>
+<h4><strong>Booklists for 2026</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 1(Not Available)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Forparents/Booklists/S2_BOOKLIST_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Forparents/Booklists/S3_BOOKLIST_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Forparents/Booklists/S4_BOOKLIST_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Forparents/Booklists/S5_BOOKLIST_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Normal(Academic)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
