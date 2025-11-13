@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage_long.gif
+      background: /images/openhouse.gif
       variant: image
       title: www
       subtitle: www
@@ -26,7 +26,7 @@ sections:
       title: Open House 2025
       id: infopic
       description: Join us on Saturday, 15 November for our Open House!
-      image: /images/openhouse.gif
+      image: /images/Open_House_Poster_Social_Media120n.png
       alt: Image alt text
   - infopic:
       title: End-of-Year and Preliminary Examinations Schedule
