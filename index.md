@@ -18,10 +18,7 @@ sections:
       key_highlights:
         - title: Open House 2025
           description: ""
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+          url: /openhouse2025/
   - infopic:
       title: Open House 2025
       id: infopic
