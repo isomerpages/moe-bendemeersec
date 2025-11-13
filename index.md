@@ -17,7 +17,7 @@ sections:
       subtitle: www
       key_highlights:
         - title: Open House 2025
-          description: Click to find out more!
+          description: 15 Nov 2025 (Saturday)
           url: /openhouse2025/
         - title: Social Media
           description: View Our Latest Happenings!
