@@ -15,6 +15,13 @@ sections:
       variant: image
       title: www
       subtitle: www
+      key_highlights:
+        - title: Open House 2025
+          description: ""
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: Open House 2025
       id: infopic
