@@ -4,4 +4,4 @@ permalink: /openhouse2025/
 variant: markdown
 description: ""
 ---
-![](/images/Poster_05.jpg)
+![open house 2025](/images/Open_House_info_sheet_V2.png)
