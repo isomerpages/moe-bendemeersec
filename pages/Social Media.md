@@ -9,5 +9,5 @@ description: ""
 where every student shine!</p>
 <p><a href="https://www.instagram.com/bendemeer.secondary.official" rel="noopener noreferrer nofollow" target="_blank"><u>Our Instagram page</u></a>
 </p>
-<p><a href="https://www.facebook.com/BendemeerSecondaryOfficial" rel="noopener noreferrer nofollow" target="_blank"><u>Our Facepage page</u></a>
+<p><a href="https://www.facebook.com/BendemeerSecondaryOfficial" rel="noopener noreferrer nofollow" target="_blank"><u>Our Facebook page</u></a>
 </p>
