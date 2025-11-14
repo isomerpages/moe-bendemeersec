@@ -1,5 +1,0 @@
-collections:
-  school-tour:
-    output: true
-    order:
-      - Bendemeer School Tour.md

@@ -1,21 +1,12 @@
-logo: /images/logo.png
+logo: /images/hero_sch_logo.png
 links:
-  - title: About Us
+  - title: Our School
     collection: about-us
-  - title: Academic Curriculum
-    collection: academic-curriculum
-  - title: Student Development
-    collection: student-development
-  - title: Distinctive Programmes
-    collection: distinctive-programmes
+  - title: Our Community
+    collection: our-community
+  - title: BDMS Experience
+    collection: bdms-experience
+  - title: School Admission
+    collection: school-admissions
   - title: Useful Information
-    url: /usefulinfo/forstudentparents/
-    sublinks:
-      - title: For Students and Parents
-        url: /usefulinfo/forstudentparents/
-      - title: For Staff
-        url: /usefulinfo/forstaff/
-      - title: School Calendar
-        url: /resources/schcalendar
-      - title: Student Handbook
-        url: /student-handbook/intro/
+    collection: useful-information

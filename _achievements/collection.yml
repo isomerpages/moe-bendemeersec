@@ -2,6 +2,8 @@ collections:
   achievements:
     output: true
     order:
+      - School Accolades.md
+      - School Achievements.md
       - Academic Excellence.md
       - Holistic Excellence.md
       - CCA Excellence.md

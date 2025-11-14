@@ -2,5 +2,38 @@ collections:
   useful-information:
     output: true
     order:
-      - For Students and Parents.md
-      - For Staff.md
+      - School/.keep
+      - School/School Calendar.md
+      - School/Home Based Learning.md
+      - School/Class Timetable.md
+      - School/Booklists.md
+      - School/Sale of School Books and Uniforms.md
+      - School/School Magazines.md
+      - Academic/.keep
+      - Academic/Assessment Intent.md
+      - Academic/Assessment Plan and Examination Schedule.md
+      - Academic/End of Year and Preliminary Examination Schedule.md
+      - Academic/Academic Requirement and Promotion Criteria.md
+      - Academic/Conduct of Assessment.md
+      - Student Development/.keep
+      - Student Development/Sexuality Education.md
+      - Student Development/Counselling and Helplines.md
+      - Student Development/SEN and Helplines.md
+      - Student Development/MOE FAS Application.md
+      - EdTech/.keep
+      - EdTech/School based Help Desk.md
+      - National Digital Literacy Prog/.keep
+      - National Digital Literacy Prog/NDLP Overview.md
+      - National Digital Literacy Prog/Device info Kit for Lenovo 500e 3rd & 4th
+        Gen.md
+      - National Digital Literacy Prog/Device Info Kit for Acer R752TN &
+        R753TN.md
+      - National Digital Literacy Prog/Cyber Security and Cyber wellness.md
+      - National Digital Literacy Prog/Device Management Application(DMA).md
+      - National Digital Literacy Prog/Resources for Parents.md
+      - National Digital Literacy Prog/Use of PLD in school.md
+      - National Digital Literacy Prog/Acceptable Use Policy.md
+      - National Digital Literacy Prog/Frequently Asked Questions.md
+      - Useful Links/.keep
+      - Useful Links/For Students and Parents.md
+      - Useful Links/For Staff.md

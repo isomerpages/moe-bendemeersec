@@ -1,0 +1,35 @@
+collections:
+  bdms-experience:
+    output: true
+    order:
+      - Academic Programme/.keep
+      - Academic Programme/Craft and Technology.md
+      - Academic Programme/English Language and Literature.md
+      - Academic Programme/Humanities.md
+      - Academic Programme/Mathematics.md
+      - Academic Programme/Mother Tongue Languages.md
+      - Academic Programme/Physical Education.md
+      - Academic Programme/Science.md
+      - CCA/.keep
+      - CCA/Tchoukball.md
+      - CCA/Taekwondo.md
+      - CCA/Red Cross Youth.md
+      - CCA/National Police Cadet Corps.md
+      - CCA/National Cadet Corps.md
+      - CCA/Modern Dance.md
+      - CCA/Infocomm Club.md
+      - CCA/Girl Guides.md
+      - CCA/Football.md
+      - CCA/Drama English.md
+      - CCA/Cross Country.md
+      - CCA/Concert Band.md
+      - CCA/Choir.md
+      - CCA/Overview of CCA.md
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - CCE/.keep
+      - CCE/Education and Career Guidance.md
+      - CCE/Cyber Wellness and Mental Health.md
+      - CCE/CCE Overview.md
+      - Student Leadership.md
+      - Let's BDMS and CLAPS.md
