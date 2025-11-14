@@ -49,7 +49,6 @@ nurtures learners and serves the community.</p>
 <img style="width: 100%" height="auto" width="100%" alt="ex-school leaders" src="/images/Aboutus/history_pastschleadersv2.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/historyleaders2023jan03.png">
 </div>
