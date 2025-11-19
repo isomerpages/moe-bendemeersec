@@ -16,9 +16,9 @@ sections:
       title: www
       subtitle: www
       key_highlights:
-        - title: Open House 2025
-          description: 15 Nov 2025 (Saturday)
-          url: /openhouse2025/
+        - title: Virtual Open House 2025
+          description: 27 Nov 2025 (Thursday)
+          url: https://go.gov.sg/bdms-webinar
         - title: Social Media
           description: View Our Latest Happenings!
           url: /social-media/
