@@ -23,15 +23,6 @@ sections:
           description: View Our Latest Happenings!
           url: /social-media/
   - infopic:
-      title: BDMS Virtual Open House
-      id: infopic
-      description: Come Experience The Bendemeer Journey with us on Thursday, 27
-        November, 6.00 pm to 7.00 pm.
-      button: Sign up here!
-      url: https://go.gov.sg/bdms-webinar
-      image: /images/virtualopenhouse.png
-      alt: Image alt text
-  - infopic:
       title: Open House 2025
       id: infopic
       description: Join us on Saturday, 15 November for our Open House!
