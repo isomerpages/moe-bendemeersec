@@ -41,6 +41,15 @@ sections:
       url: /school-canteen-ad/
       image: /images/japanese-food-g34e1f8b50_1920.jpg
       alt: Image alt text
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Booklists for 2026
+          date: 17 November 2025
+          announcement: The booklists for 2026 are now available.
+          link_text: Click to download
+          link_url: /resources/booklists/
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A question?
