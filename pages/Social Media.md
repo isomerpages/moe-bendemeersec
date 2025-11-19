@@ -11,3 +11,6 @@ where every student shine!</p>
 </p>
 <p><a href="https://www.facebook.com/BendemeerSecondaryOfficial" rel="noopener noreferrer nofollow" target="_blank"><u>Our Facebook page</u></a>
 </p>
+<p><a href="https://sg.linkedin.com/school/bendemeer-secondary-school/" rel="noopener nofollow" target="_blank">Our Linked</a><strong><a href="https://sg.linkedin.com/school/bendemeer-secondary-school/" rel="noopener nofollow" target="_blank">in</a></strong>
+<a href="https://sg.linkedin.com/school/bendemeer-secondary-school/" rel="noopener nofollow" target="_blank">page</a>
+</p>
