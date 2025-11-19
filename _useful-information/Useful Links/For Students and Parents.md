@@ -8,7 +8,7 @@ third_nav_title: Useful Links
 <h4><strong>Curriculum Matters</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/resources/booklists/" rel="noopener noreferrer nofollow" target="_blank">Booklists 2025</a>
+<p><a href="/resources/booklists/" rel="noopener noreferrer nofollow" target="_blank">Booklists 2026</a>
 </p>
 </li>
 <li>
