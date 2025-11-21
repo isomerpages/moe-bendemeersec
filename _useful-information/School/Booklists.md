@@ -35,7 +35,8 @@ below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 1(Not Available)</p>
+<p><a href="/files/Forparents/Booklists/S1_BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
