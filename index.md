@@ -16,6 +16,9 @@ sections:
       title: www
       subtitle: www
       key_highlights:
+        - title: BDMS E-open house 2025
+          description: Register here
+          url: https://go.gov.sg/bdms-webinar
         - title: Social Media
           description: View Our Latest Happenings!
           url: /social-media/
