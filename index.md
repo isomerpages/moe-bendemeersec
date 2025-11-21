@@ -23,6 +23,14 @@ sections:
           description: View Our Latest Happenings!
           url: /social-media/
   - infopic:
+      title: BDMS E-Open House 2025
+      id: infopic
+      description: Join us as we share with you about the BDMS Journey!
+      button: Register here
+      url: https://go.gov.sg/bdms-webinar
+      image: /images/e_open.jpg
+      alt: Image alt text
+  - infopic:
       title: Open House 2025
       id: infopic
       description: Join us on Saturday, 15 November for our Open House!
