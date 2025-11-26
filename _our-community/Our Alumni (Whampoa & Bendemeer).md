@@ -30,6 +30,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>President (Whampoa Alumni)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Chuan Too</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Vice-President</strong>
 </p>
 </td>
@@ -69,14 +78,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ho Kim Long</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Han Kiat</p>
 </td>
 </tr>
 <tr>
