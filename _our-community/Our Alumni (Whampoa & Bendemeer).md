@@ -262,3 +262,7 @@ to enable future communication.</p>
 <p><a href="http://go.gov.sg/bdmsalumni" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/bdmsalumni</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="join whampoa alumni" src="/images/Aboutus/join_whampoa.png">
+</div>
+<p></p>
