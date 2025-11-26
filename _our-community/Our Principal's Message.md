@@ -19,7 +19,7 @@ principles: <strong>Be Anchored in Values</strong> (we prioritise character
 development as the foundation of who we are as human beings); we <strong>Dare to Aspire</strong> (by
 nurturing hope and high aspirations in every student); we <strong>Motivate One Another</strong> (through
 positive friendships and strong rapport that create a supportive learning
-environment); and <strong>we Strengthen Our Strengths</strong> (by embracing
+environment); and we <strong>Strengthen Our Strengths</strong> (by embracing
 strength and talent-based development that allows each individual to flourish).</p>
 <p>Our achievements in recent years speak volumes about our upward momentum.
 From outstanding academic results to remarkable co-curricular accomplishments,
