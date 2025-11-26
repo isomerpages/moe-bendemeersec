@@ -238,3 +238,27 @@ provided link to do so!</p>
 <img style="width: 80%;" height="auto" width="100%" alt="Join Alumni" src="/images/Aboutus/join_alumni.png">
 </div>
 <p></p>
+<h3><strong>Join us as Whampoa Alumni!</strong></h3>
+<p>As Bendemeer Secondary School approaches its 50th year of establishment
+in 2027, we reflect on our rich heritage and strong historical connection
+with Whampoa Secondary School. Your achievements continue to inspire our
+school community, and we are now taking steps to strengthen our alumni
+network.</p>
+<p>We aim to gather representatives from all cohorts, as each cohort brings
+its own distinctive experiences and memories that form an integral part
+of our school's story.</p>
+<p>Throughout the years, Bendemeer Secondary School has undergone significant
+transformation. As we seek to continue to provide meaningful opportunities
+for our current students, we believe your wealth of experience and knowledge
+would be invaluable in shaping both their development and the school's
+future direction.</p>
+<p>We cordially invite you to become part of our Alumni network, where former
+students can reconnect and forge new bonds. Your participation will not
+only help you reconnect with former classmates and teachers but also provide
+opportunities to give back to the school that played a crucial role in
+your formative years.</p>
+<p>We would be grateful if you could provide your current contact information
+to enable future communication.</p>
+<p><a href="http://go.gov.sg/bdmsalumni" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/bdmsalumni</a>
+</p>
+<p></p>
