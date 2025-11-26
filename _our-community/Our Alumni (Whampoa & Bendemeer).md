@@ -206,13 +206,34 @@ School.</p>
 <p></p>
 <p><strong>Miss Yip Pin Xiu</strong>
 </p>
-<h2>Events by Alumni</h2>
-<h4>Join us as Bendemeer Alumni!</h4>
-<p>Every year, the school organises activities to bring alumni, parents and
-other stakeholders together. We welcome alumni to join us for various school
-events such as the Sports Day &amp; fund raising activities.</p>
-<p>We encourage our alumni to be involved in the school community as this
-would contribute in enhancing the quality of education. We also welcome
-those who wish to form groups according to their year of graduation or
-receive updates on the school’s progress.</p>
+<h3><strong>Join us as Bendemeer Alumni!</strong></h3>
+<p>We hope that this note finds you well! As we are looking forward to celebrate
+the 50th year of the establishment of Bendemeer Secondary School (BDMS),
+we are reminded of the incredible journey and achievements of our alumni
+community. Your accomplishments, whether big or small, have always been
+a source of pride and inspiration for our school. We are currently trying
+to build up and strengthen the network of our alumni.</p>
+<p>We plan to do so by having a good representation of the alumni from the
+different cohorts. With each cohort, you will have your own unique memories
+and experiences. All these contribute to the Bendemeer Secondary School
+Story.</p>
+<p>Over the years, our school has grown and evolved. It is important that
+we continue to seek opportunities for our current students. We believe
+that your unique experiences and insights can greatly contribute to our
+current students' growth and the school's future success.</p>
+<p>With this in mind, we are thrilled to invite you to join our BDMS Alumni,
+where we endeavour to create a vibrant network of former students who share
+a common bond and a deep love for our alma mater. Your involvement will
+not only reconnect you with old friends and mentors, it will also offer
+opportunities to contribute back to the place that helped shape you.</p>
+<p>We would appreciate if you take some time to share with us your contact
+details so that we can reach out to you in time to come. Please use the
+provided link to do so!</p>
+<p><a href="http://go.gov.sg/bdmsalumni" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/bdmsalumni</a>
+</p>
+<p>Thank you!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Join Alumni" src="/images/Aboutus/join_alumni.png">
+</div>
 <p></p>
