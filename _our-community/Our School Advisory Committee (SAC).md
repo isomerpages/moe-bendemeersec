@@ -8,23 +8,10 @@ variant: tiptap
 <br><strong>Chairperson</strong> - Mr Vincent Ling
 <br><strong>Secretary </strong>- Ms Foo Sheue Feng
 <br><strong>Treasurer </strong>– Mr Ronald Tan Guo Wei</p>
-<p><strong>Members</strong> 
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ms Monique Heah</p>
-</li>
-<li>
-<p>Mr Roderick Tan</p>
-</li>
-<li>
-<p>Mr S K Selva</p>
-</li>
-<li>
-<p>Mr Vinod Kumar</p>
-</li>
-<li>
-<p>Mr Eddie Lee Wei Poh</p>
-</li>
-</ul>
+<p><strong>Members</strong>
+<br>- Ms Monique Heah
+<br>- Mr Roderick Tan
+<br>- Mr S K Selva
+<br>- Mr Vinod Kumar
+<br>- Mr Eddie Lee Wei Poh</p>
 <p></p>
