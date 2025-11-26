@@ -25,4 +25,4 @@ description: ""
 <p>From each his best,
 <br>we will do no less,
 <br>we will take things in our stride,
-<br>Bendemeer, forver you'll be our pride.</p>
+<br>Bendemeer, forever you'll be our pride.</p>
