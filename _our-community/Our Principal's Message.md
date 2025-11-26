@@ -47,7 +47,6 @@ people who make them possible – our staff, our students, and our partners.
 Together, we are building a BDMS family where excellence is the norm, character
 is paramount, and every member is empowered to thrive.</p>
 <p>Onward, BDMS!</p>
-<p>&nbsp;</p>
 <p>Yours, in Education,
 <br>Foo Sheue Feng
 <br>Principal</p>
