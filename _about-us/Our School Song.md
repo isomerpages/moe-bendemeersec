@@ -11,7 +11,7 @@ description: ""
 <p>Bendemeer, a beacon in our lives,
 <br>where we live in perfect harmony,
 <br>Bendemeer, always in our hearts,
-<br>It's our home that we love andcherish.</p>
+<br>It's our home that we love and cherish.</p>
 <p>(Chorus)</p>
 <p>From each his best,
 <br>we will do no less,
