@@ -230,7 +230,7 @@ opportunities to contribute back to the place that helped shape you.</p>
 <p>We would appreciate if you take some time to share with us your contact
 details so that we can reach out to you in time to come. Please use the
 provided link to do so!</p>
-<p><a href="http://go.gov.sg/bdmsalumni" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/bdmsalumni</a>
+<p><a href="https://go.gov.sg/bdmsalumni" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bdmsalumni</a>
 </p>
 <p>Thank you!</p>
 <p></p>
@@ -259,7 +259,7 @@ opportunities to give back to the school that played a crucial role in
 your formative years.</p>
 <p>We would be grateful if you could provide your current contact information
 to enable future communication.</p>
-<p><a href="http://go.gov.sg/bdmsalumni" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/bdmsalumni</a>
+<p><a href="https://go.gov.sg/whampoaalumni" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whampoaalumni</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
