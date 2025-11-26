@@ -235,7 +235,7 @@ provided link to do so!</p>
 <p>Thank you!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Join Alumni" src="/images/Aboutus/join_alumni.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Join Alumni" src="/images/Aboutus/join_alumni.png">
 </div>
 <p></p>
 <h3><strong>Join us as Whampoa Alumni!</strong></h3>
@@ -263,6 +263,6 @@ to enable future communication.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="join whampoa alumni" src="/images/Aboutus/join_whampoa.png">
+<img style="width: 60%;" height="auto" width="100%" alt="join whampoa alumni" src="/images/Aboutus/join_whampoa.png">
 </div>
 <p></p>
