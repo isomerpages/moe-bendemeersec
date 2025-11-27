@@ -4,7 +4,6 @@ permalink: /our-community/principals-message/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <p>It is with immense pride and excitement that we share our school's refreshed
 direction, symbolising our remarkable transformation and upward trajectory
 as we approach almost five decades of impacting lives through education.</p>
