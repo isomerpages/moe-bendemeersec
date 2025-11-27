@@ -30,15 +30,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>President (Whampoa Alumni)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Chuan Too</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Vice-President</strong>
 </p>
 </td>
@@ -48,61 +39,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Matthew Soh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Secretary</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jair Zhou Weigui</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Yeo Li Ching</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Treasurer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ho Kim Long</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Members</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ivan Lim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Justin Lim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Soh Weng Heng</p>
 </td>
 </tr>
 <tr>
@@ -239,6 +180,41 @@ provided link to do so!</p>
 </div>
 <p></p>
 <h3><strong>Join us as Whampoa Alumni!</strong></h3>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>President (Whampoa Alumni)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Chuan Too</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>As Bendemeer Secondary School approaches its 50th year of establishment
 in 2027, we reflect on our rich heritage and strong historical connection
 with Whampoa Secondary School. Your achievements continue to inspire our
