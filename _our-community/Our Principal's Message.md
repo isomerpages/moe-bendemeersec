@@ -4,22 +4,49 @@ permalink: /our-community/principals-message/
 description: ""
 variant: tiptap
 ---
-<p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/Aboutus/principal.jpeg" alt="Principal" style="width:400px">
-
-</p>
-
-<p style="text-align:justify">
-Since its establishment in 1977, Bendemeer Secondary School has placed a strong focus on character development, nurturing young individuals anchored in strong values of <i>Resilience, Respect, Responsibility, Integrity, Care, </i> and <i>Harmony</i>.</p>
-<p style="text-align:justify">
-2022 marks our 45th year of preparing our students both for life and future by providing them with a purposeful holistic education, focused on their interests and strengths. Our strong culture of care is evident in the positive relationships our students enjoy with their teachers, seniors, peers and community.</p>
-<p style="text-align:justify">
-The diverse successes of our alumni and students are testament to the school’s collective dedication in fulfilling our mission of <i>Building Character, Nurturing Learners</i> and <i>Serving the Community</i>. With the strong support from our partners, our students continue to grow as <i>Active Learners</i> and <i>Responsible Citizens</i> who are beacons in others’ lives, ever willing to serve their families, school and nation.</p>
-<p style="text-align:justify">
-With the changing landscape, we remain steadfast in ensuring our students are empowered with the necessary attitude and aptitude to succeed in their lives. Our students are our purpose and mission. </p>
-<p style="text-align:justify">
-I look forward to journey with each and every one in our Bendemeer family as we chart forth to the next chapter. Collectively, as one Bendemeer Heartbeat!</p>
-
-
-**Ms Foo Sheue Feng** 
-<br>*Principal*
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:400px" height="auto" width="100%" alt="Principal" src="/images/Aboutus/principal.jpeg">
+</div>
+<p></p>
+<p>It is with immense pride and excitement that we share our school's refreshed
+direction, symbolising our remarkable transformation and upward trajectory
+as we approach almost five decades of impacting lives through education.</p>
+<p>At <strong>BDMS</strong>, we stand for more than just educational excellence
+– we embody a philosophy that shapes every aspect of our educational journey
+with our beloved Bendemeerians. Our acronym BDMS represents our guiding
+principles: <strong>Be Anchored in Values</strong> (we prioritise character
+development as the foundation of who we are as human beings); we <strong>Dare to Aspire</strong> (by
+nurturing hope and high aspirations in every student); we <strong>Motivate One Another</strong> (through
+positive friendships and strong rapport that create a supportive learning
+environment); and we <strong>Strengthen Our Strengths</strong> (by embracing
+strength and talent-based development that allows each individual to flourish).</p>
+<p>Our achievements in recent years speak volumes about our upward momentum.
+From outstanding academic results to remarkable co-curricular accomplishments,
+our students have consistently demonstrated that when given the right environment
+and support, they can achieve extraordinary things. These successes are
+not merely statistics – they represent the collective dedication of our
+staff in actualising our school vision of nurturing <strong>Critical Thinkers, Courageous Leaders, and Caring Contributors</strong> who
+will make meaningful impacts in their communities and beyond.</p>
+<p>Our mission remains steadfast: <strong>Nurturing a community of youths who are anchored in values, dare to aspire, motivate one another, and strengthen their strengths to lead and serve with purpose</strong>.
+This shared mission drives everything we do, from our innovative curriculum
+design to our holistic student development programmes and our continuous
+enhancement of conducive learning spaces.</p>
+<p>The values of <strong>C.A.R.E – Courage, Adaptability, Respect, and Excellence</strong> –
+are not just words on our walls but living principles that guide our daily
+interactions and decisions. These values prepare our students to navigate
+an increasingly complex world with confidence and integrity.</p>
+<p>True to our motto, <strong>From Each His Best, To Lead and Serve</strong>,
+we believe that every student has unique potential waiting to be unlocked.
+Our dedicated team of teaching and non-teaching staff works tirelessly
+to ensure that each youth discovers their strengths, develops their talents,
+and emerges as a leader ready to serve their community with distinction.</p>
+<p>As we embark on this exciting new chapter, I invite you to join us in
+celebrating the many opportunities and achievements at BDMS, and the amazing
+people who make them possible – our staff, our students, and our partners.
+Together, we are building a BDMS family where excellence is the norm, character
+is paramount, and every member is empowered to thrive.</p>
+<p>Onward, BDMS!</p>
+<p>Yours, in Education,
+<br>Foo Sheue Feng
+<br>Principal</p>

@@ -2,27 +2,16 @@
 title: Our School Advisory Committee (SAC)
 permalink: /our-community/our-sac/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<b>Chairperson</b> <br>
-Mr Chiang Heng Liang
-
-<b>Members</b> <br>
-Mr Ang Kian Seng<br>
-Ms Monique Heah<br>
-Mr Roderick Tan<br>
-Mr S K Selva<br>
-Mr Tan Guo Wei<br>
-Ms Tan Lay Pheng<br>
-Mr Vincent Ling<br>
-
-
-
-<b>Ms Foo Sheue Feng</b> <br>
-Principal
-
-<b>Mr Mohd Azman B Mohd Sidek</b> <br>
-Vice-Principal
-
-<b>Mr Chrys Ho Chi Cheng</b> <br>
-Vice-Principal
+<p><strong>Advisor</strong>- Mr Chiang Heng Liang
+<br><strong>Chairperson</strong> - Mr Vincent Ling
+<br><strong>Secretary </strong>- Ms Foo Sheue Feng
+<br><strong>Treasurer </strong>– Mr Ronald Tan Guo Wei</p>
+<p><strong>Members</strong>
+<br>- Ms Monique Heah
+<br>- Mr Roderick Tan
+<br>- Mr S K Selva
+<br>- Mr Vinod Kumar
+<br>- Mr Eddie Lee Wei Poh</p>
+<p></p>
