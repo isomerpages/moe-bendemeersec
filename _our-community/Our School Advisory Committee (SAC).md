@@ -4,9 +4,9 @@ permalink: /our-community/our-sac/
 description: ""
 variant: tiptap
 ---
-<p><strong>Advisor</strong>- Mr Chiang Heng Liang
-<br><strong>Chairperson</strong> - Mr Vincent Ling
-<br><strong>Secretary </strong>- Ms Foo Sheue Feng
+<p><strong>Advisor </strong>– Mr Chiang Heng Liang
+<br><strong>Chairperson</strong> – Mr Vincent Ling
+<br><strong>Secretary </strong>– Ms Foo Sheue Feng
 <br><strong>Treasurer </strong>– Mr Ronald Tan Guo Wei</p>
 <p><strong>Members</strong>
 <br>- Ms Monique Heah
