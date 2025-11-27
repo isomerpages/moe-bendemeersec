@@ -4,7 +4,7 @@ permalink: /our-community/our-alumni/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Bendemeer Alumni</strong></h4>
+<h4><strong>The Executive Committee</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
