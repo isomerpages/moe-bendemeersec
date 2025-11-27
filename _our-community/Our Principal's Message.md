@@ -5,10 +5,6 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:400px" height="auto" width="100%" alt="Principal" src="/images/Aboutus/principal.jpeg">
-</div>
-<p></p>
 <p>It is with immense pride and excitement that we share our school's refreshed
 direction, symbolising our remarkable transformation and upward trajectory
 as we approach almost five decades of impacting lives through education.</p>
@@ -50,3 +46,7 @@ is paramount, and every member is empowered to thrive.</p>
 <p>Yours, in Education,
 <br>Foo Sheue Feng
 <br>Principal</p>
+<div class="isomer-image-wrapper">
+<img style="width:400px" height="auto" width="100%" alt="Principal" src="/images/Aboutus/principal.jpeg">
+</div>
+<p></p>
