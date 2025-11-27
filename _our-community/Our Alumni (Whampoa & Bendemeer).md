@@ -4,7 +4,7 @@ permalink: /our-community/our-alumni/
 description: ""
 variant: tiptap
 ---
-<h4>The Executive Committee</h4>
+<h4><strong>Bendemeer Alumni</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -56,6 +56,41 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4><strong>Whampoa Alumni</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>President</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Chuan Too</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>Our Illustrious Alumni</h4>
 <p></p>
 <div class="isomer-image-wrapper">
