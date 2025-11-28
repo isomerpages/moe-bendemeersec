@@ -71,7 +71,7 @@ will be applied to all orders.</p>
 <p>Sale of school uniforms will only start from 27 November 2024 at the Level
 1 classrooms.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="school uniform opening hours" src="/images/Usefullinks/uniformhours.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Usefullinks/uniformhours2026.png">
 </div>
 <p>Supplier details:</p>
 <table style="minWidth: 50px">
