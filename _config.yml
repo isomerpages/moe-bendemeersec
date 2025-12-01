@@ -1,6 +1,6 @@
 title: Bendemeer Secondary School
 url: https://bendemeersec.moe.edu.sg
-favicon: /images/favi-schlogo.png
+favicon: /images/favi_schlogonew.png
 colors:
   primary-color: "#0800b6"
   secondary-color: "#f8bf1c"
@@ -55,7 +55,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d30dxphmk9wsh2.amplifyapp.com/
 prod: https://master.d30dxphmk9wsh2.amplifyapp.com/
-shareicon: /images/hero-banner02.jpg
+shareicon: /images/hero_banner04.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
