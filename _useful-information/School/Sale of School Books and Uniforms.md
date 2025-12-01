@@ -68,6 +68,8 @@ will be applied to all orders.</p>
 </tbody>
 </table>
 <h3><strong>Sale of School Uniforms</strong></h3>
+<p><strong>Walk-in Purchase of Uniforms</strong>
+</p>
 <p>Sale of school uniforms will only start from <strong>3rd December 2025</strong> at
 the Level 1 classrooms.</p>
 <table style="minWidth: 75px">
@@ -123,6 +125,8 @@ the Level 1 classrooms.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Sale of uniforms via online</strong>
+</p>
 <p>Students may purchase uniforms online at <a href="http://www.intrenduniforms.com" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a> and have
 them delivered to your home. Orders will be dispatched by a local courier
 within 3-5 working days from date of order. Kindly place your order early
