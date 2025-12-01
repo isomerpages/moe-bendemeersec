@@ -68,14 +68,63 @@ will be applied to all orders.</p>
 </tbody>
 </table>
 <h3><strong>Sale of School Uniforms</strong></h3>
-<p>Sale of school uniforms will only start from 3rd December 2025 at the
-Level 1 classrooms.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Usefullinks/uniformhours2026.png">
-</div>
-<p>Students may purchase uniforms online and have them deivered to your home.</p>
-<p>The sale of uniforms will be conducted online at <a href="http://www.intrenduniforms.com" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a>. Customers
-can select Home Delivery option. Orders will be dispatched by a local courier
+<p>Sale of school uniforms will only start from <strong>3rd December 2025</strong> at
+the Level 1 classrooms.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Dates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Remarks</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3,4,5,8,10,11,12,26, 29 Dec 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00am to 3.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For all 2026 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19, 22, 23 Dec 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00am to 3.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026 Secondary 1 students ONLY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Students may purchase uniforms online at <a href="http://www.intrenduniforms.com" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a> and have
+them delivered to your home. Orders will be dispatched by a local courier
 within 3-5 working days from date of order. Kindly place your order early
 to avoid delay during the peak period.</p>
 <p></p>
