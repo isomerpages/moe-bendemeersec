@@ -179,9 +179,7 @@ your collection.</p>
 <p>Company name:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IN-TREND UNIFORMS
-<br><strong><a href="www.intrenduniforms.com" rel="noopener nofollow" target="_blank">www.intrenduniforms.com</a></strong>
-</p>
+<p>IN-TREND UNIFORMS</p>
 </td>
 </tr>
 <tr>
