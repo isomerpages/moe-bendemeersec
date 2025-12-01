@@ -6,7 +6,7 @@ description: In Bendemeer Secondary, we believe that every student can shine and
   character, nurture learners and serve the community. The collective efforts of
   our teachers and students have borne fruits of labour which have made us
   distinctive and sustained the Bendemeer Heartbeat.
-image: /images/hero-banner02.jpg
+image: /images/hero_banner04.jpg
 permalink: /
 notification: ""
 sections:
