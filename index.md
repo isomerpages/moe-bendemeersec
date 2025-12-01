@@ -61,6 +61,11 @@ sections:
           announcement: The booklists for 2026 are now available.
           link_text: Click to download
           link_url: /resources/booklists/
+        - title: Sale on Books and Uniforms
+          date: 01 December 2025
+          announcement: Details regarding the sale of books and uniforms.
+          link_text: More details
+          link_url: /resources/booksuniform/
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A question?
