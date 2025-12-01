@@ -68,11 +68,52 @@ will be applied to all orders.</p>
 </tbody>
 </table>
 <h3><strong>Sale of School Uniforms</strong></h3>
-<p>Sale of school uniforms will only start from 27 November 2024 at the Level
-1 classrooms.</p>
+<p>Sale of school uniforms will only start from 3rd December 2025 at the
+Level 1 classrooms.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Usefullinks/uniformhours2026.png">
 </div>
+<p>Students may purchase uniforms online and have them deivered to your home.</p>
+<p>The sale of uniforms will be conducted online at <a href="http://www.intrenduniforms.com" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a>. Customers
+can select Home Delivery option. Orders will be dispatched by a local courier
+within 3-5 working days from date of order. Kindly place your order early
+to avoid delay during the peak period.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Steps for ordering online:</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Step 1:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Order and pay online at <a href="http://www.intrenduniforms.com" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a> (select
+‘Bendemeer Secondary School’).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Step 2:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Select “Delivery” option.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>For 2026 FAS students, you are required to place your collection request
+(<strong>at least 5 working days</strong>) via this link <a href="https://forms.gle/puUu9H6hivNvVpoZ8" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/puUu9H6hivNvVpoZ8</a>.
+A confirmation notification will be sent to your mobile number or email
+address for collection. Please <strong>produce the School FAS collection slip </strong>upon
+your collection.</p>
 <p>Supplier details:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -81,19 +122,21 @@ will be applied to all orders.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Company name:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>iNTrend Uniforms</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>IN-TREND UNIFORMS
+<br><strong><a href="www.intrenduniforms.com" rel="noopener nofollow" target="_blank">www.intrenduniforms.com</a></strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>#01-31 Enterprise One, Singapore 415934</p>
+<p>1, Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +144,7 @@ will be applied to all orders.</p>
 <p>Phone number:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6741 0930 / 6744 7689</p>
+<p>6741 0930</p>
 </td>
 </tr>
 <tr>
