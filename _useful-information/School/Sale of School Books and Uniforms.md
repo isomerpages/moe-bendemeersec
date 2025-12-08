@@ -285,7 +285,7 @@ the Level 1 classrooms.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3,4,5,8,10,11,12,26, 29 Dec 2025</p>
+<p>3, 4, 5, 9, 10, 11, 12, 15, 26, 29 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.00am to 3.00 pm</p>
