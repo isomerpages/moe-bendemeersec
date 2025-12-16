@@ -8,10 +8,10 @@ description: Information on ‘N’ Level Results Collection on 18 Dec 2025
 </p>
 <p>Dear Bendemeerians and Parents/Guardians of the 2025 Graduating Cohort,</p>
 <p>MOE and SEAB have recently announced that the GCE N-Level Examination
-results will be released on&nbsp;Thursday, 18 December 2025 at 2pm. Bendemeerians
-who are reporting to school for the collection of their ‘N’ Level results
-are to report to the <strong><u>school hall by 1.45 pm</u></strong> and parents/guardians
-are welcome to join us.</p>
+results will be released on&nbsp;<strong>Thursday, 18 December 2025</strong> at
+2pm. Bendemeerians who are reporting to school for the collection of their
+‘N’ Level results are to report to the <strong><u>school hall by 1.45 pm</u></strong> and
+parents/guardians are welcome to join us.</p>
 <p>All Bendemeerians are reminded to be properly groomed and dressed in their
 school attire. Those who are not dressed in accordance with our Bendemeer
 Standards will not be allowed to enter the school for the release of results.</p>
