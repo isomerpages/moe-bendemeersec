@@ -5,15 +5,15 @@ variant: markdown
 description: ""
 third_nav_title: Sec 1 Admission (2026)
 ---
-#### **2025 First Week of School**
-All students are to report to school on the **first day of school** which falls on **2nd January 2025, Thursday**.
+#### **2026 First Week of School**
+All students are to report to school on the **first day of school** which falls on **2nd January 2026, Friday**.
 Details are as follows:
 
 
 
 |  |  | 
 | -------- | -------- | 
-| **Reporting Time and Date:**     | 7.30 am, 2 January 2025, Thursday   |
+| **Reporting Time and Date:**     | 7.30 am, 2 January 2026, Friday   |
 | **Dismissal Time:** | 1.00 pm | 
 | **Reporting Venue:** | School Hall, Level 2 | 
 | **Attire:** | BDMS School Uniform - BDMS Polo T-shirt and BDMS Shorts/Skirt. <br>(If you are unable to purchase our school uniform in time, you may wear your Primary School Uniform for the time being.) | 
