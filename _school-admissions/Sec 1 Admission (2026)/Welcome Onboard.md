@@ -9,7 +9,7 @@ third_nav_title: Sec 1 Admission (2026)
 <p>Congratulations on receiving your posting to Bendemeer Secondary School.
 We are excited to have you join us!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qTqP5iDNssE?si=DUz-2aVbrm9rszuP"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-lmDZ4qcZM8?si=q2flrRMwGKjrpCc4"></iframe>
 </div>
 <p>You’re about to begin an exciting new chapter, and we can’t wait for you
 to experience everything our school has to offer. At Bendemeer, we’re committed
