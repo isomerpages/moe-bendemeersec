@@ -27,27 +27,6 @@ sections:
       id: infobar
       button: Click here for more information
       url: /sec1posting/welcome/
-  - infopic:
-      title: BDMS E-Open House 2025
-      id: infopic
-      description: Join us as we share with you about the BDMS Journey!
-      button: Register here
-      url: https://go.gov.sg/bdms-webinar
-      image: /images/e_open.jpg
-      alt: Image alt text
-  - infopic:
-      title: Open House 2025
-      id: infopic
-      description: Join us on Saturday, 15 November for our Open House!
-      image: /images/openhouseposter_02.png
-      alt: Image alt text
-  - infopic:
-      title: Direct School Admission – Secondary (DSA-Sec) Exercise 2025
-      id: infopic
-      button: Click for more details
-      url: /dsa2025/
-      alt: Image alt text
-      image: /images/hero_banner05.jpg
   - announcements:
       title: Announcements
       id: announcements
