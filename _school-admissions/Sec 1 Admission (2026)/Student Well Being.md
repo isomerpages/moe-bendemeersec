@@ -3,7 +3,7 @@ title: Student Well Being
 permalink: /sec1posting/studentwellbeing/
 variant: tiptap
 description: ""
-third_nav_title: Sec 1 Admission (2025)
+third_nav_title: Sec 1 Admission (2026)
 ---
 <p>Our student well-being is our top priority. We provide the following services
 to ensure our students are well-supported.</p>

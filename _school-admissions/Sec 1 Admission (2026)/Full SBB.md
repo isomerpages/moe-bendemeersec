@@ -3,7 +3,7 @@ title: Full SBB
 permalink: /sec1posting/fsbb/
 variant: tiptap
 description: ""
-third_nav_title: Sec 1 Admission (2025)
+third_nav_title: Sec 1 Admission (2026)
 ---
 <p>Full Subject-Based Banding (Full SBB) is part of MOE's ongoing efforts
 to nurture the joy of learning and develop multiple pathways to cater to

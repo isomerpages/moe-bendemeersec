@@ -3,7 +3,7 @@ title: School Books and Uniform
 permalink: /sec1posting/booksuniform/
 variant: tiptap
 description: ""
-third_nav_title: Sec 1 Admission (2025)
+third_nav_title: Sec 1 Admission (2026)
 ---
 <h4><strong>Sale of School Books and Uniforms</strong></h4>
 <p>Please refer to the following links for more information about the sale
@@ -14,7 +14,7 @@ of school books and uniforms and the booklist:</p>
 </p>
 </li>
 <li>
-<p><a href="/resources/booklists/" rel="noopener noreferrer nofollow" target="_blank">Booklists 2025</a>
+<p><a href="/resources/booklists/" rel="noopener noreferrer nofollow" target="_blank">Booklists 2026</a>
 </p>
 </li>
 </ul>

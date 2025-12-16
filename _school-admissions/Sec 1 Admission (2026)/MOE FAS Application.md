@@ -3,7 +3,7 @@ title: MOE FAS Application
 permalink: /sec1posting/moefas/
 variant: markdown
 description: ""
-third_nav_title: Sec 1 Admission (2025)
+third_nav_title: Sec 1 Admission (2026)
 ---
 #### **MOE Financial Assistance Scheme (FAS)**
 

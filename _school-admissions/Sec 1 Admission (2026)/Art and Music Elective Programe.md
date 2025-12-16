@@ -3,7 +3,7 @@ title: Art and Music Elective Programe
 permalink: /sec1posting/artmusicelective/
 variant: tiptap
 description: ""
-third_nav_title: Sec 1 Admission (2025)
+third_nav_title: Sec 1 Admission (2026)
 ---
 <p>If your child/ward exhibits interest, potential and passion for Art or
 Music, he/she can apply for Art/Music Elective Programme (AEP/MEP) in the

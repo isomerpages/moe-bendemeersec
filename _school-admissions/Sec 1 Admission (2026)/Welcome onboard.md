@@ -3,7 +3,7 @@ title: Welcome onboard
 permalink: /sec1posting/welcome/
 variant: markdown
 description: ""
-third_nav_title: Sec 1 Admission (2025)
+third_nav_title: Sec 1 Admission (2026)
 ---
 #### **Bendemeer Secondary School welcomes all Secondary 1 Students and Parents/Guardians!**
 <style>
@@ -28,10 +28,10 @@ Congratulations on receiving your posting to Bendemeer Secondary School!
 
 We are looking forward to welcome you to the Bendemeer family and walk this journey with you.
 
-See you on 2 January 2025!
+See you on 2 January 2026!
 
 ---
 
-For more information on the 2025 Secondary 1 Posting, please refer to this MOE <a target="_blank" href="https://www.moe.gov.sg/secondary/s1-posting/results">webpage</a>.
+For more information on the 2026 Secondary 1 Posting, please refer to this MOE <a target="_blank" href="https://www.moe.gov.sg/secondary/s1-posting/results">webpage</a>.
 
 If you have any questions, do drop us a note at bendemeer_ss@moe.edu.sg.
