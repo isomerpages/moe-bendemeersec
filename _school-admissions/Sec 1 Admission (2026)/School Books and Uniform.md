@@ -14,7 +14,7 @@ of school books and uniforms and the booklist:</p>
 </p>
 </li>
 <li>
-<p><a href="/resources/booklists/" rel="noopener noreferrer nofollow" target="_blank">Booklists 2025</a>
+<p><a href="/resources/booklists/" rel="noopener noreferrer nofollow" target="_blank">Booklists 2026</a>
 </p>
 </li>
 </ul>
