@@ -27,6 +27,12 @@ sections:
       id: infobar
       button: Click here for more information
       url: /sec1posting/welcome/
+  - infobar:
+      title: ‘N’ Level Results Collection
+      id: infobar
+      description: Information on ‘N’ Level Results Collection on 18 December 2025
+      button: Click here for more information
+      url: /2026_N_Level/
   - resources:
       title: Resources
       id: resources
