@@ -32,7 +32,7 @@ sections:
       id: infobar
       description: Information on ‘N’ Level Results Collection on 18 December 2025
       button: Click here for more information
-      url: /2026_N_Level/
+      url: /2025_N_Level_Results/
   - resources:
       title: Resources
       id: resources
