@@ -8,7 +8,7 @@ third_nav_title: Sec 1 Admission (2026)
 <h4><strong>Bendemeer Secondary School welcomes all Secondary 1 Students and Parents/Guardians!</strong></h4>
 <p>Congratulations on receiving your posting to Bendemeer Secondary School!</p>
 <div class="iframe-wrapper">
-<iframe height="366" width="650" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/upPVaSBIHTU?si=-vlU\_A17ikuJCFWx"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qTqP5iDNssE?si=DUz-2aVbrm9rszuP"></iframe>
 </div>
 <p>An exciting and enriching secondary school experience awaits you! Here,
 we believe in empowering you to find your purpose and passion while providing
