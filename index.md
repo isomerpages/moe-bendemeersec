@@ -26,7 +26,7 @@ sections:
       title: Sec 1 Admission 2026
       id: infobar
       button: Click here for more information
-      url: /sec1posting/
+      url: /sec1posting/welcome/
   - infopic:
       title: BDMS E-Open House 2025
       id: infopic
