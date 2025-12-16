@@ -107,7 +107,7 @@ first day and continue to attend lessons until the transfer is approved.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>2026 Secondary 1 Meet-the-Parents(MTP) Session cum CCA Showcase</strong></h4>
+<h4><strong>2026 Secondary 1 Meet-the-Parents (MTP) Session cum CCA Showcase</strong></h4>
 <p>The 2026 Secondary 1 Meet-the Parents (MTP) Session cum CCA Showcase will
 be held from 2.30 pm to 5.30 pm on <strong>9 January 2026, Friday</strong>.
 All Secondary 1 parents/guardians are encouraged to attend.</p>
