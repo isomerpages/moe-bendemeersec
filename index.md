@@ -27,6 +27,9 @@ sections:
       id: infobar
       button: Click here for more information
       url: /sec1posting/welcome/
+  - resources:
+      title: Resources
+      id: resources
   - announcements:
       title: Announcements
       id: announcements
