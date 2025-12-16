@@ -8,8 +8,9 @@ third_nav_title: Sec 1 Admission (2026)
 <p>Full Subject-Based Banding (Full SBB) is part of MOE's ongoing efforts
 to nurture the joy of learning and develop multiple pathways to cater to
 the different strengths and interests of our students.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec1posting/sec1post_fsbb_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec1posting/Sec1post_Welcome_2025_03.jpg">
 </div>
 <p>With Full SBB, we are moving towards a secondary school education where
 students learn each subject at the level that best caters to their overall

@@ -1,5 +1,5 @@
 ---
-title: Welcome onboard
+title: Welcome Onboard
 permalink: /sec1posting/welcome/
 variant: tiptap
 description: ""
