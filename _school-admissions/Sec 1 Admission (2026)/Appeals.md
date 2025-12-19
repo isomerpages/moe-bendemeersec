@@ -8,7 +8,7 @@ third_nav_title: Sec 1 Admission (2026)
 <h4><strong>Appeal for Transfer into Bendemeer Secondary School</strong></h4>
 <p>Thank you for considering a transfer to our school.
 <br>Please complete this <a href="https://go.gov.sg/2025sec1app" rel="noopener nofollow" target="_blank">form</a> (
-<a href="https://go.gov.sg/2025sec1app" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025sec1app</a>) by <strong>12.00 pm, 26 December 2025, Friday</strong>.</p>
+<a href="https://go.gov.sg/2025sec1app" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025sec1app</a>) by <strong>12.00 pm, 31 December 2025, Friday</strong>.</p>
 <h4><strong>Appealing for Transfer due to Serious Medical Conditions</strong></h4>
 <p>To request for transfer out of our school due to serious medical conditions
 or severe physical impairments, please do so in person at our General Office
