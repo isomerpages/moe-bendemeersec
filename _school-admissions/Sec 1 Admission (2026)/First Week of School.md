@@ -46,7 +46,7 @@ falls on <strong>2nd January 2026, Friday</strong>. Details are as follows:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.00 pm</p>
+<p>12.40 pm</p>
 </td>
 </tr>
 <tr>
