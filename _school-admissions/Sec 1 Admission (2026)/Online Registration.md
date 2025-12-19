@@ -11,4 +11,4 @@ third_nav_title: Sec 1 Admission (2026)
 schools after receiving their posting results.</p>
 <p>Please assist in filling in the following form <a href="https://go.gov.sg/2025sec1reg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025sec1reg</a> to
 complete the Secondary 1 online registration process.</p>
-<p>The online registration will open from <strong>9.00 am, 19 December 2025, Friday to 12.00 pm, 24 December 2025, Wednesday</strong>.</p>
+<p>The online registration will open from <strong>9.00 am, 19 December 2025, Friday to 12.00 pm, 23 December 2025, Wednesday</strong>.</p>
