@@ -52,7 +52,7 @@ ones.</p>
 </ul>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h4><strong>Overview of Bendemeer Secondary School's Sexuality Education Programme for 2025</strong></h4>
+<h4><strong>Overview of Bendemeer Secondary School's Sexuality Education Programme for 2026</strong></h4>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -87,22 +87,22 @@ the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <p>At Bendemeer Secondary School, the following Sexuality Education lessons
-will be taught in 2025 (Please click to view the lessons in detail):</p>
+will be taught in 2026 (Please click to view the lessons in detail):</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Sexualityedu/sed_s1.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
+<p><a href="/files/Sexualityedu/SEd_Sec_1_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sexualityedu/sed_s2.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
+<p><a href="/files/Sexualityedu/SEd_Sec_2_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sexualityedu/sed_s3.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/Sexualityedu/SEd_Sec_3_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sexualityedu/sed_s4.pdf" rel="noopener nofollow" target="_blank">Secondary 4</a>
+<p><a href="/files/Sexualityedu/SEd_Sec_4_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4</a>
 </p>
 </li>
 </ul>
@@ -155,18 +155,19 @@ as follows in 2026:</p>
 <p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and provide
-knowledge on:</p>
-<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+<ul data-tight="true" class="tight">
+<li>
+<p>Raise awareness and provide knowledge on:
+<br>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
 what it is, how it spreads, how to prevent infection mainly through ABC
 (abstinence, being faithful, correct, and consistent condom use), consequences
-and impact</p>
-<p>&nbsp;</p>
-<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
-assertiveness, negotiation to say ‘no’ to peer pressure)</p>
-<p>&nbsp;</p>
-<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+and impact.
+<br>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)
+<br>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
 way, including avenues for help-seeking.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -178,9 +179,12 @@ way, including avenues for help-seeking.</p>
 <p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to negotiate their way
-out of a risky situation by applying skills of assertiveness and responsible
-decision-making</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -194,11 +198,11 @@ decision-making</p>
 supplementary sexuality education programmes by MOE-approved external providers.</p>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Sexualityedu/se_optoutform2.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed form
-is to be submitted by 14/01/2026.</p>
+at the start of the year and is also downloadable <a href="/files/Sexualityedu/SEd_Opt_Out_Form_2026.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 14/01/2026.</p>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Sexualityedu/eteens_optoutform.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed
-form is to be submitted by 14/01/2026.</p>
+at the start of the year and is also downloadable <a href="/files/Sexualityedu/eTeens_Parents_Opt_out_Form__Sec__CDA_for_2026.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 14/01/2026.</p>
 <p>Parents can contact the school at 62927616 for discussion or to seek clarification
 about the school’s Sexuality Education programme.</p>
