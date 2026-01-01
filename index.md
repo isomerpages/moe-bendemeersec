@@ -23,16 +23,15 @@ sections:
           description: View Our Latest Happenings!
           url: /social-media/
   - infobar:
+      title: 2026 Term 1 Timetable
+      id: infobar
+      button: Click here for more information
+      url: /resources/class-timetable/
+  - infobar:
       title: Sec 1 Admission 2026
       id: infobar
       button: Click here for more information
       url: /sec1posting/welcome/
-  - infobar:
-      title: ‘N’ Level Results Collection
-      id: infobar
-      description: Information on ‘N’ Level Results Collection on 18 December 2025
-      button: Click here for more information
-      url: /2025-n-level-results/
   - announcements:
       title: Announcements
       id: announcements
