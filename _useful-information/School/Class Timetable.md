@@ -193,7 +193,7 @@ third_nav_title: School
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 4</strong>
+<p><strong>Secondary Four</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
