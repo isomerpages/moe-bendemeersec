@@ -31,7 +31,7 @@ description: ""
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chrys Ho Chi Cheng</p>
+<p>Mr Goh Keng Teng Gordon</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,15 @@ description: ""
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Azman bin Mohd Sidek</p>
+<p>Mr Low Ying Ning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Principal (Administration)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Cher Hwa</p>
 </td>
 </tr>
 </tbody>
@@ -77,24 +85,13 @@ bendemeer_ss@moe.edu.sg</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Craft and Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Sharon Wee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>neo_sharon@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD / English Language and Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Cheng Hai</p>
+<p>Ms Elizabeth Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_cheng_hai@moe.edu.sg</p>
+<p>lee_hui_elizabeth@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -154,35 +151,13 @@ bendemeer_ss@moe.edu.sg</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Character and Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Eileen Ho Geok Lay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ang_geok_lay_eileen@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD / Discipline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Zuhri B Wahab</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>zuhri_wahab@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD / Information and Communications Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Wee Nghee</p>
+<p>Ms Sim Guanti Angeline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_wee_nghee@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -264,13 +239,24 @@ bendemeer_ss@moe.edu.sg</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / Chemistry</p>
+<p>SH / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Chiang Leong Gary</p>
+<p>Ms Gladys Wong Jia Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_chiang_leong_gary@moe.edu.sg</p>
+<p>wong_jia_li_gladys@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / Physical Education &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhd Yusoff Abdul Gulam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_yusoff_abdul@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
