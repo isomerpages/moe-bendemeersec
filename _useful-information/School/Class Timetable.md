@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: School
 ---
-<h4><strong>Class timetables for 2025 Term 3</strong></h4>
+<h4><strong>Class timetables for 2026 Term 1</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -22,7 +22,8 @@ third_nav_title: School
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary One</p>
+<p><strong>Secondary One</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -30,97 +31,41 @@ third_nav_title: School
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_courage1.pdf" rel="noopener noreferrer nofollow" target="_blank">Courage 1</a>
+<p><a href="/files/Timetable_2026/2026_T1_Courage_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Courage 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_courage5.pdf" rel="noopener nofollow" target="_blank">Courage 5</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_courage2.pdf" rel="noopener nofollow" target="_blank">Courage 2</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_courage6.pdf" rel="noopener nofollow" target="_blank">Courage 6</a>
+<p><a href="/files/Timetable_2026/2026_T1_Courage_5.pdf" rel="noopener nofollow" target="_blank">Courage 5</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_courage3.pdf" rel="noopener nofollow" target="_blank">Courage 3</a>
+<p><a href="/files/Timetable_2026/2026_T1_Courage_2.pdf" rel="noopener nofollow" target="_blank">Courage 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_courage7.pdf" rel="noopener nofollow" target="_blank">Courage 7</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_courage4.pdf" rel="noopener nofollow" target="_blank">Courage 4</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_courage8.pdf" rel="noopener nofollow" target="_blank">Courage 8</a>
+<p><a href="/files/Timetable_2026/2026_T1_Courage_6.pdf" rel="noopener nofollow" target="_blank">Courage 6</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary Two</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_adaptability1.pdf" rel="noopener nofollow" target="_blank">Adaptability 1</a>
+<p><a href="/files/Timetable_2026/2026_T1_Courage_3.pdf" rel="noopener nofollow" target="_blank">Courage 3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_adaptability5.pdf" rel="noopener nofollow" target="_blank">Adaptability 5</a>
+<p><a href="/files/Timetable_2026/2026_T1_Courage_7.pdf" rel="noopener nofollow" target="_blank">Courage 7</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_adaptability2.pdf" rel="noopener nofollow" target="_blank">Adaptability 2</a>
+<p><a href="/files/Timetable_2026/2026_T1_Courage_4.pdf" rel="noopener nofollow" target="_blank">Courage 4</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_adaptability6.pdf" rel="noopener nofollow" target="_blank">Adaptability 6</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_adaptability3.pdf" rel="noopener nofollow" target="_blank">Adaptability 3</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_adaptability7.pdf" rel="noopener nofollow" target="_blank">Adaptability 7</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_adaptability4.pdf" rel="noopener nofollow" target="_blank">Adaptability 4</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_adaptability8.pdf" rel="noopener nofollow" target="_blank">Adaptability 8</a>
+<p><a href="/files/Timetable_2026/2026_T1_Courage_8.pdf" rel="noopener nofollow" target="_blank">Courage 8</a>
 </p>
 </td>
 </tr>
@@ -134,45 +79,7 @@ third_nav_title: School
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary Three</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_respect1.pdf" rel="noopener nofollow" target="_blank">Respect 1</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_respect5.pdf" rel="noopener nofollow" target="_blank">Respect 5</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_respect2.pdf" rel="noopener nofollow" target="_blank">Respect 2</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_respect6.pdf" rel="noopener nofollow" target="_blank">Respect 6</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_respect3.pdf" rel="noopener nofollow" target="_blank">Respect 3</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_respect7.pdf" rel="noopener nofollow" target="_blank">Respect 7</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_respect4.pdf" rel="noopener nofollow" target="_blank">Respect 4</a>
+<p><strong>Secondary Two</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,6 +88,46 @@ third_nav_title: School
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/files/Timetable_2026/2026_T1_Adaptability_1.pdf" rel="noopener nofollow" target="_blank">Adaptability 1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable_2026/2026_T1_Adaptability_5.pdf" rel="noopener nofollow" target="_blank">Adaptability 5</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable_2026/2026_T1_Adaptability_2.pdf" rel="noopener nofollow" target="_blank">Adaptability 2</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable_2026/2026_T1_Adaptability_6.pdf" rel="noopener nofollow" target="_blank">Adaptability 6</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable_2026/2026_T1_Adaptability_3.pdf" rel="noopener nofollow" target="_blank">Adaptability 3</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable_2026/2026_T1_Adaptability_7.pdf" rel="noopener nofollow" target="_blank">Adaptability 7</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable_2026/2026_T1_Adaptability_4.pdf" rel="noopener nofollow" target="_blank">Adaptability 4</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable_2026/2026_T1_Adaptability_8.pdf" rel="noopener nofollow" target="_blank">Adaptability 8</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -189,7 +136,8 @@ third_nav_title: School
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 4</p>
+<p><strong>Secondary Three</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -197,42 +145,98 @@ third_nav_title: School
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_excellence1.pdf" rel="noopener nofollow" target="_blank">Excellence 1</a>
+<p><a href="/files/Timetable_2026/2026_T1_Respect_1.pdf" rel="noopener nofollow" target="_blank">Respect 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_excellence5.pdf" rel="noopener nofollow" target="_blank">Excellence 5</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_excellence2.pdf" rel="noopener nofollow" target="_blank">Excellence 2</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_excellence6.pdf" rel="noopener nofollow" target="_blank">Excellence 6</a>
+<p><a href="/files/Timetable_2026/2026_T1_Respect_5.pdf" rel="noopener nofollow" target="_blank">Respect 5</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_excellence3.pdf" rel="noopener nofollow" target="_blank">Excellence 3</a>
+<p><a href="/files/Timetable_2026/2026_T1_Respect_2.pdf" rel="noopener nofollow" target="_blank">Respect 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_excellence7.pdf" rel="noopener nofollow" target="_blank">Excellence 7</a>
+<p><a href="/files/Timetable_2026/2026_T1_Respect_6.pdf" rel="noopener nofollow" target="_blank">Respect 6</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_excellence4.pdf" rel="noopener nofollow" target="_blank">Excellence 4</a>
+<p><a href="/files/Timetable_2026/2026_T1_Respect_3.pdf" rel="noopener nofollow" target="_blank">Respect 3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/timetable_excellence8.pdf" rel="noopener nofollow" target="_blank">Excellence 8</a>
+<p><a href="/files/Timetable_2026/2026_T1_Respect_7.pdf" rel="noopener nofollow" target="_blank">Respect 7</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable_2026/2026_T1_Respect_4.pdf" rel="noopener nofollow" target="_blank">Respect 4</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable_2026/2026_T1_Respect_8.pdf" rel="noopener nofollow" target="_blank">Respect 7</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary 4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable_2026/2026_T1_Excellence_1.pdf" rel="noopener nofollow" target="_blank">Excellence 1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable_2026/2026_T1_Excellence_5.pdf" rel="noopener nofollow" target="_blank">Excellence 5</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable_2026/2026_T1_Excellence_2.pdf" rel="noopener nofollow" target="_blank">Excellence 2</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable_2026/2026_T1_Excellence_6.pdf" rel="noopener nofollow" target="_blank">Excellence 6</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable_2026/2026_T1_Excellence_3.pdf" rel="noopener nofollow" target="_blank">Excellence 3</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable_2026/2026_T1_Excellence_7.pdf" rel="noopener nofollow" target="_blank">Excellence 7</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable_2026/2026_T1_Excellence_4.pdf" rel="noopener nofollow" target="_blank">Excellence 4</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
