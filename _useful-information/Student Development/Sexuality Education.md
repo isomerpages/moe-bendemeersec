@@ -135,8 +135,8 @@ as follows in 2026:</p>
 supplementary sexuality education programmes by MOE-approved external providers.</p>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Sexualityedu/SEd_Opt_Out_Form_2026.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed
-form is to be submitted by 14/01/2026.</p>
+at the start of the year and is also downloadable <a href="/files/Sexualityedu/MOE_SEd_Opt_Out_Form_2026.pdf" rel="noopener nofollow" target="_blank">here</a>. The
+completed form is to be submitted by 14/01/2026.</p>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/Sexualityedu/eTeens_Parents_Opt_out_Form__Sec__CDA_for_2026.pdf" rel="noopener nofollow" target="_blank">here</a>.
