@@ -154,10 +154,10 @@ bendemeer_ss@moe.edu.sg</p>
 <p>HOD / Information and Communications Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sim Guanti Angeline</p>
+<p>Ms Sim Guanli Angeline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sim_guanli_angeline@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
