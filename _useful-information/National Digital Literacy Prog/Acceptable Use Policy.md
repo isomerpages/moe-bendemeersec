@@ -191,12 +191,12 @@ one hour before bedtime.</p>
 <li>
 <p>The school-based ICT Help Desk is the first point of contact for the repair
 of the PLD. Details are as follows:</p>
-</li>
-</ol>
 <p>Operating Days: Mondays to Fridays</p>
 <p>Operating Hours: 0800 – 1530hrs</p>
 <p>Online form: <a href="https://form.gov.sg/#!/6003ab0667a3e600110513fe" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bdms-icthelp</a>
 </p>
+</li>
+</ol>
 <p><strong>Services provided by the ICT Office include:</strong>
 </p>
 <ul data-tight="true" class="tight">
