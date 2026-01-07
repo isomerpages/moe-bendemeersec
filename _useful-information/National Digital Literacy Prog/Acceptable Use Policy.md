@@ -3,98 +3,211 @@ title: Acceptable Use Policy
 permalink: /key-programmes/ndlp/acceptable-use-policy/
 description: ""
 third_nav_title: National Digital Literacy Prog
+variant: tiptap
 ---
-**Bendemeer Secondary School <br>
-Acceptable Use Policy (AUP) <br>
-For Personal Learning Device &amp; School ICT Resources**
-
- 
-
-<p style="text-align:justify">Computing devices and access to the Internet have become a necessity for work, play and learning in the 21st century. As you navigate the digital space, you should do so in a safe and responsible manner. For more information, you may log in to SLS and refer to the Lesson “Student Kit on Cyber Wellness and Learning with a Personal Learning Device”.</p>
-
- 
-
-<p style="text-align:justify">In addition, you are reminded to observe the guidelines stated in this Acceptable Use Policy (AUP) on the use of personal learning devices (PLDs) and the school’s ICT resources. ICT resources include the following, but are not limited to, MOE/school-deployed ICT system accounts, the device management application (DMA) and school’s internet network.</p>
-
-**General**
-
-<p style="text-align:justify">1.  You are responsible for your PLD. In the event of loss or theft of the device, you must make a police report and report the matter to the school.</p>
-   
-<p style="text-align:justify">2.  In order to have a seamless learning experience, you should bring a fully charged PLD to school daily. </p>
-  
-<p style="text-align:justify">3.  All PLDs are installed with a device management application (DMA) to support a safe and conducive learning environment.  You should not attempt to uninstall the DMA or de-enroll the PLD from the DMA. Non-compliance may lead to disciplinary action in accordance with the school’s discipline policy.</p>
-  
-<p style="text-align:justify">4.  You should not attempt to access data, system and information that you are not authorised to.</p>
-  
-<p style="text-align:justify">5.  You are reminded that the use of PLDs and school’s ICT resources should solely be for the purpose of learning.
+<p><strong>Bendemeer Secondary School <br>Acceptable Use Policy (AUP) <br>For Personal Learning Device &amp; School ICT Resources</strong>
 </p>
-
-**User Account**
-
-<p style="text-align:justify">6. You should interact with others in a respectful and responsible way. You should not post online remarks that are</p>
- 
-	* racially and/or religiously insensitive,
- 
-	* vulgar and/or offensive, or
- 
-	* hurtful to others.
- 
-<p style="text-align:justify">7.  You should not use any devices to</p>
-
-	* store, modify, create or share content (e.g. documents, presentations, pictures and videos) that is inappropriate (e.g. indecent, pornographic, defamatory, hurtful to self or others).
- 
-	* make threats, cause harassment or embarrassment, impersonate or intimidate others.
- 
-<p style="text-align:justify">8. You should not use MOE/school-deployed ICT system accounts for any commercial activities (e.g. buying and selling of goods and services).</p>
-
-**Intellectual Property**
-
-<p style="text-align:justify">9. You are reminded to obtain explicit permission from the content owner before downloading, copying or sharing any copyrighted materials (e.g. pictures, videos, music).</p>
- 
-<p style="text-align:justify">10. You should not use, copy or share digital files in an unauthorised or illegal manner.</p>
-
-**Taking care of your PLD**
-
-<p style="text-align:justify">11.   You should report faulty PLD to your teacher or school ICT staff.  You may decide to send your PLD for repair through the school or on your own at the Service Centre.</p>
- 
-<p style="text-align:justify">  For students whose PLDs are under repair, you may loan a PLD until your PLD is repaired and returned to you.</p>
- 
-<p style="text-align:justify">12.   The protective shell of the PLD will provide only basic protection from everyday use. You should use a carrying bag or a padded sleeve for your PLD.</p>
- 
-<p style="text-align:justify">13.   The touchscreen function also makes the screen particularly sensitive to damage from excessive pressure.</p>
-
-	* Remove items (eg. pens, pencils) on the keyboard before closing the lid.
-	
-	* Do not place heavy objects on the Chromebook.
-	
-	* Do not jab at the screen with sharp objects.
-	
-
- 
- **Protection and Storing your PLD.**
- 
-<p style="text-align:justify">14.   Besides the mandatory labels which will have the school logo, your name and class, you may personalise your PLD on the cover with stickers, tape or labels.  You may also change your desktop wallpaper.</p>
- 
-<p style="text-align:justify">15.   You should keep your PLD in the class mobile cart with the <b>digital lock securely fastened</b> during PE or recess.  </p>
- 
-<p style="text-align:justify">16.   You should store your PLD into the metal cabinets during CCAs. Your CCA teachers-in-charge will provide the instructions to do so.</p>
-
-**Technical Support:**
-
-<p style="text-align:justify">17.   The school-based ICT Help Desk is the first point of contact for the repair of the PLD. Details are as follows:</p>
-
-Operating Days:          Mondays to Fridays
-
-Operating Hours:        0745 – 1530hrs
-
-Online form:                [https://go.gov.sg/bdms-icthelp ](https://form.gov.sg/#!/6003ab0667a3e600110513fe)
-
- <br>
-
-Services provided by the ICT Office include:
-
-	* Student MIMS, iCON and SLS password reset.
-	
-	* Coordination of fortnightly collection of PLDs for repair 
-	
-	* Basic troubleshooting of PLDs.
+<p>Technology is an essential part of learning in today’s world.</p>
+<p>This Acceptable Use Policy (AUP) establishes guidelines on the appropriate
+use of EdTech resources to help you understand how to use these resources
+safely and responsibly, in line with efforts to develop your digital literacies
+and growth as digitally responsible citizens.</p>
+<p>EdTech resources include the following, but are not limited to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learning devices (e.g. Personal Learning Devices (PLDs), school devices)</p>
+</li>
+<li>
+<p>ICT system accounts (e.g. Singapore Student Learning Space (SLS), iCON);
+and</p>
+</li>
+</ul>
+<p>school internet networks.</p>
+<p>For more information, please refer to:</p>
+<p>Student Kit on Cyber Wellness and Learning with a Learning Device (Primary)
+– <a href="https://go.gov.sg/cw-studentkitpri" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkitpri</a>
+</p>
+<p>Student Kit on Cyber Wellness and Learning with a Personal Learning Device
+(Secondary) – <a href="https://go.gov.sg/cw-studentkit" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkit</a>
+</p>
+<p><strong>General</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>You should not attempt to access data, system and information that you
+are not authorised to.</p>
+</li>
+<li>
+<p>You are reminded that the use of learning devices and school’s EdTech
+resources should solely be for the purpose of learning.</p>
+</li>
+</ol>
+<p><strong>Using your PLD</strong>
+</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>You are responsible for your PLD. In the event of loss or theft of the
+device, you must make a police report and report the matter to the school.</p>
+</li>
+<li>
+<p>In order to have a positive learning experience, you should ensure that
+your PLD is fully charged before bringing it to school. Should you need
+to charge your PLD in school, you should only do so at the school’s designated
+charging stations, during recess and/or after-school hours.</p>
+</li>
+<li>
+<p>You are reminded to keep your PLD updated by installing the relevant patches
+and updates when being prompted by the system.</p>
+</li>
+<li>
+<p>All PLDs are installed with a Device Management Application (DMA) to support
+a safe and conducive learning environment.&nbsp; You should not attempt
+to bypass the DMA.</p>
+</li>
+<li>
+<p>You are responsible for regularly backing up your learning materials in
+your PLD to prevent data loss.</p>
+</li>
+</ol>
+<p><strong>Being a Responsible Digital Citizen</strong>
+</p>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>You should interact with others in a respectful and responsible way. You
+should not post online remarks that are</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>racially and/or religiously insensitive,</p>
+</li>
+<li>
+<p>vulgar and/or offensive, or</p>
+</li>
+<li>
+<p>hurtful to others.</p>
+</li>
+<li>
+<p></p>
+</li>
+</ul>
+<ol start="9" data-tight="true" class="tight">
+<li>
+<p>You should not use any devices to</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>store, modify, create or share content (e.g. documents, presentations,
+pictures and videos) that is inappropriate (e.g. indecent, pornographic,
+defamatory, hurtful to self or others).</p>
+</li>
+<li>
+<p>make threats, cause harassment or embarrassment, impersonate or intimidate
+others.</p>
+</li>
+</ul>
+<ol start="10" data-tight="true" class="tight">
+<li>
+<p>You should not use MOE/school-deployed ICT system accounts for any commercial
+activities (e.g. buying and selling of goods and services).</p>
+</li>
+</ol>
+<p>Non-compliance with the above will lead to disciplinary action in accordance
+with the school’s discipline policy.
+<br><strong>Respecting Copyright</strong>
+</p>
+<ol start="11" data-tight="true" class="tight">
+<li>
+<p>You are reminded to obtain explicit permission from the content owner(s)
+before downloading, copying or sharing any copyrighted materials (e.g.
+pictures, videos, music).</p>
+</li>
+<li>
+<p>You should not use, copy, edit or share digital files in an unauthorised
+or illegal manner.</p>
+</li>
+</ol>
+<p><strong>Using Artificial Intelligence (AI)</strong>
+</p>
+<ol start="13" data-tight="true" class="tight">
+<li>
+<p>You must ensure that you meet the minimum age requirement specified in
+each AI tool's age restrictions before using it.</p>
+</li>
+<li>
+<p>If the use of AI is permitted, you should acknowledge the use of AI in
+weighted assessments and homework as required.</p>
+</li>
+<li>
+<p>You are to practice academic integrity and be responsible for your own
+learning when using AI. Understand that you are ultimately short-changing
+yourself if you pass off other’s work as your own.</p>
+</li>
+</ol>
+<p><strong>Staying Safe and Secure online</strong>
+</p>
+<ol start="16" data-tight="true" class="tight">
+<li>
+<p>You should report any incidents (e.g. unusual device behaviour or inappropriate
+use of devices), to the school.</p>
+</li>
+<li>
+<p>You are reminded to develop online safety habits. This includes not disclosing
+personal access credentials (e.g. MIMS password, PLD passcode, etc.), sensitive
+personal data (e.g. home address, passwords) online or on AI platforms,
+verifying credibility of online content before sharing, avoiding clicking
+on suspicious links or downloading unknown files, and being cautious when
+interacting with others online (e.g. on social media) by not engaging with
+strangers.</p>
+</li>
+<li>
+<p>You should exercise caution regarding the limitations of AI tools, including
+potential inaccuracies / fabricated responses, inherent biases and outdated
+information.</p>
+</li>
+</ol>
+<p><strong>Digital Wellbeing and Balance</strong>
+</p>
+<ol start="19" data-tight="true" class="tight">
+<li>
+<p>You are reminded to balance screentime with other activities including
+physical exercise and face-to-face social interactions.</p>
+</li>
+<li>
+<p>You should avoid excessive use of your devices outside learning hours.</p>
+</li>
+<li>
+<p>You should take regular breaks to rest your eyes and mind.</p>
+</li>
+<li>
+<p>You are reminded to practice good sleep hygiene by not using your devices
+one hour before bedtime.</p>
+</li>
+</ol>
+<p><strong>Technical Support:</strong>
+</p>
+<ol start="23" data-tight="true" class="tight">
+<li>
+<p>The school-based ICT Help Desk is the first point of contact for the repair
+of the PLD. Details are as follows:</p>
+</li>
+</ol>
+<p>Operating Days: Mondays to Fridays</p>
+<p>Operating Hours: 0800 – 1530hrs</p>
+<p>Online form: <a href="https://form.gov.sg/#!/6003ab0667a3e600110513fe" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bdms-icthelp</a>
+</p>
+<p><strong>Services provided by the ICT Office include:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Student MIMS, iCON and SLS password reset.</p>
+</li>
+<li>
+<p>Coordination of fortnightly collection of PLDs for repair</p>
+</li>
+<li>
+<p>Basic troubleshooting of PLDs.</p>
+</li>
+</ul>
+<p></p>
