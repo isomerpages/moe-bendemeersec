@@ -32,7 +32,7 @@ third_nav_title: Useful Links
 </p>
 </li>
 <li>
-<p><a href="/files/Forparents/Our_Bendemeer_Standards_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">The Bendemeer Standards</a>
+<p><a href="/files/Forparents/Our_Bendemeer_Standards_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">The Bendemeer Standards</a>
 </p>
 </li>
 <li>
