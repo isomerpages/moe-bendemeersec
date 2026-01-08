@@ -157,7 +157,7 @@ bendemeer_ss@moe.edu.sg</p>
 <p>Ms Sim Guanli Angeline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sim_guanli_angeline@moe.edu.sg</p>
+<p>angeline_sim@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
