@@ -46,6 +46,11 @@ sections:
           announcement: The booklists for 2026 are now available.
           link_text: Click to download
           link_url: /resources/booklists/
+        - title: Canteen vacancy
+          date: 09 January 2026
+          announcement: Bendemeer Secondary School has vacancies for canteen stalls.
+          link_text: Learn more about opportunities here
+          link_url: /school-canteen-ad/
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A question?
