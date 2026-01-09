@@ -70,8 +70,8 @@ cumulative results.</p>
 </tr>
 </tbody>
 </table>
-<p>Note: WA1, WA2 and WA3 represent the WA in Term 1, 2 and 3 respectively.
-EOY Exam is in Term 4.</p>
+<p>Note: WA1, WA2 and WA3 represent the WA typically in Terms 1, 2 and 3
+respectively. EOY Exam is in Term 4.</p>
 <hr>
 <p><strong><u>Secondary 1 and 2 Modular Subjects in Semester 1</u>&nbsp;</strong>
 <br><strong>(i.e., Secondary 1 Design &amp; Technology and Secondary 2 Food and Consumer Education)</strong>
@@ -118,8 +118,8 @@ EOY Exam is in Term 4.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><em>&nbsp;</em></strong>Note: WA1 and WA2 are in Term 1, Submission
-of Coursework is in Term 2</p>
+<p><strong><em>&nbsp;</em></strong>Note: WA1 and WA2 are spread across Terms
+1 and 2, Submission of Coursework is in Term 2</p>
 <hr>
 <p><strong>&nbsp;<u>Secondary 1 and 2 Modular Subjects in Semester 2&nbsp;</u></strong>
 <br><strong>(i.e., Secondary 1 Food and Consumer Education, and Secondary 2 Design &amp; Technology)</strong>
@@ -166,7 +166,8 @@ of Coursework is in Term 2</p>
 </tr>
 </tbody>
 </table>
-<p>Note: WA3 and WA4 are in Term 3, Submission of Coursework is in Term 4.</p>
+<p>Note: WA3 and WA4 are spread across Terms 3 and 4, Submission of Coursework
+is in Term 4.</p>
 <hr>
 <p><strong><u>Secondary 4 Subjects</u></strong>
 </p>
