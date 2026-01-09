@@ -119,7 +119,7 @@ respectively. EOY Exam is in Term 4.</p>
 </tbody>
 </table>
 <p><strong><em>&nbsp;</em></strong>Note: WA1 and WA2 are spread across Terms
-1 and 2, Submission of Coursework is in Term 2</p>
+1 and 2. Submission of Coursework is in Term 2</p>
 <hr>
 <p><strong>&nbsp;<u>Secondary 1 and 2 Modular Subjects in Semester 2&nbsp;</u></strong>
 <br><strong>(i.e., Secondary 1 Food and Consumer Education, and Secondary 2 Design &amp; Technology)</strong>
@@ -166,7 +166,7 @@ respectively. EOY Exam is in Term 4.</p>
 </tr>
 </tbody>
 </table>
-<p>Note: WA3 and WA4 are spread across Terms 3 and 4, Submission of Coursework
+<p>Note: WA3 and WA4 are spread across Terms 3 and 4. Submission of Coursework
 is in Term 4.</p>
 <hr>
 <p><strong><u>Secondary 4 Subjects</u></strong>
