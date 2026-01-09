@@ -224,8 +224,7 @@ the whole year) for the respective levels.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Assessment/2026_Assessment_Schedule_For_Sec_1.pdf" rel="noopener nofollow" target="_blank">Secondary </a>
-<a href="/files/Assessment/Sec_1_SBA_Schedule_2025_Updated_06_July.pdf" rel="noopener nofollow" target="_blank">1</a>
+<p><a href="/files/Assessment/2026_Assessment_Schedule_For_Sec_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
