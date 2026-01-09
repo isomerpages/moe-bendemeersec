@@ -36,6 +36,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Canteen vacancy
+          date: 09 January 2026
+          announcement: Bendemeer Secondary School has vacancies for canteen stalls.
+          link_text: Learn more about opportunities here
+          link_url: /school-canteen-ad/
         - title: Sale of Books and Uniforms
           date: 01 December 2025
           announcement: Details regarding the sale of books and uniforms.
