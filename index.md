@@ -36,6 +36,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Release of 'O' Level Results on 14 January 2026
+          date: 09 January 2026
+          announcement: GCE O-Level Examination results will be released on Wednesday, 14
+            January 2026, at 2pm.
+          link_text: Click for more details
+          link_url: /2026-o-level-results/
         - title: Canteen vacancy
           date: 09 January 2026
           announcement: Bendemeer Secondary School has vacancies for canteen stalls.
