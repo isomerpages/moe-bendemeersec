@@ -179,7 +179,7 @@ third_nav_title: School
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable_2026/2026_T1_Respect_8.pdf" rel="noopener nofollow" target="_blank">Respect 7</a>
+<p><a href="/files/Timetable_2026/2026_T1_Respect_8.pdf" rel="noopener nofollow" target="_blank">Respect 8</a>
 </p>
 </td>
 </tr>
