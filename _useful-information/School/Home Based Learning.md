@@ -212,7 +212,7 @@ who have not received their PLD may borrow a device from school if needed.</p>
 <p></p>
 <p>Important Information:</p>
 <p>1. Students do not need to report to school on HBL days.
-<br>2. Your child/ward <strong>must log in to the Video Meeting by 7.30am for attendance taking</strong>.
+<br>2. Students <strong>must log in to the Video Meeting by 7.30am for attendance taking</strong>.
 Students will be marked absent if they fail to do so.
 <br>3. Students will follow the subjects in their timetable and to complete
 the tasks assigned by their subject teachers.</p>
