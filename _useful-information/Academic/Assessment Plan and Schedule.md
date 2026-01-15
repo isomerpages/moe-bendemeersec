@@ -71,7 +71,8 @@ cumulative results.</p>
 </tbody>
 </table>
 <p>Note: WA1, WA2 and WA3 represent the WA typically in Terms 1, 2 and 3
-respectively. EOY Exam is in Term 4.</p>
+respectively. EOY Exam is in Term 4. For Sec 1 Art, there is no WA1 component
+and EOY Exam is 70%.</p>
 <hr>
 <p><strong><u>Secondary 1 and 2 Modular Subjects in Semester 1</u>&nbsp;</strong>
 <br><strong>(i.e., Secondary 1 Design &amp; Technology and Secondary 2 Food and Consumer Education)</strong>
@@ -242,6 +243,5 @@ the whole year) for the respective levels.</p>
 </tr>
 </tbody>
 </table>
-<p>Note: Detailed schedule will be sent at the beginning of each term via
-Parent Gateway.</p>
+<p>Note: Detailed schedule will be shared with students each term.</p>
 <p></p>
