@@ -1,12 +1,12 @@
 ---
-title: Infocomm Club
-permalink: /infocomm-club/
+title: Media and Tech
+permalink: /media-and-tech/
 variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-<h4><strong>Our Infocomm Club CCA</strong></h4>
-<p>The Infocomm Club provides a variety of activities and hands-on experiences
+<h4><strong>Our Media and Tech CCA</strong></h4>
+<p>Media and Tech provides a variety of activities and hands-on experiences
 to help students develop skills in technology and communication. Members
 participate in workshops, training sessions, and projects covering topics
 like programming, photography, drones, and multimedia production. The club
