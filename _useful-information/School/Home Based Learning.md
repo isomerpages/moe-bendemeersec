@@ -120,7 +120,7 @@ who have not received their PLD may borrow a device from school if needed.</p>
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14-Jul</p>
+<p>14-Jul-26</p>
 </td>
 </tr>
 <tr>
