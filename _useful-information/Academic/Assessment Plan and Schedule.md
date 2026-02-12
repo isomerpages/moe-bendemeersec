@@ -229,11 +229,11 @@ the whole year) for the respective levels.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Assessment/2026_Assessment_Schedule_For_Sec_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
+<p><a href="/files/Assessment/2026_Assessment_Schedule_For_Sec_2_Updated_12_February.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Assessment/2026_Assessment_Schedule_For_Sec_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/Assessment/2026_Assessment_Schedule_For_Sec_3_Updated_12_February.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
