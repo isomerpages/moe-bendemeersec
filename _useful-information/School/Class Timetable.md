@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: School
 ---
-<h4><strong>Class timetables for 2026 Term 1</strong></h4>
+<h4><strong>Class timetables for 2026 Term 2</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
