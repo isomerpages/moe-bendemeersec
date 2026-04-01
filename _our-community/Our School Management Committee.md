@@ -151,7 +151,7 @@ bendemeer_ss@moe.edu.sg</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Information and Communications Technology</p>
+<p>HOD / Educational Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Angeline Sim</p>
@@ -283,7 +283,7 @@ bendemeer_ss@moe.edu.sg</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / Information and Communications Technology</p>
+<p>SH / Educational Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Eric Choo Guan Kiat</p>
