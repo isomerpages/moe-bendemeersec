@@ -2,5 +2,4 @@ collections:
   assessment:
     output: true
     order:
-      - Assessment Plan and Schedule/Sec 4 Assessment Schedule 2026.md
       - Assessment Plan and Schedule/.keep
