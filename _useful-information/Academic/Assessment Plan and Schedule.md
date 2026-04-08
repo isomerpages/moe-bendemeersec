@@ -237,7 +237,7 @@ the whole year) for the respective levels.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Assessment/2026_Assessment_Schedule_For_Sec_4.pdf" rel="noopener nofollow" target="_blank">Secondary 4</a>
+<p><a href="/files/2026_Assessment_Schedule_For_Sec_4_Updated_8_April_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4</a>
 </p>
 </th>
 </tr>
