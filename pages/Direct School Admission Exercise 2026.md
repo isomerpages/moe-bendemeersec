@@ -167,9 +167,9 @@ and will be open from <strong>6 May 2026, 11am to 2 Jun 2026, 4.30pm.</strong>
 </p>
 <p>You will receive notification from the school by 24 July 2026, if your
 child has been shortlisted to undergo Direct School Admission (DSA) selection.
-All applicants will receive their application outcomes between <strong>17 and 28 Aug 2026.</strong>
+Shortlisted applicants will be required to attend an <strong>in-person interview and trial/audition </strong>between&nbsp;<strong>29 June 2026</strong>&nbsp;and&nbsp;<strong>21 August 2026</strong>.</p>
+<p>All applicants will receive their application outcomes between <strong>17 and 28 Aug 2026.</strong>
 </p>
-<p>Shortlisted applicants will be required to attend an <strong>in-person interview and trial/audition </strong>between&nbsp;<strong>29 June 2026</strong>&nbsp;and&nbsp;<strong>21 August 2026</strong>.</p>
 <p>For further details, please visit the MOE website at: <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p><strong><u>For Enquiries</u></strong>
