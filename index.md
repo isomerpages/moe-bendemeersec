@@ -23,25 +23,19 @@ sections:
           description: View Our Latest Happenings!
           url: /social-media/
   - infobar:
-      title: 2026 Term 1 Timetable
+      title: Direct School Admission – Secondary (DSA-Sec) Exercise 2026
+      id: infobar
+      button: Click here for more information
+      url: /direct-school-admission-exercise-2026/
+  - infobar:
+      title: 2026 Term 2 Timetable
       id: infobar
       button: Click here for more information
       url: /resources/class-timetable/
-  - infobar:
-      title: Sec 1 Admission 2026
-      id: infobar
-      button: Click here for more information
-      url: /sec1posting/welcome/
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Release of 'O' Level Results on 14 January 2026
-          date: 09 January 2026
-          announcement: GCE O-Level Examination results will be released on Wednesday, 14
-            January 2026, at 2pm.
-          link_text: Click for more details
-          link_url: /2026-o-level-results/
         - title: Canteen vacancy
           date: 09 January 2026
           announcement: Bendemeer Secondary School has vacancies for canteen stalls.
@@ -57,6 +51,14 @@ sections:
           announcement: The booklists for 2026 are now available.
           link_text: Click to download
           link_url: /resources/booklists/
+        - title: Direct School Admission Exercise 2026
+          date: 20 April 2026
+          announcement: As a part of the Direct School Admission – Secondary (DSA-Sec)
+            Exercise 2026, we are pleased to share that we will be admitting
+            current Primary 6 students who possess exceptional interest and
+            talent.
+          link_text: Click here for more information
+          link_url: /direct-school-admission-exercise-2026/
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A question?
