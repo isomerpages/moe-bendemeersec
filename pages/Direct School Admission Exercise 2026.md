@@ -88,7 +88,7 @@ of excellence.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Concert Band CCA</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modern Dance CCA</p>
 <p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
-<h4><strong><u>Admission Criteria </u></strong></h4>
+<h4><strong><u>Admission Criteria</u></strong></h4>
 <p><strong><u>Sports and Games – Football and Tchoukball</u></strong>
 </p>
 <p>In the selection of students, we are looking for those who:</p>
