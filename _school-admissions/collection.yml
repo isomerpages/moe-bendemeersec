@@ -2,6 +2,7 @@ collections:
   school-admissions:
     output: true
     order:
+      - Direct School Admission Exercise 2026.md
       - Direct School Admission 2025.md
       - Sec 1 Admission (2026)/.keep
       - Sec 1 Admission (2026)/Welcome Onboard.md
