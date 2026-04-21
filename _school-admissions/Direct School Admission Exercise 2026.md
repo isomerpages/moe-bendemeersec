@@ -87,7 +87,7 @@ of excellence.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Choir CCA</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Concert Band CCA</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modern Dance CCA</p>
-<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p>------------------------------------------------------------------------------------------------------</p>
 <h4><strong><u>Admission Criteria</u></strong></h4>
 <p><strong><u>Sports and Games – Football and Tchoukball</u></strong>
 </p>
@@ -159,7 +159,7 @@ the programmes available to develop the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
-<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p>------------------------------------------------------------------------------------------------------</p>
 <h4><strong><u>Application Procedure</u></strong></h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal,
 <a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>. The application is free-of-charge
