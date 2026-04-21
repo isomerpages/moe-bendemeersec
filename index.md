@@ -36,6 +36,14 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Direct School Admission Exercise 2026
+          date: 20 April 2026
+          announcement: As a part of the Direct School Admission – Secondary (DSA-Sec)
+            Exercise 2026, we are pleased to share that we will be admitting
+            current Primary 6 students who possess exceptional interest and
+            talent.
+          link_text: Click here for more information
+          link_url: /direct-school-admission-exercise-2026/
         - title: Canteen vacancy
           date: 09 January 2026
           announcement: Bendemeer Secondary School has vacancies for canteen stalls.
@@ -51,14 +59,6 @@ sections:
           announcement: The booklists for 2026 are now available.
           link_text: Click to download
           link_url: /resources/booklists/
-        - title: Direct School Admission Exercise 2026
-          date: 20 April 2026
-          announcement: As a part of the Direct School Admission – Secondary (DSA-Sec)
-            Exercise 2026, we are pleased to share that we will be admitting
-            current Primary 6 students who possess exceptional interest and
-            talent.
-          link_text: Click here for more information
-          link_url: /direct-school-admission-exercise-2026/
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A question?
