@@ -127,7 +127,7 @@ third_nav_title: Useful Links
 </p>
 </li>
 <li>
-<p><a href="/resources/sch-magazine/" rel="noopener noreferrer nofollow" target="_blank">School Magazines</a>
+<p><a href="https://issuu.com/bendemeersec/docs/bendemeer_secondary_yearbook_2026" rel="noopener noreferrer nofollow" target="_blank">School Magazines</a>
 </p>
 </li>
 </ul>
