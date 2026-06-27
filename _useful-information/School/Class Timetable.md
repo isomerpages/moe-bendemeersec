@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: School
 ---
-<h4><strong>Class timetables for 2026 Term 2</strong></h4>
+<h4><strong>Class timetables for 2026 Term 3</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -239,30 +239,6 @@ third_nav_title: School
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<p></p>
+<p>Updated on 27th June 2026</p>
