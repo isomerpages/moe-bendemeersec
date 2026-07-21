@@ -24,6 +24,7 @@ third_nav_title: Useful Links
 * <a href="https://rbs.avero-tech.com" target="_blank">Resource Booking System (RBS)</a>
 * <a href="https://schoolcockpit.moe.gov.sg/" target="_blank">School Cockpit+ </a>
 * <a href="https://ssoe2.moe.edu.sg" target="_blank">SSOE Portal</a>
+* <a href="https://sites.google.com/moe.edu.sg/bdms-staff-portal/home" target="_blank">Staff Portal</a>
 * <a href="https://scmobile.moe.edu.sg" target="_blank">SCMobile</a>
 
 
